@@ -1,0 +1,1784 @@
+{
+  "saturn": {
+    "id": "saturn",
+    "name": "SYMBOL FOR SATURN",
+    "description": "",
+    "unicode": "U+16DE"
+  },
+  "lead": {
+    "id": "lead",
+    "name": "SYMBOL FOR SATURN",
+    "description": "",
+    "unicode": "U+16DE"
+  },
+  "quick-lime": {
+    "id": "quick-lime",
+    "name": "ALCHEMICAL SYMBOL FOR QUICK LIME",
+    "description": "",
+    "unicode": "U+1F741"
+  },
+  "double-dagger": {
+    "id": "double-dagger",
+    "name": "DOUBLE DAGGER",
+    "description": "",
+    "unicode": "U+2021"
+  },
+  "white-lead": {
+    "id": "white-lead",
+    "name": "DOUBLE DAGGER",
+    "description": "",
+    "unicode": "U+2021"
+  },
+  "alum": {
+    "id": "alum",
+    "name": "",
+    "description": "similar to symbol \"White Circle\"",
+    "unicode": ""
+  },
+  "sulfur": {
+    "id": "sulfur",
+    "name": "ALCHEMICAL SYMBOL FOR SULFUR",
+    "description": "",
+    "unicode": "U+1F70D"
+  },
+  "ablate": {
+    "id": "ablate",
+    "name": "LATIN CAPITAL LETTER A SQUARE FORM",
+    "description": "latin capital letter A with a crossbar at the top",
+    "unicode": ""
+  },
+  "water": {
+    "id": "water",
+    "name": "ALCHEMICAL SYMBOL FOR WATER",
+    "description": "",
+    "unicode": "U+1F704"
+  },
+  "vinegar": {
+    "id": "vinegar",
+    "name": "ALCHEMICAL SYMBOL FOR VINEGAR",
+    "description": "",
+    "unicode": "U+1F70A"
+  },
+  "salt": {
+    "id": "salt",
+    "name": "ALCHEMICAL SYMBOL FOR SALT",
+    "description": "",
+    "unicode": "U+1F714"
+  },
+  "jupiter": {
+    "id": "jupiter",
+    "name": "SYMBOL FOR JUPITER",
+    "description": "",
+    "unicode": "U+2643"
+  },
+  "tin": {
+    "id": "tin",
+    "name": "SYMBOL FOR JUPITER",
+    "description": "",
+    "unicode": "U+2643"
+  },
+  "minium": {
+    "id": "minium",
+    "name": "",
+    "description": "Icon similar to a lying fish",
+    "unicode": ""
+  },
+  "soot": {
+    "id": "soot",
+    "name": "",
+    "description": "similar to a question mark without a dot",
+    "unicode": ""
+  },
+  "brass": {
+    "id": "brass",
+    "name": "",
+    "description": "similar to symbol for female, but with a dot within the circle",
+    "unicode": ""
+  },
+  "fire": {
+    "id": "fire",
+    "name": "ALCHEMICAL SYMBOL FOR FIRE",
+    "description": "",
+    "unicode": "U+1F702"
+  },
+  "libra": {
+    "id": "libra",
+    "name": "LIBRA",
+    "description": "",
+    "unicode": "U+264E"
+  },
+  "urine": {
+    "id": "urine",
+    "name": "ALCHEMICAL SYMBOL FOR URINE",
+    "description": "",
+    "unicode": "U+1F755"
+  },
+  "nitre": {
+    "id": "nitre",
+    "name": "ALCHEMICAL SYMBOL FOR NITRE",
+    "description": "",
+    "unicode": "U+1F715"
+  },
+  "borax-2": {
+    "id": "borax-2",
+    "name": "ALCHEMICAL SYMBOL FOR BORAX-2",
+    "description": "",
+    "unicode": "1F743"
+  },
+  "eggshell": {
+    "id": "eggshell",
+    "name": "",
+    "description": "similar to latin capital letters P and R",
+    "unicode": ""
+  },
+  "eggshell-2": {
+    "id": "eggshell-2",
+    "name": "",
+    "description": "similar to Mathematical Sans-Serif Bold Italic Small Xi",
+    "unicode": ""
+  },
+  "vitriol-spirit": {
+    "id": "vitriol-spirit",
+    "name": "",
+    "description": "Symbol similar to the alchemical symbol for precipitation, without upper line, but with an \"S\" above",
+    "unicode": ""
+  },
+  "vitriol": {
+    "id": "vitriol",
+    "name": "ALCHEMICAL SYMBOL FOR VITRIOL",
+    "description": "",
+    "unicode": "U+1F715"
+  },
+  "vinegar-4": {
+    "id": "vinegar-4",
+    "name": "",
+    "description": "like the alchemical symbol for vinegar, but with one dot above each cross bar, to the right and left of the horizontal bar respectively",
+    "unicode": ""
+  },
+  "vinegar-5": {
+    "id": "vinegar-5",
+    "name": "",
+    "description": "like the alchemical symbol for vinegar, but with one circle above each cross bar, to the right and left of the vertical bar respectively",
+    "unicode": ""
+  },
+  "vinegar-6": {
+    "id": "vinegar-6",
+    "name": "",
+    "description": "white down-pointing triangle combined with Mathematical Italic Capital Epsilon",
+    "unicode": ""
+  },
+  "vinegar-7": {
+    "id": "vinegar-7",
+    "name": "",
+    "description": "similar to Latin Capital Letter Ezh",
+    "unicode": ""
+  },
+  "vinegar-8": {
+    "id": "vinegar-8",
+    "name": "",
+    "description": "arcs open to the left and to the right, touching each other, each with a point inside the arch",
+    "unicode": ""
+  },
+  "vinegar-9": {
+    "id": "vinegar-9",
+    "name": "",
+    "description": "similar to the alchemical symbol for powder, but turned by 180 degrees",
+    "unicode": ""
+  },
+  "vinegar-10": {
+    "id": "vinegar-10",
+    "name": "",
+    "description": "similar to Alchemical Symbol For Crucible-2",
+    "unicode": ""
+  },
+  "vinegar-11": {
+    "id": "vinegar-11",
+    "name": "",
+    "description": "similar to symbol \"OCR-chair\", but with a second, shorter crossbar above it, intersecting the longitudinal bar (cruciform)",
+    "unicode": ""
+  },
+  "vinegar-12": {
+    "id": "vinegar-12",
+    "name": "",
+    "description": "similar to the symbol for libra, only without the lower line",
+    "unicode": ""
+  },
+  "vinegar-13": {
+    "id": "vinegar-13",
+    "name": "",
+    "description": "similar to mathematical monospace capital X",
+    "unicode": ""
+  },
+  "vinegar-14": {
+    "id": "vinegar-14",
+    "name": "",
+    "description": "similar to the symbol \"leo\", but straighter and without the circle on the left, but with the same ending as on the right and a circle inside the loop on top",
+    "unicode": ""
+  },
+  "vinegar-15": {
+    "id": "vinegar-15",
+    "name": "",
+    "description": "triangle pointing upwards with a circle placed on it, within which there is a dot",
+    "unicode": ""
+  },
+  "vinegar-16": {
+    "id": "vinegar-16",
+    "name": "",
+    "description": "triangle pointing upwards with two circles on top of each other",
+    "unicode": ""
+  },
+  "f-q-moon": {
+    "id": "f-q-moon",
+    "name": "FIRST QUARTER MOON",
+    "description": "",
+    "unicode": "U+263D"
+  },
+  "silver": {
+    "id": "silver",
+    "name": "FIRST QUARTER MOON",
+    "description": "",
+    "unicode": "U+263D"
+  },
+  "earth": {
+    "id": "earth",
+    "name": "EARTH",
+    "description": "",
+    "unicode": "U+2641"
+  },
+  "antimony": {
+    "id": "antimony",
+    "name": "EARTH",
+    "description": "",
+    "unicode": "U+2641"
+  },
+  "quince-vinegar": {
+    "id": "quince-vinegar",
+    "name": "",
+    "description": "similar to symbol for \"Join\"",
+    "unicode": ""
+  },
+  "variant-oil": {
+    "id": "variant-oil",
+    "name": "",
+    "description": "similar to the alchemical symbol for oil, but with another row of dots (3 dots) below it",
+    "unicode": ""
+  },
+  "distilled-vinegar": {
+    "id": "distilled-vinegar",
+    "name": "",
+    "description": "similar to a latin lowercase \"t\" written in cursive script",
+    "unicode": ""
+  },
+  "distilled-vinegar-2": {
+    "id": "distilled-vinegar-2",
+    "name": "",
+    "description": "similar to Mathematical Bold Script Capital A",
+    "unicode": ""
+  },
+  "distilled-vinegar-3": {
+    "id": "distilled-vinegar-3",
+    "name": "",
+    "description": "similar to the alchemical symbol for sulfur, but without crossbar under the triangle",
+    "unicode": ""
+  },
+  "distilled-vinegar-4": {
+    "id": "distilled-vinegar-4",
+    "name": "",
+    "description": "white circle as body, starting from it six lines with serifs arranged around it",
+    "unicode": ""
+  },
+  "vinegar-2": {
+    "id": "vinegar-2",
+    "name": "ALCHEMICAL SYMBOL FOR VINEGAR-2",
+    "description": "",
+    "unicode": "U+1F70B"
+  },
+  "distilled-vinegar-5": {
+    "id": "distilled-vinegar-5",
+    "name": "",
+    "description": "similar to the alchemical symbol for sulfur, but with two points directly below the triangle, one to the left and one to the right of the longitudinal bar",
+    "unicode": ""
+  },
+  "distilled-vinegar-6": {
+    "id": "distilled-vinegar-6",
+    "name": "",
+    "description": "similar to mathematical monospace capital X, but with dots",
+    "unicode": ""
+  },
+  "distilled-vinegar-7": {
+    "id": "distilled-vinegar-7",
+    "name": "",
+    "description": "similar to Greek Capital Reversed Dotted Lunate Sigma Symbol, but with a colon on the right",
+    "unicode": ""
+  },
+  "distilled-vinegar-8": {
+    "id": "distilled-vinegar-8",
+    "name": "",
+    "description": "similar to Cyrillic Capital Letter Ha with Stroke",
+    "unicode": ""
+  },
+  "distilled-vinegar-9": {
+    "id": "distilled-vinegar-9",
+    "name": "",
+    "description": "similar to a mirrored number 4, with an arc on the left side, within which is a dot",
+    "unicode": ""
+  },
+  "distilled-vinegar-10": {
+    "id": "distilled-vinegar-10",
+    "name": "",
+    "description": "similar to mathematical monospace capital X, but with four circles",
+    "unicode": ""
+  },
+  "distilled-vinegar-11": {
+    "id": "distilled-vinegar-11",
+    "name": "",
+    "description": "similar to alchemical symbol for vinegar-2, but with white circles instead of dots",
+    "unicode": ""
+  },
+  "distilled-vinegar-12": {
+    "id": "distilled-vinegar-12",
+    "name": "",
+    "description": "similar to viewdata square, but with dots in each section",
+    "unicode": ""
+  },
+  "distilled-vinegar-13": {
+    "id": "distilled-vinegar-13",
+    "name": "",
+    "description": "similar to the alchemical symbol for lodestone, but with a third line with a circle",
+    "unicode": ""
+  },
+  "mercury": {
+    "id": "mercury",
+    "name": "MERCURY",
+    "description": "",
+    "unicode": "U+263F"
+  },
+  "vinegar-red-wine": {
+    "id": "vinegar-red-wine",
+    "name": "",
+    "description": "similar to \"Cyrillic Small Letter El\"",
+    "unicode": ""
+  },
+  "steel": {
+    "id": "steel",
+    "name": "",
+    "description": "similar to male sign, but with a dot directly above the circle",
+    "unicode": "♂"
+  },
+  "tutty-2": {
+    "id": "tutty-2",
+    "name": "",
+    "description": "similar to the symbol \"Latin cross\", but with arcs on the crossbar",
+    "unicode": ""
+  },
+  "glass": {
+    "id": "glass",
+    "name": "",
+    "description": "similar to the symbol \"Left Multimap\"",
+    "unicode": ""
+  },
+  "arsenic": {
+    "id": "arsenic",
+    "name": "ALCHEMICAL SYMBOL FOR ARSENIC",
+    "description": "",
+    "unicode": "U+1F73A"
+  },
+  "oil": {
+    "id": "oil",
+    "name": "ALCHEMICAL SYMBOL FOR OIL",
+    "description": "",
+    "unicode": "U+1F746"
+  },
+  "sal-ammoniac-2": {
+    "id": "sal-ammoniac-2",
+    "name": "",
+    "description": "similar to the symbol \"Low Asterisk\"",
+    "unicode": ""
+  },
+  "alchemical-earth": {
+    "id": "alchemical-earth",
+    "name": "ALCHEMICAL SYMBOL FOR EARTH",
+    "description": "",
+    "unicode": "U+1F703"
+  },
+  "rock-salt-2": {
+    "id": "rock-salt-2",
+    "name": "ALCHEMICAL SYMBOL FOR ROCK SALT-2",
+    "description": "",
+    "unicode": "U+1F719"
+  },
+  "air": {
+    "id": "air",
+    "name": "ALCHEMICAL SYMBOL FOR AIR",
+    "description": "",
+    "unicode": "U+1F701"
+  },
+  "air-2": {
+    "id": "air-2",
+    "name": "",
+    "description": "similar to latin capital letter \"E\" rotated by 90 degrees to the right, which has an overlong uppermost bar",
+    "unicode": ""
+  },
+  "air-3": {
+    "id": "air-3",
+    "name": "",
+    "description": "up-pointing triangle with a kind of trident on top",
+    "unicode": ""
+  },
+  "aqua-regia-2": {
+    "id": "aqua-regia-2",
+    "name": "ALCHEMICAL SYMBOL FOR AQUA REGIA-2",
+    "description": "",
+    "unicode": "U+1F707"
+  },
+  "air-4": {
+    "id": "air-4",
+    "name": "",
+    "description": "two up-pointing triangles one above the other",
+    "unicode": ""
+  },
+  "air-5": {
+    "id": "air-5",
+    "name": "",
+    "description": "similar to symbol \"viewdata square\"",
+    "unicode": ""
+  },
+  "air-6": {
+    "id": "air-6",
+    "name": "",
+    "description": "black horizontal bar with serifs slanting slightly downwards to the right",
+    "unicode": ""
+  },
+  "air-7": {
+    "id": "air-7",
+    "name": "",
+    "description": "upward pointing triangle with a kind of grid at the top",
+    "unicode": ""
+  },
+  "air-8": {
+    "id": "air-8",
+    "name": "",
+    "description": "horizontally aligned rectangle divided by a horizontal and a vertical line into four small rectangles",
+    "unicode": ""
+  },
+  "verdigris": {
+    "id": "verdigris",
+    "name": "ALCHEMICAL SYMBOL FOR VERDIGRIS",
+    "description": "",
+    "unicode": "U+1F728"
+  },
+  "verdigris-2": {
+    "id": "verdigris-2",
+    "name": "",
+    "description": "similar to the alchemical symbol for tutty, but shifted a few degrees to the right",
+    "unicode": ""
+  },
+  "verdigris-3": {
+    "id": "verdigris-3",
+    "name": "",
+    "description": "similar to latin capital letter H, with a long crossbar and bold vertical bars",
+    "unicode": ""
+  },
+  "verdigris-4": {
+    "id": "verdigris-4",
+    "name": "",
+    "description": "similar to the currency sign",
+    "unicode": ""
+  },
+  "female": {
+    "id": "female",
+    "name": "FEMALE SIGN",
+    "description": "",
+    "unicode": "U+2640"
+  },
+  "copper": {
+    "id": "copper",
+    "name": "FEMALE SIGN",
+    "description": "",
+    "unicode": "U+2640"
+  },
+  "venus": {
+    "id": "venus",
+    "name": "FEMALE SIGN",
+    "description": "",
+    "unicode": "U+2640"
+  },
+  "sun": {
+    "id": "sun",
+    "name": "SUN",
+    "description": "",
+    "unicode": "U+2609"
+  },
+  "gold": {
+    "id": "gold",
+    "name": "SUN",
+    "description": "",
+    "unicode": "U+2609"
+  },
+  "male": {
+    "id": "male",
+    "name": "MALE SIGN",
+    "description": "",
+    "unicode": "U+2642"
+  },
+  "iron": {
+    "id": "iron",
+    "name": "MALE SIGN",
+    "description": "",
+    "unicode": "U+2642"
+  },
+  "copper-2": {
+    "id": "copper-2",
+    "name": "",
+    "description": "similar to female sign, but with a \"face\"",
+    "unicode": ""
+  },
+  "copper-3": {
+    "id": "copper-3",
+    "name": "",
+    "description": "similar to the symbol \"leo\", but without a circle on the left, but with the same end as on the right and with a line crossing the right arc",
+    "unicode": ""
+  },
+  "copper-4": {
+    "id": "copper-4",
+    "name": "",
+    "description": "similar to \"Rotated capital Q\"",
+    "unicode": ""
+  },
+  "copper-5": {
+    "id": "copper-5",
+    "name": "",
+    "description": "similar to the capital letter E, but with a plus sign on the left of the letter",
+    "unicode": ""
+  },
+  "copper-6": {
+    "id": "copper-6",
+    "name": "",
+    "description": "similar to the Latin upper case W and lower case u, intersected by a horizontal line",
+    "unicode": ""
+  },
+  "copper-7": {
+    "id": "copper-7",
+    "name": "",
+    "description": "similar to \"Cyrillic Capital Letter Ha With Stroke\", but with a circle at the left end of the crossbar and at the right end of the right crossbar",
+    "unicode": ""
+  },
+  "verdigris-crystals": {
+    "id": "verdigris-crystals",
+    "name": "",
+    "description": "Ligature of the Latin capital letters E and D, the E of which is mirrored",
+    "unicode": ""
+  },
+  "rock-salt": {
+    "id": "rock-salt",
+    "name": "ALCHEMICAL SYMBOL FOR ROCK SALT",
+    "description": "",
+    "unicode": "U+1F718"
+  },
+  "tutty": {
+    "id": "tutty",
+    "name": "ALCHEMICAL SYMBOL FOR TUTTY",
+    "description": "",
+    "unicode": "U+1F74D"
+  },
+  "powder": {
+    "id": "powder",
+    "name": "ALCHEMICAL SYMBOL FOR POWDER",
+    "description": "",
+    "unicode": "U+1F74B"
+  },
+  "auripigment": {
+    "id": "auripigment",
+    "name": "ALCHEMICAL SYMBOL FOR AURIPIGMENT",
+    "description": "",
+    "unicode": "U+1F73D"
+  },
+  "crocus-veneris": {
+    "id": "crocus-veneris",
+    "name": "",
+    "description": "similar to symbol for neuter, but with a kind of \"flag\"",
+    "unicode": ""
+  },
+  "burnt-copper": {
+    "id": "burnt-copper",
+    "name": "",
+    "description": "similar to symbol for opposition",
+    "unicode": ""
+  },
+  "burnt-copper-2": {
+    "id": "burnt-copper-2",
+    "name": "",
+    "description": "similar to symbol for \"female\", but with \"ustum\" at the end",
+    "unicode": ""
+  },
+  "burnt-copper-3": {
+    "id": "burnt-copper-3",
+    "name": "",
+    "description": "arc opened to the left with center bar",
+    "unicode": ""
+  },
+  "burnt-copper-4": {
+    "id": "burnt-copper-4",
+    "name": "",
+    "description": "similar to the alchemical symbol for copper ore, but with only half a circle instead of a whole one at the crossbar",
+    "unicode": ""
+  },
+  "summer": {
+    "id": "summer",
+    "name": "",
+    "description": "similar to Cyrillic Capital Letter Ha with Stroke",
+    "unicode": ""
+  },
+  "summer-2": {
+    "id": "summer-2",
+    "name": "",
+    "description": "two arcs open in opposite directions, intersected by a horizontal line; similar to \"Superset Beside and Joined By Dash with Subset\"",
+    "unicode": ""
+  },
+  "summer-3": {
+    "id": "summer-3",
+    "name": "",
+    "description": "white circle as body, starting from it eight lines with serifs arranged all around",
+    "unicode": ""
+  },
+  "soot-2": {
+    "id": "soot-2",
+    "name": "",
+    "description": "similar to latin small letter \"z\"",
+    "unicode": ""
+  },
+  "atrament": {
+    "id": "atrament",
+    "name": "",
+    "description": "Resemblance to a lying cuboid with a small, black triangle docked to each side with its point",
+    "unicode": ""
+  },
+  "white-lead-2": {
+    "id": "white-lead-2",
+    "name": "",
+    "description": "Similarity with Latin capital letter H, but with a white circle at the beginning and end of each crossbar",
+    "unicode": ""
+  },
+  "minium-2": {
+    "id": "minium-2",
+    "name": "",
+    "description": "like a ligature of the Latin capital letters V and J",
+    "unicode": ""
+  },
+  "lime": {
+    "id": "lime",
+    "name": "",
+    "description": "similar to latin small letter w",
+    "unicode": ""
+  },
+  "iron-vessel": {
+    "id": "iron-vessel",
+    "name": "",
+    "description": "similiar to the alchemical symbol for alkali-2",
+    "unicode": ""
+  },
+  "alkali-salt": {
+    "id": "alkali-salt",
+    "name": "ALCHEMICAL SYMBOL FOR ALKALI",
+    "description": "",
+    "unicode": "U+1F736"
+  },
+  "alatan": {
+    "id": "alatan",
+    "name": "",
+    "description": "similiar to latin capital letter \"Z\"",
+    "unicode": ""
+  },
+  "sublimation": {
+    "id": "sublimation",
+    "name": "ALCHEMICAL SYMBOL FOR SUBLIMATION",
+    "description": "",
+    "unicode": "1F75E"
+  },
+  "salt-2": {
+    "id": "salt-2",
+    "name": "WHITE SQUARE",
+    "description": "",
+    "unicode": "U+25A1"
+  },
+  "crucible": {
+    "id": "crucible",
+    "name": "ALCHEMICAL SYMBOL FOR CRUCIBLE-5",
+    "description": "",
+    "unicode": "1F769"
+  },
+  "white-lead-3": {
+    "id": "white-lead-3",
+    "name": "LATIN CAPITAL LETTER A INSULAR FORM",
+    "description": "similar to \"latin capital letter A\" in cursive",
+    "unicode": ""
+  },
+  "egg-white": {
+    "id": "egg-white",
+    "name": "",
+    "description": "similiar to \"Latin Capital Letter Gamma\"",
+    "unicode": "Ɣ"
+  },
+  "egg-white-2": {
+    "id": "egg-white-2",
+    "name": "",
+    "description": "distant resemblance to latin lowercase letter \"z\"",
+    "unicode": ""
+  },
+  "egg-white-3": {
+    "id": "egg-white-3",
+    "name": "",
+    "description": "circle within which is a smaller circle; similar to symbol \"Bullseye\"",
+    "unicode": ""
+  },
+  "alkali-salt-2": {
+    "id": "alkali-salt-2",
+    "name": "",
+    "description": "similar to latin capital letter \"V\"",
+    "unicode": ""
+  },
+  "brandy": {
+    "id": "brandy",
+    "name": "",
+    "description": "Ligature of the alchemical symbol for aqua vitae and latin capital letter \"R\"",
+    "unicode": "U+1F708 + U+0052"
+  },
+  "brandy-2": {
+    "id": "brandy-2",
+    "name": "",
+    "description": "Ligature of the alchemical symbol for aqua vitae and latin capital letter \"A\"",
+    "unicode": ""
+  },
+  "alembic": {
+    "id": "alembic",
+    "name": "ALCHEMICAL SYMBOL FOR ALEMBIC",
+    "description": "",
+    "unicode": "U+1F76A"
+  },
+  "alembic-2": {
+    "id": "alembic-2",
+    "name": "",
+    "description": "similar to the symbol for Ounce",
+    "unicode": ""
+  },
+  "alembic-3": {
+    "id": "alembic-3",
+    "name": "",
+    "description": "similar to symbol \"Gemini\"",
+    "unicode": ""
+  },
+  "alembic-4": {
+    "id": "alembic-4",
+    "name": "",
+    "description": "similar to \"latin small letter ezh\", but with an arc over it that looks similar to the symbol for \"sublimation\"",
+    "unicode": ""
+  },
+  "alembic-5": {
+    "id": "alembic-5",
+    "name": "",
+    "description": "similar to a ligature of the capital letters \"X\" and \"P\"",
+    "unicode": ""
+  },
+  "alembic-6": {
+    "id": "alembic-6",
+    "name": "",
+    "description": "like a question mark with veil and a white circle on top",
+    "unicode": ""
+  },
+  "tartar": {
+    "id": "tartar",
+    "name": "ALCHEMICAL SYMBOL FOR TARTAR",
+    "description": "",
+    "unicode": "U+1F73F"
+  },
+  "flour": {
+    "id": "flour",
+    "name": "",
+    "description": "white circle with many small black dots in it",
+    "unicode": ""
+  },
+  "crocus-of-copper-2": {
+    "id": "crocus-of-copper-2",
+    "name": "ALCHEMICAL SYMBOL FOR CROCUS OF COPPER-2",
+    "description": "",
+    "unicode": "U+1F724"
+  },
+  "white-lead-5": {
+    "id": "white-lead-5",
+    "name": "",
+    "description": "similar to symbol \"ascending node\"",
+    "unicode": ""
+  },
+  "camphor": {
+    "id": "camphor",
+    "name": "",
+    "description": "like three side by side rectangles standing on the top and at the end a half open one",
+    "unicode": ""
+  },
+  "lithargyrion": {
+    "id": "lithargyrion",
+    "name": "",
+    "description": "like \"Latin Small Letter t with Palatal Hook\" with white circle on the right side of the crossbar",
+    "unicode": "ƫ"
+  },
+  "lithargyrion-2": {
+    "id": "lithargyrion-2",
+    "name": "",
+    "description": "like Latin capital letter \"H\", but with an arc aligned to the left at the upper end of the left longitudinal bar",
+    "unicode": "H"
+  },
+  "white-lead-4": {
+    "id": "white-lead-4",
+    "name": "",
+    "description": "distant resemblance to Latin lower case letter \"l\" in cursive script",
+    "unicode": ""
+  },
+  "aqua-vitae": {
+    "id": "aqua-vitae",
+    "name": "ALCHEMICAL SYMBOL FOR AQUA VITAE",
+    "description": "",
+    "unicode": "U+1F708"
+  },
+  "alkahest": {
+    "id": "alkahest",
+    "name": "",
+    "description": "similar to number 9 rotated 90 degrees to the left",
+    "unicode": ""
+  },
+  "ore-flower": {
+    "id": "ore-flower",
+    "name": "",
+    "description": "similar to the Latin Z with a white circle in the middle of the longitudinal bar",
+    "unicode": ""
+  },
+  "spirit": {
+    "id": "spirit",
+    "name": "",
+    "description": "symbol similar to \"alchemical symbol for spirit\", but only one S under the bar and no P",
+    "unicode": ""
+  },
+  "alum-2": {
+    "id": "alum-2",
+    "name": "",
+    "description": "like a ligature of a Latin capital letter \"O\" and a Latin capital letter \"E\" in uncial form",
+    "unicode": ""
+  },
+  "alum-3": {
+    "id": "alum-3",
+    "name": "",
+    "description": "distant resemblance to the Latin capital letter W",
+    "unicode": ""
+  },
+  "alum-4": {
+    "id": "alum-4",
+    "name": "",
+    "description": "similar to the symbol \"leo\", but straighter and without the circle on the left",
+    "unicode": ""
+  },
+  "alum-5": {
+    "id": "alum-5",
+    "name": "",
+    "description": "similar to alchemical symbol for purify",
+    "unicode": ""
+  },
+  "alum-6": {
+    "id": "alum-6",
+    "name": "ALCHEMICAL SYMBOL FOR ALUM",
+    "description": "",
+    "unicode": "U+1F745"
+  },
+  "alum-7": {
+    "id": "alum-7",
+    "name": "",
+    "description": "similar to alchemical symbol for \"Alum\", but the two vertical lines above the rectangle are closed by a horizontal line",
+    "unicode": ""
+  },
+  "alum-8": {
+    "id": "alum-8",
+    "name": "",
+    "description": "similar to a pre-drawn, but not painted number \"1\"",
+    "unicode": ""
+  },
+  "pot-ashes": {
+    "id": "pot-ashes",
+    "name": "ALCHEMICAL SYMBOL FOR POT ASHES",
+    "description": "",
+    "unicode": "U+1F758"
+  },
+  "alum-9": {
+    "id": "alum-9",
+    "name": "",
+    "description": "similar to a key lying on its side",
+    "unicode": ""
+  },
+  "alum-10": {
+    "id": "alum-10",
+    "name": "",
+    "description": "similar to symbol \"Turned White Shōgi Piece\"",
+    "unicode": ""
+  },
+  "alum-11": {
+    "id": "alum-11",
+    "name": "",
+    "description": "similar to the symbol \"Latin cross\", but with upwardly open arcs on the crossbar",
+    "unicode": ""
+  },
+  "alum-12": {
+    "id": "alum-12",
+    "name": "",
+    "description": "similar to the number \"2\"",
+    "unicode": ""
+  },
+  "alum-13": {
+    "id": "alum-13",
+    "name": "",
+    "description": "similar to the alchemical symbol for crucible-3, but rotated by 180°",
+    "unicode": ""
+  },
+  "alum-14": {
+    "id": "alum-14",
+    "name": "",
+    "description": "similar to symbol \"Metrical Short Over Long\"",
+    "unicode": ""
+  },
+  "alum-15": {
+    "id": "alum-15",
+    "name": "",
+    "description": "similar to symbol \"castle\"",
+    "unicode": ""
+  },
+  "alum-16": {
+    "id": "alum-16",
+    "name": "",
+    "description": "similar to \"Alchemical Symbol For Auripigment\", but with an additional vertical bar in the middle towards the top",
+    "unicode": ""
+  },
+  "alum-17": {
+    "id": "alum-17",
+    "name": "",
+    "description": "similar to \"Alchemical Symbol For Auripigment\", but with a white cross above the bar",
+    "unicode": "U+1F73D"
+  },
+  "alum-18": {
+    "id": "alum-18",
+    "name": "",
+    "description": "similar to the symbol \"Latin cross\", but with arcs on a second crossbar",
+    "unicode": ""
+  },
+  "alum-19": {
+    "id": "alum-19",
+    "name": "",
+    "description": "similar to \"Alchemical Symbol For Powder\", but rotated 180° and with more crossbars",
+    "unicode": ""
+  },
+  "alum-20": {
+    "id": "alum-20",
+    "name": "",
+    "description": "similar to \"Latin Small Letter Closed Open E\"",
+    "unicode": ""
+  },
+  "alum-21": {
+    "id": "alum-21",
+    "name": "",
+    "description": "Trapezoid cut in the middle by a longitudinal beam, at the top of the beam a hook down to the trapezoid",
+    "unicode": ""
+  },
+  "alum-22": {
+    "id": "alum-22",
+    "name": "",
+    "description": "similar to symbol \"descending node\"",
+    "unicode": ""
+  },
+  "alum-23": {
+    "id": "alum-23",
+    "name": "",
+    "description": "Circle cut by an arc",
+    "unicode": "U+25CB"
+  },
+  "alum-24": {
+    "id": "alum-24",
+    "name": "",
+    "description": "similar to symbol \"Metrical Short Over Long\", but with larger elements",
+    "unicode": ""
+  },
+  "alum-25": {
+    "id": "alum-25",
+    "name": "",
+    "description": "like a lying rectangle open at the top right, which has an \"anchor\" at the open place",
+    "unicode": ""
+  },
+  "alum-26": {
+    "id": "alum-26",
+    "name": "",
+    "description": "Circle with a vertical line above it",
+    "unicode": ""
+  },
+  "alum-27": {
+    "id": "alum-27",
+    "name": "",
+    "description": "similar to a lying rectangle with a letter \"V\" above it",
+    "unicode": ""
+  },
+  "alum-28": {
+    "id": "alum-28",
+    "name": "",
+    "description": "similar to greek letter small letter \"Pi\"",
+    "unicode": ""
+  },
+  "alum-29": {
+    "id": "alum-29",
+    "name": "",
+    "description": "similar to \"Cyrillic Capital Letter Ghe With Upturn\"",
+    "unicode": ""
+  },
+  "alum-30": {
+    "id": "alum-30",
+    "name": "",
+    "description": "a lying rectangle, on it a triangle, connected with a vertical line",
+    "unicode": ""
+  },
+  "alum-31": {
+    "id": "alum-31",
+    "name": "",
+    "description": "similar to \"alchemical symbol for lodestone\"",
+    "unicode": ""
+  },
+  "burnt-alum": {
+    "id": "burnt-alum",
+    "name": "",
+    "description": "similar to latin capital letter \"R\" in Fraktur",
+    "unicode": ""
+  },
+  "ashes-2": {
+    "id": "ashes-2",
+    "name": "",
+    "description": "similar to alchemical symbol for ashes, but with a plus-sign on the left side",
+    "unicode": ""
+  },
+  "ashes-3": {
+    "id": "ashes-3",
+    "name": "",
+    "description": "similar to latin small letter Ou, but rotated 90° to the right",
+    "unicode": ""
+  },
+  "ashes-4": {
+    "id": "ashes-4",
+    "name": "",
+    "description": "similar to symbol \"neuter\"",
+    "unicode": ""
+  },
+  "ashes-5": {
+    "id": "ashes-5",
+    "name": "",
+    "description": "similar to alchemical symbol for pot ashes",
+    "unicode": ""
+  },
+  "ashes-6": {
+    "id": "ashes-6",
+    "name": "",
+    "description": "similar to latin capital letter H in bold font and with pronounced serifs",
+    "unicode": ""
+  },
+  "ashes-7": {
+    "id": "ashes-7",
+    "name": "",
+    "description": "like a lying rectangle with the upper long side extended to the left and the right broad side extended downwards",
+    "unicode": ""
+  },
+  "soapstone": {
+    "id": "soapstone",
+    "name": "",
+    "description": "similar to a ligature of the latin small letters \"o\" and \"p\"",
+    "unicode": ""
+  },
+  "soapstone-2": {
+    "id": "soapstone-2",
+    "name": "",
+    "description": "similar to the Latin capital letter \"P\", to which a white small circle is attached on the left side",
+    "unicode": ""
+  },
+  "soapstone-3": {
+    "id": "soapstone-3",
+    "name": "",
+    "description": "similar to a lying white plume",
+    "unicode": ""
+  },
+  "soapstone-4": {
+    "id": "soapstone-4",
+    "name": "",
+    "description": "similar to a lying black plume",
+    "unicode": ""
+  },
+  "soapstone-5": {
+    "id": "soapstone-5",
+    "name": "",
+    "description": "white circle cut by an arc",
+    "unicode": ""
+  },
+  "soapstone-6": {
+    "id": "soapstone-6",
+    "name": "",
+    "description": "similar to a lying black plume with a white circle at the root",
+    "unicode": ""
+  },
+  "soapstone-7": {
+    "id": "soapstone-7",
+    "name": "",
+    "description": "white circle half overlaid by hatched circle from top right",
+    "unicode": ""
+  },
+  "soapstone-8": {
+    "id": "soapstone-8",
+    "name": "",
+    "description": "symbol similar to \"Circle divided by horizontal bar and top half divided by vertical bar\", but with a second vertical bar",
+    "unicode": ""
+  },
+  "soapstone-9": {
+    "id": "soapstone-9",
+    "name": "",
+    "description": "white circle cut by an arc by a quarter in the lower right corner",
+    "unicode": ""
+  },
+  "soapstone-10": {
+    "id": "soapstone-10",
+    "name": "",
+    "description": "similar to latin capital letter \"T\" with two more horizontal bars",
+    "unicode": ""
+  },
+  "soapstone-11": {
+    "id": "soapstone-11",
+    "name": "",
+    "description": "two arcs, one open to the left and one to the right, cut in the middle by two horizontal bars that also intersect an \"I\" located between the two archs",
+    "unicode": ""
+  },
+  "soapstone-12": {
+    "id": "soapstone-12",
+    "name": "",
+    "description": "two intersecting arcs, one open to the left, one to the right, on the right a white circle at the upper end",
+    "unicode": ""
+  },
+  "soapstone-13": {
+    "id": "soapstone-13",
+    "name": "",
+    "description": "like rectangle standing on top with small flag on right side",
+    "unicode": ""
+  },
+  "soapstone-14": {
+    "id": "soapstone-14",
+    "name": "",
+    "description": "similar to symbol \"White circle with upper right quadrant\"",
+    "unicode": ""
+  },
+  "soapstone-15": {
+    "id": "soapstone-15",
+    "name": "",
+    "description": "similar to symbol \"gleich stark\"",
+    "unicode": ""
+  },
+  "soapstone-16": {
+    "id": "soapstone-16",
+    "name": "",
+    "description": "similar to the alchemical symbol for alkali, but with a third \"leg\"",
+    "unicode": ""
+  },
+  "soapstone-17": {
+    "id": "soapstone-17",
+    "name": "",
+    "description": "similar to the symbol for \"anchor\"",
+    "unicode": ""
+  },
+  "alum-sugar": {
+    "id": "alum-sugar",
+    "name": "",
+    "description": "distant resemblance to a little hat",
+    "unicode": ""
+  },
+  "alum-sugar-2": {
+    "id": "alum-sugar-2",
+    "name": "",
+    "description": "distant resemblance to a little hat",
+    "unicode": ""
+  },
+  "burnt-alum-2": {
+    "id": "burnt-alum-2",
+    "name": "",
+    "description": "Triangle with two legs",
+    "unicode": ""
+  },
+  "burnt-alum-3": {
+    "id": "burnt-alum-3",
+    "name": "",
+    "description": "similarity with the sign for \"virgo\"",
+    "unicode": ""
+  },
+  "burnt-alum-4": {
+    "id": "burnt-alum-4",
+    "name": "",
+    "description": "similar to the Latin capital letter \"W\" with a small white circle on the left side",
+    "unicode": ""
+  },
+  "burnt-alum-5": {
+    "id": "burnt-alum-5",
+    "name": "",
+    "description": "similar to alchemical symbol for putrefaction",
+    "unicode": ""
+  },
+  "burnt-alum-6": {
+    "id": "burnt-alum-6",
+    "name": "",
+    "description": "White circle cut in its upper half by two serifed bars",
+    "unicode": ""
+  },
+  "burnt-alum-7": {
+    "id": "burnt-alum-7",
+    "name": "",
+    "description": "arc opened to the right similar to the Latin capital letter \"C\", serifs at the top, a hook cuts the arc at the bottom left, there are two white circles inside the arc at the top left",
+    "unicode": ""
+  },
+  "burnt-alum-8": {
+    "id": "burnt-alum-8",
+    "name": "",
+    "description": "similar to the alchemical symbol for auripigment, but with a black cross on top",
+    "unicode": ""
+  },
+  "common-alum": {
+    "id": "common-alum",
+    "name": "",
+    "description": "similar to the alchemical symbol for pot ashes, but with another crossbar below as well as an extended longitudinal bar",
+    "unicode": ""
+  },
+  "cinnabar": {
+    "id": "cinnabar",
+    "name": "ALCHEMICAL SYMBOL FOR SALT OF ANTIMONY",
+    "description": "",
+    "unicode": ""
+  },
+  "amalgam": {
+    "id": "amalgam",
+    "name": "",
+    "description": "similar to Latin capital letter \"A\", but with four crossbars",
+    "unicode": ""
+  },
+  "amalgam-2": {
+    "id": "amalgam-2",
+    "name": "",
+    "description": "similar to Latin capital letter \"E\", but with an extended uppermost crossbar",
+    "unicode": ""
+  },
+  "amalgam-3": {
+    "id": "amalgam-3",
+    "name": "",
+    "description": "similar to alchemical symbol for Stratum Super Stratum-2, but with only two vertical lines, similar to the Latin capital letter A in cursive script",
+    "unicode": ""
+  },
+  "amalgam-4": {
+    "id": "amalgam-4",
+    "name": "",
+    "description": "similar to alchemical symbol for amalgam, but with a short bar above each \"a\" and no continuous one",
+    "unicode": ""
+  },
+  "amalgam-5": {
+    "id": "amalgam-5",
+    "name": "",
+    "description": "similar to Latin capital letter \"H\", but with two more vertical bars",
+    "unicode": ""
+  },
+  "amalgam-6": {
+    "id": "amalgam-6",
+    "name": "",
+    "description": "four lowercase Latin letters \"a\", two next to each other and one above and one below each other",
+    "unicode": ""
+  },
+  "amalgam-7": {
+    "id": "amalgam-7",
+    "name": "",
+    "description": "a white triangle intersected by four horizontalen lines",
+    "unicode": ""
+  },
+  "amalgam-8": {
+    "id": "amalgam-8",
+    "name": "",
+    "description": "similar to the symbol for leo, but without a circle on the left edge, but cut by three horizontal lines",
+    "unicode": ""
+  },
+  "amalgam-9": {
+    "id": "amalgam-9",
+    "name": "",
+    "description": "similar to the alchemical symbol for quick lime, but with three vertical bars",
+    "unicode": ""
+  },
+  "amalgam-10": {
+    "id": "amalgam-10",
+    "name": "",
+    "description": "Grid of three vertical and three horizontal lines with serifs",
+    "unicode": ""
+  },
+  "amalgam-11": {
+    "id": "amalgam-11",
+    "name": "",
+    "description": "white triangle intersected by three horizontal lines",
+    "unicode": ""
+  },
+  "amalgam-12": {
+    "id": "amalgam-12",
+    "name": "",
+    "description": "two arcs, one open to the right, the other to the left, cut by three horizontal lines with serifs",
+    "unicode": ""
+  },
+  "amalgam-13": {
+    "id": "amalgam-13",
+    "name": "",
+    "description": "like alchemical symbol for powder, but the circle is open towards the bottom and there are only two vertical bars",
+    "unicode": ""
+  },
+  "amalgam-14": {
+    "id": "amalgam-14",
+    "name": "ALCHEMICAL SYMBOL FOR AMALGAM",
+    "description": "",
+    "unicode": "U+1F75B"
+  },
+  "amalgam-15": {
+    "id": "amalgam-15",
+    "name": "",
+    "description": "three parallel lines running from top left to bottom right, intersected by three parallel lines running from bottom left to top right lines",
+    "unicode": ""
+  },
+  "amalgam-16": {
+    "id": "amalgam-16",
+    "name": "",
+    "description": "like the symbol \"circled plus sign\", but with a dot in each quarter of the circle",
+    "unicode": ""
+  },
+  "amalgam-17": {
+    "id": "amalgam-17",
+    "name": "",
+    "description": "white triangle intersected in its upper part by three horizontal lines with serifs",
+    "unicode": ""
+  },
+  "water-2": {
+    "id": "water-2",
+    "name": "",
+    "description": "like alchemical symbol for water, but cut by two horizontal lines",
+    "unicode": ""
+  },
+  "amphora": {
+    "id": "amphora",
+    "name": "",
+    "description": "two wavy horizontal lines parallel one above the other",
+    "unicode": ""
+  },
+  "ana": {
+    "id": "ana",
+    "name": "",
+    "description": "similar to \"Latin small letter a with macron\"",
+    "unicode": ""
+  },
+  "ana-2": {
+    "id": "ana-2",
+    "name": "",
+    "description": "similar to two \"Latin small letters a with macron\"",
+    "unicode": ""
+  },
+  "ana-3": {
+    "id": "ana-3",
+    "name": "",
+    "description": "similar to two \"Latin small letters a\" with \"Combining Double Macron\"",
+    "unicode": ""
+  },
+  "prescription": {
+    "id": "prescription",
+    "name": "PRESCRIPTION TAKE",
+    "description": "",
+    "unicode": "U+211E"
+  },
+  "scruple": {
+    "id": "scruple",
+    "name": "SCRUPLE",
+    "description": "",
+    "unicode": "U+2108"
+  },
+  "smalt": {
+    "id": "smalt",
+    "name": "",
+    "description": "Square with diagonal line running to the top right on the right side",
+    "unicode": ""
+  },
+  "auripigment-2": {
+    "id": "auripigment-2",
+    "name": "",
+    "description": "lying rectangle, cut on the upper side by a small white circle",
+    "unicode": ""
+  },
+  "salt-3": {
+    "id": "salt-3",
+    "name": "",
+    "description": "symbol similar to \"Circle divided by horizontal bar and top half divided by vertical bar\", but with a second vertical bar",
+    "unicode": ""
+  },
+  "precipitate": {
+    "id": "precipitate",
+    "name": "ALCHEMICAL SYMBOL FOR PRECIPITATE",
+    "description": "",
+    "unicode": "U+1F75F"
+  },
+  "eggshell-lime": {
+    "id": "eggshell-lime",
+    "name": "",
+    "description": "symbol similar to \"alchemical symbol for calx\", but mirrored and with a second \"tick\"",
+    "unicode": ""
+  },
+  "philosophical-year": {
+    "id": "philosophical-year",
+    "name": "",
+    "description": "symbol similar to \"alchemical symbol for spirit\", but without letters and with a small circle under the arc",
+    "unicode": ""
+  },
+  "philosophical-year-2": {
+    "id": "philosophical-year-2",
+    "name": "",
+    "description": "black bar with serifs, a white circle in the centre above and below each bar",
+    "unicode": ""
+  },
+  "philosophical-year-3": {
+    "id": "philosophical-year-3",
+    "name": "",
+    "description": "Square divided into four equal squares, each of which is \"ticked\" - like four times \"Alchemical Symbol For Month\"",
+    "unicode": ""
+  },
+  "philosophical-year-4": {
+    "id": "philosophical-year-4",
+    "name": "",
+    "description": "similar to two circled \"latin small letter ezh\"s",
+    "unicode": ""
+  },
+  "antihecticum": {
+    "id": "antihecticum",
+    "name": "",
+    "description": "similar to \"Alchemical symbol for regulus of iron\", but fused with the sign for \"man\".",
+    "unicode": ""
+  },
+  "antihecticum-2": {
+    "id": "antihecticum-2",
+    "name": "",
+    "description": "like Latin capital letter \"Z\", in the lower crossbar merged with the symbol for \"Earth\".",
+    "unicode": ""
+  },
+  "antimon-hep": {
+    "id": "antimon-hep",
+    "name": "",
+    "description": "like the symbol for \"earth\", but instead of the crossbar a small arc opened to the right similar to the Latin lowercase letter \"c\".",
+    "unicode": ""
+  },
+  "king-of-antimony": {
+    "id": "king-of-antimony",
+    "name": "",
+    "description": "similar to the Latin lowercase letter \"c\", but with a crossbar with serifs above the long bar",
+    "unicode": ""
+  },
+  "regulus-of-antimony-2": {
+    "id": "regulus-of-antimony-2",
+    "name": "ALCHEMICAL SYMBOL FOR REGULUS OF ANTIMONY-2",
+    "description": "",
+    "unicode": "U+1F731"
+  },
+  "king-of-antimony-2": {
+    "id": "king-of-antimony-2",
+    "name": "",
+    "description": "similar to \"Cyrillic Capital Letter Tshe\"",
+    "unicode": ""
+  },
+  "king-of-antimony-3": {
+    "id": "king-of-antimony-3",
+    "name": "",
+    "description": "similar to \"Alchemical Symbol For Regulus-4\", but with a white circle at the bottom",
+    "unicode": ""
+  },
+  "glass-of-antimony": {
+    "id": "glass-of-antimony",
+    "name": "",
+    "description": "two parallel, horizontal lines, centrally connected by a vertical line",
+    "unicode": ""
+  },
+  "glass-of-antimony-2": {
+    "id": "glass-of-antimony-2",
+    "name": "",
+    "description": "similar to \"Latin Capital Letter F with Hook\"",
+    "unicode": ""
+  },
+  "glass-of-antimony-3": {
+    "id": "glass-of-antimony-3",
+    "name": "",
+    "description": "Sign for \"earth\", but with one dot each to the left and right of the longitudinal bar below the crossbar; in addition, to the right, adjoining the circle, a small, c-shaped arc",
+    "unicode": ""
+  },
+  "glass-of-antimony-4": {
+    "id": "glass-of-antimony-4",
+    "name": "",
+    "description": "similar to the sign for \"earth\", but above it the alchemical symbol for Alambic",
+    "unicode": ""
+  },
+  "glass-of-antimony-5": {
+    "id": "glass-of-antimony-5",
+    "name": "",
+    "description": "similar to the sign for \"earth\", but dots around the cross as in the alchemical symbol for vinegar-2",
+    "unicode": ""
+  },
+  "glass-of-antimony-6": {
+    "id": "glass-of-antimony-6",
+    "name": "",
+    "description": "like a Latin capital letter F leaning slightly to the right",
+    "unicode": ""
+  },
+  "glass-of-antimony-7": {
+    "id": "glass-of-antimony-7",
+    "name": "",
+    "description": "like a white rectangle lying on a black triangle pointing upwards",
+    "unicode": ""
+  },
+  "prepared-antimony": {
+    "id": "prepared-antimony",
+    "name": "",
+    "description": "symbol similar to \"lozenge\"",
+    "unicode": ""
+  },
+  "soap": {
+    "id": "soap",
+    "name": "ALCHEMICAL SYMBOL FOR SOAP",
+    "description": "",
+    "unicode": "U+1F754"
+  },
+  "prepared-antimony-2": {
+    "id": "prepared-antimony-2",
+    "name": "",
+    "description": "like a white circle with a black flag",
+    "unicode": ""
+  },
+  "crocus-of-copper": {
+    "id": "crocus-of-copper",
+    "name": "ALCHEMICAL SYMBOL FOR CROCUS OF COPPER",
+    "description": "",
+    "unicode": "U+1F723"
+  },
+  "prepared-antimony-3": {
+    "id": "prepared-antimony-3",
+    "name": "",
+    "description": "like the alchemical symbol for crucible-2, but turned by 180 degrees and divided into four instead of three parts",
+    "unicode": ""
+  },
+  "prepared-antimony-4": {
+    "id": "prepared-antimony-4",
+    "name": "",
+    "description": "X with black circles at the ends",
+    "unicode": ""
+  },
+  "prepared-antimony-5": {
+    "id": "prepared-antimony-5",
+    "name": "",
+    "description": "very similar to the alchemical symbol for crucible-2, but turned by 180 degrees and divided into four instead of three parts",
+    "unicode": ""
+  },
+  "prepared-antimony-6": {
+    "id": "prepared-antimony-6",
+    "name": "",
+    "description": "similar to \"Greek Capital Letter Pi\" cut by a horizontal line",
+    "unicode": ""
+  },
+  "prepared-antimony-7": {
+    "id": "prepared-antimony-7",
+    "name": "",
+    "description": "similar to \"Alchemical Symbol for Quick Lime\", but with a more angular calyx",
+    "unicode": ""
+  },
+  "prepared-antimony-8": {
+    "id": "prepared-antimony-8",
+    "name": "",
+    "description": "similar to the alchemical symbol for calcium oxide, but with a smaller and more curved calyx",
+    "unicode": ""
+  },
+  "prepared-antimony-9": {
+    "id": "prepared-antimony-9",
+    "name": "",
+    "description": "similar to \"Alchemical Symbol for Pot Ashes\", but with a different calyx",
+    "unicode": ""
+  },
+  "prepared-antimony-10": {
+    "id": "prepared-antimony-10",
+    "name": "",
+    "description": "two white circles on top of each other, connected by a vertical line, in the upper circle a black dot",
+    "unicode": ""
+  },
+  "prepared-antimony-11": {
+    "id": "prepared-antimony-11",
+    "name": "",
+    "description": "a white triangle pointing downwards, above it one pointing upwards, connected with a vertical line",
+    "unicode": ""
+  },
+  "prepared-antimony-12": {
+    "id": "prepared-antimony-12",
+    "name": "",
+    "description": "similar to the \"female sign\", but instead of the circle a white triangle with a black vertical bar with serifs in it",
+    "unicode": ""
+  },
+  "prepared-antimony-13": {
+    "id": "prepared-antimony-13",
+    "name": "",
+    "description": "similar to a mirrored Latin capital letter C with a \"support\" on the right side",
+    "unicode": ""
+  },
+  "prepared-antimony-14": {
+    "id": "prepared-antimony-14",
+    "name": "",
+    "description": "Combination of white rectangle and triangle so that a \"little house\" is created",
+    "unicode": ""
+  },
+  "prepared-antimony-15": {
+    "id": "prepared-antimony-15",
+    "name": "",
+    "description": "like Latin capital letter H, but instead of the crossbar an arc like in \"Libra\".",
+    "unicode": ""
+  },
+  "prepared-antimony-16": {
+    "id": "prepared-antimony-16",
+    "name": "",
+    "description": "Horizontal bar, above it two intersecting downward-opened arcs touching the bar",
+    "unicode": ""
+  },
+  "prepared-antimony-17": {
+    "id": "prepared-antimony-17",
+    "name": "",
+    "description": "Similar to Latin capital T, but with three further, shorter and narrower crossbars along the longitudinal bar",
+    "unicode": ""
+  },
+  "prepared-antimony-18": {
+    "id": "prepared-antimony-18",
+    "name": "",
+    "description": "Similar to \"Vertical line with circle below\"",
+    "unicode": ""
+  },
+  "prepared-antimony-19": {
+    "id": "prepared-antimony-19",
+    "name": "",
+    "description": "circle cut horizontally in the middle, above and below the cut line a black dot each",
+    "unicode": ""
+  },
+  "prepared-antimony-20": {
+    "id": "prepared-antimony-20",
+    "name": "",
+    "description": "like number 1, from which an arrow points to the right",
+    "unicode": ""
+  },
+  "prepared-antimony-21": {
+    "id": "prepared-antimony-21",
+    "name": "",
+    "description": "like two symbols \"Alchemical symbol for copper oxide\" next to each other, connected by the cross line",
+    "unicode": ""
+  },
+  "prepared-antimony-22": {
+    "id": "prepared-antimony-22",
+    "name": "",
+    "description": "similar to symbol \"Lozenge Divided By Horizontal Rule\"",
+    "unicode": ""
+  },
+  "prepared-antimony-23": {
+    "id": "prepared-antimony-23",
+    "name": "",
+    "description": "two vertical lines intersected by three horizontal lines",
+    "unicode": ""
+  },
+  "prepared-antimony-24": {
+    "id": "prepared-antimony-24",
+    "name": "",
+    "description": "similar to \"Cyrillic Small Letter Dje\", but with a diagonal instead of a vertical upper line",
+    "unicode": ""
+  },
+  "prepared-antimony-25": {
+    "id": "prepared-antimony-25",
+    "name": "",
+    "description": "similar to \"Mathematical Bold Script Capital A\" in cursive",
+    "unicode": ""
+  },
+  "prepared-antimony-26": {
+    "id": "prepared-antimony-26",
+    "name": "",
+    "description": "like mirrored capital letter \"E\" in uncial form",
+    "unicode": ""
+  },
+  "water-3": {
+    "id": "water-3",
+    "name": "",
+    "description": "like Latin capital letter \"S\" with pronounced serifs",
+    "unicode": ""
+  },
+  "water-4": {
+    "id": "water-4",
+    "name": "",
+    "description": "white triangle pointing downwards with black dot in it",
+    "unicode": ""
+  },
+  "water-5": {
+    "id": "water-5",
+    "name": "",
+    "description": "vertical rectangle divided into six parts by a central vertical line and two horizontal lines",
+    "unicode": ""
+  },
+  "water-6": {
+    "id": "water-6",
+    "name": "ALCHEMICAL SYMBOL FOR AQUARIUS",
+    "description": "",
+    "unicode": "U+2652"
+  },
+  "water-7": {
+    "id": "water-7",
+    "name": "",
+    "description": "white triangle pointing downwards with a sign, similar to a downward pointing \"T\", in it",
+    "unicode": ""
+  },
+  "water-8": {
+    "id": "water-8",
+    "name": "",
+    "description": "like latin capital letter \"N\"",
+    "unicode": ""
+  },
+  "water-9": {
+    "id": "water-9",
+    "name": "",
+    "description": "downwards pointing, black arrow",
+    "unicode": ""
+  },
+  "water-10": {
+    "id": "water-10",
+    "name": "",
+    "description": "white triangle pointing upwards, above it a small white circle",
+    "unicode": ""
+  },
+  "water-11": {
+    "id": "water-11",
+    "name": "",
+    "description": "two circles, arranged like digit \"8\"",
+    "unicode": ""
+  },
+  "water-12": {
+    "id": "water-12",
+    "name": "",
+    "description": "like a rectangle open to the upper right",
+    "unicode": ""
+  },
+  "water-13": {
+    "id": "water-13",
+    "name": "",
+    "description": "like latin capital letter \"V\"",
+    "unicode": ""
+  },
+  "water-14": {
+    "id": "water-14",
+    "name": "",
+    "description": "line curled like a snail shell",
+    "unicode": ""
+  },
+  "acetum-destillatum-2": {
+    "id": "acetum-destillatum-2",
+    "name": "",
+    "description": "Symbol resembles a small black chalice",
+    "unicode": "⊔"
+  }
+}

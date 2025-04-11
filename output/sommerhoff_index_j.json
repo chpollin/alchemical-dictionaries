@@ -1,0 +1,612 @@
+[
+  {
+    "id": "sommerhoff_jacea_herba_trinitatis_viola_flammea_vel_tricolor_viola_tricolor_hortensis",
+    "lemma": "Jacea, Herba Trinitatis, Viola flammea vel tricolor, Viola tricolor hortensis Jassa, Jacea major",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jacea_nigra",
+    "lemma": "Jacea nigra,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jovis_arbor",
+    "lemma": "Jovis Arbor,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jovis_barba",
+    "lemma": "Jovis Barba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jujula_alleluja_oxytriphyllum",
+    "lemma": "Jujula, Alleluja, Oxytriphyllum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juncus_aromaticus_seu_odoratus",
+    "lemma": "Juncus aromaticus seu odoratus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_junonis_lachryma_herba_saera",
+    "lemma": "Junonis lachryma, Herba Saera,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jusquiamus",
+    "lemma": "Jusquiamus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_javina",
+    "lemma": "Javina,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jeseli",
+    "lemma": "Jeseli,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jabora_dudaim",
+    "lemma": "Jabora, Dudaim,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jacea_nigra",
+    "lemma": "Jacea nigra,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jacintbus_saquintus",
+    "lemma": "Jacintbus & saquintus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaculus",
+    "lemma": "Jaculus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jalappa_jalapium",
+    "lemma": "Jalappa, Jalapium,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jalin",
+    "lemma": "Jalin,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jamblichi_sales",
+    "lemma": "Jamblichi Sales,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jamfarum",
+    "lemma": "Jamfarum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jamsemin",
+    "lemma": "Jamsemin,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jarin",
+    "lemma": "Jarin,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jarius",
+    "lemma": "Jarius,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis",
+    "lemma": "Jaspis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis",
+    "lemma": "Jaspis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jassa",
+    "lemma": "Jassa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jatra_leiptes",
+    "lemma": "Jatra Leiptes,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jatrochymicus",
+    "lemma": "Jatrochymicus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jecoraria_jecorosus",
+    "lemma": "Jecoraria & Jecorosus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jecur",
+    "lemma": "Jecur,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jegar_jegari",
+    "lemma": "Jegar, Jegari,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jelanebin_jelaniabin",
+    "lemma": "Jelanebin, Jelaniabin,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jemac",
+    "lemma": "Jemac,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jemarion_jemari",
+    "lemma": "Jemarion, Jemari,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jemeris",
+    "lemma": "Jemeris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jeneta",
+    "lemma": "Jeneta",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jerame_jeramia",
+    "lemma": "Jerame, Jeramia,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jerit",
+    "lemma": "Jerit,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jesminum",
+    "lemma": "Jesminum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jeterac",
+    "lemma": "Jeterac,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jeumbave_jeumbace",
+    "lemma": "Jeumbave, Jeumbace,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jensir_janstr",
+    "lemma": "Jensir, Janstr,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jodes",
+    "lemma": "Jodes,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jos",
+    "lemma": "Jos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_josachar",
+    "lemma": "Josachar,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_joseple_saturon_saturey",
+    "lemma": "Joseple, Saturon, Saturey,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jota_jora",
+    "lemma": "Jota, Jora",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jovis_amalgama",
+    "lemma": "Jovis Amalgama,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jovis_arbor",
+    "lemma": "Jovis Arbor,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jovis_barba",
+    "lemma": "Jovis Barba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jovis_flores",
+    "lemma": "Jovis Flores,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judaica_berba",
+    "lemma": "Judaica berba",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judaicum_bitumen",
+    "lemma": "Judaicum bitumen,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judaicus_lapis",
+    "lemma": "Judaicus Lapis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judex_auri",
+    "lemma": "Judex Auri,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jugians_nux_seu_nux_regia",
+    "lemma": "Jugians Nux, seu Nux Regia",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jujubae_seu_zizyphae",
+    "lemma": "Jujubae seu Zizyphae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jujula_lujula_oxys_plinii_oxytriphyllon_panis_cuculi",
+    "lemma": "Jujula, Lujula, Oxys Plinii, Oxytriphyllon, Panis Cuculi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jul",
+    "lemma": "Jul.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_julapium",
+    "lemma": "Julapium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_julebus_julepus_seu_julapium",
+    "lemma": "Julebus, Julepus seu Julapium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_julia_herba_ageratum_seu_eupatorium_mesuae",
+    "lemma": "Julia herba, Ageratum seu Eupatorium Mesuae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_julia_recti_s_julis",
+    "lemma": "Julia, rectiùs Julis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_julos_juli_julus",
+    "lemma": "Julos, Juli & Julus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jumnisum_jumnizum_kamir",
+    "lemma": "Jumnisum, Jumnizum & Kamir",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juncus_angulosus_quatratus_triangulus_erysisceptrum",
+    "lemma": "Juncus angulosus, quatratus & triangulus, Erysisceptrum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juncus_arabicus_odoratus",
+    "lemma": "Juncus Arabicus & odoratus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juniperi_baccae_seu_arceuthides",
+    "lemma": "Juniperi Baccae seu Arceuthides",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juniperi_gummi",
+    "lemma": "Juniperi Gummi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juniperi_xob",
+    "lemma": "Juniperi xob",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jnniperus_major",
+    "lemma": "Jnniperus major,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juniperus_major_monspel",
+    "lemma": "Juniperus major Monspel.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_junonis_laceyma_herba_sacra",
+    "lemma": "Junonis Laceyma, Herba Sacra,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jupiter",
+    "lemma": "Jupiter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jupiter_diaphoreticus",
+    "lemma": "Jupiter diaphoreticus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jus",
+    "lemma": "Jus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jusquiamum_album_dioscyamum_album",
+    "lemma": "Jusquiamum album, Dioscyamum album,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jussa",
+    "lemma": "Jussa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis",
+    "lemma": "Jaspis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_blauer",
+    "lemma": "Jaspis blauer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_crystallinischer",
+    "lemma": "Jaspis crystallinischer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_gru_ner",
+    "lemma": "Jaspis gruͤner",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_indianischer",
+    "lemma": "Jaspis Indianischer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_leberfarber",
+    "lemma": "Jaspis leberfarber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_lufftgleicher",
+    "lemma": "Jaspis lufftgleicher",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_purpurfarber",
+    "lemma": "Jaspis purpurfarber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_rother",
+    "lemma": "Jaspis rother",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jaspis_saatgru_ner",
+    "lemma": "Jaspis saatgruͤner",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_je_l_nger_je_lieber_blum",
+    "lemma": "Je länger je lieber Blum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_je_la_nger_je_lieber_kraut",
+    "lemma": "Je laͤnger je lieber Kraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_je_l_nger_je_lieber_wurtzel",
+    "lemma": "Je länger je lieber Wurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jesusblu_mlein",
+    "lemma": "Jesusbluͤmlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jugber",
+    "lemma": "Jugber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_johannisbeerlein_oder_johannistr_ublein",
+    "lemma": "Johannisbeerlein oder Johannisträublein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_johannisblumen",
+    "lemma": "Johannisblumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_johannisbrod",
+    "lemma": "Johannisbrod",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_johannisgu_rtel",
+    "lemma": "Johannisguͤrtel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_johanniskraut",
+    "lemma": "Johanniskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_josephssta_blein",
+    "lemma": "Josephsstaͤblein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_joseple_und_joseplein",
+    "lemma": "Joseple und Joseplein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judenbalsam",
+    "lemma": "Judenbalsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judasbaum",
+    "lemma": "Judasbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judasohren_oder_holderschwa_mlein",
+    "lemma": "Judasohren oder Holderschwaͤmlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juden_pffel",
+    "lemma": "Judenäpffel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judenbech",
+    "lemma": "Judenbech",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judendo_cklein",
+    "lemma": "Judendoͤcklein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judenkrick",
+    "lemma": "Judenkrick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judenstein_oder_fingerstein",
+    "lemma": "Judenstein oder Fingerstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judenweyrauch",
+    "lemma": "Judenweyrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_judisch_bergwachs",
+    "lemma": "Judisch Bergwachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juenblat",
+    "lemma": "Juenblat",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juenkraut",
+    "lemma": "Juenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jujuben_oder_rothe_brustbeer",
+    "lemma": "Jujuben oder rothe Brustbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_juncker_lillgen",
+    "lemma": "Juncker-Lillgen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jungfrauen_distel",
+    "lemma": "Jungfrauen-Distel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jjungfrauenhaar",
+    "lemma": "JJungfrauenhaar",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jungfrauen_honig",
+    "lemma": "Jungfrauen-Honig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jungfrauen_na_gelein",
+    "lemma": "Jungfrauen-Naͤgelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ju_ngling_und",
+    "lemma": "Juͤngling und Juͤnglings-Blum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jvenblat",
+    "lemma": "Jvenblat",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jahme_mu_ntz",
+    "lemma": "Jahme Muͤntz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jahmer_sisymber",
+    "lemma": "Jahmer Sisymber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jahme_wegwarten",
+    "lemma": "Jahme Wegwarten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_jybethkatze",
+    "lemma": "Jybethkatze",
+    "source": "sommerhoff"
+  }
+]

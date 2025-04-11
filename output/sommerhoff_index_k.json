@@ -1,0 +1,2842 @@
+[
+  {
+    "id": "sommerhoff_kali_herba",
+    "lemma": "Kali Herba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kunigundis_herba",
+    "lemma": "Kunigundis Herba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kabas",
+    "lemma": "Kabas,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kabnos_kalnos_kapnos",
+    "lemma": "Kabnos, Kalnos & Kapnos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kachimia_vel_kakimia",
+    "lemma": "Kachimia vel Kakimia,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kakule",
+    "lemma": "Kakule,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kadmia_vel_katimia",
+    "lemma": "Kadmia vel Katimia,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kafur",
+    "lemma": "Kafur,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaib_kayl",
+    "lemma": "Kaib, Kayl,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kal",
+    "lemma": "Kal,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalangi",
+    "lemma": "Kalangi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kald",
+    "lemma": "Kald,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaled",
+    "lemma": "Kaled",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kali",
+    "lemma": "Kali,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kali_herba",
+    "lemma": "Kali Herba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalnos_kabnos_kapnos",
+    "lemma": "Kalnos, Kabnos & Kapnos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kamar_vel_camar",
+    "lemma": "Kamar vel Camar,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kamec",
+    "lemma": "Kamec,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kamir_jumnisum_jumnizum",
+    "lemma": "Kamir, Jumnisum & Jumnizum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kanfor_kazdir",
+    "lemma": "Kanfor, Kazdir,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kapparis",
+    "lemma": "Kapparis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaprili_kibrith",
+    "lemma": "Kaprili & Kibrith,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kar",
+    "lemma": "Kar,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karabe",
+    "lemma": "Karabe,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karasis",
+    "lemma": "Karasis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karat",
+    "lemma": "Karat,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karathi_isculi",
+    "lemma": "Karathi, Isculi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karbet_karbech",
+    "lemma": "Karbet, Karbech,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karena",
+    "lemma": "Karena,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karlina",
+    "lemma": "Karlina,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karmufel_carmufet",
+    "lemma": "Karmufel, Carmufet,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karlina_vel_carlina",
+    "lemma": "Karlina, vel Carlina",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kasam",
+    "lemma": "Kasam,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kusgir_kacir_kazdir_kassizeros",
+    "lemma": "Kusgir, Kacir, Kazdir, Kassizeros,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katarticum",
+    "lemma": "Katarticum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katimia_graec_kadmia_latin_calamita_seu_lapis_calaminaris",
+    "lemma": "Katimia, Graecè Kadmia, Latinè Calamita, seu Lapis Calaminaris,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kayl_kaib",
+    "lemma": "Kayl, ,Kaib,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaysir",
+    "lemma": "Kaysir,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaysum",
+    "lemma": "Kaysum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kazdir_kasdir_kacir_kassiceros",
+    "lemma": "Kazdir, Kasdir, Kacir & Kassiceros,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kebulie_kebuli",
+    "lemma": "Kebulie & Kebuli",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keilus",
+    "lemma": "Keilus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kelar",
+    "lemma": "Kelar,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kenchros_milium",
+    "lemma": "Kenchros, Milium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kenkamides",
+    "lemma": "Kenkamides",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kepsen",
+    "lemma": "Kepsen,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kermes_chermes_granum_seu_coccum_infectorium_granum_infectorium_tincto",
+    "lemma": "Kermes, Chermes, Granum seu Coccum infectorium, Granum Infectorium & Tincto- rium, Coccus Bophicae & Infectoria, aliàs Scarlatum, Hysges, Fructus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kersudrus",
+    "lemma": "Kersudrus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kerum",
+    "lemma": "Kerum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kerva",
+    "lemma": "Kerva",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kesen_kesen",
+    "lemma": "Kesen, Kesen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kesfe",
+    "lemma": "Kesfe,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kest",
+    "lemma": "Kest",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keyri_cheyri_levcojum_luteum_levcojum_aureum_sativum_luteum_viola_lutea",
+    "lemma": "Keyri, Cheyri, Levcojum luteum, Levcojum aureum, sativum, luteum, Viola lutea, Viola petraea lutea,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_khymolea_kymolea",
+    "lemma": "Khymolea & Kymolea,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kibris",
+    "lemma": "Kibris,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kibric_libav_synt_arc_chym_lib_7_c_34_scribens_kibric_pater_caputonum",
+    "lemma": "Kibric, Libav. Synt. Arc. Chym. lib 7. c. 34. scribens, Kibric pater & caputonum, Salium & omnium liquabilium Metallorum. Alibi tamen, nimirum d. I. cap. 7. Kibric Philosophorum paulo aliter descripsit, quae verba non ne- cesse",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kibric",
+    "lemma": "Kibric",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kibric",
+    "lemma": "Kibric",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kibrith_kaprili_kibric_kibrius",
+    "lemma": "Kibrith, Kaprili, Kibric & Kibrius,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kici",
+    "lemma": "Kici,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kikil_kilkil",
+    "lemma": "Kikil, Kilkil",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kmkinna",
+    "lemma": "Kmkinna,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kirat_kirates_kiran_karates",
+    "lemma": "Kirat, Kirates, Kiran, Karates,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kises",
+    "lemma": "Kises,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kist",
+    "lemma": "Kist,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kist_vel_cist",
+    "lemma": "Kist vel Cist,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kift_vel_kiva",
+    "lemma": "Kift vel Kiva,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kithum_kitum",
+    "lemma": "Kithum, Kitum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klimia_cadimia",
+    "lemma": "Klimia, Cadimia,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kobaltum_koboltum_vel_colletum",
+    "lemma": "Kobaltum, Koboltum vel Colletum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_koma_komartos",
+    "lemma": "Koma, Komartos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_komeos",
+    "lemma": "Komeos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_komidion",
+    "lemma": "Komidion,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_konis",
+    "lemma": "Konis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kopos_kopros_koprosi",
+    "lemma": "Kopos, Kopros, Koprosi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_korion",
+    "lemma": "Korion,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kost",
+    "lemma": "Kost,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kual",
+    "lemma": "Kual,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kubul",
+    "lemma": "Kubul,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kumeu",
+    "lemma": "Kumeu,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kumeran",
+    "lemma": "Kumeran,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kunigundis_berba",
+    "lemma": "Kunigundis berba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kuran",
+    "lemma": "Kuran,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kuria_vel_kymta_aut_kymus",
+    "lemma": "Kuria, vel Kymta, aut Kymus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyena_kamar_vel_camar",
+    "lemma": "Kyena, Kamar, vel Camar,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kybrius_rebrick",
+    "lemma": "Kybrius, Rebrick,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kymenna",
+    "lemma": "Kymenna,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kymia",
+    "lemma": "Kymia,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kymit_elevatum",
+    "lemma": "Kymit elevatum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kymolea_khymolea_chymolea",
+    "lemma": "Kymolea, Khymolea & Chymolea,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kymum_vel_kyminum",
+    "lemma": "Kymum, vel Kyminum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kymus",
+    "lemma": "Kymus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyra_kist_kiva",
+    "lemma": "Kyra, Kist & Kiva,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyram",
+    "lemma": "Kyram,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyranides_gisentera",
+    "lemma": "Kyranides, Gisentera",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyva_kyra_kist_kiva",
+    "lemma": "Kyva, Kyra, Kist & Kiva,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyranides",
+    "lemma": "Kyranides,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_galgandt",
+    "lemma": "Kleiner Galgandt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_k_aadtka_fer",
+    "lemma": "K Aadtkaͤfer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kadden",
+    "lemma": "Kadden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_ferwurtz",
+    "lemma": "Kaͤferwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_lbermarck",
+    "lemma": "Kaͤlbermarck",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalb",
+    "lemma": "Kalb",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalbsauge",
+    "lemma": "Kalbsauge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalbsfu",
+    "lemma": "Kalbsfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalbs_jsop",
+    "lemma": "Kalbs-Jsop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalbsnasen",
+    "lemma": "Kalbsnasen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalch_oder_kalck",
+    "lemma": "Kalch oder Kalck",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalchstein_oder_kalckstein",
+    "lemma": "Kalchstein oder Kalckstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalecutischer_pfeffer",
+    "lemma": "Kalecutischer Pfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kalmus",
+    "lemma": "Kalmus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaly",
+    "lemma": "Kaly",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kam_oder_kambschmaltz",
+    "lemma": "Kam oder Kambschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kamehl",
+    "lemma": "Kamehl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kamehlsheu",
+    "lemma": "Kamehlsheu",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kamillen",
+    "lemma": "Kamillen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kampffer",
+    "lemma": "Kampffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kandel_und_kandenkraut",
+    "lemma": "Kandel und Kandenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kappaun",
+    "lemma": "Kappaun",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kappaunenfett_oder_capaunenschmaltz",
+    "lemma": "Kappaunenfett oder Capaunenschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kappen_und_kapenblum",
+    "lemma": "Kappen-und Kapenblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kappeskraut",
+    "lemma": "Kappeskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaps_isop",
+    "lemma": "Kaps-Isop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_rgel",
+    "lemma": "Kaͤrgel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karbunckelstein",
+    "lemma": "Karbunckelstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karpff",
+    "lemma": "Karpff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karpffenstein",
+    "lemma": "Karpffenstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_karten",
+    "lemma": "Karten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_pappeln",
+    "lemma": "Kaͤßpappeln",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kastanien_oder_kesten",
+    "lemma": "Kastanien oder Kesten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kaulpersigstein",
+    "lemma": "Kaulpersigstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_uschlamm",
+    "lemma": "Kaͤuschlamm",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_uschlammsamen",
+    "lemma": "Kaͤuschlammsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kautz",
+    "lemma": "Kautz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_ysers_sallat",
+    "lemma": "Kaͤysers-Sallat",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_ysers_wurtz",
+    "lemma": "Kaͤysers-Wurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ka_tzlein",
+    "lemma": "Kaͤtzlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katz",
+    "lemma": "Katz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenbalsam",
+    "lemma": "Katzenbalsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenfu",
+    "lemma": "Katzenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenhall",
+    "lemma": "Katzenhall",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenhelm",
+    "lemma": "Katzenhelm",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenklee",
+    "lemma": "Katzenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenko_rbel",
+    "lemma": "Katzenkoͤrbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenkraut",
+    "lemma": "Katzenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenkraut",
+    "lemma": "Katzenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenla_tterlein_oder_leiterlein",
+    "lemma": "Katzenlaͤtterlein oder Leiterlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenmu_ntz",
+    "lemma": "Katzenmuͤntz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenpfo_dtlein",
+    "lemma": "Katzenpfoͤdtlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenschmaltz_der_wilden",
+    "lemma": "Katzenschmaltz der Wilden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenschwantz",
+    "lemma": "Katzenschwantz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzensper",
+    "lemma": "Katzensper",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzentr_ublein",
+    "lemma": "Katzenträublein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenwadel_oder_wedel",
+    "lemma": "Katzenwadel oder Wedel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenwurtzel",
+    "lemma": "Katzenwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenzagel",
+    "lemma": "Katzenzagel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keelkraut",
+    "lemma": "Keelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keelholtz",
+    "lemma": "Keelholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keerbesem",
+    "lemma": "Keerbesem",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kellershal_oder_zeiland",
+    "lemma": "Kellershalß oder Zeiland",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kerbel",
+    "lemma": "Kerbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kermesinbeer",
+    "lemma": "Kermesinbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kerngerten",
+    "lemma": "Kerngerten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kertzenkraut",
+    "lemma": "Kertzenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kesten",
+    "lemma": "Kesten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kesten_oder_kastanienbaum",
+    "lemma": "Kesten-oder Kastanienbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ke_pappeln",
+    "lemma": "Keßpappeln",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keuschbaum",
+    "lemma": "Keuschbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_keuschbaum",
+    "lemma": "Keuschbaum- Keuschlammsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kichern_oder_ziser",
+    "lemma": "Kichern oder Ziser",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kiefferbis",
+    "lemma": "Kiefferbis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kiesel_oder_kieselstein",
+    "lemma": "Kiesel oder Kieselstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kindermord",
+    "lemma": "Kindermord, Sevenbaum oder Siebenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kin_kinna",
+    "lemma": "Kin Kinna",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kirchen_isop",
+    "lemma": "Kirchen-Isop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kirschen_sauere",
+    "lemma": "Kirschen sauere",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kirschbaum",
+    "lemma": "Kirschbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kirschenkern",
+    "lemma": "Kirschenkern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kirtte",
+    "lemma": "Kirtte",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kiwitz_ey",
+    "lemma": "Kiwitz-Ey",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kiwitz_fett",
+    "lemma": "Kiwitz-Fett",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klapperrosen",
+    "lemma": "Klapperrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klapperstein",
+    "lemma": "Klapperstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klanenschmaltz",
+    "lemma": "Klanenschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleberkraut",
+    "lemma": "Kleberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klee",
+    "lemma": "Klee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klee",
+    "lemma": "Klee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_katzenklee",
+    "lemma": "Katzenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_alp",
+    "lemma": "Klein Alp",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ambrosienkraut",
+    "lemma": "Klein Ambrosienkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kieiner_ampffer",
+    "lemma": "Kieiner Ampffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_angelick",
+    "lemma": "Kleine Angelick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_aronkraut",
+    "lemma": "Klein Aronkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_aurin",
+    "lemma": "Klein Aurin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bachbung",
+    "lemma": "Klein Bachbung",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_baldrian",
+    "lemma": "Klein Baldrian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bathengel",
+    "lemma": "Klein Bathengel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bergangelick",
+    "lemma": "Klein Bergangelick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_bergkra",
+    "lemma": "Kleiner Bergkraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bergmu_ntz_graue",
+    "lemma": "Klein Bergmuͤntz graue",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bergpolium",
+    "lemma": "Klein Bergpolium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bergrauthen",
+    "lemma": "Klein Bergrauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bergsanickel",
+    "lemma": "Klein Bergsanickel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bergscabiosen",
+    "lemma": "Klein Bergscabiosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bibernell",
+    "lemma": "Klein Bibernell",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_epirncucumern",
+    "lemma": "Klein ePirncucumern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_blauer_wasserschwertel",
+    "lemma": "Kleiner blauer Wasserschwertel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_blauer_wilder_flachs",
+    "lemma": "Kleiner blauer wilder Flachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_blutkraut",
+    "lemma": "Klein Blutkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_blutrote_hau_wurtz",
+    "lemma": "Kleine blutrote Haußwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_blutstro_pfflein",
+    "lemma": "Klein Blutstroͤpfflein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_bockspeterlein",
+    "lemma": "Klein Bockspeterlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_braune_flechten",
+    "lemma": "Klein braune Flechten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_breitbla_tterichter_himmelschwertel",
+    "lemma": "Klein breitblaͤtterichter Himmelschwertel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_breiter_erdrauch",
+    "lemma": "Klein breiter Erdrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_kampherkraut",
+    "lemma": "Klein Kampherkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_carlinwurtzel",
+    "lemma": "Klein Carlinwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_centaur",
+    "lemma": "Klein Centaur",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_condrillen",
+    "lemma": "Klein Condrillen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_costen_balsamkraut",
+    "lemma": "Klein Costen Balsamkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_donnerbarth_oder_kraut",
+    "lemma": "Klein Donnerbarth oder Kraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_dosten",
+    "lemma": "Klein Dosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_dotterblum",
+    "lemma": "Klein Dotterblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_du_rrwurtzel",
+    "lemma": "Kleine Duͤrrwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_eberwurtzel",
+    "lemma": "Kleine Eberwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_egelkraut",
+    "lemma": "Klein Egelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ehrenprei",
+    "lemma": "Klein Ehrenpreiß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ehrenprei_weiblein",
+    "lemma": "Klein Ehrenpreiß Weiblein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_eisenkraut",
+    "lemma": "Klein Eisenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_endivien",
+    "lemma": "Klein Endivien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_epheu",
+    "lemma": "Klein Epheu",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_erbsen",
+    "lemma": "Kleine Erbsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_erdmu",
+    "lemma": "Klein Erdmuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_erdrauch_klein_taubenkropff",
+    "lemma": "Klein Erdrauch) klein Taubenkropff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_eselsfa_rlein",
+    "lemma": "Klein Eselsfaͤrlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_fa_rberblum",
+    "lemma": "Klein Faͤrberblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_faseln",
+    "lemma": "Klein Faseln",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_feigbaum",
+    "lemma": "Klein Feigbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_feigbohne",
+    "lemma": "Kleine Feigbohne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_felderbsen",
+    "lemma": "Kleine Felderbsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ferckleinkraut_ma_nnlein",
+    "lemma": "Klein Ferckleinkraut (Maͤnnlein)",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ferckleinkraut_weiblein",
+    "lemma": "Klein Ferckleinkraut (Weiblein)",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ferulkraut",
+    "lemma": "Klein Ferulkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_flaschenku_rbes",
+    "lemma": "Klein Flaschenkuͤrbes",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_flo_hekraut",
+    "lemma": "Klein Floͤhekraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_fruchtbarer_wegtritt",
+    "lemma": "Klein fruchtbarer Wegtritt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_fu_nfffingerkraut",
+    "lemma": "Klein Fuͤnfffingerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_galgandt",
+    "lemma": "Klein Galgandt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gama_nderlein",
+    "lemma": "Klein Gamaͤnderlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_garbenkraut",
+    "lemma": "Klein Garbenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gartencypre",
+    "lemma": "Klein Gartencypreß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_garten_wegwarten",
+    "lemma": "Klein Garten Wegwarten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gelbe_meerviolen_oder_veilgen",
+    "lemma": "Klein gelbe Meerviolen oder Veilgen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gelbe_seeblumen",
+    "lemma": "Klein gelbe Seeblumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_goldblum",
+    "lemma": "Klein Goldblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gottesgnade",
+    "lemma": "Klein Gottesgnade",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_graue_bergmu_ntz",
+    "lemma": "Klein graue Bergmuͤntz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_grindivurtz",
+    "lemma": "Klein Grindivurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gu_lden_leinkraut",
+    "lemma": "Klein guͤlden Leinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_gu_lden_wiedertodt",
+    "lemma": "Klein guͤlden Wiedertodt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_halskraut",
+    "lemma": "Klein Halskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_hanenfu",
+    "lemma": "Klein Hanenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_hanensporn",
+    "lemma": "Klein Hanensporn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_harnkraut",
+    "lemma": "Klein Harnkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_hau_wurtzel",
+    "lemma": "Klein Haußwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleinste_hau_wurtzel",
+    "lemma": "Kleinste Haußwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_herrgottsba_rtlein",
+    "lemma": "Klein Herrgottsbaͤrtlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_hirschen",
+    "lemma": "Kleiner Hirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_hirschzung",
+    "lemma": "Kleine Hirschzung",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_holder",
+    "lemma": "Kleiner Holder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_holiwurtz",
+    "lemma": "Klein Holiwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_hornku_mmel",
+    "lemma": "Kleiner Hornkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_hundsmilch",
+    "lemma": "Klein Hundsmilch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_indianischer_ku_rbes",
+    "lemma": "Klein Indianischer Kuͤrbes",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_indianische_eckigte_peponen",
+    "lemma": "Klein Indianische eckigte Peponen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_indianische_pevon",
+    "lemma": "Klein Indianische Pevon",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_indianische_schildtpepon",
+    "lemma": "Klein Indianische Schildtpepon",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_katzentr_ublein",
+    "lemma": "Klein Katzenträublein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_katzenwadel",
+    "lemma": "Klein Katzenwadel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_klapperrosen",
+    "lemma": "Klein Klapperrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_kletten",
+    "lemma": "Klein Kletten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_klettenko_rbel",
+    "lemma": "Klein Klettenkoͤrbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_klettenkr_utlein",
+    "lemma": "Klein Klettenkräutlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_knabenkraut",
+    "lemma": "Klein Knabenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ko_lblinkraut",
+    "lemma": "Klein Koͤlblinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_kostenbalsam",
+    "lemma": "Klein Kostenbalsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_kr_henfu",
+    "lemma": "Klein Krähenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_krebsblum",
+    "lemma": "Klein Krebsblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_krebsblum",
+    "lemma": "Klein Krebsblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_kreutzblum",
+    "lemma": "Klein Kreutzblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_langlechte_indianische_pepon",
+    "lemma": "Klein langlechte Indianische Pepon",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_la_u_kraut",
+    "lemma": "Klein Laͤußkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_leberbalsam",
+    "lemma": "Klein Leberbalsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_leberbalsamkraut",
+    "lemma": "Klein Leberbalsamkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_leibfarb",
+    "lemma": "Klein Leibfarb",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_lo_wenfu",
+    "lemma": "Klein Loͤwenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_maa_holder",
+    "lemma": "Kleiner Maaßholder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_meerbeyfu",
+    "lemma": "Kleiner Meerbeyfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_meerhirschen",
+    "lemma": "Kleiner Meerhirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_megelkraut",
+    "lemma": "Klein Megelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_meisterwurtz",
+    "lemma": "Klein Meisterwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_miltzkraut",
+    "lemma": "Klein Miltzkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_modelger",
+    "lemma": "Klein Modelger",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_mohnkraut",
+    "lemma": "Klein Mohnkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_nabelkraut",
+    "lemma": "Klein Nabelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_nadelko_rffel",
+    "lemma": "Klein Nadelkoͤrffel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_na_gel_basilien",
+    "lemma": "Klein Naͤgel Basilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_natterkraut",
+    "lemma": "Klein Natterkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ratterzung",
+    "lemma": "Klein Ratterzung",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_ressel",
+    "lemma": "Kleine Ressel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_nicotiankraut",
+    "lemma": "Klein Nicotiankraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ohrandt",
+    "lemma": "Klein Ohrandt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_palmen",
+    "lemma": "Klein Palmen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_pfaffenpint",
+    "lemma": "Klein Pfaffenpint",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_pfeilkraut",
+    "lemma": "Klein Pfeilkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_pimpinel",
+    "lemma": "Klein Pimpinel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_quendel_mit_braunen_blumen",
+    "lemma": "Kleiner Quendel mit braunen Blumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_ragwurtzmanderlein",
+    "lemma": "Kleine Ragwurtzmanderlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_rosinen_oder_corinthen",
+    "lemma": "Kleine Rosinen oder Corinthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_roth_katzentra_ublein_mit_weissen_blumen",
+    "lemma": "Klein roth Katzentraͤublein mit weissen Blumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_rothlechte_meerviolen",
+    "lemma": "Kleine rothlechte Meerviolen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_rothe_ochsenzunge",
+    "lemma": "Kleine rothe Ochsenzunge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_rothezahme_ma_lieben",
+    "lemma": "Kleine rothezahme Maßlieben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_ruhrkraut",
+    "lemma": "Klein Ruhrkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_salbey",
+    "lemma": "Kleine Salbey",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_samen",
+    "lemma": "Klein Samen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_sauerampffer",
+    "lemma": "Kleiner Sauerampffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_scamonien",
+    "lemma": "Klein Scamonien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_scheiben_nappen",
+    "lemma": "Klein Scheiben Nappen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schellkraut",
+    "lemma": "Klein Schellkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schellwurtzel",
+    "lemma": "Klein Schellwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schildt_besemkraut",
+    "lemma": "Klein Schildt Besemkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schildt_thlaspi",
+    "lemma": "Klein Schildt Thlaspi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schlangengra",
+    "lemma": "Klein Schlangengraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schlangenkraut",
+    "lemma": "Klein Schlangenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schnabelkraut",
+    "lemma": "Klein Schnabelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schottenklee",
+    "lemma": "Klein Schottenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_schwalbenkraut",
+    "lemma": "Klein Schwalbenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_sesamoideskraut",
+    "lemma": "Klein Sesamoideskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_sonnenkron",
+    "lemma": "Kleine Sonnenkron",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_sonnenthau",
+    "lemma": "Klein Sonnenthau",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_sonnenwu_rbel",
+    "lemma": "Klein Sonnenwuͤrbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_sonnenwu_rbel",
+    "lemma": "Klein Sonnenwuͤrbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_spanische_zisern",
+    "lemma": "Kleine spanische Zisern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_sperberkraut",
+    "lemma": "Klein Sperberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_spitzig_pfeistraut",
+    "lemma": "Klein spitzig Pfeistraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_stabwurtz",
+    "lemma": "Kleine Stabwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_stebenkraut",
+    "lemma": "Klein Stebenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_steckenkraut",
+    "lemma": "Klein Steckenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_steinfahren",
+    "lemma": "Klein Steinfahren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_stein_fu_nfffingerkraut",
+    "lemma": "Klein Stein Fuͤnfffingerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_steinklee",
+    "lemma": "Kleiner Steinklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_stein_vogelkraut",
+    "lemma": "Klein Stein Vogelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_storchenschnabel",
+    "lemma": "Kleiner Storchenschnabel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_streichblum",
+    "lemma": "Klein Streichblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_taubenkropff",
+    "lemma": "Klein Taubenkropff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_tausendgu_ldenkraut",
+    "lemma": "Klein Tausendguͤldenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_thlaspi_und_kleinster_thlaspi",
+    "lemma": "Klein Thlaspi und kleinster Thlaspi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_veil_oder_violivurtzel",
+    "lemma": "Kleine Veil oder Violivurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_vogelkraut",
+    "lemma": "Klein Vogelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleinstes_vogelkraut",
+    "lemma": "Kleinstes Vogelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wald_epheu",
+    "lemma": "Klein Wald-Epheu",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wasserbintzen_gra",
+    "lemma": "Klein Wasserbintzen-Graß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wasserbraunmanderlein",
+    "lemma": "Klein Wasserbraunmanderlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wasserraucken",
+    "lemma": "Kleine Wasserraucken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wasserwegbreit",
+    "lemma": "Klein Wasserwegbreit",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wegdistel",
+    "lemma": "Kleine Wegdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_wegerich",
+    "lemma": "Kleiner Wegerich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_wegtridt",
+    "lemma": "Kleiner Wegtridt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_weiderich",
+    "lemma": "Kleiner Weiderich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_weyerampffer",
+    "lemma": "Kleiner Weyerampffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_weyer_oder_wasserbintzen",
+    "lemma": "Kleine Weyer-oder Wasserbintzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wei_endivien",
+    "lemma": "Klein weiß Endivien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_weisser_gefu_lter_magsamen",
+    "lemma": "Kleiner weisser gefuͤlter Magsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_weisser_quendel",
+    "lemma": "Kleiner weisser Quendel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_weisse_seeblum",
+    "lemma": "Kleine weisse Seeblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wei_wurtz",
+    "lemma": "Kleine Weißwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wiesenmuth",
+    "lemma": "Klein Wiesenmuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wilde_carlina",
+    "lemma": "Kleine wilde Carlina",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wilde_erbsen",
+    "lemma": "Kleine wilde Erbsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wilde_na_gelein",
+    "lemma": "Kleine wilde Naͤgelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wilde_rapuntzel",
+    "lemma": "Kleine wilde Rapuntzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wilde_rothe_himmelsroslein",
+    "lemma": "Kleine wilde rothe Himmelsroslein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleiner_wilder_spanischer_saffran",
+    "lemma": "Kleiner wilder spanischer Saffran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wilde_wicken",
+    "lemma": "Kleine wilde Wicken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_windten",
+    "lemma": "Kleine Windten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wohlgemuth",
+    "lemma": "Klein Wohlgemuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klein_wohlruchendes_knabenkraut",
+    "lemma": "Klein wohlruchendes Knabenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_wolffsmilch",
+    "lemma": "Kleine Wolffsmilch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_zahme_ma_lieben",
+    "lemma": "Kleine zahme Maßlieben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_zahme_wegwarten",
+    "lemma": "Kleine zahme Wegwarten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_zaunklock",
+    "lemma": "Kleine Zaunklock",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_zeitlosen",
+    "lemma": "Kleine Zeitlosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klettenko_rffel",
+    "lemma": "Klettenkoͤrffel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klettenwurtzel",
+    "lemma": "Klettenwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleyen",
+    "lemma": "Kleyen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kliebenkraut",
+    "lemma": "Kliebenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klingelmo_hren",
+    "lemma": "Klingelmoͤhren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klorieth",
+    "lemma": "Klorieth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_klosterbeer",
+    "lemma": "Klosterbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kloster_und_kirchen_isop",
+    "lemma": "Kloster-und Kirchen-Isop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kloster_oder_mu_nchspfeffer",
+    "lemma": "Kloster-oder Muͤnchspfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knabel",
+    "lemma": "Knabel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knabenkraut",
+    "lemma": "Knabenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knabenwurtzel",
+    "lemma": "Knabenwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knoblauch",
+    "lemma": "Knoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knoblauchkraut",
+    "lemma": "Knoblauchkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knodten_und_knodtenkraut",
+    "lemma": "Knodten und Knodtenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knodtengra",
+    "lemma": "Knodtengraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knodtenkraut",
+    "lemma": "Knodtenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knodtenwurtzel",
+    "lemma": "Knodtenwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knodigte_wallwurtzel",
+    "lemma": "Knodigte Wallwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knollengra",
+    "lemma": "Knollengraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knollenkraut",
+    "lemma": "Knollenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_knospen",
+    "lemma": "Knospen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kochels_oder_kockelsko_rner",
+    "lemma": "Kochels oder Kockelskoͤrner",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_hl_oder_ko_hlkrant",
+    "lemma": "Koͤhl oder Koͤhlkrant",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_hl_ro_mischer_oder_mangoldt",
+    "lemma": "Koͤhl Roͤmischer oder Mangoldt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_hlstock",
+    "lemma": "Koͤhlstock",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kohla_pffel_lange",
+    "lemma": "Kohlaͤpffel lange",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kohlmay",
+    "lemma": "Kohlmayß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_lberkorn",
+    "lemma": "Koͤlberkorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_lbleinkraut_oder_kolbenkraut",
+    "lemma": "Koͤlbleinkraut oder Kolbenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kollerwurtz_und_ka_ulwurtz",
+    "lemma": "Kollerwurtz und Kaͤulwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kollmatkraut",
+    "lemma": "Kollmatkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_nigsblum_und_ko_nigsrose",
+    "lemma": "Koͤnigsblum und Koͤnigsrose",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_nigs_cron",
+    "lemma": "Koͤnigs-Cron",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_nigskertzen",
+    "lemma": "Koͤnigskertzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_nigskraut",
+    "lemma": "Koͤnigskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_nigslillge",
+    "lemma": "Koͤnigslillge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_pffelku_rbis",
+    "lemma": "Koͤpffelkuͤrbis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_pffellattich",
+    "lemma": "Koͤpffellattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kobald_oder_kobalt",
+    "lemma": "Kobald oder Kobalt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_koppenschmaltz_oder_cappaunenfett",
+    "lemma": "Koppenschmaltz oder Cappaunenfett",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_korallen_oder_corallen",
+    "lemma": "Korallen oder Corallen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_korallenmoo_oder_corallenmoo_oder_meermo",
+    "lemma": "Korallenmooß oder Corallenmooß oder Meermoß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_rbel",
+    "lemma": "Koͤrbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ko_rbeldauben_oder_daubenko_rbel",
+    "lemma": "Koͤrbeldauben oder Daubenkoͤrbel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_korch",
+    "lemma": "Korch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_korcheych",
+    "lemma": "Korcheych",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_korn",
+    "lemma": "Korn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornblum",
+    "lemma": "Kornblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornbrandt",
+    "lemma": "Kornbrandt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornien",
+    "lemma": "Kornien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornmu_nz",
+    "lemma": "Kornmuͤnz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornna_gelblum",
+    "lemma": "Kornnaͤgelblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornna_gelein",
+    "lemma": "Kornnaͤgelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornnept",
+    "lemma": "Kornnept",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornrosen",
+    "lemma": "Kornrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kornstrau_gra",
+    "lemma": "Kornstraußgraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_koschionellen",
+    "lemma": "Koschionellen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kosten_heylwurtzel",
+    "lemma": "Kosten Heylwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra_an_oder_kr_en",
+    "lemma": "Kraͤan oder Kräen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra_hen_uglein_oder_kr_henaugen",
+    "lemma": "Kraͤhenäuglein oder Krähenaugen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kr_henfu",
+    "lemma": "Krähenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra_merku_mmel",
+    "lemma": "Kraͤmerkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra_merna_gelein_oder_wu_rtzna_gelein",
+    "lemma": "Kraͤmernaͤgelein oder Wuͤrtznaͤgelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kranichshal",
+    "lemma": "Kranichshalß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_kra",
+    "lemma": "Krauser Kraͤß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra",
+    "lemma": "Kraͤß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krackbeer",
+    "lemma": "Krackbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krackbeerkraut",
+    "lemma": "Krackbeerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krafftmehl",
+    "lemma": "Krafftmehl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krafftn_lein",
+    "lemma": "Krafftnüßlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kramellbaum",
+    "lemma": "Kramellbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kramellbeer",
+    "lemma": "Kramellbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kramellvogel",
+    "lemma": "Kramellvogel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra_nwurtz",
+    "lemma": "Kraͤnwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kran",
+    "lemma": "Kran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krana_ugel",
+    "lemma": "Kranaͤugel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kranich",
+    "lemma": "Kranich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_ampffer",
+    "lemma": "Krauser Ampffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_balsam",
+    "lemma": "Krauser Balsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krau_beer",
+    "lemma": "Kraußbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_bibernell",
+    "lemma": "Krauser Bibernell",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krause_demuth",
+    "lemma": "Krause Demuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krause_distel",
+    "lemma": "Krause Distel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_durchwachs",
+    "lemma": "Krauser Durchwachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_endivien_lattich",
+    "lemma": "Krauser Endivien-Lattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krau_ko_hlhaupt",
+    "lemma": "Krauß Koͤhlhaupt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krau_ko_hlkraut",
+    "lemma": "Krauß Koͤhlkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_kra",
+    "lemma": "Krauser Kraͤß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_lattich",
+    "lemma": "Krauser Lattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krause_mu_ntz",
+    "lemma": "Krause Muͤntz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krause_pappeln",
+    "lemma": "Krause Pappeln",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krauser_peterlein",
+    "lemma": "Krauser Peterlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krause_rheynfahren",
+    "lemma": "Krause Rheynfahren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krau_spitzmengelwurtz",
+    "lemma": "Krauß Spitzmengelwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kraut_der_alten_ko_nigen",
+    "lemma": "Kraut der alten Koͤnigen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kray",
+    "lemma": "Kray",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krebs",
+    "lemma": "Krebs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krebsaugen",
+    "lemma": "Krebsaugen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krebsblum",
+    "lemma": "Krebsblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krebsstein",
+    "lemma": "Krebsstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kraen",
+    "lemma": "Kraen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kreiden",
+    "lemma": "Kreiden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kre",
+    "lemma": "Kreß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kretzbeer",
+    "lemma": "Kretzbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kreusselbeer",
+    "lemma": "Kreusselbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kreutzbeer",
+    "lemma": "Kreutzbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kreutzblum",
+    "lemma": "Kreutzblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kreutzkraut",
+    "lemma": "Kreutzkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kreyde_und_kreide",
+    "lemma": "Kreyde und Kreide",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechenbaum",
+    "lemma": "Kriechenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechend_erdbeer",
+    "lemma": "Kriechend Erdbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechender_hundskohl",
+    "lemma": "Kriechender Hundskohl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechend_klein_hundsmilch",
+    "lemma": "Kriechend klein Hundsmilch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechend_kr_henfu",
+    "lemma": "Kriechend Krähenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechend_creutzblum",
+    "lemma": "Kriechend Creutzblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kriechend_marum",
+    "lemma": "Kriechend Marum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kronenkraut",
+    "lemma": "Kronenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krotte",
+    "lemma": "Krotte",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krotte_mit_schildt_oder_schildtkrotte",
+    "lemma": "Krotte mit Schildt oder Schildtkrotte",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krottendill",
+    "lemma": "Krottendill",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krottenflachs",
+    "lemma": "Krottenflachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krottengra",
+    "lemma": "Krottengraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krottenkraut",
+    "lemma": "Krottenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krottenstein",
+    "lemma": "Krottenstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_krummer_und_breiter_indianischer_pfeffer",
+    "lemma": "Krummer und breiter Indianischer Pfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_k_chenschell_und_ku_schenschell",
+    "lemma": "Küͤchenschell und Kuͤschenschell",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_cher_erbsen",
+    "lemma": "Kuͤcher-Erbsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kuckuck_und_kuckugk",
+    "lemma": "Kuckuck und Kuckugk",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kuckucksblum",
+    "lemma": "Kuckucksblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_fferholtz",
+    "lemma": "Kuͤfferholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kuhe",
+    "lemma": "Kuhe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_heblum",
+    "lemma": "Kuͤheblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_hebra_ndtlein",
+    "lemma": "Kuͤhebraͤndtlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_hedill",
+    "lemma": "Kuͤhedill",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_hehorn",
+    "lemma": "Kuͤhehorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_heschroten_oder_ku_hnschroten",
+    "lemma": "Kuͤheschroten oder Kuͤhnschroten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_heweitzen",
+    "lemma": "Kuͤheweitzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_hewurtz",
+    "lemma": "Kuͤhewurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_m",
+    "lemma": "Kuͤm",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kra_merku_mmel_und_kramku_mmel",
+    "lemma": "Kraͤmerkuͤmmel und Kramkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_mmel",
+    "lemma": "Kuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_mmerling",
+    "lemma": "Kuͤmmerling",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_mmerlinakraut",
+    "lemma": "Kuͤmmerlinakraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_nholtz",
+    "lemma": "Kuͤnholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_niglein",
+    "lemma": "Kuͤniglein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_nigleinschmaltz",
+    "lemma": "Kuͤnigleinschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_nigundkraut",
+    "lemma": "Kuͤnigundkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_nlein",
+    "lemma": "Kuͤnlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_nnelein",
+    "lemma": "Kuͤnnelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kundelkraut",
+    "lemma": "Kundelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_nschbaum",
+    "lemma": "Kuͤnschbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupffer",
+    "lemma": "Kupffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupffer_braun",
+    "lemma": "Kupffer Braun",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupffer_so_gru_n",
+    "lemma": "Kupffer so gruͤn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupfferkornlein",
+    "lemma": "Kupfferkornlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupffer_ky",
+    "lemma": "Kupffer Kyß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupfferrauch_oder_kupfferroth",
+    "lemma": "Kupfferrauch oder Kupfferroth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupfferschlacken",
+    "lemma": "Kupfferschlacken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupfferstein",
+    "lemma": "Kupfferstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kupfferwasser",
+    "lemma": "Kupfferwasser",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_rbeeren",
+    "lemma": "Kuͤrbeeren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_rbis_und_kurbs",
+    "lemma": "Kuͤrbis und Kurbs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_ssel_und_kiesselstein",
+    "lemma": "Kuͤssel und Kiesselstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_ttelsisch",
+    "lemma": "Kuͤttelsisch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_ttelsischbein",
+    "lemma": "Kuͤttelsischbein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_ttelkrant",
+    "lemma": "Kuͤttelkrant",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_tten",
+    "lemma": "Kuͤtten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ku_tten_oder_quittenkern",
+    "lemma": "Kuͤtten oder Quittenkern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kyfferholtz",
+    "lemma": "Kyfferholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kern",
+    "lemma": "Kern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kraut",
+    "lemma": "Kraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleine_weinrauthen",
+    "lemma": "Kleine Weinrauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_kleines",
+    "lemma": "Kleines",
+    "source": "sommerhoff"
+  }
+]

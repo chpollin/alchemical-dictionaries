@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alchemical Dictionaries Explorer</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Explore historical alchemical dictionaries: Ruland's Lexicon Alchemiae (1612) and Sommerhoff's Lexicon pharmaceutico-chymicum (1701)">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Alchemical Dictionaries Explorer</h1>
+      <p class="subtitle">Explore historical alchemical terminology from 1612 and 1701</p>
+      
+      <div class="controls">
+        <div class="dictionary-toggle">
+          <button id="ruland-btn" class="active" aria-pressed="true">Ruland (1612)</button>
+          <button id="sommerhoff-btn" aria-pressed="false">Sommerhoff (1701)</button>
+        </div>
+        
+        <div class="search">
+          <input type="text" id="search-input" placeholder="Search terms..." aria-label="Search terms">
+          <button id="search-btn">Search</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="dictionary-info" id="dictionary-info">
+      <!-- Dictionary information will be displayed here -->
+    </div>
+
+    <nav class="letter-navigation" id="letter-nav" aria-label="Alphabetical navigation">
+      <!-- Alphabet navigation will be generated here -->
+    </nav>
+
+    <main class="content">
+      <section class="entry-list-section">
+        <h2 id="entries-heading">Entries</h2>
+        <div class="entry-list" id="entry-list">
+          <!-- Entry list will be populated here -->
+          <div class="empty-state">Select a letter to view entries</div>
+        </div>
+      </section>
+      
+      <section class="entry-detail-section">
+        <h2>Entry Details</h2>
+        <div class="entry-detail" id="entry-detail">
+          <!-- Entry details will be displayed here -->
+          <div class="empty-state">Select an entry to view details</div>
+        </div>
+      </section>
+    </main>
+
+    <div class="comparison-view" id="comparison-view">
+      <div class="comparison-header">
+        <h2>Dictionary Comparison</h2>
+        <button id="close-comparison-btn" class="close-btn" aria-label="Close comparison view">&times;</button>
+      </div>
+      <div class="comparison-content">
+        <div class="comparison-ruland">
+          <h3>Ruland (1612)</h3>
+          <div id="ruland-comparison-content">
+            <!-- Ruland entry for comparison -->
+          </div>
+        </div>
+        <div class="comparison-sommerhoff">
+          <h3>Sommerhoff (1701)</h3>
+          <div id="sommerhoff-comparison-content">
+            <!-- Sommerhoff entry for comparison -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>Data source: <a href="https://github.com/sarahalang/alchemical-dictionaries" target="_blank">Alchemical Dictionaries TEI-XML Project</a> | <a href="https://doi.org/10.5334/johd.303" target="_blank">DOI: 10.5334/johd.303</a></p>
+      <p>License: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></p>
+    </footer>
+  </div>
+
+  <!-- Loading overlay -->
+  <div class="overlay" id="loading-overlay">
+    <div class="loader"></div>
+    <div class="loading-message" id="loading-message">Loading dictionary data...</div>
+  </div>
+
+  <!-- Error message -->
+  <div class="error-message" id="error-message">
+    <div class="error-content">
+      <h3>Error</h3>
+      <p id="error-text">Unable to load dictionary data.</p>
+      <button id="error-close-btn">Close</button>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script>
+    // Configuration
+    const config = {
+      dataPath: '../output/',
+      defaultDictionary: 'ruland'
+    };
+  </script>
+  <script src="js/test.js"></script>
+  <script src="js/dictionary.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

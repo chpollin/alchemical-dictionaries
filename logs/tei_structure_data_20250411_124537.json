@@ -1,0 +1,403 @@
+[
+  {
+    "filename": "Ruland.xml",
+    "entry_structure": {
+      "filename": "Ruland.xml",
+      "entry_count": 3164,
+      "common_structures": {
+        "tei:form \u2192 tei:sense": 421,
+        "tei:sense": 27,
+        "tei:form \u2192 tei:form \u2192 tei:sense": 14,
+        "tei:form": 7,
+        "tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:sense": 4,
+        "tei:form \u2192 tei:sense \u2192 tei:note": 2,
+        "tei:form \u2192 tei:sense \u2192 tei:lb": 2,
+        "tei:form \u2192 tei:cit": 2,
+        "tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:form": 1,
+        "tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:cit": 1
+      },
+      "element_frequency": {
+        "tei:form": 532,
+        "tei:sense": 491,
+        "tei:lb": 144,
+        "tei:note": 142,
+        "tei:fw": 15,
+        "tei:pb": 7,
+        "tei:cit": 4,
+        "tei:def": 1
+      },
+      "attribute_usage": {
+        "type": {
+          "A": 478,
+          "S": 5,
+          "N": 3,
+          "F": 2,
+          "P": 2
+        },
+        "n": {
+          "Ruland1612-Aquila": 4,
+          "Ruland1612-Alumen": 3,
+          "Ruland1612-Adamas": 2,
+          "Ruland1612-Aetites": 2,
+          "Ruland1612-Alcohol": 2
+        },
+        "tei:form[@type]": {
+          "lemma": 453,
+          "variant": 59,
+          "phrase": 20
+        },
+        "tei:cit[@type]": {
+          "translation": 4
+        },
+        "tei:cit[@xml:lang]": {
+          "de": 4
+        },
+        "tei:cit[@style]": {
+          "font-variant: fraktur": 4
+        },
+        "xml:id": {
+          "achates": 1
+        }
+      },
+      "element_examples": {
+        "form": [
+          {
+            "text": "A",
+            "type": "phrase"
+          },
+          {
+            "text": "Targar",
+            "type": "lemma"
+          },
+          {
+            "text": "Excoquere",
+            "type": "lemma"
+          },
+          {
+            "text": "Cadmia acinosa",
+            "type": "lemma"
+          },
+          {
+            "text": "Eleuatio humida (vulgo communiori nomine destillatio\n                     dicta)",
+            "type": "lemma"
+          }
+        ],
+        "def": [
+          {
+            "text": ",",
+            "type": ""
+          },
+          {
+            "text": "id est, angelica.",
+            "type": ""
+          },
+          {
+            "text": ", id est, sal compositum,",
+            "type": ""
+          },
+          {
+            "text": "est, cum fuscedines spiritales, aliaeque",
+            "type": ""
+          },
+          {
+            "text": "Altera est significatio chalcitis, quod significet chalcitin,\n                     tri\u00ac",
+            "type": ""
+          }
+        ],
+        "sense": [
+          {
+            "text": ",",
+            "type": ""
+          },
+          {
+            "text": "est viride aeris.",
+            "type": ""
+          },
+          {
+            "text": "mittit Oceanus Indicus, item mare ru\u00ac",
+            "type": ""
+          },
+          {
+            "text": "in quo massae plumbeae\n                     liquantur,",
+            "type": ""
+          },
+          {
+            "text": "omnes continent & custodiunt partus & valent contra omnes\n                     abor\u00ac",
+            "type": ""
+          }
+        ],
+        "cit": [],
+        "note": [
+          {
+            "text": "2.",
+            "type": ""
+          },
+          {
+            "text": "Lapilli. 1. Alectorius,",
+            "type": ""
+          },
+          {
+            "text": "10. Annebergium in massa argenti plumbei coloris.",
+            "type": ""
+          },
+          {
+            "text": "31. Vena aluminis rotundi, quae Neapoli in superficie montis",
+            "type": ""
+          },
+          {
+            "text": "Plin. l. 37. c. 11. & Solin. c. 40. huius egregie mentionem faciunt.\n                        Sic",
+            "type": ""
+          }
+        ]
+      },
+      "language_usage": {
+        "tei:cit[@xml:lang='de']": 100
+      },
+      "specialized_elements": {
+        "usg": 3,
+        "orth": 219
+      }
+    },
+    "cross_references": {
+      "filename": "Ruland.xml",
+      "explicit_xr": {
+        "count": 0,
+        "types": {},
+        "examples": []
+      },
+      "potential_refs": [
+        {
+          "term": "vide",
+          "count": 83,
+          "example": "Avide ana . ..."
+        },
+        {
+          "term": "siehe",
+          "count": 1,
+          "example": "Materia prima , & huius vocabula, die philosophi haben sich ober diese Creatur Gattes, die sie\n     ..."
+        }
+      ]
+    },
+    "symbols": {
+      "filename": "Ruland.xml",
+      "symbol_count": 0,
+      "glyph_declarations": 0,
+      "common_symbols": {}
+    }
+  },
+  {
+    "filename": "Lexikon_Sommerhoff_Mayer2022_slighlyEdited2025-01-08.xml",
+    "entry_structure": {
+      "filename": "Lexikon_Sommerhoff_Mayer2022_slighlyEdited2025-01-08.xml",
+      "entry_count": 17412,
+      "common_structures": {
+        "tei:form \u2192 tei:sense": 275,
+        "tei:form \u2192 tei:sense \u2192 tei:xr": 51,
+        "tei:form \u2192 tei:xr \u2192 tei:sense": 35,
+        "tei:form \u2192 tei:form \u2192 tei:sense": 32,
+        "tei:form \u2192 tei:xr": 25,
+        "tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:sense": 13,
+        "tei:form \u2192 tei:form \u2192 tei:xr \u2192 tei:sense": 8,
+        "tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:sense": 7,
+        "tei:form \u2192 tei:sense \u2192 tei:xr \u2192 tei:sense": 7,
+        "tei:form \u2192 tei:form \u2192 tei:form \u2192 tei:sense \u2192 tei:xr": 5
+      },
+      "element_frequency": {
+        "tei:form": 699,
+        "tei:sense": 479,
+        "tei:xr": 168,
+        "tei:pc": 9,
+        "tei:lb": 9,
+        "tei:def": 1,
+        "tei:cit": 1
+      },
+      "attribute_usage": {
+        "xml:id": {
+          "a": 1,
+          "aabam": 1,
+          "abais": 1,
+          "abarn": 1,
+          "abart": 1
+        },
+        "tei:form[@type]": {
+          "lemma": 501,
+          "variant": 190,
+          "form": 1,
+          "lemam": 1
+        },
+        "tei:cit[@type]": {
+          "translation": 1
+        },
+        "tei:cit[@xml:lang]": {
+          "de": 1
+        }
+      },
+      "element_examples": {
+        "form": [
+          {
+            "text": "\u0101",
+            "type": "variant"
+          },
+          {
+            "text": "Gartzagen",
+            "type": ""
+          },
+          {
+            "text": "Atrament grau",
+            "type": "lemma"
+          },
+          {
+            "text": "Flemmischer Erdrauch",
+            "type": "lemma"
+          },
+          {
+            "text": "Flores Scabiosae, Herbae apostematicae, Scabiosae\n\t\t\t\t\t\t\tpratensis hirfutae, scabiosae majoris, sca-",
+            "type": "lemma"
+          }
+        ],
+        "def": [
+          {
+            "text": "est",
+            "type": ""
+          },
+          {
+            "text": "est Antimonium",
+            "type": ""
+          },
+          {
+            "text": "est Sal armoniacus prae-",
+            "type": ""
+          },
+          {
+            "text": "remedia malos Sanguinis succos corrigentia",
+            "type": ""
+          },
+          {
+            "text": "est Decoctio ex corticibus, floribus, fructibus, herbis, lignis,\n\t\t\t\t\t\t\t\tradi-",
+            "type": ""
+          }
+        ],
+        "sense": [
+          {
+            "text": "\u00e0",
+            "type": ""
+          },
+          {
+            "text": "vid. Schaenanthum.",
+            "type": ""
+          },
+          {
+            "text": "Seliunca,\n\t\t\t\t\t\t\tSpica Celtica",
+            "type": ""
+          },
+          {
+            "text": "sunt Fungi flavi in plantis juniperinis crescentes.",
+            "type": ""
+          },
+          {
+            "text": "Nomen Avis inter delicias Ciborum\n\t\t\t\t\t\t\trelatae salacissimae & vivacissimae. Ejus Pennae rubrae Cau...",
+            "type": ""
+          }
+        ],
+        "cit": [],
+        "note": [
+          {
+            "text": "wiedergegeben mit \"L\u00f6we\", U+264C",
+            "type": ""
+          },
+          {
+            "text": "wiedergegeben mit \"Wei\u00dfe Sh\u014dgi-Figur\", U+2616",
+            "type": ""
+          },
+          {
+            "text": "wiedergegeben mit \"Linie mit untergesetztem Punkt\", U+2AF0",
+            "type": ""
+          },
+          {
+            "text": "wiedergegeben mit \"Alchemistisches Symbol f\u00fcr Calciumoxid\", U+1F741",
+            "type": ""
+          },
+          {
+            "text": "wiedergegeben mit \"Griechisches gro\u00dfes gespiegeltes halbmondf\u00f6rmiges\n\t\t\t\t\t\tSigma-Symbol\" (U+03FD), \"...",
+            "type": ""
+          }
+        ]
+      },
+      "language_usage": {
+        "tei:desc[@xml:lang='en']": 50,
+        "tei:desc[@xml:lang='de']": 50
+      },
+      "specialized_elements": {
+        "xr": 706,
+        "orth": 286,
+        "g": 952
+      }
+    },
+    "cross_references": {
+      "filename": "Lexikon_Sommerhoff_Mayer2022_slighlyEdited2025-01-08.xml",
+      "explicit_xr": {
+        "count": 706,
+        "types": {
+          "unspecified": 6,
+          "cf": 44
+        },
+        "examples": [
+          "vide  ana",
+          "vid. Mu\u0364ller. in Lex. Med.",
+          "vide Resina Abietis,",
+          "vide Herb. Cham\u00e6pithys.",
+          "vide Cerussa",
+          "vid. Lex. Brun.",
+          "vide Abit",
+          "vide Abit",
+          "vid.  Cerussa.",
+          "vid.  Herbas."
+        ]
+      },
+      "potential_refs": [
+        {
+          "term": "vide",
+          "count": 363,
+          "example": "A , \u0101, \u0101\u0101, aa, vide ana. Germ.eines so viel als das andere. ..."
+        },
+        {
+          "term": "vid.",
+          "count": 3871,
+          "example": "Abaisirest Spodium, vid.Mu\u0364ller. in Lex. Med...."
+        },
+        {
+          "term": "see ",
+          "count": 1,
+          "example": "Bibilissai.e. Papaver contusum. Germ. gestossee Mahen.\n\t\t\t\t\t..."
+        }
+      ]
+    },
+    "symbols": {
+      "filename": "Lexikon_Sommerhoff_Mayer2022_slighlyEdited2025-01-08.xml",
+      "symbol_count": 952,
+      "glyph_declarations": 297,
+      "common_symbols": {
+        "": 114,
+        "#water": 47,
+        "#mercury": 20,
+        "#silver": 18,
+        "#alum": 17,
+        "#sulfur": 17,
+        "#antimony": 17,
+        "#salt": 16,
+        "#sal-ammoniac-2": 14,
+        "#alchemical-earth": 13,
+        "#vinegar": 12,
+        "#lead": 11,
+        "#nitre": 11,
+        "#fire": 10,
+        "#gold": 9,
+        "#tin": 8,
+        "#vitriol": 8,
+        "#copper": 8,
+        "#arsenic": 6,
+        "#powder": 6
+      }
+    }
+  }
+]

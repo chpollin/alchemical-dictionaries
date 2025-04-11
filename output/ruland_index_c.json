@@ -1,0 +1,1812 @@
+[
+  {
+    "id": "Ruland1612-Cano",
+    "lemma": "Cano",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-CAb",
+    "lemma": "CAb",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cabala,-Cabalia,-Ars-Cabalistica",
+    "lemma": "Cabala , Cabalia , Ars Cabalistica",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cabala",
+    "lemma": "Cabala",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caballi,-Cabales",
+    "lemma": "Caballi , Cabales",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cabalatar",
+    "lemma": "Cabalatar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cabebi",
+    "lemma": "Cabebi",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cabeli",
+    "lemma": "Cabeli",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cabel",
+    "lemma": "Cabel",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cacabus",
+    "lemma": "Cacabus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cacedonium-tartarum",
+    "lemma": "Cacedonium tartarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cachimia",
+    "lemma": "Cachimia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cachimien",
+    "lemma": "Cachimien",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cacia-ferrea,",
+    "lemma": "Cacia ferrea,",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cadaria",
+    "lemma": "Cadaria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cadmia",
+    "lemma": "Cadmia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cadmia-Cypria",
+    "lemma": "Cadmia Cypria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cadmia-acinosa",
+    "lemma": "Cadmia acinosa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Casa-camphora",
+    "lemma": "Casa camphora",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cal",
+    "lemma": "Cal",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calamina",
+    "lemma": "Calamina",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcadis",
+    "lemma": "Calcadis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcanthos-vel-calcanthum-significat",
+    "lemma": "Calcanthos vel calcanthum significat",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalcanthorum",
+    "lemma": "Chalcanthorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcantum",
+    "lemma": "Calcantum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcaton",
+    "lemma": "Calcaton",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcitheos",
+    "lemma": "Calcitheos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caldar",
+    "lemma": "Caldar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcata",
+    "lemma": "Calcata",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcatar",
+    "lemma": "Calcatar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcithos",
+    "lemma": "Calcithos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calciteosa,-calcitheos",
+    "lemma": "Calciteosa, calcitheos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcocos",
+    "lemma": "Calcocos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calceus-siphonum",
+    "lemma": "Calceus siphonum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcitari",
+    "lemma": "Calcitari",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calendulae",
+    "lemma": "Calendulae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caleruth",
+    "lemma": "Caleruth",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cali",
+    "lemma": "Cali",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcidicum",
+    "lemma": "Calcidicum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Callecamenon,-Calcucementum-casticum",
+    "lemma": "Callecamenon, Calcucementum casticum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calmet,-cosmec",
+    "lemma": "Calmet , cosmec",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calufax",
+    "lemma": "Calufax",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calusa-Cyptas",
+    "lemma": "Calusa Cyptas",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcinatio",
+    "lemma": "Calcinatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcinatio-corporum",
+    "lemma": "Calcinatio corporum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcinatio-reuerberii",
+    "lemma": "Calcinatio reuerberii",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcinatio-specialis",
+    "lemma": "Calcinatio specialis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcinatum-maius",
+    "lemma": "Calcinatum maius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcinatum-minus",
+    "lemma": "Calcinatum minus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcitis,-calticis,-calcota",
+    "lemma": "Calcitis , calticis , calcota",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calcokeumenos",
+    "lemma": "Calcokeumenos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-artificialis",
+    "lemma": "Calor artificialis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-simplex",
+    "lemma": "Calor simplex",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-naturalis",
+    "lemma": "Calor naturalis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-cinerum",
+    "lemma": "Calor cinerum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-fimi",
+    "lemma": "Calor fimi",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-digerens",
+    "lemma": "Calor digerens",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-fortis",
+    "lemma": "Calor fortis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-impeditus",
+    "lemma": "Calor impeditus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-arenae,-medius",
+    "lemma": "Calor arenae, medius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-scobis",
+    "lemma": "Calor scobis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-Liber",
+    "lemma": "Calor Liber",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-carbonum",
+    "lemma": "Calor carbonum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-flammarum",
+    "lemma": "Calor flammarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calor-vesicae-leuis",
+    "lemma": "Calor vesicae leuis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calietre",
+    "lemma": "Calietre",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx",
+    "lemma": "Calx",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-exstincta",
+    "lemma": "Calx exstincta",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-fixa",
+    "lemma": "Calx fixa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-lignorum",
+    "lemma": "Calx lignorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Solis",
+    "lemma": "Calx Solis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Lunae",
+    "lemma": "Calx Lunae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Mercurii",
+    "lemma": "Calx Mercurii",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Veneris",
+    "lemma": "Calx Veneris",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Martis",
+    "lemma": "Calx Martis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Iouis",
+    "lemma": "Calx Iouis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-Saturni",
+    "lemma": "Calx Saturni",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-peregrinorum",
+    "lemma": "Calx peregrinorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-maior",
+    "lemma": "Calx maior",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-assata",
+    "lemma": "Calx assata",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Calx-peregrinorum",
+    "lemma": "Calx peregrinorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Camet,-Cames",
+    "lemma": "Camet, Cames",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caminus",
+    "lemma": "Caminus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cambill",
+    "lemma": "Cambill",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cambuca",
+    "lemma": "Cambuca",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Candis-longus",
+    "lemma": "Candis longus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Casenculi",
+    "lemma": "Casenculi",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canalis",
+    "lemma": "Canalis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canales-Cuniculi",
+    "lemma": "Canales Cuniculi",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canaliculus",
+    "lemma": "Canaliculus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cancelli",
+    "lemma": "Cancelli",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canales-recludere",
+    "lemma": "Canales recludere",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canalis",
+    "lemma": "Canalis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cauales-occludere",
+    "lemma": "Cauales occludere",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canalisculus",
+    "lemma": "Canalisculus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canales-aquarii",
+    "lemma": "Canales aquarii",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canalis-caput",
+    "lemma": "Canalis caput",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canalis-transuersus",
+    "lemma": "Canalis transuersus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cancinpericon",
+    "lemma": "Cancinpericon",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canna",
+    "lemma": "Canna",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canfora",
+    "lemma": "Canfora",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cantacon",
+    "lemma": "Cantacon",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Canutum",
+    "lemma": "Canutum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capillus",
+    "lemma": "Capillus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capistrum-auri",
+    "lemma": "Capistrum auri",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capricornus",
+    "lemma": "Capricornus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capsa",
+    "lemma": "Capsa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capsa-patens",
+    "lemma": "Capsa patens",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capsa-putealis",
+    "lemma": "Capsa putealis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capsae",
+    "lemma": "Capsae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Capitellum",
+    "lemma": "Capitellum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caput-areae",
+    "lemma": "Caput areae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caput-fodinarum",
+    "lemma": "Caput fodinarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caput-follis",
+    "lemma": "Caput follis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caput-pili",
+    "lemma": "Caput pili",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caput-canalis",
+    "lemma": "Caput canalis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carbones-coeli",
+    "lemma": "Carbones coeli",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carbunculus",
+    "lemma": "Carbunculus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carbunculus",
+    "lemma": "Carbunculus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cardanum",
+    "lemma": "Cardanum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cardis-Mars",
+    "lemma": "Cardis Mars",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cardonium-vinum",
+    "lemma": "Cardonium vinum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carena",
+    "lemma": "Carena",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carium-terrae",
+    "lemma": "Carium terrae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carmiti",
+    "lemma": "Carmiti",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Carsia",
+    "lemma": "Carsia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Casa",
+    "lemma": "Casa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caseus-praeparatus",
+    "lemma": "Caseus praeparatus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caspa",
+    "lemma": "Caspa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cassidbott",
+    "lemma": "Cassidbott",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Castellum",
+    "lemma": "Castellum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cassatum",
+    "lemma": "Cassatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catellus-fictilis",
+    "lemma": "Catellus fictilis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catena",
+    "lemma": "Catena",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catena-ductaria",
+    "lemma": "Catena ductaria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cathimia",
+    "lemma": "Cathimia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cathmia-affidia",
+    "lemma": "Cathmia affidia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cathmia",
+    "lemma": "Cathmia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cathmia-ferri",
+    "lemma": "Cathmia ferri",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catillus",
+    "lemma": "Catillus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catillus-ferreus",
+    "lemma": "Catillus ferreus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catillus-cinereus",
+    "lemma": "Catillus cinereus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catinus",
+    "lemma": "Catinus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catinus-arenarius",
+    "lemma": "Catinus arenarius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catinus-aereus",
+    "lemma": "Catinus aereus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catinus-ferreus",
+    "lemma": "Catinus ferreus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catma",
+    "lemma": "Catma",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catrobil",
+    "lemma": "Catrobil",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Catillus-cinereus",
+    "lemma": "Catillus cinereus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cathochites",
+    "lemma": "Cathochites",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caua",
+    "lemma": "Caua",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cauernulae-venarum",
+    "lemma": "Cauernulae venarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cauerna",
+    "lemma": "Cauerna",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cauernosum",
+    "lemma": "Cauernosum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Caurus",
+    "lemma": "Caurus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cauterium",
+    "lemma": "Cauterium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cardir",
+    "lemma": "Cardir",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cedria",
+    "lemma": "Cedria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cedue",
+    "lemma": "Cedue",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Celsa",
+    "lemma": "Celsa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cementare,-Cementiren,-stratificiren",
+    "lemma": "Cementare , Cementiren , stratificiren",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cementatio",
+    "lemma": "Cementatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cementum-autem",
+    "lemma": "Cementum autem",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cementerium",
+    "lemma": "Cementerium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cenificatum,-cinificatum,-calcinatum",
+    "lemma": "Cenificatum , cinificatum , calcinatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Ceniplam-vel-cenipotam",
+    "lemma": "Ceniplam vel cenipotam",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Centrum-oui",
+    "lemma": "Centrum oui",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cepa-porci",
+    "lemma": "Cepa porci",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerdac",
+    "lemma": "Cerdac",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cepini",
+    "lemma": "Cepini",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Ceratio",
+    "lemma": "Ceratio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerare",
+    "lemma": "Cerare",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerebrum",
+    "lemma": "Cerebrum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerebrum-arietis",
+    "lemma": "Cerebrum arietis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerebrum-bouis",
+    "lemma": "Cerebrum bouis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerober",
+    "lemma": "Cerober",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Ceruiculae-spiritus",
+    "lemma": "Ceruiculae spiritus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cerusa",
+    "lemma": "Cerusa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Ceraunia",
+    "lemma": "Ceraunia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chambar",
+    "lemma": "Chambar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Claces",
+    "lemma": "Claces",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalcos",
+    "lemma": "Chalcos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalcitis",
+    "lemma": "Chalcitis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalcute",
+    "lemma": "Chalcute",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalcopyrites",
+    "lemma": "Chalcopyrites",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalchos",
+    "lemma": "Chalchos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chalchitor",
+    "lemma": "Chalchitor",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chambelech",
+    "lemma": "Chambelech",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chaomantia",
+    "lemma": "Chaomantia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chaos",
+    "lemma": "Chaos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Charatra",
+    "lemma": "Charatra",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cheizi",
+    "lemma": "Cheizi",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chelae",
+    "lemma": "Chelae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chelidonia",
+    "lemma": "Chelidonia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chanchedest",
+    "lemma": "Chanchedest",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chelidonius-lapis",
+    "lemma": "Chelidonius lapis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chelonitis",
+    "lemma": "Chelonitis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chemia",
+    "lemma": "Chemia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Christi-pabulum",
+    "lemma": "Christi pabulum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chroma",
+    "lemma": "Chroma",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chrysocalcos",
+    "lemma": "Chrysocalcos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chrysocolla",
+    "lemma": "Chrysocolla",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chrysos-vel-Chrysion",
+    "lemma": "Chrysos vel Chrysion",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chrysolithum",
+    "lemma": "Chrysolithum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Chymus",
+    "lemma": "Chymus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cianum",
+    "lemma": "Cianum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cibatio",
+    "lemma": "Cibatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cibur-vel-chybur",
+    "lemma": "Cibur vel chybur",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cicatrisans",
+    "lemma": "Cicatrisans",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cicinum-oleum",
+    "lemma": "Cicinum oleum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinnabaris",
+    "lemma": "Cinnabaris",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinnabaris-metallicus",
+    "lemma": "Cinnabaris metallicus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinefactio",
+    "lemma": "Cinefactio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinis",
+    "lemma": "Cinis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinis-hederae",
+    "lemma": "Cinis hederae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinis-clauellatus",
+    "lemma": "Cinis clauellatus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinis-sarmentitius",
+    "lemma": "Cinis sarmentitius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cinificatum",
+    "lemma": "Cinificatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cineris-vena",
+    "lemma": "Cineris vena",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cineriucium",
+    "lemma": "Cineriucium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cineritium",
+    "lemma": "Cineritium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cimentare",
+    "lemma": "Cimentare",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Circius",
+    "lemma": "Circius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Circulatio",
+    "lemma": "Circulatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Circulatorium",
+    "lemma": "Circulatorium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Circulus",
+    "lemma": "Circulus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cisia-birota",
+    "lemma": "Cisia birota",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cissum",
+    "lemma": "Cissum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cist-vel-kist",
+    "lemma": "Cist vel kist",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Citrinatio",
+    "lemma": "Citrinatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Citrinulorum",
+    "lemma": "Citrinulorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Citrinulus",
+    "lemma": "Citrinulus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Citrinula",
+    "lemma": "Citrinula",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Clareta",
+    "lemma": "Clareta",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Clarum",
+    "lemma": "Clarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Claui-cornuti",
+    "lemma": "Claui cornuti",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Clepsydria",
+    "lemma": "Clepsydria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Clissus",
+    "lemma": "Clissus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Climia-Ereps",
+    "lemma": "Climia Ereps",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Clyssus",
+    "lemma": "Clyssus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coadunatio",
+    "lemma": "Coadunatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coagulatio",
+    "lemma": "Coagulatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coagulatio-frigida",
+    "lemma": "Coagulatio frigida",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coagulatio-calida",
+    "lemma": "Coagulatio calida",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coagulum",
+    "lemma": "Coagulum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coagulum-specificum",
+    "lemma": "Coagulum specificum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coagulum",
+    "lemma": "Coagulum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cobastoli",
+    "lemma": "Cobastoli",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cobatiorum-fumus",
+    "lemma": "Cobatiorum fumus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cochlea",
+    "lemma": "Cochlea",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cochleare",
+    "lemma": "Cochleare",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cochleare-album",
+    "lemma": "Cochleare album",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cocilio",
+    "lemma": "Cocilio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Codax",
+    "lemma": "Codax",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coelum",
+    "lemma": "Coelum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coenum",
+    "lemma": "Coenum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coementum",
+    "lemma": "Coementum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coeruleum",
+    "lemma": "Coeruleum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Ceoruleum",
+    "lemma": "Ceoruleum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cohob",
+    "lemma": "Cohob",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cohobatio",
+    "lemma": "Cohobatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cohos",
+    "lemma": "Cohos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Colcotar",
+    "lemma": "Colcotar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coleritium",
+    "lemma": "Coleritium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Colliquatio,-colliquefactio",
+    "lemma": "Colliquatio , colliquefactio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Colosonia",
+    "lemma": "Colosonia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coloritium",
+    "lemma": "Coloritium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coloratio-externa",
+    "lemma": "Coloratio externa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coloratio-per-calorem-solum",
+    "lemma": "Coloratio per calorem solum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coloratio-per-ablutionem",
+    "lemma": "Coloratio per ablutionem",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Colica",
+    "lemma": "Colica",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Collecta",
+    "lemma": "Collecta",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Collectam",
+    "lemma": "Collectam",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Combustio",
+    "lemma": "Combustio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cometz",
+    "lemma": "Cometz",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Comisdi",
+    "lemma": "Comisdi",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Comminutio",
+    "lemma": "Comminutio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Complexio",
+    "lemma": "Complexio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Compositio",
+    "lemma": "Compositio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Commissurae-saxorum",
+    "lemma": "Commissurae saxorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Compass",
+    "lemma": "Compass",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Concha",
+    "lemma": "Concha",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Conder",
+    "lemma": "Conder",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Confirmamentum",
+    "lemma": "Confirmamentum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Confortatiua",
+    "lemma": "Confortatiua",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Confusio",
+    "lemma": "Confusio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Congelatio",
+    "lemma": "Congelatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Congelatiua",
+    "lemma": "Congelatiua",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Congluten-vel-conglutinatum",
+    "lemma": "Congluten vel conglutinatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Conglutinatio",
+    "lemma": "Conglutinatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Constrictiua",
+    "lemma": "Constrictiua",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Consolidatiuum,-consolidatura",
+    "lemma": "Consolidatiuum , consolidatura",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Conseruantia",
+    "lemma": "Conseruantia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Constellatio",
+    "lemma": "Constellatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contersehe",
+    "lemma": "Contersehe",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contorsio",
+    "lemma": "Contorsio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contus",
+    "lemma": "Contus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contus-ferreus",
+    "lemma": "Contus ferreus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contus-fossorum",
+    "lemma": "Contus fossorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contus-tertius",
+    "lemma": "Contus tertius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contus-vncinatus",
+    "lemma": "Contus vncinatus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Contractio",
+    "lemma": "Contractio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Conum",
+    "lemma": "Conum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coquere",
+    "lemma": "Coquere",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cor",
+    "lemma": "Cor",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cor-suffla",
+    "lemma": "Cor suffla",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corallus,-Corallium,",
+    "lemma": "Corallus , Corallium ,",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corium-terrae",
+    "lemma": "Corium terrae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cornelius-vel-corneolus",
+    "lemma": "Cornelius vel corneolus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corocrum",
+    "lemma": "Corocrum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corpus",
+    "lemma": "Corpus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corpus-inuisibile",
+    "lemma": "Corpus inuisibile",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corpus-physicum",
+    "lemma": "Corpus physicum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corpora-supercoelestia",
+    "lemma": "Corpora supercoelestia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cornu-cerui-in-chymicis",
+    "lemma": "Cornu cerui in chymicis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corrosio",
+    "lemma": "Corrosio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Corrosina",
+    "lemma": "Corrosina",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cortex-aeris",
+    "lemma": "Cortex aeris",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cortex-maris",
+    "lemma": "Cortex maris",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Coruscus",
+    "lemma": "Coruscus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Craticula",
+    "lemma": "Craticula",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crater",
+    "lemma": "Crater",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Creta-nigra",
+    "lemma": "Creta nigra",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Creta-argentaria",
+    "lemma": "Creta argentaria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cribratorium",
+    "lemma": "Cribratorium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cribrum",
+    "lemma": "Cribrum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cribrum-rotundatum",
+    "lemma": "Cribrum rotundatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crocus-aurichalcum.",
+    "lemma": "Crocus aurichalcum.",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crucibulum",
+    "lemma": "Crucibulum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crucus-flos",
+    "lemma": "Crucus flos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cruor-salis",
+    "lemma": "Cruor salis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crustae",
+    "lemma": "Crustae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crystallus-lapis",
+    "lemma": "Crystallus lapis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Crystallus-multiplex",
+    "lemma": "Crystallus multiplex",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cubil",
+    "lemma": "Cubil",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuculatum",
+    "lemma": "Cuculatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cucurbita",
+    "lemma": "Cucurbita",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cucurbita-agrestis",
+    "lemma": "Cucurbita agrestis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cucurbita-coeca",
+    "lemma": "Cucurbita coeca",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Culatum",
+    "lemma": "Culatum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cultellus",
+    "lemma": "Cultellus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuneus",
+    "lemma": "Cuneus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuneus-ferreus",
+    "lemma": "Cuneus ferreus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuneus-subscus",
+    "lemma": "Cuneus subscus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuniculus",
+    "lemma": "Cuniculus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuperosa",
+    "lemma": "Cuperosa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuperosum",
+    "lemma": "Cuperosum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuppa",
+    "lemma": "Cuppa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuppa-parua",
+    "lemma": "Cuppa parua",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuprum",
+    "lemma": "Cuprum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cuprum-rubeum",
+    "lemma": "Cuprum rubeum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Curcuma",
+    "lemma": "Curcuma",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Curtuma,-Cursuma",
+    "lemma": "Curtuma, Cursuma",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Curuatura-rotae",
+    "lemma": "Curuatura rotae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cutis",
+    "lemma": "Cutis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cycima",
+    "lemma": "Cycima",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cydar",
+    "lemma": "Cydar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cymolea-vel-Chymolea",
+    "lemma": "Cymolea vel Chymolea",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cymolia",
+    "lemma": "Cymolia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cynnia,-Cymia,",
+    "lemma": "Cynnia , Cymia ,",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cynnabar",
+    "lemma": "Cynnabar",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Cyroenia",
+    "lemma": "Cyroenia",
+    "source": "ruland"
+  }
+]

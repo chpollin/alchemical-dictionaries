@@ -1,0 +1,3262 @@
+[
+  {
+    "id": "sommerhoff_wenuphar",
+    "lemma": "Wenuphar,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wigella",
+    "lemma": "Wigella,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weilion_nomen",
+    "lemma": "Weilion, nomen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiliacum",
+    "lemma": "Wiliacum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wvasac",
+    "lemma": "WVasac,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_w_amas_warras",
+    "lemma": "W. Amas, Warras,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wismadt_wismat",
+    "lemma": "Wismadt & Wismat,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weberdistel",
+    "lemma": "Weberdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_bergdistel",
+    "lemma": "Weisse Bergdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolherwurtz_oder_wei_eberwurtzel",
+    "lemma": "Wolherwurtz oder weiß Eberwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wassereppich",
+    "lemma": "Wassereppich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wassergilgen_oder_lilien",
+    "lemma": "Wassergilgen oder Lilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_gilgen_oder_lilien",
+    "lemma": "Weisse Gilgen oder Lilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weggra",
+    "lemma": "Weggraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wurm",
+    "lemma": "Wurm",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenklee",
+    "lemma": "Wiesenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldknoblauch",
+    "lemma": "Waldknoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_knoblauch",
+    "lemma": "Wilder Knoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasserkra_oder_brunnenkra",
+    "lemma": "Wasserkraͤß oder Brunnenkraͤß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegkr",
+    "lemma": "Wegkräß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenkr",
+    "lemma": "Wiesenkräß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegku_mmel_und_wiesen",
+    "lemma": "Wegkuͤmmel und Wiesen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wnabelsamen",
+    "lemma": "WNabelsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_peterlein",
+    "lemma": "Wilder Peterlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasserpfeffer",
+    "lemma": "Wasserpfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_poley",
+    "lemma": "Wilder Poley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wrabwurm",
+    "lemma": "WRabwurm",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinrauthen",
+    "lemma": "Weinrauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_rauthen",
+    "lemma": "Wilde Rauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ma_rrettig",
+    "lemma": "Wilder Maͤrrettig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rhabarbar",
+    "lemma": "Weisse Rhabarbar",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rosen",
+    "lemma": "Weisse Rosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_rosen",
+    "lemma": "Wilde Rosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wurtzel_oder_rhodiserwurtzel",
+    "lemma": "Wurtzel oder Rhodiserwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinstein_schwefel",
+    "lemma": "Weinstein-Schwefel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_schwefel_oder_salpeter",
+    "lemma": "Weisser Schwefel oder Salpeter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegsenff",
+    "lemma": "Wegsenff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_seuff",
+    "lemma": "Weisser Seuff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_senff",
+    "lemma": "Wilder Senff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_tannenbanm",
+    "lemma": "Weisser Tannenbanm",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_tannenbaum",
+    "lemma": "Wilder Tannenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_thanne",
+    "lemma": "Weisse Thanne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_thanne",
+    "lemma": "Wilde Thanne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachholder_oder_weckolderbaum_oder_staude",
+    "lemma": "WAchholder- oder Weckolderbaum oder Staude",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wacholderbeer",
+    "lemma": "Wacholderbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachholderhartz_oder_gummi",
+    "lemma": "Wachholderhartz oder Gummi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachholderholtz",
+    "lemma": "Wachholderholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachholdermoo",
+    "lemma": "Wachholdermooß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachholdermu",
+    "lemma": "Wachholdermuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachholder_hl",
+    "lemma": "Wachholderöhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachs",
+    "lemma": "Wachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachtel",
+    "lemma": "Wachtel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachtelfett_oder_schmaltz",
+    "lemma": "Wachtelfett oder Schmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wachtelfleisch",
+    "lemma": "Wachtelfleisch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wahrer_hermodactylus",
+    "lemma": "Wahrer Hermodactylus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wahre_mau_o_hrlein",
+    "lemma": "Wahre Maußoͤhrlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_walchtrepse",
+    "lemma": "Walchtrepse",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldbarth",
+    "lemma": "Waldbarth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldbintzen",
+    "lemma": "Waldbintzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldblume",
+    "lemma": "Waldblume",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldbuchsbaum",
+    "lemma": "Waldbuchsbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldcypressen",
+    "lemma": "Waldcypressen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_walddistel",
+    "lemma": "Walddistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_walddosten",
+    "lemma": "Walddosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldeschern",
+    "lemma": "Waldeschern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldesel",
+    "lemma": "Waldesel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldfahren",
+    "lemma": "Waldfahren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldfenchei",
+    "lemma": "Waldfenchei",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldfu_nfffingerkraut",
+    "lemma": "Waldfuͤnfffingerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldgei_barth",
+    "lemma": "Waldgeißbarth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldglo_cklein",
+    "lemma": "Waldgloͤcklein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldgra",
+    "lemma": "Waldgraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldhirschen",
+    "lemma": "Waldhirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldhoff",
+    "lemma": "Waldhoff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldholder_oder_hollunder",
+    "lemma": "Waldholder oder Hollunder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldisop",
+    "lemma": "Waldisop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldkirschen_schwartze",
+    "lemma": "Waldkirschen schwartze",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldknoblauch",
+    "lemma": "Waldknoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldko_hl",
+    "lemma": "Waldkoͤhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldkornblum",
+    "lemma": "Waldkornblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldkraut",
+    "lemma": "Waldkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldlattich",
+    "lemma": "Waldlattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldleberkraut",
+    "lemma": "Waldleberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldlilien_oder_lillgen",
+    "lemma": "Waldlilien oder Lillgen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldmangold",
+    "lemma": "Waldmangold",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldnachtschatten",
+    "lemma": "Waldnachtschatten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldnessel",
+    "lemma": "Waldnessel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldochsenzung_gro",
+    "lemma": "Waldochsenzung groß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldochsenzung_klein",
+    "lemma": "Waldochsenzung klein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldpoley",
+    "lemma": "Waldpoley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldr_ben_oder_leinen",
+    "lemma": "Waldräben oder Leinen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldrapuntzel",
+    "lemma": "Waldrapuntzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldrohr",
+    "lemma": "Waldrohr",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldro_schwanz",
+    "lemma": "Waldroßschwanz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldru_ben",
+    "lemma": "Waldruͤben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldsevenbaum",
+    "lemma": "Waldsevenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldstroh",
+    "lemma": "Waldstroh",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldwinde",
+    "lemma": "Waldwinde",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldwolffsmilch",
+    "lemma": "Waldwolffsmilch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_waldenser_thora",
+    "lemma": "Waldenser-Thora",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallendistel",
+    "lemma": "Wallendistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallsisch",
+    "lemma": "Wallsisch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallnu",
+    "lemma": "Wallnuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallran",
+    "lemma": "Wallran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallstein",
+    "lemma": "Wallstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallstroh",
+    "lemma": "Wallstroh",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wallwurtz",
+    "lemma": "Wallwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wandkraut",
+    "lemma": "Wandkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wandla_u",
+    "lemma": "Wandlaͤuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wandla_u_kraut",
+    "lemma": "Wandlaͤußkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wannenwehr_ein_vogel",
+    "lemma": "Wannenwehr ein Vogel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wantzendill",
+    "lemma": "Wantzendill",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wantzenkraut",
+    "lemma": "Wantzenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wartzenkraut",
+    "lemma": "Wartzenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wartzen_wegwarthen",
+    "lemma": "Wartzen-Wegwarthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_anipffer",
+    "lemma": "Wasser-Anipffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_angelick",
+    "lemma": "Wasser-Angelick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_apt",
+    "lemma": "Wasser-Apt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_basilien",
+    "lemma": "Wasser-Basilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_bathengel",
+    "lemma": "Wasser-Bathengel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_benedicten",
+    "lemma": "Wasser-Benedicten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_bethonien",
+    "lemma": "Wasser-Bethonien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_bintzen",
+    "lemma": "Wasser-Bintzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasserbung",
+    "lemma": "Wasserbung",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_deumenthen",
+    "lemma": "Wasser-Deumenthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_dosten",
+    "lemma": "Wasser-Dosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_eppig",
+    "lemma": "Wasser-Eppig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_eybisch",
+    "lemma": "Wasser-Eybisch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_fenchel",
+    "lemma": "Wasser-Fenchel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_filipendel",
+    "lemma": "Wasser-Filipendel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_fu_nfffingerkraut",
+    "lemma": "Wasser-Fuͤnfffingerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_gall",
+    "lemma": "Wasser-Gall",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_gama_nderlein",
+    "lemma": "Wasser-Gamaͤnderlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_garb",
+    "lemma": "Wasser-Garb",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_hanenfu",
+    "lemma": "Wasser-Hanenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_hanenfu",
+    "lemma": "Wasser-Hanenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_hederich",
+    "lemma": "Wasser-Hederich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_helmkraut",
+    "lemma": "Wasser-Helmkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_kie_marcasith_oder_wi_muth",
+    "lemma": "Wasser-Kieß / Marcasith oder Wißmuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_kirschen",
+    "lemma": "Wasser-Kirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_knoblauch",
+    "lemma": "Wasser-Knoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_kolben",
+    "lemma": "Wasser-Kolben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_kra_ssen",
+    "lemma": "Wasser-Kraͤssen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_lavendel",
+    "lemma": "Wasser-Lavendel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_leberblu_mlein",
+    "lemma": "Wasser-Leberbluͤmlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_leberkraut",
+    "lemma": "Wasser-Leberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_lilien",
+    "lemma": "Wasser-Lilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_linsen",
+    "lemma": "Wasser-Linsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_mohen",
+    "lemma": "Wasser-Mohen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_ma_rgen",
+    "lemma": "Wasser-Maͤrgen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_marck",
+    "lemma": "Wasser-Marck",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_meichen",
+    "lemma": "Wasser-Meichen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_merck",
+    "lemma": "Wasser-Merck",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_moo",
+    "lemma": "Wasser-Mooß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_morellen",
+    "lemma": "Wasser-Morellen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_mu_nz",
+    "lemma": "Wasser-Muͤnz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_nept",
+    "lemma": "Wasser-Nept",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_nu",
+    "lemma": "Wasser-Nuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_peterlein",
+    "lemma": "Wasser-Peterlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_pfeffer",
+    "lemma": "Wasser-Pfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_poley",
+    "lemma": "Wasser-Poley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_pungen",
+    "lemma": "Wasser-Pungen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_rauthen",
+    "lemma": "Wasser-Rauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_rettich",
+    "lemma": "Wasser-Rettich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_rohr",
+    "lemma": "Wasser-Rohr",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_saamkraut",
+    "lemma": "Wasser-Saamkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_schierling",
+    "lemma": "Wasser-Schierling",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_schlange",
+    "lemma": "Wasser-Schlange",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_schlangenkraut",
+    "lemma": "Wasser-Schlangenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_schwalbe",
+    "lemma": "Wasser-Schwalbe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_schwertel",
+    "lemma": "Wasser-Schwertel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_senff",
+    "lemma": "Wasser-Senff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_spargen",
+    "lemma": "Wasser-Spargen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_steinbrech",
+    "lemma": "Wasser-Steinbrech",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_steltze",
+    "lemma": "Wasser-Steltze",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_sternkrant",
+    "lemma": "Wasser-Sternkrant",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_silber",
+    "lemma": "Wasser-Silber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_tannen",
+    "lemma": "Wasser-Tannen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_veil",
+    "lemma": "Wasser-Veil",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_violen_oder_wasser_veil",
+    "lemma": "Wasser-Violen oder Wasser-Veil",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_wiedersto",
+    "lemma": "Wasser-Wiederstoß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wasser_wundkraut",
+    "lemma": "Wasser-Wundkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_webedistel",
+    "lemma": "Webedistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weberkarten",
+    "lemma": "Weberkarten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegdistel",
+    "lemma": "Wegdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegdornbeer",
+    "lemma": "Wegdornbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weggra",
+    "lemma": "Weggraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegholder",
+    "lemma": "Wegholder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegkressen",
+    "lemma": "Wegkressen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegku_mmel",
+    "lemma": "Wegkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weglattich",
+    "lemma": "Weglattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weglugen",
+    "lemma": "Weglugen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegsenff",
+    "lemma": "Wegsenff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegsterndistel",
+    "lemma": "Wegsterndistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegstroh",
+    "lemma": "Wegstroh",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegtridt",
+    "lemma": "Wegtridt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegwarten",
+    "lemma": "Wegwarten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegwarten",
+    "lemma": "Wegwarten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegwei",
+    "lemma": "Wegweiß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wegerig",
+    "lemma": "Wegerig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weiberfist",
+    "lemma": "Weiberfist",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weiche_ambra",
+    "lemma": "Weiche Ambra",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weicher_andorn",
+    "lemma": "Weicher Andorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weicher_judenweyrauch",
+    "lemma": "Weicher Judenweyrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weich_pech",
+    "lemma": "Weich Pech",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weicher_storar",
+    "lemma": "Weicher Storar",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weichselhartz_oder_kirschengummi",
+    "lemma": "Weichselhartz oder Kirschengummi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weichselkirschen",
+    "lemma": "Weichselkirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weidt_oder_weydt",
+    "lemma": "Weidt oder Weydt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weidtaschen",
+    "lemma": "Weidtaschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weidblau",
+    "lemma": "Weidblau",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weiden",
+    "lemma": "Weiden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weidenwindten",
+    "lemma": "Weidenwindten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weiderich",
+    "lemma": "Weiderich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weiderich",
+    "lemma": "Weiderich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weihe",
+    "lemma": "Weihe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wein",
+    "lemma": "Wein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinbeer",
+    "lemma": "Weinbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinbletter",
+    "lemma": "Weinbletter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinfaren",
+    "lemma": "Weinfaren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weingartenfu",
+    "lemma": "Weingartenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weingartengru_n",
+    "lemma": "Weingartengruͤn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weingartenwinden",
+    "lemma": "Weingartenwinden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinkraut",
+    "lemma": "Weinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinlegelein",
+    "lemma": "Weinlegelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinmu_cken",
+    "lemma": "Weinmuͤcken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinrauthen",
+    "lemma": "Weinrauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinreben",
+    "lemma": "Weinreben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weinstein",
+    "lemma": "Weinstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_ackerschnabelkraut",
+    "lemma": "Weiß Ackerschnabelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_alberbaum",
+    "lemma": "Weiß Alberbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_andorn",
+    "lemma": "Weisser Andorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_aphodillwurtzel",
+    "lemma": "Weisse Aphodillwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_arant",
+    "lemma": "Weisser Arant",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_arsenick",
+    "lemma": "Weisser Arsenick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_augstein",
+    "lemma": "Weisser Augstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_aurin",
+    "lemma": "Weisser Aurin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_aydstein",
+    "lemma": "Weisser Aydstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_bathengel",
+    "lemma": "Weisser Bathengel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_been",
+    "lemma": "Weisse Been",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_bergdistel",
+    "lemma": "Weisse Bergdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_bethonien",
+    "lemma": "Weisse Bethonien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_beyfu",
+    "lemma": "Weisser Beyfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_bilsamkraut",
+    "lemma": "Weiß Bilsamkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_bley",
+    "lemma": "Weiß Bley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_bleywei",
+    "lemma": "Weiß Bleyweiß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_bohnen",
+    "lemma": "Weisse Bohnen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_bohnen_von_america",
+    "lemma": "Weisse Bohnen von America",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_brunet_ro_slein",
+    "lemma": "Weisse Brunet-Roͤslein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_brustbeerlein",
+    "lemma": "Weisse Brustbeerlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_buch",
+    "lemma": "Weisser Buch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_calmus",
+    "lemma": "Weisser Calmus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_candelzucker",
+    "lemma": "Weisser Candelzucker",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_cranz_hanenfu",
+    "lemma": "Weisser Cranz-Hanenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_creutzblum",
+    "lemma": "Weisse Creutzblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_diptam_und_eschernwurtz",
+    "lemma": "Weisser Diptam und Eschernwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_eberwurtz",
+    "lemma": "Weisse Eberwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_eberwurtz_mit_stenglen",
+    "lemma": "Weiß Eberwurtz mit Stenglen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_ebheu",
+    "lemma": "Weiß Ebheu",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_endivien",
+    "lemma": "Weiß Endivien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_engelblum",
+    "lemma": "Weiß Engelblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_englischer_wilder_balsam",
+    "lemma": "Weisser Englischer wilder Balsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_entzian",
+    "lemma": "Weisse Entzian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_erdbeer",
+    "lemma": "Weisse Erdbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_erdrauch",
+    "lemma": "Weisser Erdrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_feldzwiebel",
+    "lemma": "Weisse Feldzwiebel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_flockenblum",
+    "lemma": "Weisse Flockenblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_fluthgra",
+    "lemma": "Weiß Fluthgraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_fu_nfffingerkraut",
+    "lemma": "Weiß Fuͤnfffingerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_gartendistel",
+    "lemma": "Weisser Gartendistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_gartenscariol_oder_endivien",
+    "lemma": "Weisser Gartenscariol oder Endivien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_gartensenff",
+    "lemma": "Weisser Gartensenff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_gartensaffran",
+    "lemma": "Weisser Gartensaffran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_gefu_llte_herbstrosen",
+    "lemma": "Weisse gefuͤllte Herbstrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_gefu_llte_ma_lieberger",
+    "lemma": "Weisse gefuͤllte Maßlieberger",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_gefu_llte_negelein",
+    "lemma": "Weisse gefuͤllte Negelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_gefu_llte_po_onienrosen",
+    "lemma": "Weisse gefuͤllte Poͤonienrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_hal_kraut",
+    "lemma": "Weiß Halßkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_hanenfu",
+    "lemma": "Weisser Hanenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_haasenko_hl",
+    "lemma": "Weisser Haasenkoͤhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_heuhechel",
+    "lemma": "Weisser Heuhechel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_hirschwurtz",
+    "lemma": "Weisse Hirschwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_hirschwurtz",
+    "lemma": "Weisse Hirschwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_hornungsblum",
+    "lemma": "Weisse Hornungsblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_hu_ttenrauch",
+    "lemma": "Weisser Huͤttenrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_indianischer_balsam",
+    "lemma": "Weisser Indianischer Balsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_ingber",
+    "lemma": "Weisser Ingber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_johannis_tra_ublein",
+    "lemma": "Weisse Johannis-Traͤublein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_katzenklee",
+    "lemma": "Weisser Katzenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_und_kleiner_wintergr_n",
+    "lemma": "Weisser und kleiner Wintergrün",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_ko_hl",
+    "lemma": "Weisser Koͤhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_lilien",
+    "lemma": "Weisse Lilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_magsamen_oder_weisser_mohn",
+    "lemma": "Weisser Magsamen oder weisser Mohn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_mangoldt",
+    "lemma": "Weisser Mangoldt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_marienglo_cklein",
+    "lemma": "Weisse Mariengloͤcklein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_maulbeer",
+    "lemma": "Weisse Maulbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_maulbeerbaum",
+    "lemma": "Weisser Maulbeerbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_mertzenviole",
+    "lemma": "Weisse Mertzenviole",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_meyer",
+    "lemma": "Weisser Meyer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_mielten",
+    "lemma": "Weisse Mielten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_mo_hren",
+    "lemma": "Weisse Moͤhren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_nachtschatten",
+    "lemma": "Weisser Nachtschatten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_narcissenro_slein",
+    "lemma": "Weisse Narcissenroͤslein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_nicht",
+    "lemma": "Weisser Nicht",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_nie_wurtz",
+    "lemma": "Weisse Nießwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_oleander",
+    "lemma": "Weisser Oleander",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_pappelbaum",
+    "lemma": "Weisser Pappelbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_pastinacken",
+    "lemma": "Weisse Pastinacken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_pfeffer",
+    "lemma": "Weisser Pfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_pflaumen_negelein",
+    "lemma": "Weisse Pflaumen-Negelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_prumellen",
+    "lemma": "Weisse Prumellen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_quendel",
+    "lemma": "Weisser Quendel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rapuntzel_wilde",
+    "lemma": "Weisse Rapuntzel wilde",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rebe",
+    "lemma": "Weisse Rebe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_rettig",
+    "lemma": "Weisser Rettig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rhabarbar",
+    "lemma": "Weisse Rhabarbar",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rheynfahrn",
+    "lemma": "Weisse Rheynfahrn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_rosen",
+    "lemma": "Weisse Rosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_ro_fenchel",
+    "lemma": "Weisser Roßfenchel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_ru_ben",
+    "lemma": "Weisse Ruͤben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_santel",
+    "lemma": "Weisser Santel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_schabenkraut",
+    "lemma": "Weiß Schabenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_schadheyl",
+    "lemma": "Weiß Schadheyl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_scharlach",
+    "lemma": "Weisser Scharlach",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_schwertel",
+    "lemma": "Weisser Schwertel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_seeblum",
+    "lemma": "Weisse Seeblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_senff",
+    "lemma": "Weisser Senff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_seiffen_erde",
+    "lemma": "Weisse Seiffen Erde",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_spitziger_rheynfahren",
+    "lemma": "Weisser spitziger Rheynfahren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_steinbrech",
+    "lemma": "Weisser Steinbrech",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_tannen",
+    "lemma": "Weisse Tannen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_taubenkropff_oder_erdrauch",
+    "lemma": "Weisser Taubenkropff oder Erdrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_thymel",
+    "lemma": "Weisser Thymel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_traubel_hyacinth",
+    "lemma": "Weisser Traubel Hyacinth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_turbith",
+    "lemma": "Weisser Turbith",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_violen",
+    "lemma": "Weisse Violen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_und_kleiner_wintergr_n",
+    "lemma": "Weisser und kleiner Wintergrün",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_wachs",
+    "lemma": "Weiß Wachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_wallwurtz",
+    "lemma": "Weisse Wallwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_wegdistel",
+    "lemma": "Weisse Wegdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_wermuth",
+    "lemma": "Weisser Wermuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_wiederthon",
+    "lemma": "Weisser Wiederthon",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_wiesenklee",
+    "lemma": "Weisser Wiesenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_wilde_feder_oder_pflaum_negelein",
+    "lemma": "Weisse wilde Feder-oder Pflaum-Negelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_wilde_steinnegelein",
+    "lemma": "Weisse wilde Steinnegelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_winden",
+    "lemma": "Weisse Winden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_und_kleiner_wintergru_n",
+    "lemma": "Weisser und kleiner Wintergruͤn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_winterviole",
+    "lemma": "Weisse Winterviole",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_wolle",
+    "lemma": "Weisse Wolle",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wei_wurtz",
+    "lemma": "Weißwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisse_zwiebel",
+    "lemma": "Weisse Zwiebel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weirelhartz",
+    "lemma": "Weirelhartz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weirelkirschen",
+    "lemma": "Weirelkirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weiren",
+    "lemma": "Weiren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weitzen",
+    "lemma": "Weitzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisenspeltze",
+    "lemma": "Weisenspeltze",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weitzenwalch",
+    "lemma": "Weitzenwalch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wellsamen",
+    "lemma": "Wellsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_baldrian",
+    "lemma": "Welscher Baldrian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_ba_renklau",
+    "lemma": "Welscher Baͤrenklau",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_bimbinell_oder_pimpinell",
+    "lemma": "Welscher Bimbinell oder Pimpinell",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_bingelkraut_ma_nnlein",
+    "lemma": "Welsch Bingelkraut Maͤnnlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_bingelkraut_weiblein",
+    "lemma": "Welsch Bingelkraut Weiblein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_bohne",
+    "lemma": "Welsche Bohne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_bohnenbaum",
+    "lemma": "Welscher Bohnenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_buchsdorn",
+    "lemma": "Welscher Buchsdorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_distel",
+    "lemma": "Welscher Distel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_eychenlaub",
+    "lemma": "Welsch Eychenlaub",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_eisenkraut",
+    "lemma": "Welsch Eisenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_fenchel",
+    "lemma": "Welscher Fenchel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_flo_hekraut",
+    "lemma": "Welsch Floͤhekraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_harnkraut",
+    "lemma": "Welsch Harnkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_heydelbeer",
+    "lemma": "Welsche Heydelbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_heydelbeerstaude",
+    "lemma": "Welsche Heydelbeerstaude",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_hirschen",
+    "lemma": "Welscher Hirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_kirschen",
+    "lemma": "Welsche Kirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_ko_rffel",
+    "lemma": "Welscher Koͤrffel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_korn",
+    "lemma": "Welsch Korn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_krebsblum",
+    "lemma": "Welsche Krebsblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_ku_mmel",
+    "lemma": "Welscher Kuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_lauge",
+    "lemma": "Welsche Lauge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsches_liebsto_ckel",
+    "lemma": "Welsches Liebstoͤckel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_linsen",
+    "lemma": "Welsche Linsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_mohnkraut",
+    "lemma": "Welsch Mohnkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_negeleinkraut",
+    "lemma": "Welsch Negeleinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_ressel",
+    "lemma": "Welsche Ressel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_nie_wurtzel",
+    "lemma": "Welsche Nießwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_nu",
+    "lemma": "Welsche-Nuͤß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_ochsenzunge",
+    "lemma": "Welsche Ochsenzunge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_osterluzey",
+    "lemma": "Welsche Osterluzey",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_pimpernu_lein",
+    "lemma": "Welsche Pimpernuͤßlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_pimpinellen_oder_bibinellen",
+    "lemma": "Welsche Pimpinellen oder Bibinellen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_purpurroth",
+    "lemma": "Welsch Purpurroth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_quendel",
+    "lemma": "Welscher Quendel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_scharlach",
+    "lemma": "Welscher Scharlach",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_schlutten",
+    "lemma": "Welsche Schlutten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_senetbletter",
+    "lemma": "Welsche Senetbletter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_seydelbost",
+    "lemma": "Welsch Seydelbost",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_stabwurtz",
+    "lemma": "Welsch Stabwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_steinbrech",
+    "lemma": "Welsch Steinbrech",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_sta_chaskraut",
+    "lemma": "Welsch Staͤchaskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_silberkraut",
+    "lemma": "Welsch Silberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_thymian",
+    "lemma": "Welscher Thymian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_veil_oder_viole",
+    "lemma": "Welsche Veil oder Viole",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsche_veil_oder_violwurtzel",
+    "lemma": "Welsche Veil oder Violwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_wegerich",
+    "lemma": "Welscher Wegerich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_wei_fu_nfffingerkraut",
+    "lemma": "Welsch weiß Fuͤnfffingerkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welscher_wermuth",
+    "lemma": "Welscher Wermuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_welsch_zeyland_oder_seydelbast",
+    "lemma": "Welsch Zeyland oder Seydelbast",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wendewurtzel",
+    "lemma": "Wendewurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wendischer_erdrauch_oder_taubenkropff",
+    "lemma": "Wendischer Erdrauch oder Taubenkropff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wendwurtzel",
+    "lemma": "Wendwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weniggru_n",
+    "lemma": "Weniggruͤn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wentel",
+    "lemma": "Wentel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_werbeldost",
+    "lemma": "Werbeldost",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wermuth",
+    "lemma": "Wermuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wespe",
+    "lemma": "Wespe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wetterroslein",
+    "lemma": "Wetterroslein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weydasche",
+    "lemma": "Weydasche",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyden",
+    "lemma": "Weyden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weye",
+    "lemma": "Weye",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyekraut",
+    "lemma": "Weyekraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyenfu",
+    "lemma": "Weyenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyerkolben",
+    "lemma": "Weyerkolben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyer_nu",
+    "lemma": "Weyer nuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyerpeterlein",
+    "lemma": "Weyerpeterlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyerrosen",
+    "lemma": "Weyerrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weygra",
+    "lemma": "Weygraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyrauch",
+    "lemma": "Weyrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyrauchkraut",
+    "lemma": "Weyrauchkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyerrauch_rinden",
+    "lemma": "Weyerrauch Rinden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyrauchwurtz",
+    "lemma": "Weyrauchwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_calitzelstein",
+    "lemma": "Weisser Calitzelstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wetzstein",
+    "lemma": "Wetzstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wetzsteinkraut",
+    "lemma": "Wetzsteinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wickbohnen",
+    "lemma": "Wickbohnen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wicken",
+    "lemma": "Wicken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_widersto",
+    "lemma": "Widerstoß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_widhopff",
+    "lemma": "Widhopff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wieder",
+    "lemma": "Wieder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiederthon",
+    "lemma": "Wiederthon",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiegenkraut",
+    "lemma": "Wiegenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wieselein",
+    "lemma": "Wieselein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenbethonien",
+    "lemma": "Wiesenbethonien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenblum",
+    "lemma": "Wiesenblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenklee",
+    "lemma": "Wiesenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenk_hl",
+    "lemma": "Wiesenköhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenkre",
+    "lemma": "Wiesenkreß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenk_mmel",
+    "lemma": "Wiesenkümmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenlattich",
+    "lemma": "Wiesenlattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenmangoldt",
+    "lemma": "Wiesenmangoldt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesenrauthen",
+    "lemma": "Wiesenrauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesensta_ndelwurtz_gro_und_klein",
+    "lemma": "Wiesenstaͤndelwurtz groß und klein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wiesen_zeitlosen",
+    "lemma": "Wiesen Zeitlosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wie_muth",
+    "lemma": "Wießmuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ampffer",
+    "lemma": "Wilder Ampffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_angelick",
+    "lemma": "Wilde Angelick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_aurin",
+    "lemma": "Wilder Aurin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_balsam",
+    "lemma": "Wilder Balsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_basilien",
+    "lemma": "Wilde Basilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_bingelkraut_ma_nnlein_und_weiblein",
+    "lemma": "Wild Bingelkraut Maͤnnlein und Weiblein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_bohne",
+    "lemma": "Wilde Bohne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_bortzelkraut",
+    "lemma": "Wild Bortzelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_brustbeerlein",
+    "lemma": "Wild Brustbeerlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_calmus",
+    "lemma": "Wilder Calmus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_capern",
+    "lemma": "Wilde Capern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_cucumern",
+    "lemma": "Wilde Cucumern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_cypressen",
+    "lemma": "Wilde Cypressen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_dannenbaum",
+    "lemma": "Wilder Dannenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_dill",
+    "lemma": "Wilder Dill",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_dinckel",
+    "lemma": "Wilder Dinckel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_distel",
+    "lemma": "Wilder Distel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_dosten",
+    "lemma": "Wilde Dosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_durchwachs",
+    "lemma": "Wilder Durchwachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_eber_oder_schwein",
+    "lemma": "Wilder Eber oder Schwein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ebers_oder_schweinszahn",
+    "lemma": "Wilder Ebers- oder Schweinszahn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_endivien",
+    "lemma": "Wilder Endivien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_eppig",
+    "lemma": "Wilder Eppig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_kahren",
+    "lemma": "Wilder Kahren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_feldsaffran",
+    "lemma": "Wilder Feldsaffran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_fenig",
+    "lemma": "Wilder Fenig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_feigbohne",
+    "lemma": "Wilde Feigbohne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_fichten",
+    "lemma": "Wilde Fichten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_flachs",
+    "lemma": "Wilder Flachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_flachs_mit_gelben_blumen",
+    "lemma": "Wilder Flachs mit gelben Blumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_flachs_mit_himmelblauen_blumen",
+    "lemma": "Wilder Flachs mit himmelblauen Blumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_fa_numgr_cum",
+    "lemma": "Wilder Faͤnumgräcum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_freysemkraut",
+    "lemma": "Wild Freysemkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_fuchsschwanz",
+    "lemma": "Wilder Fuchsschwanz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_galgandt",
+    "lemma": "Wilder Galgandt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_galgengra",
+    "lemma": "Wild Galgengraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_garben",
+    "lemma": "Wilde Garben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_gartensaffran",
+    "lemma": "Wilder Gartensaffran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_gehornter_magsamen_oder_mohn",
+    "lemma": "Wilder gehornter Magsamen oder Mohn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_goldblum",
+    "lemma": "Wilde Goldblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_habern",
+    "lemma": "Wilder Habern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_haasenklee",
+    "lemma": "Wilder Haasenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_haasenko_hl",
+    "lemma": "Wilder Haasenkoͤhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_hau_wurtz",
+    "lemma": "Wilde Haußwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_hirschhorn",
+    "lemma": "Wild Hirschhorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_hirtzhorn",
+    "lemma": "Wild Hirtzhorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_hollunder",
+    "lemma": "Wilder Hollunder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_hopffenkraut",
+    "lemma": "Wild Hopffenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_hundsku_rbes",
+    "lemma": "Wilder Hundskuͤrbes",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_kartendistel",
+    "lemma": "Wild Kartendistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_katze",
+    "lemma": "Wilde Katze",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_katzenschmaltz",
+    "lemma": "Wild Katzenschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_kirschen",
+    "lemma": "Wilde Kirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_klee",
+    "lemma": "Wilder Klee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_knoblauch",
+    "lemma": "Wilder Knoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ko_hl",
+    "lemma": "Wilder Koͤhl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ko_rffel",
+    "lemma": "Wilder Koͤrffel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_kra_henfu",
+    "lemma": "Wilder Kraͤhenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_kressen",
+    "lemma": "Wilder Kressen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_k_mmel",
+    "lemma": "Wilder Kümmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ku_mmel_mit_langen_ho_rnlein",
+    "lemma": "Wilder Kuͤmmel mit langen Hoͤrnlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ku_rbes",
+    "lemma": "Wilder Kuͤrbes",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_lattich",
+    "lemma": "Wilder Lattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_lauch",
+    "lemma": "Wilder Lauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_lorbeerbaum",
+    "lemma": "Wilder Lorbeerbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_mangoldt",
+    "lemma": "Wilder Mangoldt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_meelbaum",
+    "lemma": "Wilder Meelbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_meerhirschen",
+    "lemma": "Wilder Meerhirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_meerrettig",
+    "lemma": "Wilder Meerrettig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_melissen",
+    "lemma": "Wilde Melissen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_melten",
+    "lemma": "Wilde Melten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_metram",
+    "lemma": "Wilder Metram",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_mayer_oder_ma_yer",
+    "lemma": "Wilder Mayer oder Maͤyer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_mielten",
+    "lemma": "Wilde Mielten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_mo_hren",
+    "lemma": "Wilde Moͤhren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_morellen",
+    "lemma": "Wilde Morellen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_m_ng",
+    "lemma": "Wilde Müng",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_mutterkraut",
+    "lemma": "Wild Mutterkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_negelein",
+    "lemma": "Wild Negelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_nardus",
+    "lemma": "Wilder Nardus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_ochsenzunge",
+    "lemma": "Wilde Ochsenzunge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_ochsenzunge_mit_weissen_blumen",
+    "lemma": "Wilde Ochsenzunge mit weissen Blumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_oelbaum",
+    "lemma": "Wilder Oelbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilden_oder_aethiopischen_oelbaums_gummi",
+    "lemma": "Wilden oder Aethiopischen Oelbaums-Gummi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_pappeln_eibisch_oder_ibisch",
+    "lemma": "Wilde Pappeln- Eibisch oder Ibisch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_pastinachen",
+    "lemma": "Wilde Pastinachen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_perthram_oder_bertram",
+    "lemma": "Wilder Perthram oder Bertram",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_petersilgen",
+    "lemma": "Wilde Petersilgen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_pfenig",
+    "lemma": "Wilder Pfenig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_pimpernu_lein",
+    "lemma": "Wilde Pimpernuͤßlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_poley",
+    "lemma": "Wilder Poley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_portugalischer_lorbeerhaum",
+    "lemma": "Wilder Portugalischer Lorbeerhaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_raucken",
+    "lemma": "Wilde Raucken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_rauthen",
+    "lemma": "Wilde Rauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_rosen",
+    "lemma": "Wilde Rosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_ro_marin",
+    "lemma": "Wilder Roßmarin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_r_the",
+    "lemma": "Wilde Röͤthe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_r_ben",
+    "lemma": "Wilde Rüben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_runder_galgand",
+    "lemma": "Wilder runder Galgand",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_saffran",
+    "lemma": "Wilder Saffran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_salbey",
+    "lemma": "Wilde Salbey",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_st_johannis_brod",
+    "lemma": "Wild St. Johannis-Brod",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_scharlach",
+    "lemma": "Wilder Scharlach",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_schwartzer_coriander",
+    "lemma": "Wilder schwartzer Coriander",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_schwein",
+    "lemma": "Wild Schwein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_schweinschmaltz",
+    "lemma": "Wild Schweinschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_schweinsz_hn",
+    "lemma": "Wilde Schweinszähn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_senff",
+    "lemma": "Wilder Senff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_sisymber",
+    "lemma": "Wilder Sisymber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_spargen",
+    "lemma": "Wilde Spargen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_sperberbaum",
+    "lemma": "Wilder Sperberbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_spitziger_rheynfahren",
+    "lemma": "Wilder spitziger Rheynfahren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wild_ta_scheikraut",
+    "lemma": "Wild Taͤscheikraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_vehedistel",
+    "lemma": "Wilde Vehedistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_veil_oder_violwurtzel",
+    "lemma": "Wilde Veil oder Violwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_wachholder",
+    "lemma": "Wilder Wachholder",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_weinstock",
+    "lemma": "Wilder Weinstock",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_weyden_oder_wilder_weyd",
+    "lemma": "Wilde Weyden oder wilder Weyd",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_weisser_senff",
+    "lemma": "Wilder weisser Senff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_wicken",
+    "lemma": "Wilde Wicken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_zirnenbaum",
+    "lemma": "Wilder Zirnenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilde_zisererbsen",
+    "lemma": "Wilde Zisererbsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilder_zittwer",
+    "lemma": "Wilder Zittwer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wilgen",
+    "lemma": "Wilgen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_windenkraut",
+    "lemma": "Windenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winde",
+    "lemma": "Winde",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_windischer_storckenschnabel",
+    "lemma": "Windischer Storckenschnabel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winde_r_slein",
+    "lemma": "Winde Röslein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterblum",
+    "lemma": "Winterblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterborras",
+    "lemma": "Winterborras",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wintergr_n",
+    "lemma": "Wintergrün",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winter_jsop",
+    "lemma": "Winter Jsop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterkirschen",
+    "lemma": "Winterkirschen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterk_nig",
+    "lemma": "Winterkönig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterpflantzen",
+    "lemma": "Winterpflantzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterrosen",
+    "lemma": "Winterrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_winterveigel_oder_viole",
+    "lemma": "Winterveigel oder Viole",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wi_muth",
+    "lemma": "Wißmuth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wittewall_ein_vogel",
+    "lemma": "Wittewall ein Vogel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlgemuth_oder_dosten",
+    "lemma": "Wohlgemuth oder Dosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chender_asandt",
+    "lemma": "Wohlruͤchender Asandt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohr_chender_calmus",
+    "lemma": "Wohrüchender Calmus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chend_filtzkraut",
+    "lemma": "Wohlruͤchend Filtzkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chender_klee",
+    "lemma": "Wohlruͤchender Klee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chende_negelein",
+    "lemma": "Wohlruͤchende Negelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chend_purpurfarb_harnkraut",
+    "lemma": "Wohlruͤchend purpurfarb Harnkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chende_schlu_sselblum",
+    "lemma": "Wohlruͤchende Schluͤsselblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohtru_chender_spick",
+    "lemma": "Wohtruͤchender Spick",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chender_thymian",
+    "lemma": "Wohlruͤchender Thymian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlru_chend_wollkraut",
+    "lemma": "Wohlruͤchend Wollkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wohlverley",
+    "lemma": "Wohlverley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolff",
+    "lemma": "Wolff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_woiffs_aschbohne",
+    "lemma": "Woiffs Aschbohne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsbeer",
+    "lemma": "Wolffsbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsda_rmer",
+    "lemma": "Wolffsdaͤrmer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsfist",
+    "lemma": "Wolffsfist",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsfu",
+    "lemma": "Wolffsfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsgifft",
+    "lemma": "Wolffsgifft",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsmilch",
+    "lemma": "Wolffsmilch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsschaden",
+    "lemma": "Wolffsschaden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsschmaltz",
+    "lemma": "Wolffsschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffsstrehl",
+    "lemma": "Wolffsstrehl",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffstappen",
+    "lemma": "Wolffstappen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffswurtz",
+    "lemma": "Wolffswurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wolffszahn",
+    "lemma": "Wolffszahn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wollichte_creutzwurtz",
+    "lemma": "Wollichte Creutzwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wollichte_frembde_zwiebel",
+    "lemma": "Wollichte frembde Zwiebel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wollko_rner",
+    "lemma": "Wollkoͤrner",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wollkraut",
+    "lemma": "Wollkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wollverley",
+    "lemma": "Wollverley",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_w_llblum",
+    "lemma": "Wüllblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_llkraut",
+    "lemma": "Wuͤllkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wunderbaum",
+    "lemma": "Wunderbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundglo_cklein",
+    "lemma": "Wundgloͤcklein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundholtz",
+    "lemma": "Wundholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundkraut",
+    "lemma": "Wundkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundlattich",
+    "lemma": "Wundlattich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundrauthe",
+    "lemma": "Wundrauthe",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundschierling",
+    "lemma": "Wundschierling",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundwurtz",
+    "lemma": "Wundwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wundzysche",
+    "lemma": "Wundzysche",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_rbeldost",
+    "lemma": "Wuͤrbeldost",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_rbeldosten",
+    "lemma": "Wuͤrbeldosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wurmkraut",
+    "lemma": "Wurmkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wurmsamen",
+    "lemma": "Wurmsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wurmwurtz",
+    "lemma": "Wurmwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wurtzkraut",
+    "lemma": "Wurtzkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_rtznegelein",
+    "lemma": "Wuͤrtznegelein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_rtzriedt",
+    "lemma": "Wuͤrtzriedt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_stling",
+    "lemma": "Wuͤstling",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wu_tterich",
+    "lemma": "Wuͤtterich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weye",
+    "lemma": "Weye",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weyenschwanz",
+    "lemma": "Weyenschwanz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_wza_pffleinkraut",
+    "lemma": "WZaͤpffleinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisser_candelzucker",
+    "lemma": "Weisser Candelzucker",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisserzucker",
+    "lemma": "Weisserzucker",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_weisseziviebel",
+    "lemma": "Weisseziviebel",
+    "source": "sommerhoff"
+  }
+]

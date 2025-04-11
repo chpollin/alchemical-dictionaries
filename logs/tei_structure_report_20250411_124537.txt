@@ -1,0 +1,239 @@
+
+==================================================
+ANALYSIS OF Ruland.xml
+==================================================
+
+1. DICTIONARY ENTRY STRUCTURE
+   Total entries: 3164
+
+   1.1 Common Entry Structures (Element Sequences)
+   - tei:form → tei:sense
+     421 entries (84.2% of sample)
+   - tei:sense
+     27 entries (5.4% of sample)
+   - tei:form → tei:form → tei:sense
+     14 entries (2.8% of sample)
+   - tei:form
+     7 entries (1.4% of sample)
+   - tei:form → tei:form → tei:form → tei:sense
+     4 entries (0.8% of sample)
+   - tei:form → tei:sense → tei:note
+     2 entries (0.4% of sample)
+   - tei:form → tei:sense → tei:lb
+     2 entries (0.4% of sample)
+   - tei:form → tei:cit
+     2 entries (0.4% of sample)
+   - tei:form → tei:form → tei:form → tei:form → tei:form
+     1 entries (0.2% of sample)
+   - tei:form → tei:form → tei:form → tei:form → tei:cit
+     1 entries (0.2% of sample)
+
+   1.2 Element Frequency
+   - tei:form: 532
+   - tei:sense: 491
+   - tei:lb: 144
+   - tei:note: 142
+   - tei:fw: 15
+   - tei:pb: 7
+   - tei:cit: 4
+   - tei:def: 1
+
+   1.3 Important Element Examples
+
+   FORM Examples:
+   1. A (type='phrase')
+   2. Targar (type='lemma')
+   3. Excoquere (type='lemma')
+   4. Cadmia acinosa (type='lemma')
+   5. Eleuatio humida (vulgo communiori nomine destillatio
+                     dicta) (type='lemma')
+
+   DEF Examples:
+   1. ,
+   2. id est, angelica.
+   3. , id est, sal compositum,
+   4. est, cum fuscedines spiritales, aliaeque
+   5. Altera est significatio chalcitis, quod significet chalcitin,
+                     tri¬
+
+   SENSE Examples:
+   1. ,
+   2. est viride aeris.
+   3. mittit Oceanus Indicus, item mare ru¬
+   4. in quo massae plumbeae
+                     liquantur,
+   5. omnes continent & custodiunt partus & valent contra omnes
+                     abor¬
+
+   CIT Examples:
+
+   NOTE Examples:
+   1. 2.
+   2. Lapilli. 1. Alectorius,
+   3. 10. Annebergium in massa argenti plumbei coloris.
+   4. 31. Vena aluminis rotundi, quae Neapoli in superficie montis
+   5. Plin. l. 37. c. 11. & Solin. c. 40. huius egregie mentionem faciunt.
+                        Sic
+
+   1.4 Language Usage
+   - tei:cit[@xml:lang='de']: 100
+
+   1.5 Specialized Dictionary Elements
+   - usg: 3
+   - orth: 219
+
+
+2. CROSS-REFERENCES
+   Explicit <xr> elements: 0
+
+   2.3 Potential Textual Cross-references
+   - 'vide': 83 occurrences
+     Example: Avide ana . ...
+   - 'siehe': 1 occurrences
+     Example: Materia prima , & huius vocabula, die philosophi haben sich ober diese Creatur Gattes, die sie
+     ...
+
+
+3. ALCHEMICAL SYMBOLS
+   Total <g> elements: 0
+   Glyph declarations: 0
+
+==================================================
+ANALYSIS OF Lexikon_Sommerhoff_Mayer2022_slighlyEdited2025-01-08.xml
+==================================================
+
+1. DICTIONARY ENTRY STRUCTURE
+   Total entries: 17412
+
+   1.1 Common Entry Structures (Element Sequences)
+   - tei:form → tei:sense
+     275 entries (55.0% of sample)
+   - tei:form → tei:sense → tei:xr
+     51 entries (10.2% of sample)
+   - tei:form → tei:xr → tei:sense
+     35 entries (7.0% of sample)
+   - tei:form → tei:form → tei:sense
+     32 entries (6.4% of sample)
+   - tei:form → tei:xr
+     25 entries (5.0% of sample)
+   - tei:form → tei:form → tei:form → tei:sense
+     13 entries (2.6% of sample)
+   - tei:form → tei:form → tei:xr → tei:sense
+     8 entries (1.6% of sample)
+   - tei:form → tei:form → tei:form → tei:form → tei:sense
+     7 entries (1.4% of sample)
+   - tei:form → tei:sense → tei:xr → tei:sense
+     7 entries (1.4% of sample)
+   - tei:form → tei:form → tei:form → tei:sense → tei:xr
+     5 entries (1.0% of sample)
+
+   1.2 Element Frequency
+   - tei:form: 699
+   - tei:sense: 479
+   - tei:xr: 168
+   - tei:pc: 9
+   - tei:lb: 9
+   - tei:def: 1
+   - tei:cit: 1
+
+   1.3 Important Element Examples
+
+   FORM Examples:
+   1. ā (type='variant')
+   2. Gartzagen
+   3. Atrament grau (type='lemma')
+   4. Flemmischer Erdrauch (type='lemma')
+   5. Flores Scabiosae, Herbae apostematicae, Scabiosae
+							pratensis hirfutae, scabiosae majoris, sca- (type='lemma')
+
+   DEF Examples:
+   1. est
+   2. est Antimonium
+   3. est Sal armoniacus prae-
+   4. remedia malos Sanguinis succos corrigentia
+   5. est Decoctio ex corticibus, floribus, fructibus, herbis, lignis,
+								radi-
+
+   SENSE Examples:
+   1. à
+   2. vid. Schaenanthum.
+   3. Seliunca,
+							Spica Celtica
+   4. sunt Fungi flavi in plantis juniperinis crescentes.
+   5. Nomen Avis inter delicias Ciborum
+							relatae salacissimae & vivacissimae. Ejus Pennae rubrae Cau...
+
+   CIT Examples:
+
+   NOTE Examples:
+   1. wiedergegeben mit "Löwe", U+264C
+   2. wiedergegeben mit "Weiße Shōgi-Figur", U+2616
+   3. wiedergegeben mit "Linie mit untergesetztem Punkt", U+2AF0
+   4. wiedergegeben mit "Alchemistisches Symbol für Calciumoxid", U+1F741
+   5. wiedergegeben mit "Griechisches großes gespiegeltes halbmondförmiges
+						Sigma-Symbol" (U+03FD), "...
+
+   1.4 Language Usage
+   - tei:desc[@xml:lang='en']: 50
+   - tei:desc[@xml:lang='de']: 50
+
+   1.5 Specialized Dictionary Elements
+   - xr: 706
+   - orth: 286
+   - g: 952
+
+
+2. CROSS-REFERENCES
+   Explicit <xr> elements: 706
+
+   2.1 Cross-reference Types
+   - unspecified: 6
+   - cf: 44
+
+   2.2 Cross-reference Examples
+   1. vide  ana
+   2. vid. Muͤller. in Lex. Med.
+   3. vide Resina Abietis,
+   4. vide Herb. Chamæpithys.
+   5. vide Cerussa
+   6. vid. Lex. Brun.
+   7. vide Abit
+   8. vide Abit
+   9. vid.  Cerussa.
+   10. vid.  Herbas.
+
+   2.3 Potential Textual Cross-references
+   - 'vide': 363 occurrences
+     Example: A , ā, āā, aa, vide ana. Germ.eines so viel als das andere. ...
+   - 'vid.': 3871 occurrences
+     Example: Abaisirest Spodium, vid.Muͤller. in Lex. Med....
+   - 'see ': 1 occurrences
+     Example: Bibilissai.e. Papaver contusum. Germ. gestossee Mahen.
+					...
+
+
+3. ALCHEMICAL SYMBOLS
+   Total <g> elements: 952
+   Glyph declarations: 297
+
+   3.1 Common Symbols (by reference)
+   - : 114
+   - #water: 47
+   - #mercury: 20
+   - #silver: 18
+   - #alum: 17
+   - #sulfur: 17
+   - #antimony: 17
+   - #salt: 16
+   - #sal-ammoniac-2: 14
+   - #alchemical-earth: 13
+   - #vinegar: 12
+   - #lead: 11
+   - #nitre: 11
+   - #fire: 10
+   - #gold: 9
+   - #tin: 8
+   - #vitriol: 8
+   - #copper: 8
+   - #arsenic: 6
+   - #powder: 6

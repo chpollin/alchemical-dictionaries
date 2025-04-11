@@ -1,0 +1,697 @@
+[
+  {
+    "id": "Ruland1612-PAlantina-&-Persina",
+    "lemma": "PAlantina & Persina",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Palos",
+    "lemma": "Palos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Palus",
+    "lemma": "Palus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Panis-argenteus",
+    "lemma": "Panis argenteus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pannus",
+    "lemma": "Pannus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pandalitium",
+    "lemma": "Pandalitium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Parthenion",
+    "lemma": "Parthenion",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Partes-fodinae",
+    "lemma": "Partes fodinae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Partes-fodinarum",
+    "lemma": "Partes fodinarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Particulae-eminentes",
+    "lemma": "Particulae eminentes",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Paries",
+    "lemma": "Paries",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Passus-metallicus",
+    "lemma": "Passus metallicus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pater",
+    "lemma": "Pater",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pater-ante-filium,-id-est,-interfectio-patris",
+    "lemma": "Pater ante filium, id est, interfectio patris",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pater-&-mater-regis",
+    "lemma": "Pater & mater regis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Patias",
+    "lemma": "Patias",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pedagra",
+    "lemma": "Pedagra",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pegernus",
+    "lemma": "Pegernus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pegernus",
+    "lemma": "Pegernus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pelecanus",
+    "lemma": "Pelecanus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pelicide",
+    "lemma": "Pelicide",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Penates",
+    "lemma": "Penates",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Penetratio",
+    "lemma": "Penetratio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pentacula",
+    "lemma": "Pentacula",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Perdonium",
+    "lemma": "Perdonium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Perdettae",
+    "lemma": "Perdettae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Periodus",
+    "lemma": "Periodus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Perones",
+    "lemma": "Perones",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Perpurgare",
+    "lemma": "Perpurgare",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pertica",
+    "lemma": "Pertica",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Perticae",
+    "lemma": "Perticae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pes-metallicus",
+    "lemma": "Pes metallicus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pes-lucuste,-id-est,-pes-bruste",
+    "lemma": "Pes lucuste, id est, pes bruste",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Petra-sanguinaria",
+    "lemma": "Petra sanguinaria",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Peucedanum",
+    "lemma": "Peucedanum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phanlec",
+    "lemma": "Phanlec",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phantasmata",
+    "lemma": "Phantasmata",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phiala",
+    "lemma": "Phiala",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phibit",
+    "lemma": "Phibit",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phlotron",
+    "lemma": "Phlotron",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phoenix",
+    "lemma": "Phoenix",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phionitides",
+    "lemma": "Phionitides",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phrasium-viride",
+    "lemma": "Phrasium viride",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Phthisis",
+    "lemma": "Phthisis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Physiognomia",
+    "lemma": "Physiognomia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pila",
+    "lemma": "Pila",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilae",
+    "lemma": "Pilae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilosella",
+    "lemma": "Pilosella",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilos",
+    "lemma": "Pilos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pinguedinosa",
+    "lemma": "Pinguedinosa",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilum",
+    "lemma": "Pilum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilum",
+    "lemma": "Pilum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilum-excoctorum",
+    "lemma": "Pilum excoctorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilum",
+    "lemma": "Pilum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pilum",
+    "lemma": "Pilum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pirstein",
+    "lemma": "Pirstein",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pisare",
+    "lemma": "Pisare",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pistare",
+    "lemma": "Pistare",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pistillum",
+    "lemma": "Pistillum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pix-liquida",
+    "lemma": "Pix liquida",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pixari",
+    "lemma": "Pixari",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Planities-montis",
+    "lemma": "Planities montis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum",
+    "lemma": "Plumbum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum-alkati",
+    "lemma": "Plumbum alkati",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum",
+    "lemma": "Plumbum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum-cinereum",
+    "lemma": "Plumbum cinereum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum-nigrum",
+    "lemma": "Plumbum nigrum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum-cinereum",
+    "lemma": "Plumbum cinereum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum-diues",
+    "lemma": "Plumbum diues",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbum-depauperarum",
+    "lemma": "Plumbum depauperarum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbago",
+    "lemma": "Plumbago",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plumbago-sterilis",
+    "lemma": "Plumbago sterilis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pnigitis",
+    "lemma": "Pnigitis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Poctus",
+    "lemma": "Poctus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Popanax",
+    "lemma": "Popanax",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pompholix",
+    "lemma": "Pompholix",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Porro",
+    "lemma": "Porro",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pompholix-vera",
+    "lemma": "Pompholix vera",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pompholix",
+    "lemma": "Pompholix",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pompholyx",
+    "lemma": "Pompholyx",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pompholix",
+    "lemma": "Pompholix",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pompholix-lutea",
+    "lemma": "Pompholix lutea",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Poponac",
+    "lemma": "Poponac",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Porfiligon",
+    "lemma": "Porfiligon",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Porfireticum",
+    "lemma": "Porfireticum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Porrum",
+    "lemma": "Porrum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Potabilia",
+    "lemma": "Potabilia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Prasis",
+    "lemma": "Prasis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pressorium",
+    "lemma": "Pressorium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praecipitatio",
+    "lemma": "Praecipitatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praefectus-metallorum",
+    "lemma": "Praefectus metallorum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praesagium",
+    "lemma": "Praesagium",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praeseruatiua",
+    "lemma": "Praeseruatiua",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praeses",
+    "lemma": "Praeses",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praeses-fodinae",
+    "lemma": "Praeses fodinae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Praeses-officinae",
+    "lemma": "Praeses officinae",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Presmuchum,-presmuckis",
+    "lemma": "Presmuchum , presmuckis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Principia-chymica",
+    "lemma": "Principia chymica",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Principia",
+    "lemma": "Principia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Proiectio",
+    "lemma": "Proiectio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Proprietarius",
+    "lemma": "Proprietarius",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Proprietarii-partes",
+    "lemma": "Proprietarii partes",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Proscriptio",
+    "lemma": "Proscriptio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Prolectatio",
+    "lemma": "Prolectatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pruinum",
+    "lemma": "Pruinum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Psamos",
+    "lemma": "Psamos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Plimithum",
+    "lemma": "Plimithum",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Psincus",
+    "lemma": "Psincus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Psithos",
+    "lemma": "Psithos",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pulsatiles",
+    "lemma": "Pulsatiles",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pulpezia,-vel-pulpelzia",
+    "lemma": "Pulpezia , vel pulpelzia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pumex",
+    "lemma": "Pumex",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Puluis",
+    "lemma": "Puluis",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Purgare,-purgatio",
+    "lemma": "Purgare , purgatio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Purgator-argenti",
+    "lemma": "Purgator argenti",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrificiren",
+    "lemma": "Putrificiren",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Purificiren",
+    "lemma": "Purificiren",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pulverisiren",
+    "lemma": "Pulverisiren",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Puluis-valens",
+    "lemma": "Puluis valens",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Puteus",
+    "lemma": "Puteus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Puteus",
+    "lemma": "Puteus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putei-spiritales",
+    "lemma": "Putei spiritales",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Puteus-rectus",
+    "lemma": "Puteus rectus",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Puteus-qui-lacunę-locom",
+    "lemma": "Puteus qui lacunę locom",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putris",
+    "lemma": "Putris",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrefactio",
+    "lemma": "Putrefactio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrefactio-resolutio",
+    "lemma": "Putrefactio resolutio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrefactio",
+    "lemma": "Putrefactio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrefactio",
+    "lemma": "Putrefactio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrefactio",
+    "lemma": "Putrefactio",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Putrefactio-sumitur-pro-corruptione-in-alterationem,",
+    "lemma": "Putrefactio sumitur pro corruptione in alterationem,",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pusta",
+    "lemma": "Pusta",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pygmaei-homunciones",
+    "lemma": "Pygmaei homunciones",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pyrites",
+    "lemma": "Pyrites",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pyrites-è-quibus-ignis-elicitur.",
+    "lemma": "Pyrites è quibus ignis elicitur.",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pyrites",
+    "lemma": "Pyrites",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pyromantia",
+    "lemma": "Pyromantia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pyrotechnia",
+    "lemma": "Pyrotechnia",
+    "source": "ruland"
+  },
+  {
+    "id": "Ruland1612-Pyramis",
+    "lemma": "Pyramis",
+    "source": "ruland"
+  }
+]

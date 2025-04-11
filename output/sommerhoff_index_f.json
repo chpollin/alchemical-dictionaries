@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "sommerhoff_flatine",
+    "lemma": "Flatine,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flectrum",
+    "lemma": "Flectrum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_f_vel_f_f",
+    "lemma": "F.vel F. f.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_f_l_a",
+    "lemma": "F. L. A.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_f_s_a",
+    "lemma": "F. s. A.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba",
+    "lemma": "Faba",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_aegyptiaca_faba_crassa",
+    "lemma": "Faba Aegyptiaca, & Faba Crassa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_agrestis",
+    "lemma": "Faba agrestis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_groeca",
+    "lemma": "Faba Groeca,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_indica_seu_inversa",
+    "lemma": "Faba Indica, seu inversa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_2_vis",
+    "lemma": "Faba 2. vis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_marina",
+    "lemma": "Faba marina,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_pinguis",
+    "lemma": "Faba pinguis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_purgatrix_novi_orbis_phaseolus_purgatrix_ex_america",
+    "lemma": "Faba Purgatrix novi Orbis, Phaseolus purgatrix ex America",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_suilla_faba_jovis",
+    "lemma": "Faba suilla, Faba Jovis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fabaria_seu_faba_inversa",
+    "lemma": "Fabaria, seu Faba inversa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fabiola",
+    "lemma": "Fabiola,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_facera",
+    "lemma": "Facera,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_facinum",
+    "lemma": "Facinum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faec",
+    "lemma": "Faec.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faeces_candidae",
+    "lemma": "Faeces candidae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faeces",
+    "lemma": "Faeces,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faecula_seu_fecula",
+    "lemma": "Faecula, seu Fecula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faex",
+    "lemma": "Faex.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faex_vini_lapideosa_calculus_vini_lapis_vini_oenolithus",
+    "lemma": "Faex Vini Lapideosa, Calculus Vini, Lapis Vini, Oenolithus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falcanos",
+    "lemma": "Falcanos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falernum",
+    "lemma": "Falernum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_far",
+    "lemma": "Far.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_far_clusinum_spelta",
+    "lemma": "Far Clusinum, Spelta",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farfara_seu_tussilago",
+    "lemma": "Farfara seu Tussilago,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farina",
+    "lemma": "Farina,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farina_laterum",
+    "lemma": "Farina laterum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farinae_musci",
+    "lemma": "Farinae Musci,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farina_virginea",
+    "lemma": "Farina Virginea",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fasciculus",
+    "lemma": "Fasciculus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fasdir_sasdir",
+    "lemma": "Fasdir, Sasdir,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_favilla",
+    "lemma": "Favilla,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faulex",
+    "lemma": "Faulex,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fausel_seu_fusel_araca_avellana_indica",
+    "lemma": "Fausel seu Fusel Araca, Avellana indica",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_favus",
+    "lemma": "Favus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_febrifuga",
+    "lemma": "Febrifuga",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_febrifuga_fel_terrae_centaurium_minus",
+    "lemma": "Febrifuga, Fel Terrae, Centaurium minus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_febrifugum_crollionum",
+    "lemma": "Febrifugum Crollionum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_febrifugum_quartanarium_verum_lazari_riverii",
+    "lemma": "Febrifugum quartanarium verum Lazari Riverii,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_febrifugum_salis",
+    "lemma": "Febrifugum Salis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feces",
+    "lemma": "Feces",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fecla",
+    "lemma": "Fecla,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fecula",
+    "lemma": "Fecula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fecultnitus",
+    "lemma": "Fecultnitus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feda",
+    "lemma": "Feda,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fedum_fideum",
+    "lemma": "Fedum & Fideum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fel",
+    "lemma": "Fel,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fel_draconis",
+    "lemma": "Fel Draconis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fel_taurinum",
+    "lemma": "Fel Taurinum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fel_terrae",
+    "lemma": "Fel Terrae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fel_vitri_sal_vitri",
+    "lemma": "Fel Vitri, Sal Vitri",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felda_fermentum_album_ie_argentum",
+    "lemma": "Felda, Fermentum album, ie. Argentum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felicula_catonis",
+    "lemma": "Felicula Catonis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felilech_faules",
+    "lemma": "Felilech, Faules,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felis_seu_cati_sylvestris_axungia",
+    "lemma": "Felis seu Cati Sylvestris Axungia",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fella",
+    "lemma": "Fella,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felletin",
+    "lemma": "Felletin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felmea",
+    "lemma": "Felmea,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fengafos",
+    "lemma": "Fengafos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenic",
+    "lemma": "Fenic,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferago",
+    "lemma": "Ferago,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fermentatio",
+    "lemma": "Fermentatio,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fermentum",
+    "lemma": "Fermentum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fermentum_album",
+    "lemma": "Fermentum album,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fermentum",
+    "lemma": "Fermentum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fermentum_fermentatio_lapidis_philosophici",
+    "lemma": "Fermentum & Fermentatio Lapidis Philosophici,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fermentum_fermenti",
+    "lemma": "Fermentum fermenti,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferraria_miror",
+    "lemma": "Ferraria miror,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferraria_nigra",
+    "lemma": "Ferraria nigra,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferratus",
+    "lemma": "Ferratus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferri_genera",
+    "lemma": "Ferri genera",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferri_rubigo_ferrugo",
+    "lemma": "Ferri rubigo, Ferrugo",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferriscobs_elimata",
+    "lemma": "Ferriscobs elimata",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferri_scoria_ferri_recrementum",
+    "lemma": "Ferri scoria, Ferri recrementum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferruoo",
+    "lemma": "Ferruoo,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrugo_ferrivitium_situs",
+    "lemma": "Ferrugo, Ferrivitium & Situs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrugo",
+    "lemma": "Ferrugo",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrum",
+    "lemma": "Ferrum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrum",
+    "lemma": "Ferrum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrum_indicum",
+    "lemma": "Ferrum indicum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrum_optim_purgatum_chalybs",
+    "lemma": "Ferrum optimè purgatum Chalybs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferrum_rubeum_flos_aeris_viride_aeris",
+    "lemma": "Ferrum rubeum, Flos Aeris, & Viride aeris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferruminatrix_lobel_herba_heraclea",
+    "lemma": "Ferruminatrix Lobel. Herba Heraclea,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferula",
+    "lemma": "Ferula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feruzegi",
+    "lemma": "Feruzegi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_festinatio_festinantia",
+    "lemma": "Festinatio, Festinantia",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fetritem",
+    "lemma": "Fetritem,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fex_faex",
+    "lemma": "Fex & Faex,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fibaperum",
+    "lemma": "Fibaperum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fiber_castor",
+    "lemma": "Fiber, Castor. Germ. ein Biber.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fitrae",
+    "lemma": "Fitrae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ficaria_major_ferraria",
+    "lemma": "Ficaria major, Ferraria,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ficaria_minor_scrophularia_minor",
+    "lemma": "Ficaria minor & Scrophularia minor,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ficatella",
+    "lemma": "Ficatella,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fictile",
+    "lemma": "Fictile,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ficus",
+    "lemma": "Ficus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fida",
+    "lemma": "Fida,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fidda_fidhe",
+    "lemma": "Fidda, Fidhe,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fider_fidex",
+    "lemma": "Fider, Fidex,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fideum_fedum",
+    "lemma": "Fideum & Fedum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fido",
+    "lemma": "Fido",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_figentia",
+    "lemma": "Figentia",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_figere",
+    "lemma": "Figere",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filicula",
+    "lemma": "Filicula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filicula_asellorum_minor",
+    "lemma": "Filicula Asellorum minor,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filios",
+    "lemma": "Filios,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filius_ante_patremi",
+    "lemma": "Filius ante Patremi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filius_fugitivus",
+    "lemma": "Filius fugitivus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filius_veneris",
+    "lemma": "Filius Veneris,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filius_unius_diei",
+    "lemma": "Filius unius diei,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filius_unius_diei",
+    "lemma": "Filius unius diei,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filius_unicus_ostum",
+    "lemma": "Filius unicus ostum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filix",
+    "lemma": "Filix,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filletin_laminae_ferri",
+    "lemma": "Filletin, Laminae Ferri",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fillis",
+    "lemma": "Fillis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filtratio_seu_philtratio",
+    "lemma": "Filtratio, seu Philtratio,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filtrum_seu_philtrum",
+    "lemma": "Filtrum seu Philtrum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filum_oe0_cale",
+    "lemma": "Filum oe0 cale,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filum_ex_one",
+    "lemma": "Filum ex One",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_finus_equinus",
+    "lemma": "Finus equinus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_finus",
+    "lemma": "Finus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_finichion_finikios",
+    "lemma": "Finichion & Finikios,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_finiconmdi",
+    "lemma": "Finiconmdi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_finix",
+    "lemma": "Finix,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fiola_phiola",
+    "lemma": "Fiola & Phiola",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_firex",
+    "lemma": "Firex,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_firfir",
+    "lemma": "Firfir,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_firmamentum",
+    "lemma": "Firmamentum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_firnisium_mineralium",
+    "lemma": "Firnisium Mineralium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fisalida_fisalidos",
+    "lemma": "Fisalida & Fisalidos",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fisarum",
+    "lemma": "Fisarum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fistacia_fistica",
+    "lemma": "Fistacia, Fistica",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fistula",
+    "lemma": "Fistula",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fisulabiat",
+    "lemma": "Fisulabiat,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fisules_bechl",
+    "lemma": "Fisules bechl,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fixatio",
+    "lemma": "Fixatio,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fixatio_salium_volat",
+    "lemma": "Fixatio Salium volat",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flammula",
+    "lemma": "Flammula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flammula_juniperi",
+    "lemma": "Flammula Juniperi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fl_ita_medicis_praescriptum_legendum",
+    "lemma": "Fl. ita à Medicis praescriptum, legendum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flora",
+    "lemma": "Flora.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_antimonii",
+    "lemma": "Flores Antimonii",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_benzoin",
+    "lemma": "Flores Benzoin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cassiae_pulpae_cassiae",
+    "lemma": "Flores Cassiae, Pulpae cassiae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_chymici",
+    "lemma": "Flores Chymici",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_martis",
+    "lemma": "Flores Martis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_susphuris",
+    "lemma": "Flores Susphuris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_vitrioli",
+    "lemma": "Flores Vitrioli,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_viride_aeris",
+    "lemma": "Flores Viride Aeris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_acatiae_germanicae_aoriococcimeleae_spini_seu_pruni_sylvestris",
+    "lemma": "Flores Acatiae Germanicae, Aoriococcimeleae Spini, seu Pruni sylvestris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_altheae",
+    "lemma": "Flores Altheae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_amarantii_amaranthi_angusti_folii_simplici_spicata_pannicula_amaranthi",
+    "lemma": "Flores Amarantii, Amaranthi angusti folii, simplici spicata pannicula, Amaranthi parvi, Amaranthi purpurei, Amaranthi simplici pannicula, Amaranthi vulga- ris, aliis Flos Amoris & Circeae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_amaranthi_lutei",
+    "lemma": "Flores amaranthi lutei,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_anethi",
+    "lemma": "Flores Anethi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_anthos_rorismarini_hortensis_rosmarini_coronarii_libanotis_coronariae",
+    "lemma": "Flores Anthos, Rorismarini hortensis, Rosmarini Coronarii, Libanotis coronariae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_aquilegiae_seu_aquilejae_horte_isis_sylvestris",
+    "lemma": "Flores Aquilegiae seu Aquilejae horte isis & sylvestris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_arthemisiae_tenuifoliae",
+    "lemma": "Flores Arthemisiae tenuifoliae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_athanasiae",
+    "lemma": "Flores Athanasiae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_aurantiorum_mali_aurantiae_mali_arantiae_aurei_mali_mali_arangiae_seu",
+    "lemma": "Flores Aurantiorum, Mali Aurantiae, Mali Arantiae, Aurei Mali, Mali Arangiae seu Mali Nerantiae & Naphae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_auriculae_ursi_primulae_veris_alpinae_saniculae_alpinae_lobelii_paralyticae_luna",
+    "lemma": "Flores Auriculae ursi, primulae Veris Alpinae, Saniculae alpinae Lobelii, Paralyticae, Luna- riae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_balanstiae_flore_pleno_majore_minore_mati_granati_seu_punici_cytini",
+    "lemma": "Flores Balanstiae flore pleno majore & minore, Mati Granati seu Punici, Cytini",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_bellidis_sive_hortensis_seu_vulgaris_consolidlae_minoris_consolidaginis",
+    "lemma": "Flores Bellidis, sive hortensis seu vulgaris, Consolidlae minoris & Consolidaginis minimae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_bethonicae_bethonicae_officinarum_betonicae_purpureae_vetonicae",
+    "lemma": "Flores Bethonicae, Bethonicae Officinarum, Betonicae purpureae, Vetonicae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_betonicae_altilis_seu_coronariae",
+    "lemma": "Flores Betonicae altilis seu Coronariae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_borraginis_seu_buglossi_veri_buglossilatifolii_buglossae_urbanae_corragi",
+    "lemma": "Flores Borraginis seu Buglossi veri, Buglossilatifolii & Buglossae urbanae, Corragi- nis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_buglossi_linguae_bovis_linguae_bubulae_buglossi_longi_folii_buglossi_angusti",
+    "lemma": "Flores Buglossi, Linguae Bovis, Linguae Bubulae, Buglossi longi folii. Buglossi angusti folii, Anchusae, Buglossi Hispanici, Buglossi Italici, Buglossi vulgaris, Flo- res Echii, Alcibiaci, Alcibiadij, Doriae, Echii Ttalici",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_calcatrippae_calcaris_consolidae_regalis_consolidae_regiae_delphinii_alii_cy",
+    "lemma": "Flores Calcatrippae, Calcaris, Consolidae Regalis, Consolidae Regiae, Delphinii, alii Cy- mini sylvestris, Flores St. Otiliae, Cornutae Ruelli, Sosandri Dioscoridis, Aqui- lenae, Flos Regius, Calcar Equitis sou Equestre, Pes Alaudae, Calcaris Flos",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_calendulae_calthae_caltulae_sativae_calthae_poeticae_chrysanthemi_solsequii",
+    "lemma": "Flores Calendulae, Calthae, Caltulae sativae, Calthae Poeticae, Chrysanthemi, Solsequii aurei seu lutei, Verrucariae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_caprifolii_circeae_monspeliensium_cythisimarcelli_carpathon_aegine_li",
+    "lemma": "Flores Caprifolii, Circeae Monspeliensium, Cythisimarcelli, Carpathon, Aegine, Li- lii Caprini, Pilei Veneris, Matri sqvae, Sylvae Matris, Involucri majoris Splenariae, Volucri majoris, Lilii inter Spinas, Periclymeni, Periclymeni non per foliati septentrionalis, Periclymeni non perfoliati Germanici, Vincibosci, Periclymeni non perfoliati vulgaris septentrionalis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_carthami_ardui_amoris_cneci_seu_cnici_nici_jativi_seu_vulgaris_vel_cnici",
+    "lemma": "Flores Carthami, (ardui amoris, Cneci seu Cnici, (nici Jativi seu vulgaris, vel Cnici urbanae & sativae Croci hortulani, seu Saracenici, Carthami Officinarum, Cnici flore croceo. Croci sylvestris, Croci fatui",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_caryophyllorum_hortensium_vetonicae_altilis",
+    "lemma": "Flores Caryophyllorum hortensium, Vetonicae altilis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_chamomillae_romanae_chamaemeli_romani_leucanthemi_odorati_multiplici_flore",
+    "lemma": "Flores Chamomillae Romanae, Chamaemeli Romani, Leucanthemi odorati multiplici flore, Parthenii Trag. sive Chamaemeli nobilis vel odoratioris, Anthemis seu Leucan- themis odoratae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_chamomillae_vulgaris_camomillae_seu_chamaemeli",
+    "lemma": "Flores Chamomillae Vulgaris, Camomillae seu Chamaemeli",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cheyri_keyri_levcoji_aurei_levcoji_lutei_levcoji_lutei_sativi_violae_au",
+    "lemma": "Flores Cheyri, Keyri, Levcoji aurei, Levcoji lutei, Levcoji lutei sativi, Violae au- reae, Violae luteae, Viola petreae & luteae, saxatilis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_chrysantbemi",
+    "lemma": "Flores Chrysantbemi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cichorei_albi_domestici_hortensis_sativi_taraxaci_arahici",
+    "lemma": "Flores Cichorei albi, domestici, hortensis & sativi, Taraxaci Arahici. Germ. Zah- me weisse Wegwarten-Blumen.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cichorei_agrestis_caerulei_seu_sylvestris_solsequii_sylvestris",
+    "lemma": "Flores Cichorei agrestis, caerulei seu sylvestris, Solsequii sylvestris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_citri",
+    "lemma": "Flores Citri",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cneci_cnici_cardui_amoris_c",
+    "lemma": "Flores Cneci, Cnici, Cardui amoris &c.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_consolidae_regalis",
+    "lemma": "Flores Consolidae Regalis.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_croci",
+    "lemma": "Flores Croci,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cyani_seu_baptiseculae_blaptiseculae_flos_zachariae_flos_frumentorum",
+    "lemma": "Flores Cyani seu Baptiseculae & Blaptiseculae, Flos Zachariae, Flos Frumentorum, Flos Siliginis, Cyani Caerulei, Cyani segetum, Cyani Syl vestris, Cyani Vulgaris, Lichnis Agriae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_cynoglossae_cynoglossi_linguae_canis",
+    "lemma": "Flores Cynoglossae & Cynoglossi, Linguae Canis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_dictamni",
+    "lemma": "Flores Dictamni,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_ebuli",
+    "lemma": "Flores Ebuli,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_enulae",
+    "lemma": "Flores Enulae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_eupatorii_mesuae",
+    "lemma": "Flores Eupatorii Mesuae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_euphrasiae",
+    "lemma": "Flores Euphrasiae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_fabarum_vulgarium_boonae_sive_phaseoli_majoris_fabarum_majorum_bortea",
+    "lemma": "Flores Fabarum vulgarium, Boonae sive Phaseoli majoris, Fabarum majorum bortea- fium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_farfarae_tusfilaginis_vngulae_caballinae",
+    "lemma": "Flores Farfarae, Tusfilaginis, Vngulae Caballinae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_fumariae",
+    "lemma": "Flores Fumariae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_gaciliarum",
+    "lemma": "Flores Gaciliarum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_galeopsid_is_seu_galiopsedis",
+    "lemma": "Flores Galeopsid is seu Galiopsedis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_genistae_angulosae_scoparia_spartii_genistae_minoris_seu_non_aculeatae_ge",
+    "lemma": "Flores genistae, Angulosae, & Scoparia, Spartii, Genistae minoris, seu non aculeatae. Ge- nistae Scopariae vulgaris, Flores Genestae & Genestrae, Scopartii",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_granatorum",
+    "lemma": "Flores Granatorum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_hepat_albae_pratensis_stellat",
+    "lemma": "Flores Hepat. albae pratensis stellat",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_hepat_nobilis",
+    "lemma": "Flores Hepat. nobilis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_hispidae_seu_hispidulae",
+    "lemma": "Flores Hispidae seu Hispidulae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_hyperici_alcyti_perforatae_androsemi_minoris_hyperici_vulgaris_aliis",
+    "lemma": "Flores Hyperici, Alcyti, Perforatae, Androsemi minoris, Hyperici vulgaris, aliis Rutae Solis, Flores S. Jo- Fugae Daemonum, Flores Herbae Solis officinalis, hannis, Flores Bellidis majoris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_hyssipi",
+    "lemma": "Flores Hyssipi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_jaceae_seu_trinitatis_violae_flammeae_tricoloris_violae_tricoloris_hortensis_ja",
+    "lemma": "Flores jaceae seu Trinitatis, Violae Flammeae tricoloris, Violae tricoloris hortensis, ja- ceae majoris, α vwis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_floresjasme_jasmini_jesmini_albi_apiariae_gelsemini",
+    "lemma": "FloresJasme, Jasmini & Jesmini albi, Apiariae, Gelsemini",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_ibisei_bis_malvae",
+    "lemma": "Flores Ibisei, Bis malvae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_labruscae_lambruscae_seu_vitis_sylvestris",
+    "lemma": "Flores Labruscae, Lambruscae seu Vitis Sylvestris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_lavendulae_lavandes_lavandulae_seu_spicae_foeminae_nardi_vulgaris",
+    "lemma": "Flores Lavendulae, Lavandes & Lavandulae, seu Spicae Foeminae, Nardi vulgaris, seu Pseudonardi, Lavandulae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_levcojilutei",
+    "lemma": "Flores Levcojilutei",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_ligustri_ligustri_germanici_majoris_vulgaris_alcannae_sive_alkannae_sepla",
+    "lemma": "Flores Ligustri, Ligustri Germanici majoris, vulgaris, Alcannae sive Alkannae Sepla- siarii, Phillyreae, Flores Ligustrae albae, Cypri, Virgae sanouineae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_lilorum_alborum_vel_candidorum_liliorum_alborum_flore_erecto_vulghri",
+    "lemma": "Flores Lilorum alborum vel candidorum, Liliorum alborum flore erecto & vulghri, Liliorum alborum vulgurium, Rosarum Junonis Apul",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flor_lil_caprin",
+    "lemma": "Flor. Lil. Caprin.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_liliorum_convallium_alb_gaciliarum_liliorum_vernalium_liliorum_syl",
+    "lemma": "Flores Liliorum Convallium alb. Gaciliarum, Liliorum vernalium; Liliorum syl- vestrium, Liliorum ephemerorum non lethalium Fuchsij",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_lil_inter_spinas",
+    "lemma": "Flores Lil. inter spinas,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_liliorum_palustrium",
+    "lemma": "Flores Liliorum palustrium,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_liliorum_vernalium",
+    "lemma": "Flores Liliorum Vernalium,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_linariae",
+    "lemma": "Flores Linariae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_lupuli_lupuli_salictarii_lupuli_sativi_domestici_lupuli_maris_sylvestris",
+    "lemma": "Flores Lupuli, Lupuli Salictarii, Lupuli Sativi, Domestici, Lupuli Maris, Sylvestris. Vitis Septentrionalis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_malvae_arboreae_malvae_hortensis_malvae_hyemalis_malvae_majoris_unicaulis",
+    "lemma": "Flores malvae arboreae, malvae hortensis, malvae hyemalis, malvae majoris unicaulis; malvae Romanae, malvae roseae fruticosae, malvae rofeae folio subrotundo, Rosae au- tumnalis & Hastulae Regiae Apulei, Rosae transmarinae, Flores Moloches, Rose byemalis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_malvae_syl_vestris_seu_vulgaris",
+    "lemma": "Flores malvae syl vestris, seu vulgaris,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_martis",
+    "lemma": "Flores Martis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_matricariae",
+    "lemma": "Flores matricariae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_meconii_rhoeados_flores_papaveris_rubei_seu_papaveris_fluidi",
+    "lemma": "Flores Meconii Rhoeados, Flores Papaveris rubei, seu Papaveris fluidi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_melampi",
+    "lemma": "Flores melampi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_meliloti_officinalis_meliloti_majoris_vulgaris_loti_urbanae",
+    "lemma": "Flores meliloti officinalis, Meliloti majoris vulgaris, Loti urbanae syl vestris, Tri- folii odorati, Saxifrage lutea;",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_melisse",
+    "lemma": "Flores Melisse,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_waphae",
+    "lemma": "Flores Waphae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_nucum_j_uolandium_regiae_nucis_vulgaris_nucis_basilicae_vocantur_eti",
+    "lemma": "Flores Nucum J uolandium, Regiae Nucis vulgaris, & Nucis Basilicae. Vocantur eti- am Juli & Nucamenta",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_nymphex_nymphaeae_albae_nenupharis_albe_nympheae_candide_nympheae",
+    "lemma": "Flores Nymphex & Nymphaeae albae, Nenupharis albe, Nympheae candide, Nympheae majoris albae, Blepharon, Clavis Qris, Lilii Aquatici, Matris Herculeanae A- pulei, Digiti Veneris, Lilii & Rosae palustris, Papaveris palustris; Latometrae Flores, Madonais, Clavis Herculis, Protea",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_ononidis",
+    "lemma": "Flores Ononidis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_origani",
+    "lemma": "Flores Origani,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_orminii",
+    "lemma": "Flores Orminii,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_papaveris_erratici_papaveris_erratici_primi",
+    "lemma": "Flores Papaveris erratici, Papaveris erratici primi; Papaveris rhaeados, Papâ veris erratici majoris, Rosellae, Rosae arvensis, Flores Oxygoni, Papaveris fluidi, Papaverinae & Papaveralis; Papaveris caduci, Papaveris canini; & punicei",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_paralyseos",
+    "lemma": "Flores paralyseos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_pedis_cati_hispidulae_aluropi_gnaphalii_montani_pilosellae_monta",
+    "lemma": "Flores Pedis Cati, Hispidulae, Aluropi; Gnaphalii montani, Pilosellae monta- Q 3 FL 126 nae len Hispidae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fiores_periclymeni",
+    "lemma": "Fiores Periclymeni,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_persicorum",
+    "lemma": "Flores Persicorum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_poeonii_poeoniae_albae_rara",
+    "lemma": "Flores Poeonii & Poeoniae albae, rara",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_poeonii_poeoniae_rubrae_rosae_benedictae_seu_rosae_regiae_utriusque_generis_da",
+    "lemma": "Flores Poeonii & Poeoniae rubrae, Rosae benedictae seu Rosae Regiae utriusque generis, Da- ctyl ildaei, Poeoniae nobilioris, quae Poeoniae Maris dicuntur. Herb. Domini Valen- tini. Flores Pentorobi, Clycysidis & Glycisis, Orobelii, Monogenii, Menii- Theodonii, Selenii, Selenogoni, Dichomenii, Rosae fatuinae, H. Castae, Rosa A- sininae, Rosae Basilicae, Lunariae & sanctae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_primulae_verisalpinae_auriculae_ursi_saniculae_alpinae_lobelii_paralytica_luna",
+    "lemma": "Flores Primulae Verisalpinae, auriculae Ursi, Saniculae alpinae Lobelii, Paralytica, Luna- riae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_primulae_veris_vulgaris_paralyseos_primulae_veris_majoris_sloribus_luteis_odo",
+    "lemma": "Flores Primulae Veris vulgaris, Paralyseos, Primulae Veris majoris sloribus luteis odo- ratis, Primulae praetensis, Verbasculi odorati, Arthritici simplicis floribus luteis, Verbasculi pratensis odorati. Fiores Phlomidis, H. paralysis, Brachae cuculi, H. Primi floris, Flor. Clavis Si. Petri, sl. Herbae Artheticae & Arthriticae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_prunorum_syl_vestrium",
+    "lemma": "Flores Prunorum Syl vestrium,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_pulsatillae_herbae_venti_audae_vulpis_viola_culinariae",
+    "lemma": "Flores Pulsatillae, Herbae venti, (audae Vulpis, Viola culinariae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rhaeados",
+    "lemma": "Flores Rhaeados,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rorismarini",
+    "lemma": "Flores Rorismarini,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rosarum_albarum_rosarum_candidarum",
+    "lemma": "Flores Rosarum albarum, Rosarum candidarum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rosarum_damascenarum_rosarum_incarnatarum_rosarum_moscatarum",
+    "lemma": "Flores Rosarum Damascenarum, Rosarum incarnatarum, Rosarum Moscatarum, Rosarum pallidarum, Rosarum Centum foliorum, Rosarum alabandicarum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rosarum_palustrium",
+    "lemma": "Flores Rosarum palustrium.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rosarumrubrarum_finissimarum_milefiarum_praestantissimarum",
+    "lemma": "Flores Rosarumrubrarum finissimarum & milefiarum praestantissimarum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_rosarum_syl_vestrium_sive_rosae_sylvestres_rosae_arvenses_caninae_odoratae",
+    "lemma": "Flores Rosarum syl vestrium sive Rosae sylvestres, Rosae arvenses, Caninae odoratae, Rosae vulgares",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_salviae_acutae_salviae_angusti_foliae_salviae_nobilis_salviae_minoris",
+    "lemma": "Flores Salviae acutae, Salviae angusti foliae, Salviae nobilis, Salviae minoris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_sambuci_humilis",
+    "lemma": "Flores Sambuci humilis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_sambuci_sylvestris_vulgaris_sambuci_campestris_seu_domesticae_actes",
+    "lemma": "Flores Sambuci sylvestris, vulgaris, Sambuci campestris, seu domesticae, Actes",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_st_otiliae_ornutae_ruelli",
+    "lemma": "Flores St. Otiliae, (ornutae Ruelli,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_saxifragiae_albae_tuberosae",
+    "lemma": "Flores Saxifragiae albae tuberosae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_scabiosae_herbae_apostematicae_scabiosae_pratensis_hirfutae_scabiosae_majoris_sca",
+    "lemma": "Flores Scabiosae, Herbae apostematicae, Scabiosae pratensis hirfutae, scabiosae majoris, sca- biosae vulgaris, arvensis, scabiosae flore caeruleo purpureo, scabiosae segetum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_schananthi_schoenanthi_squinanthi_junci_odorati",
+    "lemma": "Flores schananthi, schoenanthi, squinanthi, Junci odorati.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_scoparia",
+    "lemma": "Flores Scoparia.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_serpilli",
+    "lemma": "Flores Serpilli,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_siliginis_secalis_roggae",
+    "lemma": "Flores Siliginis, Secalis, Roggae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_spicae_celticae_nardi_celticae_calthae_alpinae_nardi_alpinae_seu_romanae_spi",
+    "lemma": "Flores Spicae celticae, Nardi celticae, Calthae alpinae, Nardi alpinae seu Romanae & Spi- cae Romanae, Nardi gallaticae & Gallicae, saliunce",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_spicae_hortensis_seu_hortulanae_nostratis_officinalis_spicae_maris_nardi_ita",
+    "lemma": "Flores Spicae hortensis seu hortulanae, nostratis, officinalis, Spicae Maris, Nardi Ita licae, Spicae Nardi Germanicae, Nardi maris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_staechadis_arabicae_seu_stichadis_purpureae_staechadis_gallicae_romanae_flo",
+    "lemma": "Flores Staechadis Arabicae, seu Stichadis purpureae, Staechadis Gallicae, Romanae, Flo- res Synchopae, Styphoniae, Alcibiadis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_staechadis_seu_stoechadis_citrinae_amaranthi_galeni_lutei_linariae_au",
+    "lemma": "Flores Staechadis seu Stoechadis citrinae, Amaranthi Galeni & lutei, Linariae Au- reae, Itinerariae, Heliocrysos sylvestris, Elichrysi angusti folii, Tineariae, Coma Aureae, etiam Flores Chrysocemi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_sulphuris",
+    "lemma": "Flores Sulphuris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_tapsi_barbatij",
+    "lemma": "Flores Tapsi barbatij",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_tanaceti_vulgaris_lutei_athanasiae_arthemisiae_tenuifoliae_ambrosiae_tana",
+    "lemma": "Flores Tanaceti vulgaris lutei, Athanasiae, Arthemisiae tenuifoliae, Ambrosiae, Tana- ceti millefolii foliis Tanasiae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_tiliae_foeminae_foliis_majoribus_tiliae_sativae_phyllireae",
+    "lemma": "Flores Tiliae foeminae foliis majoribus, Tiliae sativae Phyllireae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_trifolii_pratensis_albi_rubri",
+    "lemma": "Flores Trifolii pratensis albi & rubri",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_trinitatis",
+    "lemma": "Flores Trinitatis.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_tunicarum_seu_caryophyllorum_maximorum_rubrorum_hortensium_vetoni",
+    "lemma": "Flores Tunicarum seu Caryophyllorum maximorum rubrorum, hortensium, Vetoni- cae, Bethonicae altilis coronariae vel domesticae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_tussilaginis",
+    "lemma": "Flores Tussilaginis.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fores_verbasci_candelae_regiae_tapsi_barbati_candelariae_lunariae_verbasci_lu",
+    "lemma": "Fores Verbasci, Candelae Regiae, Tapsi barbati, Candelariae, Lunariae, Verbasci lu- tei",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_vetonicae_altilis",
+    "lemma": "Flores Vetonicae altilis.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_violarum_aurearum",
+    "lemma": "Flores Violarum aurearum.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_violarum_lutearum",
+    "lemma": "Flores Violarum lutearum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_violarum_martialium_violarum_purpurearum_violarum_odoratarum_purpure",
+    "lemma": "Flores Violarum martialium, Violarum purpurearum, Violarum odoratarum purpure- arum, Violarum sativarum, Violarum Melanearum Theophrasti, Violartim martialium odoratarum nigrarum seu purpurearum, Flores dasypodiarum, Cy- beliarum, Violarum murariarum, & quadragesimarum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_viblarum_mortuorum",
+    "lemma": "Flores Viblarum mortuorum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fores_violarum_tricolorum",
+    "lemma": "Fores Violarum tricolorum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_ungulae_caballinae",
+    "lemma": "Flores Ungulae Caballinae.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_urticae_mortuae_caliopsis_anonii_archangelicae_lamii_flore_albo_urticae",
+    "lemma": "Flores Urticae mortuae, caliopsis, Anonii, Archangelicae, Lamii flore albo, Urticae lacteae, Milzadellae, Lienariae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_vrticae_urentis_seu_vivae",
+    "lemma": "Flores Vrticae urentis seu vivae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_floris_viride_aeris",
+    "lemma": "Floris Viride Aeris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flores_zachariae",
+    "lemma": "Flores Zachariae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fioridus",
+    "lemma": "Fioridus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_florificare",
+    "lemma": "Florificare",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_florum",
+    "lemma": "Florum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_aeris",
+    "lemma": "Flos Aeris,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos",
+    "lemma": "Flos",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_caryophyllinus_flos_caryophylli_caryophillum",
+    "lemma": "Flos Caryophyllinus, Flos Caryophylli, Caryophillum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_cheyri",
+    "lemma": "Flos Cheyri,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_coeui",
+    "lemma": "Flos Coeui,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_joviis",
+    "lemma": "Flos Joviis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_lactis",
+    "lemma": "Flos Lactis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_maris",
+    "lemma": "Flos Maris",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_melompi",
+    "lemma": "Flos Melompi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_picis",
+    "lemma": "Flos Picis.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_plumbi",
+    "lemma": "Flos Plumbi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_salis",
+    "lemma": "Flos Salis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flos_vini",
+    "lemma": "Flos Vini",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fiox",
+    "lemma": "Fiox,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fluere",
+    "lemma": "Fluere,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_focus",
+    "lemma": "Focus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foedula",
+    "lemma": "Foedula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_marathrum",
+    "lemma": "Foeniculum, Marathrum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_marinum_crethamus",
+    "lemma": "Foeniculum marinum, Crethamus. Germ. Meer- Fenchel.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_porcinum",
+    "lemma": "Foeniculum porcinum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_petraeum",
+    "lemma": "Foeniculum petraeum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_ursinum_porcinum",
+    "lemma": "Foeniculum ursinum & porcinum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foenix_seu_phoenix",
+    "lemma": "Foenix seu Phoenix",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foenum_camelorum",
+    "lemma": "Foenum Camelorum.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foenum_graecum",
+    "lemma": "Foenum graecum.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foetus_spagyricus",
+    "lemma": "Foetus spagyricus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fol",
+    "lemma": "Fol",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folia_daturae_vel_daurae",
+    "lemma": "Folia daturae vel daurae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folia_seu_folium_indum_seu_malabathrum_folium_malabathrum_batrum_seu_be",
+    "lemma": "Folia seu Folium Indum, seu Malabathrum. Folium Malabathrum, Batrum seu Be- trum Indicum, Tembulum Phyllon, Phyllon Indicon, Phyllon scylmatos Aëtii-",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folia_auri",
+    "lemma": "Folia Auri",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folia_lauri",
+    "lemma": "Folia Lauri, Germ. Lorbeerblatter.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foliata_terra",
+    "lemma": "Foliata Terra",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foliata_terra_tartaril",
+    "lemma": "Foliata Terra Tartaril,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foliatum",
+    "lemma": "Foliatum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folium",
+    "lemma": "Folium,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folliculus",
+    "lemma": "Folliculus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folliculus_fellis",
+    "lemma": "Folliculus fellis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folliculus_seu_folliculi_sennae",
+    "lemma": "Folliculus seu Folliculi sennae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fomentatio",
+    "lemma": "Fomentatio,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fomentum_celso_fomentatio_vlp_fotus_plin",
+    "lemma": "Fomentum Celso, Fomentatio Vlp. Fotus Plin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fons",
+    "lemma": "Fons",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fons_philosophorum_balneum_maris_seu_maria",
+    "lemma": "Fons Philosophorum, Balneum Maris seu Maria",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_font",
+    "lemma": "Font",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fontale_acetosum",
+    "lemma": "Fontale Acetosum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_forfex",
+    "lemma": "Forfex",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_forimum",
+    "lemma": "Forimum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_forma",
+    "lemma": "Forma",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_formatio",
+    "lemma": "Formatio",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_formica_myrmecia_myrmex",
+    "lemma": "Formica & Myrmecia & Myrmex",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_formula",
+    "lemma": "Formula",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fornax",
+    "lemma": "Fornax",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fornax_acida",
+    "lemma": "Fornax acida",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_forpex",
+    "lemma": "Forpex,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fortificans",
+    "lemma": "Fortificans",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fortis_seu_sortis_herba_fuchsii",
+    "lemma": "Fortis seu Sortis Herba Fuchsii,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fotus",
+    "lemma": "Fotus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraces",
+    "lemma": "Fraces",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraga",
+    "lemma": "Fraga",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fragaria",
+    "lemma": "Fragaria,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frangula",
+    "lemma": "Frangula",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frassinella_eraxinella_italica_fraxinella_geniculata",
+    "lemma": "Frassinella & Eraxinella Italica, Fraxinella Geniculata,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraxinella",
+    "lemma": "Fraxinella.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraxinus",
+    "lemma": "Fraxinus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraxinus_pumila_matth_tragicum_primum_dioscorid",
+    "lemma": "Fraxinus pumila Matth. Tragicum primum Dioscorid",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frigefaciens_refrigerans",
+    "lemma": "Frigefaciens, Refrigerans",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frondis_item_frundis",
+    "lemma": "Frondis, item Frundis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frons_frondis",
+    "lemma": "Frons, Frondis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frontale",
+    "lemma": "Frontale,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fruct",
+    "lemma": "Fruct",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fructus",
+    "lemma": "Fructus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fructus_oxyphoenica_fructus_palmae_indicae_seu_sylvestris",
+    "lemma": "Fructus Oxyphoenica, Fructus Palmae Indicae seu sylvestris,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fructus_a_les",
+    "lemma": "Fructus A les",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fruges",
+    "lemma": "Fruges",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frumentorum_siliginis_flos",
+    "lemma": "Frumentorum & Siliginis flos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fucala_fuchaba",
+    "lemma": "Fucala, Fuchaba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuga_daemonum",
+    "lemma": "Fuga Daemonum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fugel_fugeli_fugil",
+    "lemma": "Fugel, Fugeli, Fugil,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuligo",
+    "lemma": "Fuligo,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuligo_alba_rialis",
+    "lemma": "Fuligo alba & rialis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuligo_metallorum",
+    "lemma": "Fuligo Metallorum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuligo_spagyricis",
+    "lemma": "Fuligo Spagyricis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fullonum_herbafuchsii_struthion_condisi_lanaria_radicula",
+    "lemma": "Fullonum HerbaFuchsii, Struthion, Condisi, Lanaria, Radicula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fulmen",
+    "lemma": "Fulmen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fulminatio",
+    "lemma": "Fulminatio,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fulminatio",
+    "lemma": "Fulminatio",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fulmos",
+    "lemma": "Fulmos,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumaria_capnos_lobelij_fumus_terrae",
+    "lemma": "Fumaria, Capnos Lobelij, Fumus Terrae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumaria_bulbosa_minor",
+    "lemma": "Fumaria bulbosa minor,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumigatio_chymicis",
+    "lemma": "Fumigatio, Chymicis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumus",
+    "lemma": "Fumus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumus_acerrimus_oterrae_resina_terra_solsequium_terreum_spiritus_foetens",
+    "lemma": "Fumus acerrimus, OTerrae, Resina Terra, Solsequium Terreum, Spiritus foetens",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumus_albus",
+    "lemma": "Fumus albus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumus_citrinus",
+    "lemma": "Fumus citrinus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumus_rubeus",
+    "lemma": "Fumus rubeus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumus_terrae",
+    "lemma": "Fumus Terrae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fundalia",
+    "lemma": "Fundalia",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus",
+    "lemma": "Fungus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_albicans",
+    "lemma": "Fungus albicans,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_cervinus",
+    "lemma": "Fungus Cervinus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_chirurgorum_orbicularis_ovatus_fungus_pulverulentus_bovist_vel_quo",
+    "lemma": "Fungus Chirurgorum, Orbicularis, Ovatus, Fungus pulverulentus, Bovist vel Quo vis, Crepitus lupi",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fun_gus_seu_spongiola_cynosbati",
+    "lemma": "Fun,gus seu Spongiola Cynosbati",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus",
+    "lemma": "Fungus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_juniperinus",
+    "lemma": "Fungus Juniperinus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_laricis",
+    "lemma": "Fungus Laricis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_marinus",
+    "lemma": "Fungus marinus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_orientalis",
+    "lemma": "Fungus Orientalis,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fungus_sambucinus_seu_spongia_sambuci_auricula_judae",
+    "lemma": "Fungus sambucinus, seu Spongia Sambuci, Auricula Judae",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furfur_macer_leptopityron",
+    "lemma": "Furfur macer, Leptopityron",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus",
+    "lemma": "Furnus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_apertus",
+    "lemma": "Furnus apertus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_ascensorius",
+    "lemma": "Furnus ascensorius",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_balnei",
+    "lemma": "Furnus Balnei",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_calcinatorius",
+    "lemma": "Furnus calcinatorius,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_caementatorius",
+    "lemma": "Furnus Caementatorius,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_descensorius",
+    "lemma": "Furnus descensorius,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_reverberatorius",
+    "lemma": "Furnus reverberatorius,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_simplex",
+    "lemma": "Furnus simplex,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_textus",
+    "lemma": "Furnus textus,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_furnus_vesicael",
+    "lemma": "Furnus vesicael,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fusio",
+    "lemma": "Fusio,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fusio_per_antimonium",
+    "lemma": "Fusio per Antimonium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fusiricon_fusuricon",
+    "lemma": "Fusiricon, Fusuricon,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_futa",
+    "lemma": "Futa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fux",
+    "lemma": "Fux,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuxa",
+    "lemma": "Fuxa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fyada",
+    "lemma": "Fyada,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba",
+    "lemma": "Faba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faba_jovis_faba_aegyptiaca_faba_crassa_seu_pinguis_xid_crassula",
+    "lemma": "Faba Jovis, Faba Aegyptiaca, Faba crassa seu pinguis, xid. Crassula",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fabaria",
+    "lemma": "Fabaria,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farfara_aphyllanthes_theophr_becchium_farfarella_filius_ante_patrem_herba_dni",
+    "lemma": "Farfara, Aphyllanthes Theophr. Becchium, Farfarella, Filius ante Patrem, Herba Dni. Quirini, Tussilago, Ungula Cahallina seu equina, Farfarago, Farfugium, Cha- maeleucae, Populago, Populus pumila",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_febrifuga",
+    "lemma": "Febrifuga,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fel_terrae",
+    "lemma": "Fel Terrae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferruminatrix_lob",
+    "lemma": "Ferruminatrix Lob.",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filipendula_seu_philipendula",
+    "lemma": "Filipendula, seu Philipendula",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flammula",
+    "lemma": "Flammula,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_marinum",
+    "lemma": "Foeniculum marinum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_porcinum",
+    "lemma": "Foeniculum porcinum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foeniculum_vulgare_foeniculum_nostrum_vulgare_marathrum_quibusdam_hippoma",
+    "lemma": "Foeniculum vulgare, Foeniculum nostrum vulgare, Marathrum, quibusdam Hippoma- rathrum putatum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foenum_camelorum",
+    "lemma": "Foenum Camelorum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_foenum_graecum",
+    "lemma": "Foenum Graecum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folium_indum_seu_malabathrum_folium_indi_seplasiariorum_casste_folium_tama",
+    "lemma": "Folium Indum, seu Malabathrum, Folium Indi Seplasiariorum, Casste Folium, Tama- lapatra, 157 Herbae. lapatra, Codegi Indi,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folium_sennae",
+    "lemma": "folium Sennae,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_folium_thee",
+    "lemma": "Folium Thee,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fortis_seu_fortis_herba_fuchsii",
+    "lemma": "Fortis seu Fortis herba Fuchsii,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fragaria_vulgaris_seu_fragula_trifolium_fragiferum_fragrum",
+    "lemma": "Fragaria vulgaris, seu Fragula, Trifolium fragiferum & Fragrum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraxinella",
+    "lemma": "Fraxinella,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraxinella",
+    "lemma": "Fraxinella,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuga_daemonum",
+    "lemma": "Fuga Daemonum,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fullonum_herba",
+    "lemma": "Fullonum herba,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumaria_bulbosa",
+    "lemma": "Fumaria bulbosa,",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fumaria_officinarum_vulgaris_capnos_lob_cherefolium_columbinum_felinum",
+    "lemma": "Fumaria Officinarum, vulgaris, Capnos Lob. Cherefolium columbinum & felinum, Fumus Terrae, Fumaria fiore albo & purpureo",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_f_vellri_oder_fellri",
+    "lemma": "F. Vellriß oder Fellriß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fa_llri",
+    "lemma": "Faͤllriß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fa_rberbaum_schlingbaum",
+    "lemma": "Faͤrberbaum / Schlingbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fo_rberbeer_kermesbeer",
+    "lemma": "Foͤrberbeer/ Kermesbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fa_rberbium",
+    "lemma": "Faͤrberbium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farberro_the_fa_rberwurtz",
+    "lemma": "Farberroͤthe / Faͤrberwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fahren_oder_farengliedkraut",
+    "lemma": "Fahren oder Farengliedkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fahren_oder_farnkraut_ma_nnlein",
+    "lemma": "Fahren oder Farnkraut Maͤnnlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fahrenkraut_oder_wurtzel_weiblein",
+    "lemma": "Fahrenkraut oder Wurtzel Weiblein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fahrenmoo",
+    "lemma": "Fahrenmooß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falck",
+    "lemma": "Falck",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falsches_camehlheu",
+    "lemma": "Falsches Camehlheu",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falsch_franzo_fischer_nardus",
+    "lemma": "Falsch Franzoͤfischer Nardus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falsch_hermodacktylus",
+    "lemma": "Falsch Hermodacktylus",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falsche_hohlivurtzel",
+    "lemma": "Falsche Hohlivurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falsch_leinkraut",
+    "lemma": "Falsch Leinkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_falscher_pfeffer",
+    "lemma": "Falscher Pfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fasan",
+    "lemma": "Fasan",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faselerbsen",
+    "lemma": "Faselerbsen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faseln_oder_feldfaseln",
+    "lemma": "Faseln oder Feldfaseln",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fastenblum",
+    "lemma": "Fastenblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faulbaum",
+    "lemma": "Faulbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_faulbeerbaum",
+    "lemma": "Faulbeerbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feberkraut",
+    "lemma": "Feberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_federwei",
+    "lemma": "Federweiß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigbla_ttereppig",
+    "lemma": "Feigblaͤttereppig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigbohnen",
+    "lemma": "Feigbohnen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigen",
+    "lemma": "Feigen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigenbaum",
+    "lemma": "Feigenbaum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigen",
+    "lemma": "Feigen-",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigentraublein",
+    "lemma": "Feigentraublein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felber_und_felbinger",
+    "lemma": "Felber und Felbinger",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldandorn",
+    "lemma": "Feldandorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldanemonen",
+    "lemma": "Feldanemonen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldbacillen",
+    "lemma": "Feldbacillen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldcypressen",
+    "lemma": "Feldcypressen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felddistel",
+    "lemma": "Felddistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felderbis",
+    "lemma": "Felderbis",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldhahnenfu",
+    "lemma": "Feldhahnenfuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldhirtzhorn",
+    "lemma": "Feldhirtzhorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldhuhn",
+    "lemma": "Feldhuhn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldisop",
+    "lemma": "Feldisop",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldkatzen",
+    "lemma": "Feldkatzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldkertzen",
+    "lemma": "Feldkertzen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldklee_oder_wiesenklee",
+    "lemma": "Feldklee oder Wiesenklee",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldkletten",
+    "lemma": "Feldkletten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldknoblauch",
+    "lemma": "Feldknoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldkropff",
+    "lemma": "Feldkropff",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldku_mmel",
+    "lemma": "Feldkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldku_tzel",
+    "lemma": "Feldkuͤtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldmagen",
+    "lemma": "Feldmagen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldmu_ntz",
+    "lemma": "Feldmuͤntz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldpolium",
+    "lemma": "Feldpolium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldrauthen",
+    "lemma": "Feldrauthen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldrosen",
+    "lemma": "Feldrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldro_marin_oder_feldvolium",
+    "lemma": "Feldroßmarin oder Feldvolium",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldsaffran",
+    "lemma": "Feldsaffran",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldscharlach",
+    "lemma": "Feldscharlach",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldstabwurtz",
+    "lemma": "Feldstabwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldtraubenkraut",
+    "lemma": "Feldtraubenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldwegwarren",
+    "lemma": "Feldwegwarren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldwermut",
+    "lemma": "Feldwermut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldwicken_oder_wilde_wicken",
+    "lemma": "Feldwicken oder wilde Wicken",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldzwiebel_oder_ackerzwiebel",
+    "lemma": "Feldzwiebel oder Ackerzwiebel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldzwiebel_so_man_isset",
+    "lemma": "Feldzwiebel so man isset",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fellri",
+    "lemma": "Fellriß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenchelgarn",
+    "lemma": "Fenchelgarn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenchelholtz",
+    "lemma": "Fenchelholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenchel",
+    "lemma": "Fenchel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenchelkraut",
+    "lemma": "Fenchelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenchelsamen",
+    "lemma": "Fenchelsamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenich",
+    "lemma": "Fenich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fenichgra_oder_wilder_fenich",
+    "lemma": "Fenichgraß oder wilder Fenich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferberbeer",
+    "lemma": "Ferberbeer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ferulkraut_oder_galbenkraut",
+    "lemma": "Ferulkraut oder Galbenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feuren",
+    "lemma": "Feuren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigen",
+    "lemma": "Feigen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feigwurtz",
+    "lemma": "Feigwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fett_oder_schmaltz",
+    "lemma": "Fett oder Schmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fette_henne",
+    "lemma": "Fette Henne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feuerkrott",
+    "lemma": "Feuerkrott",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feuerlilien",
+    "lemma": "Feuerlilien",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feuerstein",
+    "lemma": "Feuerstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feuren",
+    "lemma": "Feuren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fichten",
+    "lemma": "Fichten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fieberkraut",
+    "lemma": "Fieberkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fieberrinden",
+    "lemma": "Fieberrinden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fiedelhartz",
+    "lemma": "Fiedelhartz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filipendelwurtzel",
+    "lemma": "Filipendelwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_filtzkraut",
+    "lemma": "Filtzkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fingerhut",
+    "lemma": "Fingerhut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fingerna_geleinkraut_oder_fingernagelkraut",
+    "lemma": "Fingernaͤgeleinkraut oder Fingernagelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fingerstein",
+    "lemma": "Fingerstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischbein",
+    "lemma": "Fischbein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischko_rner",
+    "lemma": "Fischkoͤrner",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischkraut",
+    "lemma": "Fischkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischku_mmel",
+    "lemma": "Fischkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischlein",
+    "lemma": "Fischlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischleim",
+    "lemma": "Fischleim",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischma_uler",
+    "lemma": "Fischmaͤuler",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischmelden",
+    "lemma": "Fischmelden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischmu_ntz",
+    "lemma": "Fischmuͤntz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fischwurtz",
+    "lemma": "Fischwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flachs",
+    "lemma": "Flachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flachsdotter_oder_leindotter",
+    "lemma": "Flachsdotter oder Leindotter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flachskraut",
+    "lemma": "Flachskraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flachsseyden",
+    "lemma": "Flachsseyden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flachswild_oder_wilderflachs",
+    "lemma": "Flachswild oder Wilderflachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fleckenkraut_oder_fleckend_lungenkraut",
+    "lemma": "Fleckenkraut oder fleckend Lungenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fledermau",
+    "lemma": "Fledermauß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fiedermau_dorn",
+    "lemma": "Fiedermaußdorn",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fleischblum",
+    "lemma": "Fleischblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fleischlauch_oder_schnittlauch",
+    "lemma": "Fleischlauch oder Schnittlauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fleischleim",
+    "lemma": "Fleischleim",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fleischmaden",
+    "lemma": "Fleischmaden",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flemmischer_erdrauch",
+    "lemma": "Flemmischer Erdrauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fliegengifft_oder_mu_ckenpulver",
+    "lemma": "Fliegengifft oder Muͤckenpulver",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fliesende_ambra",
+    "lemma": "Fliesende Ambra",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fliesender_storar",
+    "lemma": "Fliesender Storar",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flittern",
+    "lemma": "Flittern",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flo_hekraut",
+    "lemma": "Floͤhekraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flo_he_flo_hepfeffer",
+    "lemma": "Floͤhe: Floͤhepfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fl_hesamen",
+    "lemma": "Flöͤhesamen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flor_amor",
+    "lemma": "Flor Amor",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flor_oder_saflor",
+    "lemma": "Flor oder Saflor",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_florentinischer_fenchel",
+    "lemma": "Florentinischer Fenchel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_florentinische_violwurtzel",
+    "lemma": "Florentinische Violwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flu_eblum",
+    "lemma": "Fluͤeblum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flu_ha_nlein",
+    "lemma": "Flußhaͤnlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flu_muscheln",
+    "lemma": "Flußmuscheln",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flu_stein",
+    "lemma": "Flußstein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_flu_vogelkraut",
+    "lemma": "Flußvogelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fluthgra",
+    "lemma": "Fluthgraß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fo_numgra_cum",
+    "lemma": "Foͤnumgraͤcum",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_forenholtz_oder_feuren",
+    "lemma": "Forenholtz oder Feuren",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fortzzwang",
+    "lemma": "Fortzzwang",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fotzenigel",
+    "lemma": "Fotzenigel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fotzwein",
+    "lemma": "Fotzwein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_franzo_sischer_ro_marin",
+    "lemma": "Franzoͤsischer Roßmarin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frantzosenholtz",
+    "lemma": "Frantzosenholtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenbalsam",
+    "lemma": "Frauenbalsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenbi",
+    "lemma": "Frauenbiß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenbla_tter",
+    "lemma": "Frauenblaͤtter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenblumen",
+    "lemma": "Frauenblumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenbutter",
+    "lemma": "Frauenbutter",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauendistel",
+    "lemma": "Frauendistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauendosten",
+    "lemma": "Frauendosten",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fraueney",
+    "lemma": "Fraueneyß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenflachs",
+    "lemma": "Frauenflachs",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenhandschuh",
+    "lemma": "Frauenhandschuh",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenhaar",
+    "lemma": "Frauenhaar",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenkraut",
+    "lemma": "Frauenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenmandel",
+    "lemma": "Frauenmandel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenmu_ntz_oder_balsam",
+    "lemma": "Frauenmuͤntz oder Balsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauennabel",
+    "lemma": "Frauennabel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenro_slein",
+    "lemma": "Frauenroͤslein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frauenspiegel",
+    "lemma": "Frauenspiegel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_balsamapffel",
+    "lemma": "Frembder Balsamapffel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembd_bintzenkraut",
+    "lemma": "Frembd Bintzenkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembd_braunwurtzel",
+    "lemma": "Frembd Braunwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_kimmel",
+    "lemma": "Frembder Kimmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_leberbalsam",
+    "lemma": "Frembder Leberbalsam",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_liebsto_ckel",
+    "lemma": "Frembder Liebstoͤckel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembde_oesterreichische_scabiosen",
+    "lemma": "Frembde Oesterreichische Scabiosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembde_purgirende_haselnu",
+    "lemma": "Frembde purgirende Haselnuͤß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembde_rheinblumen",
+    "lemma": "Frembde Rheinblumen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_ro_marin",
+    "lemma": "Frembder Roßmarin",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_rother_baldrian",
+    "lemma": "Frembder rother Baldrian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembder_thymian",
+    "lemma": "Frembder Thymian",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembd_trauben_hyacinth",
+    "lemma": "Frembd Trauben Hyacinth",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembde_waldreben",
+    "lemma": "Frembde Waldreben",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembde_wegdistel",
+    "lemma": "Frembde Wegdistel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frembde_winterrosen",
+    "lemma": "Frembde Winterrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fre_wurtz",
+    "lemma": "Freßwurtz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_freysamkraut",
+    "lemma": "Freysamkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_freysamkraut",
+    "lemma": "Freysamkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_freysamrosen",
+    "lemma": "Freysamrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_freysamwurtzel",
+    "lemma": "Freysamwurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frosch",
+    "lemma": "Frosch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_froschbi",
+    "lemma": "Froschbiß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_froschkraut",
+    "lemma": "Froschkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_froschleich",
+    "lemma": "Froschleich",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_froschlo_ffelkraut",
+    "lemma": "Froschloͤffelkraut",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_froschpfeffer",
+    "lemma": "Froschpfeffer",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_froschwegerig",
+    "lemma": "Froschwegerig",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fru_hlingskraut_oder_wurtzel",
+    "lemma": "Fruͤhlingskraut oder Wurtzel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuchsho_dlein",
+    "lemma": "Fuchshoͤdlein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuchslunge",
+    "lemma": "Fuchslunge",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuchsschmaltz",
+    "lemma": "Fuchsschmaltz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fuchsschwantz",
+    "lemma": "Fuchsschwantz",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fu_llein",
+    "lemma": "Fuͤllein",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fu_nffbladt",
+    "lemma": "Fuͤnffbladt",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fu_rsthaber",
+    "lemma": "Fuͤrsthaber",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_futthechel",
+    "lemma": "Futthechel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_felappa",
+    "lemma": "Felappa",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fgelsl_u",
+    "lemma": "Fgelsläuß",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_ftalia_nische_bohne",
+    "lemma": "Ftaliaͤnische Bohne",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldknoblauch_oder_ackerknoblauch",
+    "lemma": "Feldknoblauch oder Ackerknoblauch",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldku_mmel",
+    "lemma": "Feldkuͤmmel",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_frabinen",
+    "lemma": "FRabinen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldrosen",
+    "lemma": "Feldrosen",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_fora",
+    "lemma": "Fora",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_farinzucker",
+    "lemma": "Farinzucker",
+    "source": "sommerhoff"
+  },
+  {
+    "id": "sommerhoff_feldtzwiebel",
+    "lemma": "Feldtzwiebel",
+    "source": "sommerhoff"
+  }
+]

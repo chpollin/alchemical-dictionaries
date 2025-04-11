@@ -1,0 +1,2725 @@
+
+=== Analysis of Ruland.xml ===
+
+== Element Structure ==
+
+Element: /tei:body
+  Count: 1
+  Children: tei:div
+
+Element: /tei:body/tei:div
+  Count: 2
+  Attributes: type
+  Children: tei:ab, tei:entry, tei:fw, tei:milestone, tei:pb
+
+Element: /tei:body/tei:div/tei:ab
+  Count: 9
+  Attributes: facs
+  Children: tei:lb
+
+Element: /tei:body/tei:div/tei:ab/tei:lb
+  Count: 113
+
+Element: /tei:body/tei:div/tei:entry
+  Count: 3147
+  Attributes: n, type, {http://www.w3.org/XML/1998/namespace}id
+  Children: tei:dictScrap
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap
+  Count: 3147
+  Children: tei:cit, tei:def, tei:form, tei:fw, tei:lb, tei:note, tei:pb, tei:sense
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit
+  Count: 9
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit/tei:quote
+  Count: 9
+  Children: tei:lb
+  Text Samples:
+    - Schwebel.
+    - ist die verguldung deß Ertzes in Famnitie rothe
+    - Ertztrog
+    - Himmels Wasser / ist sublimirter
+    - Luft
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit/tei:quote/tei:lb
+  Count: 2
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def
+  Count: 4
+  Children: tei:cit, tei:lb
+  Text Samples:
+    - est vinum rectificatum, vel sublimatum, vt coeli
+    - est, vnde aes coquitur. Nam hoc vocabulo ge¬
+    - Altera est significatio chalcitis, quod significet chalcitin,
+                     tri¬
+    - etiam est medicina fermentata vel ex auro solo, vel ex
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:cit
+  Count: 2
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:cit/tei:quote
+  Count: 2
+  Children: tei:lb
+  Text Samples:
+    - Ist ein Arnney mit Gold oder allen sieben
+    - ein gantzen Teig durchdringt
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:cit/tei:quote/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:lb
+  Count: 20
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form
+  Count: 3209
+  Attributes: type
+  Children: tei:choice, tei:cit, tei:form, tei:hi, tei:lb, tei:orth, tei:usg
+  Text Samples:
+    - Abam
+    - Abartamen
+    - Aiarazat
+    - Accib
+    - Abacus
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:choice
+  Count: 1
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:choice/tei:abbr
+  Count: 1
+  Text Samples:
+    - Argent.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:choice/tei:expan
+  Count: 1
+  Text Samples:
+    - Argentum
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:cit
+  Count: 1
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:cit/tei:quote
+  Count: 1
+  Text Samples:
+    - Glimmer oder Katzen Silber.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:form
+  Count: 4
+  Attributes: type
+  Text Samples:
+    - almele
+    - Ars
+                        Cabalistica
+    - calcanthum significat
+    - stratificiren
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:hi
+  Count: 2
+  Attributes: rend
+  Text Samples:
+    - A
+    - D
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:lb
+  Count: 42
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:orth
+  Count: 219
+  Text Samples:
+    - Alnec
+    - Allenec
+    - Alos
+    - Alo
+    - Alix
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:usg
+  Count: 3
+  Attributes: type
+  Text Samples:
+    - Anatron
+    - Anatron
+    - Anatron
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:fw
+  Count: 33
+  Attributes: place, type
+  Text Samples:
+    - Alia etiam numerantur aris vel cupri species.
+    - RVLANDI PHIL. ET MEDICI
+    - 35
+    - 54
+    - LEXICON ALCHEMIAE MART.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:lb
+  Count: 192
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note
+  Count: 181
+  Children: tei:choice, tei:cit, tei:fw, tei:hi, tei:lb, tei:list, tei:note, tei:pb, tei:seg
+  Text Samples:
+    - primum reperta in Sicilia iuxta flumen eiusdem nomi¬
+    - Pyrrhum habuisse achatem gemmam dicit, in qua Apollo,
+    - Velacetum philosophorum secundum
+    - 1. Alumen fossue,
+    - 2. Liquidum luteum ex Ilua insula maris Hetrusci, quod tra¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:choice
+  Count: 3
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:choice/tei:abbr
+  Count: 3
+  Text Samples:
+    - i. e.
+    - i. e.
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:choice/tei:expan
+  Count: 3
+  Text Samples:
+    - id est
+    - id est
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit
+  Count: 159
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit/tei:quote
+  Count: 159
+  Children: tei:lb
+  Text Samples:
+    - Alaunfolg
+    - Weich-bleichgel¬
+    - Neapolitamseher gelber Alaun¬
+    - Grawweich Alaun
+    - leicht weisser Neapo¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit/tei:quote/tei:lb
+  Count: 79
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:fw
+  Count: 26
+  Attributes: place, type
+  Text Samples:
+    - 4
+    - RVLANDI PHILOS. ET MEDICI
+    - 34
+    - LEXICON ALCHEMIAE MART.
+    - 40
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:hi
+  Count: 3
+  Attributes: rend
+  Children: tei:lb
+  Text Samples:
+    - Pana minioque rubentem.
+    - Quem magneta vocant patrio de nomine Graii.
+    - Venere AEthiopes, gens haud incognita Nilo.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:hi/tei:lb
+  Count: 3
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:lb
+  Count: 701
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list
+  Count: 2
+  Children: tei:item, tei:lb
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item
+  Count: 7
+  Attributes: n
+  Children: tei:lb, tei:list
+  Text Samples:
+    - 1. Zeg viride vel
+    - Chalcitis zeg citrinum
+    - 1. Vena minii vt declarant hic verba ipsius Vitruuii.
+    - 2. Haematites gemma iuxta Plinium lib. 36. cap. 20. de qua
+    - 3. Gemma illa nobilissima, quam Plinius hinc vocat Car¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:lb
+  Count: 38
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:list
+  Count: 2
+  Children: tei:item
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:list/tei:item
+  Count: 6
+  Attributes: n
+  Children: tei:lb
+  Text Samples:
+    - 1. Misy facilime
+    - 2. Chalcitin
+    - Filamenta
+    - Sory facile
+    - Sory au¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:list/tei:item/tei:lb
+  Count: 20
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:lb
+  Count: 5
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:note
+  Count: 2
+  Children: tei:lb
+  Text Samples:
+    - Album, cuius Aui¬
+    - Et haec duo factitia, solum
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:note/tei:lb
+  Count: 5
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:pb
+  Count: 14
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:seg
+  Count: 1
+  Attributes: {http://www.w3.org/XML/1998/namespace}lang
+  Text Samples:
+    - ἄνδακαι
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb
+  Count: 16
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense
+  Count: 3133
+  Children: tei:choice, tei:cit, tei:def, tei:entry, tei:form, tei:fw, tei:hi, tei:lang, tei:lb, tei:note, tei:pb, tei:seg
+  Text Samples:
+    - vide ana
+    - ,
+    - ,
+    - ,
+    - , id est,
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:choice
+  Count: 12
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:choice/tei:abbr
+  Count: 12
+  Text Samples:
+    - i. e.
+    - i. e.
+    - i. e.
+    - i. e.
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:choice/tei:expan
+  Count: 12
+  Text Samples:
+    - id est
+    - id est
+    - id est
+    - id est
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit
+  Count: 1960
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote
+  Count: 1960
+  Children: tei:choice, tei:cit, tei:fw, tei:lb, tei:note, tei:pb
+  Text Samples:
+    - Buchbanck
+    - Buͤne
+    - Ein Deckel.
+    - Feigbonn.
+    - Rothe Corallen.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:choice
+  Count: 1
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:choice/tei:abbr
+  Count: 1
+  Text Samples:
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:choice/tei:expan
+  Count: 1
+  Text Samples:
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:cit
+  Count: 1
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:cit/tei:quote
+  Count: 1
+  Children: tei:lb
+  Text Samples:
+    - vnd etli her¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:cit/tei:quote/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:fw
+  Count: 38
+  Attributes: place, type
+  Text Samples:
+    - 45
+    - RVLANDI PHILOS. ET MEDICI
+    - LEXICON ALCHEMIAE MART.
+    - 146
+    - RVALNDI PHILOS. ET MEDICI.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:lb
+  Count: 1567
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note
+  Count: 1
+  Children: tei:fw, tei:lb, tei:pb
+  Text Samples:
+    - Floresc. angl. Die ongeschickten nemmen den Coͤrper / die
+                              calci¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:fw
+  Count: 2
+  Attributes: place, type
+  Text Samples:
+    - 298
+    - LEXICON ALCHEMIAE MART.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:lb
+  Count: 13
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:pb
+  Count: 1
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:pb
+  Count: 22
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def
+  Count: 1459
+  Children: tei:choice, tei:cit, tei:fw, tei:lb, tei:pb
+  Text Samples:
+    - Capricornus castigatus, chibor
+    - lutum rotae,
+    - calx non exstincta, vel calx viua,
+    - id est, coopertorium
+    - est abstractio per partem superiorem. Perficitur mo
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:choice
+  Count: 31
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:choice/tei:abbr
+  Count: 31
+  Text Samples:
+    - i. e.
+    - i.e.
+    - i. e.
+    - i. e.
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:choice/tei:expan
+  Count: 31
+  Text Samples:
+    - id est
+    - id est
+    - id est
+    - id est
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit
+  Count: 329
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote
+  Count: 329
+  Children: tei:fw, tei:lb, tei:pb
+  Text Samples:
+    - Bley
+    - Bergtrog
+    - Kath / Leim
+    - Vngeleschter Kalch
+    - Bleyweiß
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:fw
+  Count: 23
+  Attributes: place, type
+  Text Samples:
+    - 194
+    - LEXICON ALCHEMIAE MART.
+    - RVLANDI PHILOS. ET MEDICI.
+    - 199
+    - 212
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:lb
+  Count: 386
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:pb
+  Count: 12
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:fw
+  Count: 32
+  Attributes: place, type
+  Text Samples:
+    - 156
+    - LEXICON ALCHEMIAE MART.
+    - RVLANDI PHILOS. ET MEDICI
+    - 157
+    - LEXICON AICHEMIAE MART.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:lb
+  Count: 703
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pb
+  Count: 16
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry
+  Count: 17
+  Children: tei:dictScrap
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap
+  Count: 17
+  Children: tei:def, tei:form, tei:sense
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def
+  Count: 1
+  Children: tei:cit, tei:lb
+  Text Samples:
+    - est sal est ex humiditate nebulae saepius in pratis supra
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:cit
+  Count: 1
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:cit/tei:quote
+  Count: 1
+  Children: tei:lb
+  Text Samples:
+    - Feuchtigkeit deß Nebelo sich setzent vnd von der Sonnen
+                                    er¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:cit/tei:quote/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:lb
+  Count: 3
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:form
+  Count: 17
+  Attributes: type
+  Text Samples:
+    - Bitumen sulphurea terra
+    - Bitumen peruersum
+    - Nar
+    - Narbasaphar
+    - Narcotica, medicamenta soporifera
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense
+  Count: 16
+  Children: tei:cit, tei:def, tei:lb
+  Text Samples:
+    - est, succus pinguis,
+    - est liquor incertus, ein
+    - dolores auferentia, vel, vt
+    - sunt prodigiosa
+                              praesagia, rei futurae cuiuspiam
+    - dicuntur, spiritus aerem inhabitantes.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:cit
+  Count: 11
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote
+  Count: 11
+  Children: tei:lb
+  Text Samples:
+    - Geschwebelt Erd¬
+    - Kampfer
+    - Boͤhmische Steinkolen.
+    - verkerter Leim: Ist
+    - Mosch.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:lb
+  Count: 9
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def
+  Count: 7
+  Children: tei:cit, tei:lb
+  Text Samples:
+    - id est, pir, ignis.
+    - id est, flatus minerae, aurichalcum
+    - id est, nitrum, vel natron.
+    - sunt medicamenta mortem pellentia, & vitam
+                                 con¬
+    - est ars illicita, quę cum mortuis operabatur olim,
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit
+  Count: 2
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote
+  Count: 2
+  Children: tei:lb
+  Text Samples:
+    - Ein Fell ober dem
+    - Retten
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:lb
+  Count: 2
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:lb
+  Count: 3
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:lb
+  Count: 19
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:form
+  Count: 15
+  Attributes: type
+  Children: tei:lb
+  Text Samples:
+    - aes vstum
+    - Algit
+    - Algerit
+    - allabor
+    - alcamor
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:form/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:fw
+  Count: 419
+  Attributes: place, type
+  Text Samples:
+    - 10
+    - RVLANDI PHIL. Ex MEDICI.
+    - 13
+    - 16
+    - LEXICON ALCHEMIAE MART.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:hi
+  Count: 12
+  Attributes: rend
+  Children: tei:lb
+  Text Samples:
+    - Extra aurum, & sic est duplex.
+    - Perpetui fletus, lacrymis distillat Enydros,
+    - Nunc quoque coraliis eadem natura remansit,
+    - —Videas lapidescere Sarni
+    - Namque ea vel nemo, vel qui mihi vulnera fecit,
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:hi/tei:lb
+  Count: 21
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:lang
+  Count: 2
+  Text Samples:
+    - à Germanis
+    - Latino
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:lb
+  Count: 7204
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note
+  Count: 115
+  Attributes: n
+  Children: tei:choice, tei:cit, tei:fw, tei:hi, tei:lb, tei:note, tei:pb
+  Text Samples:
+    - Plin. l. 47. c. 4. hunc
+    - Indica non nascens in auro, cognatus colore Crystallo trans¬
+    - Cuius & Dioscorides lib. 5. cap. 45. mentionem facit.
+    - Plin. l. 37. c. 11. & Solin. c. 40. huius egregie mentionem faciunt.
+                        Sic
+    - Aetites Plinii est quadruplex:
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:choice
+  Count: 2
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:choice/tei:abbr
+  Count: 2
+  Text Samples:
+    - i. e.
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:choice/tei:expan
+  Count: 2
+  Text Samples:
+    - id est
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit
+  Count: 182
+  Attributes: style, type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote
+  Count: 182
+  Children: tei:fw, tei:lb, tei:pb
+  Text Samples:
+    - mit den Muschelsteinen
+    - Auß dem Wasser waͤchst alles hat auch die Nahrung darauß.
+    - Wasser thun kan / darumb gehoͤrt hieher kem aqua fort, dem
+    - 4. Die Fruchte soll nicht zerstoͤhret werden / fuͤr der
+                              zusammen¬
+    - Es seind aber zweyerley Wasser Das erste loͤset auff/ond
+                              ma¬
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:fw
+  Count: 2
+  Attributes: place, type
+  Text Samples:
+    - RVLANDI PHIL. ET MEDICI.
+    - 93
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:lb
+  Count: 160
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:pb
+  Count: 1
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:fw
+  Count: 57
+  Attributes: place, type
+  Text Samples:
+    - RVLANDI PHILOS. ET MEDICI
+    - 5
+    - 6
+    - LEXICON ALCHEMIAE MART.
+    - RVLANDI PHIL. ET MEDICI.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:hi
+  Count: 1
+  Attributes: rend
+  Text Samples:
+    - In auro nobilissimo.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:lb
+  Count: 1135
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:note
+  Count: 4
+  Attributes: n
+  Children: tei:lb
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:note/tei:lb
+  Count: 34
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:pb
+  Count: 30
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb
+  Count: 217
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:seg
+  Count: 4
+  Attributes: type
+  Text Samples:
+    - λιπς. λιπίθος
+    - καλεοῦ αἰρο¬
+    - αλκοῦ ὧντος
+    - μαλκοῦ αὐρος
+
+Element: /tei:body/tei:div/tei:fw
+  Count: 334
+  Attributes: place, type
+  Children: tei:lb
+  Text Samples:
+    - LEXICON ALCHE
+    - A.
+    - 2
+    - LEXICON ALCHEMIAE MART.
+    - RVLANDI PHILOS. ET MEDICI
+
+Element: /tei:body/tei:div/tei:fw/tei:lb
+  Count: 3
+  Attributes: break
+
+Element: /tei:body/tei:div/tei:milestone
+  Count: 23
+  Attributes: n, unit
+
+Element: /tei:body/tei:div/tei:pb
+  Count: 178
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+== Attribute Values (Top 10) ==
+
+Attribute: /tei:body/tei:div/tei:ab[@facs]
+  #facs_6_region_1620805814858_6: 1
+  #facs_6_region_1620805817789_9: 1
+  #facs_8_region_1620806157788_44: 1
+  #facs_9_region_1620806367277_140: 1
+  #facs_9_region_1620806372359_143: 1
+  #facs_10_region_1620806566167_177: 1
+  #facs_10_region_1620806569767_180: 1
+  #facs_11_region_1620806708467_208: 1
+  #facs_12_region_1620807036663_272: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit[@style]
+  font-variant: fraktur: 9
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit[@type]
+  translation: 9
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 9
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:cit[@style]
+  font-variant: fraktur: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:cit[@type]
+  translation: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:cit[@style]
+  font-variant: fraktur: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:cit[@type]
+  translation: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:form[@type]
+  variant: 4
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:hi[@rend]
+  decorated: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:usg[@type]
+  syn: 3
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form[@type]
+  lemma: 2900
+  phrase: 216
+  variant: 92
+  compound: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:fw[@place]
+  top-centre: 16
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:fw[@type]
+  header: 16
+  pageNum: 16
+  TODO: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit/tei:quote/tei:lb[@break]
+  no: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit[@style]
+  font-variant: fraktur: 159
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit[@type]
+  translation: 159
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 159
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:fw[@place]
+  top-centre: 13
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:fw[@type]
+  pageNum: 13
+  header: 13
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:hi[@rend]
+  italic: 3
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:lb[@break]
+  no: 26
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:lb[@break]
+  no: 7
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:list/tei:item/tei:lb[@break]
+  no: 6
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item/tei:list/tei:item[@n]
+  1.1: 1
+  1.2: 1
+  1.3: 1
+  2.1: 1
+  2.2: 1
+  2.3: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:list/tei:item[@n]
+  1: 1
+  2: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:note/tei:lb[@break]
+  no: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:pb[@facs]
+  #facs_17: 1
+  #facs_47: 1
+  #facs_53: 1
+  #facs_56: 1
+  #facs_74: 1
+  #facs_92: 1
+  #facs_93: 1
+  #facs_95: 1
+  #facs_99: 1
+  #facs_155: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:pb[@n]
+  17: 1
+  47: 1
+  53: 1
+  56: 1
+  74: 1
+  92: 1
+  93: 1
+  95: 1
+  99: 1
+  155: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0017: 1
+  img_0047: 1
+  img_0053: 1
+  img_0056: 1
+  img_0074: 1
+  img_0092: 1
+  img_0093: 1
+  img_0095: 1
+  img_0099: 1
+  img_0155: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:note/tei:seg[@{http://www.w3.org/XML/1998/namespace}lang]
+  gr: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb[@facs]
+  #facs_48: 1
+  #facs_67: 1
+  #facs_75: 1
+  #facs_76: 1
+  #facs_77: 1
+  #facs_78: 1
+  #facs_79: 1
+  #facs_96: 1
+  #facs_97: 1
+  #facs_98: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb[@n]
+  48: 1
+  67: 1
+  75: 1
+  76: 1
+  77: 1
+  78: 1
+  79: 1
+  96: 1
+  97: 1
+  98: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0048: 1
+  img_0067: 1
+  img_0075: 1
+  img_0076: 1
+  img_0077: 1
+  img_0078: 1
+  img_0079: 1
+  img_0096: 1
+  img_0097: 1
+  img_0098: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:cit[@style]
+  font-variant: fraktur: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:cit[@type]
+  translation: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:fw[@place]
+  top-centre: 19
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:fw[@type]
+  pageNum: 19
+  header: 19
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:lb[@break]
+  no: 5
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:fw[@place]
+  top-centre: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:fw[@type]
+  pageNum: 1
+  header: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:pb[@facs]
+  #facs_311: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:pb[@n]
+  311: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:note/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0311: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:pb[@facs]
+  #facs_58: 1
+  #facs_123: 1
+  #facs_159: 1
+  #facs_188: 1
+  #facs_255: 1
+  #facs_274: 1
+  #facs_284: 1
+  #facs_308: 1
+  #facs_310: 1
+  #facs_330: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:pb[@n]
+  58: 1
+  123: 1
+  159: 1
+  188: 1
+  255: 1
+  274: 1
+  284: 1
+  308: 1
+  310: 1
+  330: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0058: 1
+  img_0123: 1
+  img_0159: 1
+  img_0188: 1
+  img_0255: 1
+  img_0274: 1
+  img_0284: 1
+  img_0308: 1
+  img_0310: 1
+  img_0330: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit[@style]
+  font-variant: fraktur: 1936
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit[@type]
+  translation: 1948
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 1959
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:fw[@place]
+  top-centre: 11
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:fw[@type]
+  pageNum: 12
+  header: 11
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:lb[@break]
+  no: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:pb[@facs]
+  #facs_207: 1
+  #facs_212: 1
+  #facs_225: 1
+  #facs_312: 1
+  #facs_313: 1
+  #facs_315: 1
+  #facs_372: 1
+  #facs_373: 1
+  #facs_414: 1
+  #facs_446: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:pb[@n]
+  207: 1
+  212: 1
+  225: 1
+  312: 1
+  313: 1
+  315: 1
+  372: 1
+  373: 1
+  414: 1
+  446: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0207: 1
+  img_0212: 1
+  img_0225: 1
+  img_0312: 1
+  img_0313: 1
+  img_0315: 1
+  img_0372: 1
+  img_0373: 1
+  img_0414: 1
+  img_0446: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@style]
+  font-variant: fraktur: 328
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@type]
+  translation: 328
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 329
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:fw[@place]
+  top-centre: 16
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:fw[@type]
+  pageNum: 16
+  header: 16
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:lb[@break]
+  no: 10
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pb[@facs]
+  #facs_169: 1
+  #facs_170: 1
+  #facs_171: 1
+  #facs_178: 1
+  #facs_179: 1
+  #facs_190: 1
+  #facs_200: 1
+  #facs_210: 1
+  #facs_213: 1
+  #facs_214: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pb[@n]
+  169: 1
+  170: 1
+  171: 1
+  178: 1
+  179: 1
+  190: 1
+  200: 1
+  210: 1
+  213: 1
+  214: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0169: 1
+  img_0170: 1
+  img_0171: 1
+  img_0178: 1
+  img_0179: 1
+  img_0190: 1
+  img_0200: 1
+  img_0210: 1
+  img_0213: 1
+  img_0214: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:cit[@style]
+  font-variant: fraktur: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:cit[@type]
+  translation: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:def/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:form[@type]
+  lemma: 16
+  phrase: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:cit[@style]
+  font-variant: fraktur: 11
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:cit[@type]
+  translation: 11
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 11
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@style]
+  font-variant: fraktur: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@type]
+  translation: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:form[@type]
+  variant: 15
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:fw[@place]
+  top-centre: 208
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:fw[@type]
+  pageNum: 210
+  header: 208
+  footer: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:hi[@rend]
+  italic: 12
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:lb[@break]
+  no: 40
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:fw[@place]
+  top-centre: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:fw[@type]
+  header: 1
+  pageNum: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:lb[@break]
+  no: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:pb[@facs]
+  #facs_106: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:pb[@n]
+  106: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit/tei:quote/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0106: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit[@style]
+  font-variant: fraktur: 182
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit[@type]
+  translation: 182
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 182
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:fw[@place]
+  top-centre: 28
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:fw[@type]
+  pageNum: 29
+  header: 28
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:hi[@rend]
+  italic: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:lb[@break]
+  no: 5
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:note[@n]
+  1.1: 1
+  1.2: 1
+  1.3: 1
+  1.4: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:pb[@facs]
+  #facs_18: 1
+  #facs_19: 1
+  #facs_28: 1
+  #facs_51: 1
+  #facs_60: 1
+  #facs_61: 1
+  #facs_87: 1
+  #facs_91: 1
+  #facs_127: 1
+  #facs_128: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:pb[@n]
+  18: 1
+  19: 1
+  28: 1
+  51: 1
+  60: 1
+  61: 1
+  87: 1
+  91: 1
+  127: 1
+  128: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0018: 1
+  img_0019: 1
+  img_0028: 1
+  img_0051: 1
+  img_0060: 1
+  img_0061: 1
+  img_0087: 1
+  img_0091: 1
+  img_0127: 1
+  img_0128: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:note[@n]
+  1: 1
+  2: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb[@facs]
+  #facs_23: 1
+  #facs_26: 1
+  #facs_29: 1
+  #facs_30: 1
+  #facs_31: 1
+  #facs_33: 1
+  #facs_34: 1
+  #facs_35: 1
+  #facs_40: 1
+  #facs_46: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb[@n]
+  23: 1
+  26: 1
+  29: 1
+  30: 1
+  31: 1
+  33: 1
+  34: 1
+  35: 1
+  40: 1
+  46: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0023: 1
+  img_0026: 1
+  img_0029: 1
+  img_0030: 1
+  img_0031: 1
+  img_0033: 1
+  img_0034: 1
+  img_0035: 1
+  img_0040: 1
+  img_0046: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:seg[@type]
+  greek: 4
+
+Attribute: /tei:body/tei:div/tei:entry[@n]
+  Ruland1612-Baurac: 8
+  Ruland1612-Nitrum: 8
+  Ruland1612-Magnesia: 5
+  Ruland1612-Aquila: 4
+  Ruland1612-Borax: 4
+  Ruland1612-Digestio: 4
+  Ruland1612-Elixir: 4
+  Ruland1612-Pilum: 4
+  Ruland1612-Putrefactio: 4
+  Ruland1612-Sulphur: 4
+
+Attribute: /tei:body/tei:div/tei:entry[@type]
+  A: 561
+  C: 393
+  S: 330
+  M: 219
+  F: 186
+  L: 180
+  P: 173
+  T: 142
+  B: 123
+  D: 110
+
+Attribute: /tei:body/tei:div/tei:entry[@{http://www.w3.org/XML/1998/namespace}id]
+  achates: 1
+
+Attribute: /tei:body/tei:div/tei:fw/tei:lb[@break]
+  no: 1
+
+Attribute: /tei:body/tei:div/tei:fw[@place]
+  top-centre: 169
+  middle-centre: 4
+  left: 2
+  middle: 1
+  bottom-centre: 1
+
+Attribute: /tei:body/tei:div/tei:fw[@type]
+  header: 178
+  pageNum: 152
+  TODO: 3
+  page: 1
+
+Attribute: /tei:body/tei:div/tei:milestone[@n]
+  A: 1
+  B: 1
+  C: 1
+  D: 1
+  E: 1
+  F: 1
+  G: 1
+  H: 1
+  I: 1
+  K: 1
+
+Attribute: /tei:body/tei:div/tei:milestone[@unit]
+  letter: 23
+
+Attribute: /tei:body/tei:div/tei:pb[@facs]
+  #facs_1: 1
+  #facs_2: 1
+  #facs_3: 1
+  #facs_4: 1
+  #facs_5: 1
+  #facs_6: 1
+  #facs_7: 1
+  #facs_8: 1
+  #facs_9: 1
+  #facs_10: 1
+
+Attribute: /tei:body/tei:div/tei:pb[@n]
+  1: 1
+  2: 1
+  3: 1
+  4: 1
+  5: 1
+  6: 1
+  7: 1
+  8: 1
+  9: 1
+  10: 1
+
+Attribute: /tei:body/tei:div/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0001: 1
+  img_0002: 1
+  img_0003: 1
+  img_0004: 1
+  img_0005: 1
+  img_0006: 1
+  img_0007: 1
+  img_0008: 1
+  img_0009: 1
+  img_0010: 1
+
+Attribute: /tei:body/tei:div[@type]
+  frontmatter: 1
+  dictionary: 1
+
+== Entry Examples ==
+
+Example 1 (length: 133 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0" type="A" n="Ruland1612-Abam">
+  <dictScrap>
+    <form type="lemma">Abam</form>
+  </dictScrap>
+</entry>
+
+
+Example 2 (length: 231 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0" type="S" n="Ruland1612-Sal-graecum">
+  <dictScrap><form type="lemma">Sal graecum</form> , <sense><def>id est, alumen de alap, vel de lacaph. </def></sense>
+               </dictScrap>
+</entry>
+
+
+Example 3 (length: 296 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0" type="B" n="Ruland1612-Balneum-roris">
+  <dictScrap>
+    <form type="lemma">Balneum roris </form>
+    <sense>est, quae vas aquam non tangit, sed a vapore ascenden¬<lb/>Bal¬<lb/>te
+                     calefit, resque imposita dissoluitur.</sense>
+  </dictScrap>
+</entry>
+
+
+Example 4 (length: 427 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0" type="A" n="Ruland1612-Arbor-maris">
+  <dictScrap>
+    <form type="lemma">Arbor maris</form>
+    <sense> est metallum, quod fruticis instar in mari crescat, <lb/>vegetetque. Alias
+                     corallia, curallion, Gorgonion, Dendri¬<lb/>tes, Lithodendron, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Korallen Kralen</quote></cit>.</sense>
+  </dictScrap>
+</entry>
+
+
+Example 5 (length: 28790 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0" type="C" n="Ruland1612-Cadmia">
+  <dictScrap>
+    <form type="lemma">Cadmia</form>
+    <sense> Est duplex: scilicet natiua &amp; factitia. <lb/>Cadmia natiua iterum est
+                     duplex: scilicet vna, quae reperitur <lb/>in montibus &amp; riuulis, &amp;
+                     nonnunquam torrentibus. Et vidi <lb/>aliquando inuentam Cadmiam in Torrentibus
+                     Westpha¬<lb/>liae: de qua Cadmia loquitur forsitan Galenus. Alii
+                     dispu¬<lb/>tant esse Irim gemmam. Nihil tamen hic ego sine iudicio
+                     <lb/>affirmare nec ausim, nec volo. Altera Cadinia natiua re¬<lb/>peritur in
+                     fodinis metallorum, fossilis &amp; lapidosa: vt cerne¬<lb/>re licet in valle ad
+                     fodinam, cui nomen est Veronae. Estque <lb/>ille lapis, quem Germani vocant,
+                        <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Den Kobalt </quote></cit>/ nomine dae¬<lb/>monis, qui aedes inhabitat aliquando, vt in Saxonia
+                     vidimus. <lb/>Plinius lapidem aerosum vocat. Et ille lapis, seu illa
+                     Cad¬<lb/>mia natiua, fossilis der Cobalt, non multum differt a pyri¬<lb/>te,
+                     seu marchasita, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Von dem Kiß oder Kupfferstein</quote></cit>: estque <lb/>illi ferme similis. Succi, ex quibus pyrites &amp; argentum
+                     fi¬<lb/>unt, videntur concreuisse in vnum corpus, atque ita id na¬<lb/>tum, <pb facs="#facs_124" n="124" xml:id="img_0124"/>
+                     <!--<ab facs="#facs_124_r1"/>-->
+                     <lb/>
+                     <fw type="header" place="top-centre">RVLANDI PHILOS. ET MEDICI</fw>
+                     <fw type="pageNum">111</fw>
+                     <lb/>tum, quod vocant Cobaltum. Sunt qui idem cum pyrite <lb/>esse censent:
+                     quia eadem illi fere insunt, quae pyriti. Sunt, <lb/>qui specie distinguant.
+                     Nam insignem corrodendi vim ha¬<lb/>bet, vt manus &amp; pedes operariorum
+                     exedat: quod minime <lb/>facit pyrites. Vnde bene Plinius inquit libro
+                     tricesimo <lb/>quarto, cap. 10. Cadmiam lapidem, ex quo aes fiat, per sese
+                     <lb/>esse medicinae inutilem: sed fieri vtilem tum, cum Cadmia <lb/>fiat
+                     factitia. Cobaltum autem, seu natiua illa Cadmia, fossi¬<lb/>lis, quoad
+                     colorem, reperitur triplici modo in fodinis. 1. <lb/>Cobaltum est nigrum, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Schwartzen Cobalt</quote></cit>. Hoc videtur <lb/>primum notum fuisse Germanis. Nos enim vocamus
+                     ni¬<lb/>gros illos visibiles daemones, habitantes in aedibus, &amp;
+                     prae¬<lb/>cipue in culinis. Vnde propter colorem forsan hoc metal¬<lb/>lum sic
+                     vocant, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>So schwartz wie ein balet</quote></cit>. Si hanc ety¬<lb/>mologiam non concedes, dicam, quod habeat nomen ab
+                     <lb/>etentum aliquo, at fabuloso. 2. Cineraceum aschfarb Co¬<lb/>baldt. Et hae
+                     duae priores species communiter reperiuntur. <lb/>3 Ferrei coloris. Hoc non
+                     adeo vulgare. In Thuringia <lb/>hanc speciem aliquando reperi in fodinis illis
+                     antiquissimis <lb/>versus ortum hyemalem a Germanis. <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Eisenfarb/ Cobaldt</quote></cit>. <lb/>Quodcunque vero ex his, argento magis, quam pyrites abundat.
+                     <lb/>Dioscorides has species natiuae Cadmiae non nouit. Quod <lb/>patet ex his
+                     verbis libro quinto, cap. quadragesimo, cum in¬<lb/>quit: Nec desunt, qui
+                     Cadmiam in lapidum fodinis inueniri <lb/>tradant, falsa quadam lapidum
+                     cognatione, &amp;c. Docet autem <lb/>quomodo in Cypro è monte, qui soli
+                     incumbit cremato <lb/>lapide, cui sit cognomen pyrite, cadmia extrahatur:
+                     dein¬<lb/>de quomodo illa differat a lapidibus cognatis, qui menti¬<lb/>antur
+                     Cadmiam, scilicet pondere, sapore, masticatione de¬<lb/>mum, contritione &amp;
+                     coitione, vstione &amp; colore, quem <lb/>prodit. <pb facs="#facs_125" n="125" xml:id="img_0125"/>
+                     <!--<ab facs="#facs_125_r1"/>-->
+                     <lb/>
+                     <fw type="pageNum">112</fw>
+                     <fw type="header" place="top-centre">LEXICON ALCHEMIAE MART.</fw>
+                     <lb/>Quae sit illa Cadmia natiua fossilis Dioscoridis ex cremato py¬<lb/>rite
+                     in Cypro, ignoratur iam, quoad ego scio: e contra illae <lb/>Cadmiae nostrae
+                     fossiles illi ignotae fuerunt. <lb/>Lapides autem, qui mentiuntur Cadmiam
+                     nostram, etiam a¬<lb/>pud nos reperiuntur in nostris fodinis, plurimis locis.
+                     Etiam <lb/>Salueldiae reperiuntur quidam ferrei coloris: at sunt
+                     steri¬<lb/>les, deinde vim erodendi non habent. Simplices homines, <lb/>qui
+                     talia ignorant, pro vera tales lapides habent Cadmia, &amp; <lb/>egregie
+                     falluntur. Ceterum nota &amp; quod lapis sit alius, <lb/>quam haec vera Cadmia,
+                     qui hodie a nonnullis dicitur terra <lb/>Cadmia, &amp; lapis Calaminaris, a
+                     Germanis <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Galmey</quote></cit>. In <lb/>quibusdam locis imbecillis admodum, in quibusdam pon¬<lb/>dere
+                     tantus, vt pro vera Cadmia haberi possit. Natiua ve¬<lb/>ro Cadmia hodic in
+                     officinis nostris omnino non cognosci¬<lb/>tur, vt &amp; quidem omnis Cadmia
+                     factitia: nisi botryites, quae <lb/>Tutia Arabum dicitur: sicuti illa
+                     Alexandrina, vocatur Tu¬<lb/>cia dura vel solida. Verum Botryites Cadmia alia
+                     res est, <lb/>quam Tutia, sicuti testantur Arabes, vt Serapio. Nam
+                     spo¬<lb/>dium est Tutia, licet loco tutiae ea vti possumus, si praepara¬<lb/>ta
+                     fuerit, teste Serapione. Hinc Dioscorides meminit Spo¬<lb/>dii &amp; non
+                     Tutiae, ne ita bis rem vnam poneret, &amp; vnum ca¬<lb/>put bis repeteret. In
+                     summa id, quod Arabibus tutia est, <lb/>graecis est pompholyx, &amp; nobis
+                     spodium. Erratum est non <lb/>viribus, sed rebus. Quomodo vero differant
+                     spodium seu <lb/>pompholyx a Cadmia capniti, mox dicam. Nempe diffe¬<lb/>runt
+                     propter loca, vbi fiant: quando fit in oris fornacum, tunc <lb/>est Capnitis:
+                     quando vero in summitate fornacum, tunc est <lb/>pompholyx, Plin. l. 34. c. 1.
+                     aes fieri siue conflari inquit e lapide <lb/>aeroso, quem vocant Cadmiam, in
+                     Asia &amp; Campania olim <lb/>celebrem. Praeterea docet suis temporibus
+                     inuentum in a¬<lb/>gro Bergomatium, &amp; in Germania prouincia. Quo in loco
+                     <lb/>Plinium <pb facs="#facs_126" n="126" xml:id="img_0126"/>
+                     <!--<ab facs="#facs_126_r1"/>-->
+                     <lb/>
+                     <fw type="header" place="top-centre">RVLANDI PHIL. ET MEDICI.</fw>
+                     <lb/>
+                     <fw type="pageNum">113</fw>
+                     <lb/>Plinium simpliciter loqui de nostra Cadmia puto; &amp; pulcre <lb/>cum
+                     vocat lapidem aeruginosum. Deinde patet &amp; hoc, tem¬<lb/>pore Plinii cadmiam
+                     apud nos inuentam esse. Porro quod <lb/>forsitan tum temporis fodinas agere
+                     Germani coeperunt. <lb/>Ferrariae enim &amp; aerariae fodinae sunt
+                     antiquissimae. Postea <lb/>sub Othone magno plumbi nigri fodinae coeperunt,
+                     &amp; lon¬<lb/>go post interuallo argentariae: cum Cornelius Tacitus
+                     mani¬<lb/>feste scribat, Germanis olim nec aurum nec argentum fuis¬<lb/>se,
+                     multo minus fodinas illorum metallorum. Est nunc eo <lb/>peruentum, vt alma
+                     nostra Germania superet, imo longe <lb/>post tergum relinquat ceteras regiones,
+                     copia metallorum <lb/>omnium fere generum. Laus Deo Opt. Max. in Secula. <lb/>
+                     <note>Cadmia factitia. <lb/>Cadmia factitia aut est substantia, tenuissimaque
+                        fauilla <lb/>pyritis, aut alterius metalli, praecipue tamen pyritis
+                        <lb/>translata, aut egesta, in latera vel summas cameras fornacis, <lb/>0
+                        <lb/>vtat successiue aliquot septimanis, vt testatur noster
+                        Dio¬<lb/>scorides libro quinto cap. 40. Cum, inquit, gignitur Cad¬<lb/>mia
+                        ex aere in fornacibus candente, fuligine egesta flatu, &amp; <lb/>lateribus
+                        camerisque fornacum inhaerente. Alii cadmiam sic <lb/>definiunt factitiam:
+                        Cadmia factitia est substantia, cum ab <lb/>aere iactantur sursum corpuscula
+                        cohaerentia, per summa fa¬<lb/>stigia conuexa &amp; concamerata, quae
+                        dissident inuicem spis¬<lb/>sius, &amp; in vnum globum seu corpus
+                        concrescunt: quod mo¬<lb/>do vnum genus factitiae cadmiae, modo duo, modo
+                        omnia <lb/>continet. Verum illa est definitio Cadmiae factitiae, quam
+                        <lb/>Acestidam dicunt. Diximus autem, Cadmiam fauillam esse <lb/>aeris aut
+                        alterius metalli. Fit enim Cadmia, &amp; haec quidem <lb/>optima ex aere:
+                        item ex aliis metallis, vt ex auro ipso, verum <lb/>illa nullius momenti
+                        est. Deinde fit &amp; ex argento, quae <lb/>candidior, ac minus ponderosa
+                        est, nequaquam tamen similis <pb facs="#facs_127" n="127" xml:id="img_0127"/>
+                        <!--<ab facs="#facs_127_r1"/>-->
+                        <lb/>
+                        <fw type="pageNum">114</fw>
+                        <fw type="header" place="top-centre">LEXICON ALCHEMIAE MART.</fw>
+                        <lb/>aerariae. Aes autem hoc loco proprie intellige ipsum pyri¬<lb/>ten:
+                        vnde praestantissima dum coquitur, conflatur Cadmia. <lb/>Gossariae
+                        praestantissima fit illa Cadmia, quia non tantum ar¬<lb/>gentum vel plumbum
+                        tenet, sed omnia metalla. Si pyrites <lb/>purus est, fit placodis &amp;
+                        botryites: quando vero mixtus aliis, <lb/>tunc omnis fit Cadmia. Dioscorides
+                        laudat Cypriam &amp; <lb/>Botryiten. Sunt vero factitiae Cadmiae multae
+                        species, quas <lb/>partim docet Dioscorides, partim alii, partim ipsa
+                        profert <lb/>experientia: quae etiam differunt ratione loci, vbi fiant: item
+                        <lb/>&amp; forma, vt docet ipse Dioscorides, &amp; eius interpres
+                        Pli¬<lb/>nius. Verum vt adolescentes tales species percipere possint,
+                        <lb/>subiiciemus eas ordine. </note>
+                     <lb/>
+                     <note>Cadmiae Factitiae species. <lb/>1. Est botryites quasi acinosa, densa,
+                        modice grauis, &amp; in le¬<lb/>uitatem magis declinans, racemosa facie,
+                        colore spodii: quae <lb/>facta cinerulenta est, &amp; aeruginosa. Hęc &amp;
+                        onichitis senens, <lb/>vtiles sunt oculorum medicamentis. Est &amp; alia
+                        botryites, <lb/>quae ignota forsitan fuit Dioscoridi: quae fit aut casu, in
+                        car¬<lb/>bonibus rotundis: aut ex industria, in hasta ferrea,
+                        interser¬<lb/>ta in fornacem. Nam eam flammula dum lambit; &amp; ei
+                        adhę¬<lb/>rescit in rotundum, hinc fit botryites, quae colligitur
+                        dein¬<lb/>de. Et hanc Alexandrinam dicunt Cadmiam: quia illic <lb/>plurimum
+                        fieri eam volunt, &amp; vocant etiam Tuciam soli¬<lb/>dam, estque ferme
+                        similis corticibus arborum nonnullarum; <lb/>Quae fit per sublimationem,
+                        quando fit Aurichalcum (vt: <lb/>vocant: ita duplex foret, Tucia scilicet
+                        Alexandrina, &amp; Tu¬<lb/>cia Arabica. <lb/>2. Onichitis, onichitae lapidi
+                        similis, foris coerulea, intus <lb/>candidior, internatis venarum
+                        discursibus: cuiusmodi <lb/>sunt, vt docet Dioscorides, quae e veteribus
+                        metallis effo¬<lb/>diuntur. <pb facs="#facs_128" n="128" xml:id="img_0128"/>
+                        <!--<ab facs="#facs_128_r1"/>-->
+                        <lb/>
+                        <fw type="header" place="top-centre">RYLANDI PHIL. ET MEDICI. </fw>
+                        <lb/>
+                        <fw type="pageNum">115</fw>
+                        <lb/>diuntur. Quo in loco vetera metalla intellige, non fodinas <lb/>ipsas,
+                        vt eruatur ex ipsis fodinis, sed quod metallicae sit na¬<lb/>turae. <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Er meinet nichts anders / dann die grossen alten schla¬<lb/>cken
+                              hauffen, die jetzt wider geschmeltzt werden / in denselben <lb/>wirdt
+                              gefunden</quote></cit>) Onichitis Cadmia factitia. <lb/>3. Placodis, id est, crustosa. Nam
+                        planis crustis constat. <lb/>Inter has species est &amp; quae planitis seu
+                        Zonitis dicitur, quae <lb/>veluti cingulis apparet multiformis. <lb/>4.
+                        Ostracitis, gracilis, nigra, sed quae testaceam faciem ha¬<lb/>bet, terram
+                        amplexa est. <lb/>5. Capnitis, id est, furnaria, vel volatilis, quaeque
+                        ferme <lb/>spodion, siue pompholyx, siue nihili est. Reperitur in oris
+                        <lb/>fornacum, &amp; in summis fornacibus, &amp; est parua differen¬<lb/>tia
+                        inter illa, imo vnum &amp; idem sunt ex eadem materia. <lb/>Sunt iisdem
+                        viribus quoque capnitis haec Cadmia, &amp; pom¬<lb/>pholyx: possunt tamen
+                        discerni propter diuersa loca, vbi <lb/>fiant. Capnitis haec reperitur in
+                        oris fornacum, pompholyx <lb/>vero in summitate fornacum. Hae species valent
+                        ad Em¬<lb/>plastra, &amp; est omnium illarum effectus, adstringere cum
+                        ca¬<lb/>liditate, quemadmodum &amp; pyritis est stipticus, vt dicit
+                        Se¬<lb/>rapio. Praeterea vis illarum est caua explere, sordes
+                        expur¬<lb/>gare, exsiccare corporis meatus, excrescentias carnis
+                        coer¬<lb/>cere, crustas creare, vlcera ad cicatricem perducere. Quia
+                        <lb/>vero hae Cadmiae valde sunt calidae &amp; siccae naturae, vruntur
+                        <lb/>&amp; lauantur modis, quos praeclare docet Dioscorides, vt
+                        <lb/>scilicet vtiles fiant ad emplastra, &amp; alia medicamen. Ov¬<lb/>tinam
+                        nostri medici, praecipue chirurgi, Cadmias illas non <lb/>ignorarent, sed in
+                        vsum Medicum reuocarent. De his fa¬<lb/>ctitiis cadmiis vide Plinium libr.
+                        34. cap. 10. vbi in¬<lb/>quit: <lb/>Cadmia in fornacibus exsistit, aliamque
+                        nominis sui originem <lb/>P 2 <pb facs="#facs_129" n="129" xml:id="img_0129"/>
+                        <!--<ab facs="#facs_129_r2"/>-->
+                        <lb/>
+                        <fw type="header" place="top-centre">LEXICON ALCHEMIAE MART.</fw>
+                        <lb/>
+                        <fw type="pageNum">116</fw>
+                        <lb/>recipit: fit autem egesta flammis, atque flatu tenuissima parte
+                        <lb/>materiae, &amp; cameris, lateribusque fornacum, pro quantitate
+                        <lb/>leuitatis, applicata scilicet: <lb/>Tenuissima est in ipso fornacum
+                        ore, qua flammae eluctan¬<lb/>I. <lb/>tur, dicta Capnitis exusta, &amp;
+                        nimia leuitate similis fauillae. <lb/>II. Botryites, duorum colorum: cinerei
+                        scilicet, &amp; sic dete¬<lb/>rior: punicei, &amp; sic melior. Haec interior
+                        dependet Came¬<lb/>ris. <lb/>III. In lateribus fornacum; quae propter
+                        grauitatem ad ca¬<lb/>meras peruenire non potest, haec est placitis
+                        crustaverius. Ex <lb/>ea etiam fluunt duo alia genera, scilicet. 1.
+                        Onychites, extra <lb/>pene cęrulea, intus onychis similis maculis suis. 2.
+                        Ostracitis, <lb/>quae est tota nigra, &amp; ceterarum fortissima, vulneribus
+                        vtilis. <lb/>Omnis autem Cadmia in Cypri fornacibus optima est. Haec
+                        <lb/>Plinius. <lb/>Ceterum quomodo &amp; lauari &amp; aduri debeat Cadmia,
+                        item <lb/>quae vires Cadmiis, eundem ipse consule Plinium L. C. Vide
+                        <lb/>&amp; Galenum, Auicennam, &amp; alios. Alii recentiores in his, <lb/>vt
+                        de rebus ignotis, adeo turpiter sese dedere, confunden¬<lb/>tes haec omnia
+                        in vnum chaos, vt pudeat pigeatque me illos vel <lb/>videre, vel legere.
+                        Estque eo peruentum, vt non res ipsas con¬<lb/>siderarent: Sed rebus omissis
+                        tantum disputarent de nomi¬<lb/>nibus. Bonus ille Vir, Simon de Ianua,
+                        Cadmiae nomen do¬<lb/>cet, tribus rebus posse applicari, scilicet:
+                        <lb/>Fumo, quae eleuetur à quolibet metallo, vt auro, argento, <lb/>aere. Et
+                        haec est illa Cadmia factitia proprie, de qua nos agi¬<lb/>mus noc loco.
+                        <lb/>Lapidi Calaminari, qui vulgo marchasita dicatur, quo tin¬<lb/>gitur
+                        aes. Hic Vir bonus nesciuit, aliud esse lapidem calami¬<lb/>narem, &amp;
+                        aliud esse marchasitam, id est, pyriten, vnde fiat <lb/>aes, cuius species
+                        illa natiua Cadmia, quam Cobaltum dici¬<lb/>mus. <pb facs="#facs_130" n="130" xml:id="img_0130"/>
+                        <!--<ab facs="#facs_130_r1"/>-->
+                        <lb/>
+                        <fw type="header" place="top-centre">RVLANDI PHIL. ET MEDICI. </fw>
+                        <lb/>
+                        <fw type="pageNum">117</fw>
+                        <lb/>mus. De quo pyrite etiam fit optima Cadmia illa factitia¬<lb/>3. Quae
+                        reperiatur in mineris metallorum, maxime aeris. Et <lb/>haec est Cadmia
+                        natiua, de qua nos egimus. Ita vides, quam <lb/>sint haec confusa, &amp;
+                        quod idem semel bisue dicat. In sum¬<lb/>ma, natiua fossilis nostra Cadmia,
+                        est cobaltum nostrum <lb/>cum suis speciebus. Factitia vero Cadmia optima
+                        fit in for¬<lb/>nacibus ex pyrite, id est, ex marchasita, ex aere
+                        simpliciter <lb/>vt dicit Dioscorides. Habet autem nomina secundum loca
+                        <lb/>vbi fiat: &amp; secundum formam, qualis sit colore, Wir haben
+                        <lb/>Cadmiam natiuam in fodinis, In den gruben / vund haben <lb/>factitiam
+                        in officinis, vbi coquuntur metalla, praecipue aes, <lb/>In den
+                        Schmelzhuͤtten / da man schmelßet allerley Ertz, fuͤr¬<lb/>nemlich Kupffer.
+                        Sed de his satis. </note>
+                     <lb/>
+                     <pb facs="#facs_131" n="131" xml:id="img_0131"/>
+                     <!--<ab facs="#facs_131_r2"/>-->
+                     <lb/>Cadmia est duplex <lb/>Natiua <lb/>in monitibus &amp; riuulis quae
+                     reperitur: de qualoquitur Galenus, quam <lb/>disputant esse Irin Germanam.
+                     <lb/>Fossilis in fodinis, alias Cobaltum, Cobaldta <lb/> German. dicitur Estq;
+                     iterum duplex <lb/>1. Nigrum <lb/> 2. Cineraceum. <lb/>3. Ferrei coloris.
+                     <lb/>Cob <lb/>Factitia <lb/> Fauilla &amp; tenuissima sub stantia, ex <lb/>1.
+                     area, id esr, pyrite. <lb/>2. Argento <lb/>3. aliis metal lis, vt auro
+                     <lb/>Harum, iteru sunt <lb/>diursaeu species, <lb/> quae differunr ra¬<lb break="no"/>tione loci in quo <lb/> fiant, deinde et¬<lb break="no"/>iam
+                     forma discernuntur. <lb/> Botryites quasi acinosa, <lb/>quae falto nunc
+                     dicitur, <lb/>Tutia. Haec iterum du¬<lb break="no"/>plex, vna facie colotem
+                     <lb/>repraesentat spodii: facta <lb/> vero cinerulenta appa<lb/>ret.
+                     Alexandrina, quae fit <lb/>cafu in carbonibus, arte <lb/> in hafta ferrea.
+                     <lb/>2. Onichitis. <lb/>3.Oftracitis. <lb/>4. Placodis &amp; Planitis. <lb/>5.
+                     Capnitis, quae fit in oris fornacum, alias foret pompholyx. <lb/>Aceftis. <pb facs="#facs_132" n="132" xml:id="img_0132"/>
+                     <!--<ab facs="#facs_132_r1"/>-->
+                     <lb/>
+                     <fw type="header" place="top-centre">RVLANDI PHIL. ET MEDICI.</fw>
+                     <lb/>
+                     <fw type="pageNum">119</fw>
+                     <lb/>
+                     <note>Cadmia Gipnitis. Fornacum. <lb/>1. Cadmia Capnitis è furno fornacum
+                        sublata, differt a fos¬<lb/>fili, vt sequentia declarabunt. <lb/>2. Cadmia
+                        alba, est materia venenata, quae exhalat e me¬<lb/>tallis, &amp; se
+                        parietibus quasi affigit, cum metalla torrentur <lb/>vel vruntur, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Weisser Huͤttenrauch / hengt sich an die wende¬<lb/>wenn man Ertz
+                              roͤstet, oder schmeltzet.</quote></cit>
+                        <lb/>3.Lutea, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Gelber Huͤttenrauch.</quote></cit>
+                        <lb/>4. Crolta, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Roter Hüttenrauch.</quote></cit>
+                        <lb/>5. Cinerea, Grawer Huͤttenrauch. <lb/>6. Cadmia optima, quaesit in
+                        aerariis fornacibus ex pyrite <lb/>vel Cadmia metallica. <lb/>7. Parietibus
+                        adhaerens in fornace, vbi venae aeris excoquun¬<lb/>tur, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Kobelt auß dem Schmeltzoffen</quote></cit>
+                        <lb/>8. Parietibus adhaerens collecta de fornacibus, vbi vena ar¬<lb/>genti
+                        excoquitur, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Da man Silber schmeltzet.</quote></cit>
+                        <lb/>9. Parietibus adhaerens collecta de fornacibus, vbi vena au¬<lb/>ri
+                        decoquitur. <lb/>10. Collecta de fornacibus plumbi candidi. <lb/>11. Cadmia
+                        fornacum impura, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Ober oder Mittel Offen¬<lb/>bruch/vareine Offenbruch.</quote></cit>
+                        <lb/>12. Quae argentum in se continet. <lb/>13. Quae plumbum candidum.
+                        <lb/>14. Cadmia aeris, eius species in nostris metallis reperiun¬<lb/>tur,
+                        quibus Dioscorides &amp; Graeci alii a forma ipsa indiderunt
+                        <lb/>appellationes. <lb/>15. Placodes seu crustosa. <lb/>16. Zonitis, quasi
+                        cingulis distincta. <lb/>17. Onychitis, variorum colorum, vt sunt venae
+                        lapidis <lb/>onychis. <pb facs="#facs_133" n="133" xml:id="img_0133"/>
+                        <!--<ab facs="#facs_133_r1"/>-->
+                        <lb/>120 <lb/>18. Ostracitis seu testacea, quae fere adhaeret parietibus.
+                        <lb/>19. Botrytis, baccata, seu racemosa colore cinereo, quae <lb/>baccis
+                        racemi instar, a fornacum lateribus pendet. <lb/>20. Botrytis nigra, cui
+                        bracteae colore aeris purissimi adhae¬<lb/>rent, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Darinn ein schon Flockkupffer</quote></cit>. <lb/>21. Stalactica seu in stirias concreta. <lb/>22. Alexandrina,
+                        cuius nunc in officinis vsus est. <lb/>23. Ad Cameram. <lb/>24. Sublimata.
+                        <lb/>25. Atramentosa. </note>
+                     <lb/>
+                     <note>Cadmia Metallorum, quae est fossilis. <lb/>1. Cadmia metallica foditur in
+                        venis Bohemiae, &amp; Misniae <lb/>magna copia: quam nostri metallici
+                        cobaltum nominant, <lb/>vt &amp; genus quoddam daemonis merallici, Cobaltum:
+                        quae <lb/>voces quam notionem habeant, huius laboris non est
+                        inue¬<lb/>stigare aut expendere. <lb/>2. Cadmia fossilis, quae expers
+                        metalli, foditur in inferiori <lb/>Germania, in Westphalia. A nostris
+                        vocatur Galmey / lapis <lb/>Calaminaris. <lb/>3. Cadmia fossilis, siue lapis
+                        Calaminaris ignem non exper¬<lb/>tus, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Ein roter Galmen</quote></cit>. <lb/>4. Perfecte vsta. Excoquitur enim quaterdecies, donec <lb/>ad
+                        tincturam ceterorum metallorum adhibetur, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Galmen <lb/>der viertzehen mahl gebrandt ist.</quote></cit>
+                        <lb/>5. Vsta purissima mollis, Ein milter <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>gebrandter Galmen</quote></cit>. <lb/>6. Cadmia metallica cinerea, <cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote>Ein natuͤrlicher grawer Ko¬<lb/>baldt.</quote></cit>
+                        <lb/>7. Crustacea cerebri referens similitudinem. <lb/>8. Fossa
+                        Sonnebirbilii prope valles, plena sulphure, quae ac¬<lb/>censa ardet,<cit type="translation" xml:lang="de" style="font-variant: fraktur"><quote> Kobeldt der brennet</quote></cit>. <pb facs="#facs_134" n="134" xml:id="img_0134"/>
+                        <!--<ab facs="#facs_134_r1"/>-->
+                        <lb/>
+                        <fw type="header" place="top-centre">RVALNDI PHILOS. ET MEDICI.</fw>
+                        <fw type="pageNum">121</fw>
+                        <lb/>9. In qua argentum rude, rubrum, pellucidum, Darauff <lb/>durch sichtig
+                        rot Gulden Ertz. <lb/>10. Nigra, glebosa, Ein schwartzer stuckichter Kobelt.
+                        <lb/>11. Cinerea, valde dura. <lb/>12. Ferrei coloris, crustosa. <lb/>13.
+                        Cinerea, ponderosa, friabilis. <lb/>14. Cinerea dura. <lb/>15. Cinerea
+                        leuis. <lb/>16. Similis plumbo cinereo natiuo puro, leuis, quae
+                        facili¬<lb/>me malleo in multas partes frangitur, Ein sproder
+                        Kobelt¬<lb/>kieist wie ein gediegen Wißmuth. <lb/>17. Dura, ferro polito
+                        similis, Darinn Wßmuth. <lb/>18. Cui innatum plumbum cinereum. <lb/>19.
+                        Fossilis, quae in Westphalia in montibus &amp; torrentibus <lb/>reperitur
+                        aspectu racemosa. <lb/>20. Sulphurea. <lb/>21. Bituminosa. <lb/>22. Aurum in
+                        se continens. <lb/>23. In formam nudati cranei concreta, Gewachsen wie ein
+                        <lb/>enibloͤsset Hirn. <lb/>24. Concaua plena pulueris integerrimi. <lb/>25.
+                        Fluida, durissima, ex quo succus venenosus indies efflo¬<lb/>rescit, Ein
+                        harter gefloͤssener Kobelt. <lb/>26. Fluida in fluoribus quotidie exudans
+                        succum acrem <lb/>coloris lutei, Fluͤssiger Kobelt in gelben fluͤssen.
+                     </note>
+                  </sense>
+  </dictScrap>
+</entry>
+
+
+=== Analysis of Lexikon_Sommerhoff_Mayer2022_slighlyEdited2025-01-08.xml ===
+
+== Element Structure ==
+
+Element: /tei:body
+  Count: 1
+  Children: tei:div
+
+Element: /tei:body/tei:div
+  Count: 3
+  Attributes: type
+  Children: tei:ab, tei:entry, tei:fw, tei:lb, tei:pb
+
+Element: /tei:body/tei:div/tei:ab
+  Count: 29
+  Children: tei:figure, tei:fw, tei:lang, tei:lb, tei:pb, tei:table
+
+Element: /tei:body/tei:div/tei:ab/tei:figure
+  Count: 1
+
+Element: /tei:body/tei:div/tei:ab/tei:fw
+  Count: 1
+  Text Samples:
+    - ENDE
+
+Element: /tei:body/tei:div/tei:ab/tei:lang
+  Count: 19
+  Text Samples:
+    - Germ.
+    - Germ.
+    - Germ.
+    - Germ.
+    - Germ.
+
+Element: /tei:body/tei:div/tei:ab/tei:lb
+  Count: 724
+
+Element: /tei:body/tei:div/tei:ab/tei:pb
+  Count: 1
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:ab/tei:table
+  Count: 1
+  Attributes: cols, rows
+  Children: tei:row
+
+Element: /tei:body/tei:div/tei:ab/tei:table/tei:row
+  Count: 24
+  Children: tei:cell
+
+Element: /tei:body/tei:div/tei:ab/tei:table/tei:row/tei:cell
+  Count: 120
+  Children: tei:g
+  Text Samples:
+    - A.
+    - Z.
+    - 1.
+    - B.
+    - 2.
+
+Element: /tei:body/tei:div/tei:ab/tei:table/tei:row/tei:cell/tei:g
+  Count: 71
+
+Element: /tei:body/tei:div/tei:entry
+  Count: 17412
+  Attributes: {http://www.w3.org/XML/1998/namespace}id
+  Children: tei:dictScrap
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap
+  Count: 17412
+  Children: tei:cit, tei:def, tei:form, tei:fw, tei:lb, tei:lbl, tei:pb, tei:pc, tei:sense, tei:xr
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit
+  Count: 2
+  Attributes: type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit/tei:quote
+  Count: 2
+  Text Samples:
+    - Gruͤnspan Crystallen
+    - Sauerampffer
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:def
+  Count: 1
+  Text Samples:
+    - aliquando etiam
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form
+  Count: 20570
+  Attributes: type
+  Children: tei:fw, tei:g, tei:hi, tei:lang, tei:lb, tei:orth, tei:pb, tei:pc
+  Text Samples:
+    - ā
+    - āā
+    - aa
+    - Aabam
+    - Abaisir
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:fw
+  Count: 15
+  Text Samples:
+    - Q 3
+    - FL
+    - 126
+    - lapatra,
+    - 157
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:g
+  Count: 6
+  Attributes: ref
+  Text Samples:
+    - ♁
+    - ▽
+    - ▽
+    - ♂
+    - △
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:hi
+  Count: 1
+  Attributes: n, rend
+  Text Samples:
+    - A
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:lang
+  Count: 75
+  Text Samples:
+    - Germ.
+    - Germ.
+    - Germ.
+    - Germ.
+    - Germ.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:lb
+  Count: 795
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:orth
+  Count: 286
+  Children: tei:g, tei:lb
+  Text Samples:
+    - Abit
+    - Aboit
+    - Abnelecten
+    - Abneleiten
+    - Acahi
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:orth/tei:g
+  Count: 1
+  Attributes: ref
+  Text Samples:
+    - ▽
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:orth/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:pb
+  Count: 5
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:pc
+  Count: 12
+  Attributes: type
+  Text Samples:
+    - &
+    - &
+    - &
+    - &
+    - &
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:fw
+  Count: 10
+  Text Samples:
+    - Cordiale
+    - Germ.
+    - Herbae.
+    - 147
+    - ἔ1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:lb
+  Count: 155
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:lbl
+  Count: 2
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb
+  Count: 3
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pc
+  Count: 15
+  Attributes: rend, type
+  Text Samples:
+    - }
+    - &
+    - &
+    - &
+    - ]
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense
+  Count: 16829
+  Attributes: n
+  Children: tei:choice, tei:cit, tei:def, tei:form, tei:fw, tei:g, tei:lang, tei:lb, tei:pb, tei:pc, tei:sense, tei:xr
+  Text Samples:
+    - vid
+    - vid
+    - vid
+    - & leg. quoque
+    - à
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:choice
+  Count: 2
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:choice/tei:abbr
+  Count: 2
+  Text Samples:
+    - i.e.
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:choice/tei:expan
+  Count: 2
+  Text Samples:
+    - id est
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit
+  Count: 422
+  Attributes: type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote
+  Count: 422
+  Children: tei:g, tei:lb, tei:pc
+  Text Samples:
+    - eines so viel als das andere
+    - Bley
+    - Koth / Leym
+    - Lebendiger
+    - ein Deckel
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:g
+  Count: 1
+  Attributes: ref
+  Text Samples:
+    - ♎
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:lb
+  Count: 57
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:pc
+  Count: 1
+  Attributes: type
+  Text Samples:
+    - -
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def
+  Count: 635
+  Children: tei:choice, tei:cit, tei:fw, tei:g, tei:lang, tei:lb, tei:pb, tei:pc
+  Text Samples:
+    - à Chymicis quibusdam vocatur Plumbum
+    - est Spodium
+    - est Magnesia & Ovum ruffum
+    - est Lutum rotae
+    - est Calx viva.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:choice
+  Count: 58
+  Children: tei:abbr, tei:expan
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:choice/tei:abbr
+  Count: 58
+  Text Samples:
+    - i. e.
+    - i. e.
+    - i. e.
+    - i. e.
+    - i. e.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:choice/tei:expan
+  Count: 55
+  Text Samples:
+    - id est
+    - id est
+    - id est
+    - id est
+    - id est
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit
+  Count: 4
+  Attributes: type, {http://www.w3.org/XML/1998/namespace}lang
+  Children: tei:quote
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit/tei:quote
+  Count: 4
+  Text Samples:
+    - Allaun
+    - wahrer Egyptischer Schottendorn-Safft.
+    - Erde
+    - Schwefel
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:fw
+  Count: 3
+  Attributes: place, type
+  Text Samples:
+    - mar
+    - AC
+    - 3
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:g
+  Count: 292
+  Attributes: ref, type
+  Text Samples:
+    - ♄
+    - 🝁
+    - ‡
+    - ○
+    - 🜍
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:lang
+  Count: 3
+  Text Samples:
+    - Germ.
+    - Germ.
+    - Germ.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:lb
+  Count: 284
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pc
+  Count: 26
+  Attributes: type
+  Text Samples:
+    - :
+    - :
+    - -
+    - -
+    - (
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:form
+  Count: 3
+  Attributes: type
+  Text Samples:
+    - Tyri
+    - Helffand
+    - Barrus
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:fw
+  Count: 227
+  Children: tei:lb
+  Text Samples:
+    - ma me-
+    - D 2
+    - 28
+    - A
+    - Prae-
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:fw/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:g
+  Count: 572
+  Attributes: ref
+  Text Samples:
+    - ‡
+    - A
+    - ♃
+    - PR
+    - 𝞷
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:lang
+  Count: 5477
+  Text Samples:
+    - Germ.
+    - Germ.
+    - Germ.
+    - Germ.
+    - Germ.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:lb
+  Count: 10240
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb
+  Count: 67
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pc
+  Count: 7
+  Attributes: type
+  Text Samples:
+    - &
+    - :
+    - &
+    - :
+    - ;
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:sense
+  Count: 1
+  Text Samples:
+    - vid. Catharticum
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr
+  Count: 31
+  Attributes: type
+  Children: tei:lb, tei:lbl, tei:ref
+  Text Samples:
+    - vid. Radices Hirundinariae
+    - vid. Lap. Haematites
+    - vid. Kunkel. in art.
+								vitrar
+    - vid. Authores
+    - vid. Authores
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:lb
+  Count: 5
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:lbl
+  Count: 12
+  Text Samples:
+    - apud
+    - vid.
+    - vid.
+    - vid.
+    - vid.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref
+  Count: 35
+  Attributes: target, type
+  Children: tei:cit, tei:g, tei:lb
+  Text Samples:
+    - Lac Virgineum
+    - Mentha Sarracenica
+    - Damassonium
+    - Chrysanthemum
+    - infra
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref/tei:cit
+  Count: 7
+  Children: tei:bibl
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref/tei:cit/tei:bibl
+  Count: 7
+  Children: tei:lb
+  Text Samples:
+    - Arist.Bech.
+    - Mart. Rulando 65.
+    - Cuprum plura apud
+    - Mart. Rulandum
+    - Ettmüllerum
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref/tei:cit/tei:bibl/tei:lb
+  Count: 1
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref/tei:g
+  Count: 4
+  Attributes: ref
+  Text Samples:
+    - ♄
+    - ♄
+    - 🜃
+    - ♄
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref/tei:lb
+  Count: 2
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr
+  Count: 675
+  Attributes: type
+  Children: tei:g, tei:lang, tei:lb, tei:lbl, tei:pc, tei:ref
+  Text Samples:
+    - vid. V Elsabon est V Salis panis
+    - vid. Hydromelle. Cujus variae
+    - vid. VReginae Ungariae
+    - vid. VReginae Ungariae
+    - vid. Aqua permanens
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:g
+  Count: 1
+  Attributes: ref
+  Text Samples:
+    - 🜃
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:lang
+  Count: 1
+  Text Samples:
+    - Germ.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:lb
+  Count: 45
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:lbl
+  Count: 239
+  Text Samples:
+    - vide
+    - vid.
+    - vide
+    - vide
+    - vide
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:pc
+  Count: 5
+  Attributes: type
+  Text Samples:
+    - &
+    - &
+    - ;
+    - &
+    - &
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref
+  Count: 314
+  Attributes: target, type
+  Children: tei:cit, tei:g, tei:lb
+  Text Samples:
+    - ana
+    - Resina Abietis,
+    - Herb. Chamæpithys.
+    - Cerussa
+    - Abit
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref/tei:cit
+  Count: 67
+  Children: tei:bibl
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref/tei:cit/tei:bibl
+  Count: 67
+  Children: tei:lb
+  Text Samples:
+    - Muͤller. in Lex. Med.
+    - Lex. Brun.
+    - Lex. Blanc.
+    - Johnsoni Lexic.
+    - Johnsoni Lexic.
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref/tei:cit/tei:bibl/tei:lb
+  Count: 9
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref/tei:g
+  Count: 4
+  Attributes: ref
+  Text Samples:
+    - ○
+    - ♂
+    - ♁
+    - 🝟
+
+Element: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref/tei:lb
+  Count: 13
+
+Element: /tei:body/tei:div/tei:fw
+  Count: 1566
+  Attributes: place, type
+  Children: tei:lb
+  Text Samples:
+    - A AA AB
+    - I)
+    - A.
+    - A
+    - Absorbentia
+
+Element: /tei:body/tei:div/tei:fw/tei:lb
+  Count: 14
+
+Element: /tei:body/tei:div/tei:lb
+  Count: 1956
+
+Element: /tei:body/tei:div/tei:pb
+  Count: 477
+  Attributes: facs, n, {http://www.w3.org/XML/1998/namespace}id
+
+== Attribute Values (Top 10) ==
+
+Attribute: /tei:body/tei:div/tei:ab/tei:pb[@facs]
+  #facs_555: 1
+
+Attribute: /tei:body/tei:div/tei:ab/tei:pb[@n]
+  555: 1
+
+Attribute: /tei:body/tei:div/tei:ab/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0555: 1
+
+Attribute: /tei:body/tei:div/tei:ab/tei:table[@cols]
+  5: 1
+
+Attribute: /tei:body/tei:div/tei:ab/tei:table[@rows]
+  24: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit[@type]
+  translation: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:g[@ref]
+  #water: 3
+  #antimony: 1
+  #iron: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:hi[@n]
+  6: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:hi[@rend]
+  decorated: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:orth/tei:g[@ref]
+  #water: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:pb[@facs]
+  #facs_151: 1
+  #facs_182: 1
+  #facs_196: 1
+  #facs_371: 1
+  #facs_376: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:pb[@n]
+  151: 1
+  182: 1
+  196: 1
+  371: 1
+  376: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0151: 1
+  img_0182: 1
+  img_0196: 1
+  img_0371: 1
+  img_0376: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form/tei:pc[@type]
+  variant_of_ampersand: 12
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:form[@type]
+  lemma: 16868
+  variant: 251
+  form: 1
+  lemam: 1
+  entry: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb[@facs]
+  #facs_172: 1
+  #facs_318: 1
+  #facs_332: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb[@n]
+  172: 1
+  318: 1
+  332: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0172: 1
+  img_0318: 1
+  img_0332: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pc[@rend]
+  two_lines_high: 1
+  two-lines-high: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:pc[@type]
+  variant_of_ampersand: 4
+  semi-colon: 3
+  colon: 2
+  semicolon: 2
+  right_curly_bracket: 1
+  right-square-bracket: 1
+  right-curly-bracket: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:g[@ref]
+  #libra: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit/tei:quote/tei:pc[@type]
+  hyphen: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit[@type]
+  translation: 421
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 421
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@type]
+  translation: 4
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:cit[@{http://www.w3.org/XML/1998/namespace}lang]
+  de: 4
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:fw[@place]
+  bot-right: 1
+  top-centre: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:fw[@type]
+  catch: 1
+  header: 1
+  pagNum: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:g[@ref]
+  #water: 40
+  #silver: 15
+  #mercury: 14
+  #salt: 13
+  #sulfur: 11
+  #nitre: 10
+  #alchemical-earth: 10
+  #vinegar: 9
+  #fire: 9
+  #lead: 8
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:g[@type]
+  #mercury: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:def/tei:pc[@type]
+  colon: 16
+  variant_of_ampersand: 3
+  hyphen: 2
+  left_round_bracket: 1
+  right_round_bracket: 1
+  left-parenthesis: 1
+  right-parenthesis: 1
+  semicolon: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:form[@type]
+  lemma: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:g[@ref]
+  #sal-ammoniac-2: 9
+  #antimony: 8
+  #alum: 8
+  #mercury: 6
+  #sulfur: 6
+  #burnt-alum: 5
+  #vinegar-13: 4
+  #verdigris: 4
+  #copper: 4
+  #summer-2: 4
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb[@facs]
+  #facs_53: 1
+  #facs_56: 1
+  #facs_65: 1
+  #facs_80: 1
+  #facs_96: 1
+  #facs_99: 1
+  #facs_100: 1
+  #facs_108: 1
+  #facs_111: 1
+  #facs_122: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb[@n]
+  53: 1
+  56: 1
+  65: 1
+  80: 1
+  96: 1
+  99: 1
+  100: 1
+  108: 1
+  111: 1
+  122: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0053: 1
+  img_0056: 1
+  img_0065: 1
+  img_0080: 1
+  img_0096: 1
+  img_0099: 1
+  img_0100: 1
+  img_0108: 1
+  img_0111: 1
+  img_0122: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:pc[@type]
+  colon: 4
+  variant_of_ampersand: 2
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref/tei:g[@ref]
+  #lead: 3
+  #alchemical-earth: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref[@target]
+  #: 28
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr/tei:ref[@type]
+  entry: 23
+  superEntry: 4
+  SuperEntry: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense/tei:xr[@type]
+  cf: 12
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:sense[@n]
+  1: 4
+  2: 4
+  3: 4
+  4: 2
+  5: 2
+  6: 2
+  7: 2
+  8: 2
+  9: 1
+  10: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:g[@ref]
+  #alchemical-earth: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:pc[@type]
+  variant_of_ampersand: 4
+  semicolon: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref/tei:g[@ref]
+  #alum: 1
+  #iron: 1
+  #antimon: 1
+  #vitriol-spirit: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref[@target]
+  #: 230
+  #ana: 2
+  #abit: 2
+  adabi: 2
+  #alkah: 2
+  #Acah: 1
+  #Acam: 1
+  #chalcu: 1
+  #Ajara: 1
+  #ajara: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr/tei:ref[@type]
+  entry: 225
+  superEntry: 22
+  reference: 1
+
+Attribute: /tei:body/tei:div/tei:entry/tei:dictScrap/tei:xr[@type]
+  cf: 207
+
+Attribute: /tei:body/tei:div/tei:entry[@{http://www.w3.org/XML/1998/namespace}id]
+  a: 1
+  aabam: 1
+  abais: 1
+  abarn: 1
+  abart: 1
+  abesa: 1
+  abest: 1
+  abic: 1
+  abies_a: 1
+  abies_p: 1
+
+Attribute: /tei:body/tei:div/tei:fw[@place]
+  top-centre: 22
+  bot-right: 21
+  top-right: 11
+  top-left: 11
+  bot-center: 6
+  top-center: 1
+
+Attribute: /tei:body/tei:div/tei:fw[@type]
+  header: 23
+  pageNum: 22
+  catch: 21
+  sg: 8
+  pagNum: 1
+
+Attribute: /tei:body/tei:div/tei:pb[@facs]
+  #facs_1: 1
+  #facs_2: 1
+  #facs_3: 1
+  #facs_4: 1
+  #facs_5: 1
+  #facs_6: 1
+  #facs_7: 1
+  #facs_8: 1
+  #facs_9: 1
+  #facs_10: 1
+
+Attribute: /tei:body/tei:div/tei:pb[@n]
+  1: 1
+  2: 1
+  3: 1
+  4: 1
+  5: 1
+  6: 1
+  7: 1
+  8: 1
+  9: 1
+  10: 1
+
+Attribute: /tei:body/tei:div/tei:pb[@{http://www.w3.org/XML/1998/namespace}id]
+  img_0001: 1
+  img_0002: 1
+  img_0003: 1
+  img_0004: 1
+  img_0005: 1
+  img_0006: 1
+  img_0007: 1
+  img_0008: 1
+  img_0009: 1
+  img_0010: 1
+
+Attribute: /tei:body/tei:div[@type]
+  frontmatter: 1
+  dictionary: 1
+  errata: 1
+
+== Entry Examples ==
+
+Example 1 (length: 91 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0">
+  <dictScrap>
+    <form>Mel.</form>
+  </dictScrap>
+</entry>
+
+
+Example 2 (length: 172 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0">
+  <dictScrap><form type="lemma">Siler montanum,</form><sense>vid. Semen Seseleos, seu Sileris montani</sense>. </dictScrap>
+</entry>
+
+
+Example 3 (length: 194 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0">
+  <dictScrap><form type="lemma">Saxifraga Rubra </form><sense>vid. Alkekengi s. Halicacabi, &amp; Radices Filipendulae</sense>.
+					</dictScrap>
+</entry>
+
+
+Example 4 (length: 249 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0" xml:id="antido">
+  <dictScrap><form type="lemma">Antidotum</form>, <sense><def>est medicamentum contra lethale Venenum hoc est, quod adversus
+								<lb/>venena epota datur</def></sense>. </dictScrap>
+</entry>
+
+
+Example 5 (length: 2495 bytes):
+<entry xmlns="http://www.tei-c.org/ns/1.0">
+  <dictScrap><form type="lemma">Moschus,</form><sense>est Liquor exsiccatus, communi &amp; vulgari traditione, qui ex ista
+							<lb/>Vomica, vel Abscessu, circa umbilicum animalis Moschi, sivè
+							Capreoli Mo- <lb/>schi, aut Gacellae Indicae, vel Moschiferae Caprae,
+							haerente, certo <lb/>tempore promanat, quem dein Moschum dicimus. Quarè
+							Mo- <lb/>schus similiter habeat Pelliculam naturalem, seu Folliculum, in
+							quo <lb/>colligatur &amp; contineatur Liquor iste Moschus. <lb/>vid.
+							Jonstonus &amp; Eustachi- <lb/>us. Legitimus iste Moschus, qui reperitur
+							in Receptaculo à natura desti- <lb/>nato, est optimus: Quidam, esse
+							saniem extumore circa Umbilicum istius <lb/>Animalis promanantem volunt:
+							alii testiculos ejusdem, alii aliud quid <lb/>censent. Moschifera
+							Caprea, Capreae minoris species est, dentibus duo- <lb/>bus versus
+							inferiora prominens, quadrupes, ungulis bisectis, sine cauda,
+							<lb/>Pilorum Color variegatus, ex luteo castaneus &amp; Maculis quasi
+							superbit: <lb/>in abdomine cinerei, in Capite ex albo &amp; cinereo
+							castanei, sunt &amp; longissi- <lb/>mi. Caeterum in abdomine non longè à
+							posterioribus pedibus, Emi- <lb/>nentia quaedam est, rotunda &amp; dura,
+							Ovi gallinacei mediocris magnitudine, <lb/>pilis albis, iisque non
+							flexuosis, sed rectis, &amp; ad folliculi fastigium porrectis
+							<lb/>obsita. Circa cujus partem inferiorem unica utrinque Caruncula
+							appa- <lb/>ret, qualis etiam, licet paulò major, non longè ab istis à
+							sinistro conspici- <lb/>tur latere. Is autem Eminentia aut Tumor, nihil
+							aliud est, nisi Folliculus <lb/>quidam, in quo Moschus, Saniei instar,
+							colligitur. Praetereà totum ani- <lb/>mal est Moschus, seu Moschiferum:
+							nempè non tantum ex Testiculis ani- <lb/>malium horum potest colligi
+							praestantissimum Moschigenus, sed animal <lb/>captum fustibus, probè
+							contusum &amp; interfectum, ut in toto Corpore sit. <lb/>Sanguis
+							suffusus, ut ut jam incipiat putrescere, omnis tamen Sanguis suf-
+							<lb/>fusus similem dat odorem Moscho, &amp; hic est Moschus adulteratus,
+							qui ad <lb/>nos solet adferri pro legitimo, ut ut ille sit legitimus,
+							qui ex Folliculo ad <lb/>Umbilicum sito, colligitur. <lang>Germ.</lang>
+							Biesam. Plura legenda sunt apud supe- <lb/>riùs dictos, &amp; alios
+							Authores</sense>. </dictScrap>
+</entry>
