@@ -1,13 +1,6 @@
-/* Alchemical‑Dictionaries – App shell
+/* Alchemical‑Dictionaries – App shell
    -----------------------------------
-   * global data bootstrap (DataStore.ready)
-   * React‑Router SPA navigation
-   * routes:
-       /search        – SearchView (live search)
-       /symbols       – SymbolsView (glyph gallery)
-       /entry/:id     – EntryView  (single dictionary article)
-       /network       – placeholder
-       /timeline      – placeholder
+   Loads DataStore once and mounts the SPA routes.
 */
 import { useEffect, useState } from 'react';
 import {
@@ -23,14 +16,12 @@ import SearchView   from './views/SearchView.jsx';
 import SymbolsView  from './views/SymbolsView.jsx';
 import EntryView    from './views/EntryView.jsx';
 
-/* still placeholders – we’ll flesh them out next */
-function NetworkView()  { return <h2>Synonym network (coming soon)</h2>; }
+/* Timeline placeholder remains */
 function TimelineView() { return <h2>Timeline heat‑map (coming soon)</h2>; }
 
 export default function App() {
   const [ready, setReady] = useState(false);
 
-  /* one‑time corpus load */
   useEffect(() => {
     DataStore.ready().then(() => setReady(true)).catch(console.error);
   }, []);
@@ -52,7 +43,6 @@ export default function App() {
         <nav style={styles.nav}>
           <NavLink to="/search"   style={styles.link}>Search</NavLink>
           <NavLink to="/symbols"  style={styles.link}>Symbols</NavLink>
-          <NavLink to="/network"  style={styles.link}>Network</NavLink>
           <NavLink to="/timeline" style={styles.link}>Timeline</NavLink>
         </nav>
       </header>
@@ -63,7 +53,6 @@ export default function App() {
           <Route path="/search"      element={<SearchView   />} />
           <Route path="/symbols"     element={<SymbolsView  />} />
           <Route path="/entry/:id"   element={<EntryView    />} />
-          <Route path="/network"     element={<NetworkView  />} />
           <Route path="/timeline"    element={<TimelineView />} />
           <Route path="*"            element={<h2>Page not found</h2>} />
         </Routes>
