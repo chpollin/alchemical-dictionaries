@@ -1,4 +1,7 @@
+# .github/workflows/deploy.yml  ← ONLY this file should exist
+
 name: Deploy to GitHub Pages
+
 on:
   push:
     branches: [main]
@@ -9,31 +12,31 @@ permissions:
   pages: write
   id-token: write
 
-defaults:
-  run:
-    working-directory: iteration-2
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - run: npm ci
-      - run: npm run build
-      - run: cp dist/index.html dist/404.html   # SPA refresh fix
+      - run: npm run build          # output → ./dist
+      - run: cp dist/index.html dist/404.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist                           # ← iteration‑2/dist
+          path: dist                # path is relative to repo root
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages                      # must match repo → Settings → Pages
+    environment: github-pages
     steps:
       - uses: actions/deploy-pages@v4
