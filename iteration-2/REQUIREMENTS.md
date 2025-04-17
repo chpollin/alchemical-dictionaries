@@ -24,7 +24,7 @@ This document captures research goals, user stories, and software requirements f
 | U2 | *Digital lexicographer* | “I need an interface to **browse lemmas, correct OCR errors in‑place, and export patched TEI**, so the cleaned data feeds future editions.” |
 | U3 | *Chemistry iconographer* | “Show me a **gallery of all alchemical symbols**, their Unicode mapping, first appearance date, and linked headwords.” |
 | U4 | *NLP researcher* | “Give me a **JSON API** that returns lemma ↔ translation pairs, so I can train a bilingual alignment model.” |
-| U5 | *Teacher* | “I’d like an **interactive timeline** that illustrates when key terms emerge or fade between 1612 and 1701 for classroom demos.” |
+| U5 | *Teacher* | “Show me a **side‑by‑side chart** that compares how many entries each dictionary contributes and lets me jump straight to the relevant lemmas.” |
 | U6 | *Philologist* | “Highlight **cross‑reference chains** (‘vide …’) in a **network visualisation** to study terminological clustering.” |
 | U7 | *Metadata librarian* | “I want provenance info & CC‑BY licence surfaced, and an easy way to **download subsets** filtered by tag, page range, or lemma list.” |
 
@@ -45,14 +45,15 @@ This document captures research goals, user stories, and software requirements f
 * **F‑6** Entry viewer: tabbed panes for Ruland, Sommerhoff, side‑by‑side diff; highlight symbol tokens.
 * **F‑7** Symbol explorer: grid of glyphs → click reveals description, Unicode, linked entries.
 * **F‑8** Interactive network: nodes = lemmas, edges = variant/synonym/x‑ref ; pan/zoom, tooltips.
-* **F‑9** Timeline heatmap: lemma frequency by year (1612, 1701) and estimated translation date.
+* **F‑9 (revised)** Corpus comparison: bar chart (Ruland 1612 vs Sommerhoff 1701) with click‑through filter to search results.
+* **F‑9a** (optional future) Timeline heat‑map once additional dictionaries or per‑entry dates become available.
 * **F‑10** Facsimile panel: display page image (`@facs`) synced with entry scroll.
 * **F‑11** Inline editing (authorized users) → writes back to a fork or generates pull‑request patch.
 * **F‑12** Export menu: CSV, JSON‑LD (SKOS), filtered TEI subset.
 * **F‑13** REST & GraphQL endpoints for programmatic access.
 
 ### 3·3  Analysis Features
-* **F‑14** Frequency charts: top N headwords, symbols, German glosses.
+* **F‑14** Frequency charts: top N headwords, symbols, German glosses **plus the Ruland‑vs‑Sommerhoff bar already defined in F‑9**.
 * **F‑15** Term evolution: compare definition lengths & translation variants between dictionaries.
 * **F‑16** OCR quality dashboard: n‑gram outlier detection, flagging probable errors for crowdsourced fixes.
 
