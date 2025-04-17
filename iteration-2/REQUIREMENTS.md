@@ -72,15 +72,3 @@ This document captures research goals, user stories, and software requirements f
 | Deployability | Docker compose (app + index); build in ≤ 5 min. |
 | Extensibility | Plug‑in architecture for new TEI files; config‑driven mapping. |
 
----
-
-## 5  Open Questions / Next Steps
-1. **Cross‑ID strategy** – canonical URI scheme to link same lemma across files?
-2. **Symbol OCR extension** – automatically detect symbols in Ruland images and align with glyph set.
-3. **User contribution model** – crowd‑sourced corrections versus curator review pipeline.
-4. **Scalability** – preparing for addition of future dictionaries (see TODOs.md).
-
----
-
-*Compiled April 2025.*
-
