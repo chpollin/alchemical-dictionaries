@@ -1,5 +1,4 @@
-# .github/workflows/deploy.yml  ← ONLY this file should exist
-
+# .github/workflows/deploy.yml
 name: Deploy to GitHub Pages
 
 on:
@@ -19,20 +18,32 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # 1 Clone repo
       - uses: actions/checkout@v4
 
+      # 2 Setup Node and Python
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - run: npm ci
-      - run: npm run build          # output → ./dist
-      - run: cp dist/index.html dist/404.html
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
+      # 3 Install dependencies
+      - run: npm ci
+      - run: pip install -r requirements.txt
+
+      # 4 Build the SPA + data
+      - run: npm run build            # writes to ./dist
+      - run: cp dist/index.html dist/404.html  # SPA refresh fix
+
+      # 5 Stage artefact for Pages
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist                # path is relative to repo root
+          path: dist
 
   deploy:
     needs: build
