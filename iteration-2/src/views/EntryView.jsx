@@ -1,16 +1,15 @@
-/* Alchemical‑Dictionaries – EntryView
+/* Alchemical‑Dictionaries – EntryView
    -----------------------------------
-   First usable slice of REQUIREMENTS F‑6. :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
-   * Reads :id from the URL
-   * Shows lemma, variants, translations, definition text
-   * Tabs + symbol highlighting will be added in later increments
+   Displays a single dictionary article.
+   Adds a “back to results” link that preserves the user’s search query.
 */
 import { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useLocation } from 'react-router-dom';
 import DataStore from '../lib/dataStore.js';
 
 export default function EntryView () {
   const { id } = useParams();
+  const { state } = useLocation();       // may contain { from: { pathname, q } }
   const [entry, setEntry] = useState(null);
 
   useEffect(() => {
@@ -19,7 +18,7 @@ export default function EntryView () {
     });
   }, [id]);
 
-  if (!entry) return <p>Loading entry…</p>;
+  if (!entry)          return <p>Loading entry…</p>;
   if (!entry.definition) return <p>Entry not found.</p>;
 
   return (
@@ -41,9 +40,16 @@ export default function EntryView () {
         <p><strong>Symbols:</strong> {entry.symbols.join(', ')}</p>
       )}
 
-      <p style={styles.back}>
-        <Link to="/search">← back to search</Link>
-      </p>
+      {state?.from?.pathname === '/search' && (
+        <p style={styles.back}>
+          <Link
+            to={state.from.pathname}
+            state={state.from}        /* sends query back to SearchView */
+          >
+            ← back to results
+          </Link>
+        </p>
+      )}
     </article>
   );
 }

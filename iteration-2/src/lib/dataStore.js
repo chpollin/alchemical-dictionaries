@@ -1,26 +1,11 @@
-/* Alchemical‑Dictionaries – DataStore singleton
+/* Alchemical‑Dictionaries – DataStore singleton
    ---------------------------------------------
-   Loads:
-     public/data/entries.ndjson   – 20 576 entry records
-     public/data/symbols.json     – 294 glyphs
-     public/data/graph.json       – { nodes, edges }
-     public/data/index.json       – Lunr v2 serialisation
-   Exposes:
-     await DataStore.ready()
-     DataStore.entries            // Array
-     DataStore.symbols            // Array
-     DataStore.graph              // { nodes, edges }
-     DataStore.search(q, {limit}) // ranked entry objects
-     DataStore.getById(id)
-     DataStore.findByLemmaNorm(str)
+   Loads JSON artefacts and offers search helpers.
 */
-
-import lunr from 'lunr';     // local dependency (npm i lunr)
+import lunr from 'lunr';
 
 const BASE =
-  import.meta.env.MODE === 'development'
-    ? '/data/'   // vite dev‑server serves public/ at /
-    : 'data/';   // after build everything sits in dist/
+  import.meta.env.MODE === 'development' ? '/data/' : 'data/';
 
 class _DataStore {
   _ready = null;
@@ -32,36 +17,51 @@ class _DataStore {
     if (this._ready) return this._ready;
 
     this._ready = Promise.all([
+
+      
       /* entries.ndjson ---------------------------------------------------- */
       fetch(BASE + 'entries.ndjson')
-        .then(r => r.text())
-        .then(text =>
-          text.trim().split('\n').map(line => {
-            const obj = JSON.parse(line);
-            this._idMap.set(obj.id, obj);
-            this._lemmaMap.set(obj.lemma_norm, obj);
-            return obj;
-          })
-        )
-        .then(arr => (this.entries = arr)),
+      .then(r => r.text())
+      .then(text =>
+        text.trim().split('\n').map(line => {
+          const obj = JSON.parse(line);
+
+          /* --- NEW: normalise variants / translations to arrays ---------- */
+          if (typeof obj.variants === 'string')
+            obj.variants = obj.variants.split(/\s*[,;]\s*|\s+/).filter(Boolean);
+
+          if (typeof obj.translations === 'string')
+            obj.translations = obj.translations.split(/\s*[,;]\s*/).filter(Boolean);
+          /* ---------------------------------------------------------------- */
+
+          this._idMap.set(obj.id, obj);
+          this._lemmaMap.set(obj.lemma_norm, obj);
+          return obj;
+        })
+      )
+      .then(arr => (this.entries = arr)),
 
       /* symbols.json ------------------------------------------------------ */
-      fetch(BASE + 'symbols.json')
+      fetch(`${BASE}symbols.json`)
         .then(r => r.json())
-          .then(arr => (this.symbols = arr.map((s, i) => ({
-                id:    s.id    ?? `sym-${i}`,       // fallback key
-                char:  s.char  ?? s.glyph ?? '',    // <- point UI to the glyph
-                entries: s.entries ?? [],
-                count:  s.count ?? (s.entries?.length ?? 0)
-            })))),
+        .then(arr => {
+          /* normalise → ensure { id, char, entries, count } */
+          this.symbols = arr.map((s, i) => ({
+            id:      s.id     ?? `sym-${i}`,
+            char:    s.char   ?? s.glyph ?? '',
+            entries: s.entries ?? [],
+            count:   s.count  ?? (s.entries?.length ?? 0)
+          }));
+        }),
 
       /* graph.json -------------------------------------------------------- */
-      fetch(BASE + 'graph.json')
+      fetch(`${BASE}graph.json`)
         .then(r => r.json())
         .then(obj => (this.graph = obj)),
 
-      /* index.json  → hydrate Lunr --------------------------------------- */
-      fetch(BASE + 'index.json')
+        
+      /* index.json → hydrate Lunr ---------------------------------------- */
+      fetch(`${BASE}index.json`)
         .then(r => r.json())
         .then(idx => (this.lunr = lunr.Index.load(idx)))
     ]);
@@ -71,18 +71,20 @@ class _DataStore {
 
   /** Full‑text search */
   search(q, { limit = 20 } = {}) {
-    if (!this.lunr) throw new Error('DataStore not ready – call await DataStore.ready()');
-    return this.lunr
-      .search(q)
-      .slice(0, limit)
-      .map(hit => this._idMap.get(hit.ref));
+    if (!this.lunr) throw new Error('DataStore not ready');
+    return this.lunr.search(q).slice(0, limit).map(h => this._idMap.get(h.ref));
   }
 
-  /* Convenience getters */
-  getById(id)               { return this._idMap.get(id); }
-  findByLemmaNorm(norm)     { return this._lemmaMap.get(norm.toLowerCase()); }
+  /* convenience */
+  getById(id)           { return this._idMap.get(id); }
+  findByLemmaNorm(norm) { return this._lemmaMap.get(norm.toLowerCase()); }
+  
+  /* NEW: true if the entry referenced by id contains at least one <g> */
+  hasSymbol(id) {
+    const rec = this._idMap.get(id);
+    return rec ? rec.symbols.length > 0 : false;
+  }
 }
 
-/* export singleton */
-const DataStore = new _DataStore();
-export default DataStore;
+export default new _DataStore();
+

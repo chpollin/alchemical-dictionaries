@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Alchemicons';
+    src: url('/fonts/Alchemicons.woff2') format('woff2');
+    unicode-range: U+1F700-1F77F;
+  }
+  
+  .font-symbols { font-family: 'Alchemicons', serif; }
