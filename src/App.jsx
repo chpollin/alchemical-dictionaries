@@ -36,7 +36,7 @@ export default function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <header style={styles.header}>
         <h1 style={{ margin: '0 1rem 0 0' }}>Alchemical‑Dictionaries</h1>
 
