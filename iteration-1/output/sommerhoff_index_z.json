@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "sommerhoff_zemen_altheae_bismalvae_ibisci_malvae_visci_malvae_palustris",
+    "lemma": "Zemen Altheae, Bismalvae, Ibisci, Malvae visci, Malvae palustris.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eibisch o- der Ibisch-Kraut-Samen / Heyl-Wurtzel oder Huͤlff-Wurtzel- Samen und wilde Pappeln-Samen. Crescit Locis humidis,",
+    "page": "369"
+  },
+  {
+    "id": "sommerhoff_zemen_scorzonerae",
+    "lemma": "Zemen Scorzonerae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "377"
+  },
+  {
+    "id": "sommerhoff_z",
+    "lemma": "Z.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zz",
+    "lemma": "ZZ,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zaair",
+    "lemma": "Zaair,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Oppermendt.",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zaar",
+    "lemma": "Zaar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zabalegum",
+    "lemma": "Zabalegum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zachariae_flos_baptiseculae_blaptiseculae_flos",
+    "lemma": "Zachariae Flos, Baptiseculae & Blaptiseculae Flos.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Blaue Korn-Blumen.",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zacharum_zucharum_zuccarum",
+    "lemma": "Zacharum, Zucharum & Zuccarum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zucker. Legitur apud Forest. L. 16. O. 21. & 55. alibique.",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zacynthius",
+    "lemma": "Zacynthius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zaduar_nomen_barbarum",
+    "lemma": "Zaduar, nomen Barbarum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_zafaram",
+    "lemma": "Zafaram,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eisen-Feyel Johns.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaffran",
+    "lemma": "Zaffran,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ocker oder Auder. Mart. Rul & Johus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zafran",
+    "lemma": "Zafran,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaibac_libach_laibar_leida_lerachar_libatum_azoch_azoth",
+    "lemma": "Zaibac, Libach, Laibar, Leida, Lerachar, Libatum Azoch & Azoth,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaic_zuch",
+    "lemma": "Zaic & Zuch,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Baum Oehl",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaidir",
+    "lemma": "Zaidir,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zamura_zirumbeth",
+    "lemma": "Zamura, Zirumbeth,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zitiver.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zandick",
+    "lemma": "Zandick,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaocel",
+    "lemma": "Zaocel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pben oder Den / Mart. Rul. & Johnsonus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaphara_zaffara",
+    "lemma": "Zaphara, Zaffara,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zaras",
+    "lemma": "Zaras,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Goldt Mart. Rul. & Johns.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zarfa",
+    "lemma": "Zarfa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zinn. Mart. Bul. & Johns.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zarfu",
+    "lemma": "Zarfu",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zinn. Johnsonus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zarnasium",
+    "lemma": "Zarnasium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zarne_larnec_zarneck_zarnich",
+    "lemma": "Zarne, Larnec, Zarneck, Zarnich,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zarsaparilla_zarzaparilla",
+    "lemma": "Zarsaparilla & Zarzaparilla,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zatanea_zuccar_zuccaria_zuccajar",
+    "lemma": "Zatanea, zuccar, Zuccaria Zuccajar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zauchiron",
+    "lemma": "Zauchiron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Orientalischer Saffran. Mart. Rul, & Johnsonus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zea_vel_zeia_dicitur_spelta",
+    "lemma": "Zea vel Zeia, dicitur & Spelta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zebd",
+    "lemma": "Zebd,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Butter. Mart. Rul. & Johnsonus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zebeb_chara",
+    "lemma": "Zebeb, & Chara,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zec_leco",
+    "lemma": "Zec, Leco,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zedoaria",
+    "lemma": "Zedoaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zitwer. A quibusdam Anthora nominatur.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zedoaria_arabum",
+    "lemma": "Zedoaria Arabum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gifft-Heyl.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zefaran_zeafaran",
+    "lemma": "Zefaran, Zeafaran,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Orientalischer Saffran. Matth. Sylvat.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zefer_zefr",
+    "lemma": "Zefer & Zefr,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pech. Mart. Rul. & sohnsonus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zeg_zegi_zerci_zet_zezi_zoroba_zimen_zetus",
+    "lemma": "Zeg, Zegi, Zerci, Zet, Zezi, Zoroba, zimen, Zetus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zegibel",
+    "lemma": "Zegibel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ingber.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zeberech_alchas_alckas",
+    "lemma": "Zeberech, Alchas & Alckas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zeia",
+    "lemma": "Zeia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zeite",
+    "lemma": "Zeite,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zeitrabra_fluxile",
+    "lemma": "Zeitrabra, Fluxile.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Flüssig. Mart. Rul. & Johns",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zelotum",
+    "lemma": "Zelotum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zemasarum_zengifur",
+    "lemma": "Zemasarum, Zengifur,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zinnober. Mart. Rul. & Jobnsonus.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zemech",
+    "lemma": "Zemech,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lasur- Stein. Mart. Rul. & Johns.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zenechdon_zenexton",
+    "lemma": "Zenechdon & Zenexton.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zenexton",
+    "lemma": "Zenexton",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zenextor",
+    "lemma": "Zenextor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zengifur_zemasarum",
+    "lemma": "Zengifur, Zemasarum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zenicon",
+    "lemma": "Zenicon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zeon",
+    "lemma": "Zeon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Siedendt. Linden. XIII. §. 211.",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zepyron",
+    "lemma": "Zepyron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "436"
+  },
+  {
+    "id": "sommerhoff_zerci_zegi_zet_zezi",
+    "lemma": "Zerci. Zegi, Zet, Zezi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zericum",
+    "lemma": "Zericum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zerifari",
+    "lemma": "Zerifari,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zeus",
+    "lemma": "Zeus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zibach_ziabach_zaibar",
+    "lemma": "Zibach, Ziabach, & zaibar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zibebae_uvae_passae_damascenae_seu_passulae_maximae",
+    "lemma": "Zibebae, Uvae Passae Damascenae seu Passulae maximae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Damascener: Traub- lein oder Zibeben / oder blaue Rosinen.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zibethum_zibetta_lapetium_civetta_zibettum_algalia",
+    "lemma": "Zibethum, Zibetta, Lapetium & Civetta, Zibettum, Algalia.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zibeth/ est Ma- teria sivè Liquor Pinguis, Cati sive Felis Civettae, Animalis indici (Vulpem excedentis, Caput, Collum, Pedes atque alias partes habentis, illi non ad- modum dissimilis) sed nunc apud Europaeos valdè frequens est. Quoti- diè siquidem Lutetiae in multorum aedibus visitur & contrectatur. Cujus Recrementum ob fragrantiam Zibethum dicitur; Zibethum autem Odora- mentum estsà Moscho longè diversum, Suavissimum, Pingue, Crassum, ac Nigricans &c. ex dicto Animali desumptum. Illius enim Strigmentum est, seu Sudor circa Testes ac Putenda concrescens, qui Cochleari Corneo aut ) teo, aut alio quovis abradi solet.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zibethum",
+    "lemma": "Zibethum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zimar_philosophicum",
+    "lemma": "Zimar Philosophicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zimex",
+    "lemma": "Zimex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zinck_zink_zinkum_paracels_vocavit_linetum_marchasita_marchesita_aurea",
+    "lemma": "Zinck, zink, zinkum, Paracels. vocavit Linetum, Marchasita & Marchesita aurea, Pyrites Oreus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Goldt-Kuͤß / Kupffer-Kuͤß oder gelber Kuͤß. &. Est Metallica Marcasita & Mixtura quaedam Naturalis ex 4. Metallis immatu- ris, Cuprea potissimum apparens. Dorn. Mart. Rul. & Johns. adde Libav. S. A. Ch. L. 2. c. 24.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zindulus",
+    "lemma": "Zindulus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zinae_seu_ine_semen_semen_zedoariae_lumbricorum",
+    "lemma": "Zinae seu (ine Semen, Semen Zedoariae, Lumbricorum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zinetus",
+    "lemma": "Zinetus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingar_ziniar_zymar_zyser",
+    "lemma": "Zingar, Ziniar, Zymar & Zyser,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_zinziber",
+    "lemma": "Zingiber, & Zinziber,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Inaber / singulis annis Folia habet, Iridis aut qladioli in modum, crescit copios è in India Orien- tali, unde & ad nos portatur.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_album",
+    "lemma": "Zingiber Album.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weisser Ingber / est Radix Ari, s. Aronis, & Zinziber Cor- tic. alb.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_caninum",
+    "lemma": "Zingiber Caninum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wasser-Pfeffer.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_citrinum_seu_flavum",
+    "lemma": "Zingiber Citrinum seu flavum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gilb-Wurtzel.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_coctum",
+    "lemma": "Zingiber Coctum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ingber Morsellen.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_germanicum",
+    "lemma": "Zingiber Germanicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Teutscher Ingber.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zingiber_sylvestre",
+    "lemma": "Zingiber sylvestre,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wilder Ingber.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_ziniar",
+    "lemma": "Ziniar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grun-Span. Dorn. Mart. Rul. & Johnson. Forest. & Libav. Legitur aliquando & Zimar.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_ziniat",
+    "lemma": "Ziniat,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauer-Teig oder Vor-Teig. Mart. Rul. & Johns.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zinziber",
+    "lemma": "Zinziber,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zinzifur",
+    "lemma": "Zinzifur,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zinnober. Libav.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_ziorianti",
+    "lemma": "Ziorianti,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zitter_zuitter",
+    "lemma": "Zitter & Zuitter,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zizanium",
+    "lemma": "Zizanium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_z_zipha",
+    "lemma": "Z zipha",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Brust-Beer.",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zoephilos",
+    "lemma": "Zoephilos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "437"
+  },
+  {
+    "id": "sommerhoff_zonitis",
+    "lemma": "Zonitis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zoologia",
+    "lemma": "zoologia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zoophthalmon",
+    "lemma": "zoophthalmon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zoophyson",
+    "lemma": "zoophyson,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zopissa",
+    "lemma": "zopissa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zopydros",
+    "lemma": "zopydros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zoraba_zorobo",
+    "lemma": "zoraba & zorobo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zorsonera_viperaria_seu_viperina",
+    "lemma": "zorsonera Viperaria seu Viperina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schlangen Mordt. Wurtzel.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zub_zubd",
+    "lemma": "zub, zubd,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rohe Butter. Mart. Rul. & Johns.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zuccajar",
+    "lemma": "zuccajar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zucha",
+    "lemma": "zucha,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kürbis.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zucharum_zacharum_saccharum",
+    "lemma": "zucharum, zacharum, Saccharum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zucker.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zuitter",
+    "lemma": "zuitter,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Marcasita.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zulapium",
+    "lemma": "zulapium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Julep. vid Juleb, s. Julepus.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zurumbeth",
+    "lemma": "zurumbeth,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zuvitter_vel_zytter_zuitter_zitter",
+    "lemma": "zuvitter vel zytter, zuitter & zitter",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zygaena_gazae_libella",
+    "lemma": "zygaena, Gazae Libella,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zygia",
+    "lemma": "zygia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zymar_al_is_zynar_zynser",
+    "lemma": "zymar al is zynar & zynser,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grun-Span. Scart. Rud.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zyme_zymoma",
+    "lemma": "zyme & zymoma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zythegala",
+    "lemma": "zythegala,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zythos",
+    "lemma": "zythos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zytter",
+    "lemma": "zytter,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Marcasith.",
+    "page": "438"
+  },
+  {
+    "id": "sommerhoff_zudenleym",
+    "lemma": "zudenleym /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_zahmer_knoblauch_oder_gartenknoblauch",
+    "lemma": "Zahmer Knoblauch oder Gartenknoblauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "486"
+  },
+  {
+    "id": "sommerhoff_zaunrauthn",
+    "lemma": "Zaunrauthn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "504"
+  },
+  {
+    "id": "sommerhoff_zahme_endivien",
+    "lemma": "Zahme Endivien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_feigbohne",
+    "lemma": "Zahme Feigbohne /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_gartendistel",
+    "lemma": "Zahme Gartendistel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahmer_gartenklee",
+    "lemma": "Zahmer Gartenklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_hindla_ufften",
+    "lemma": "Zahme Hindlaͤufften /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahmer_kartendistel",
+    "lemma": "Zahmer Kartendistel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_negelein",
+    "lemma": "Zahme Negelein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_raucken",
+    "lemma": "Zahme Raucken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_rauthen",
+    "lemma": "Zahme Rauthen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_rosen",
+    "lemma": "Zahme Rosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_spargen",
+    "lemma": "Zahme Spargen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahmer_sperberbaum",
+    "lemma": "Zahmer Sperberbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_sperberbeeren",
+    "lemma": "Zahme Sperberbeeren /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahmer_steinklee",
+    "lemma": "Zahmer Steinklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahmer_weyd",
+    "lemma": "Zahmer Weyd /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahme_wicken",
+    "lemma": "Zahme Wicken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahnkraut",
+    "lemma": "Zahnkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahnschneckenstein",
+    "lemma": "Zahnschneckenstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahnsticherkraut",
+    "lemma": "Zahnsticherkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahnviole",
+    "lemma": "Zahnviole /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zahnwurtz",
+    "lemma": "Zahnwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zambach",
+    "lemma": "Zambach /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zancken_und_zaucken",
+    "lemma": "Zancken und Zaucken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zapffenholtz",
+    "lemma": "Zapffenholtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zapffenkorn",
+    "lemma": "Zapffenkorn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_za_pffleinkraut",
+    "lemma": "Zaͤpffleinkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zazaparillen",
+    "lemma": "Zazaparillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zaucken_oder_mayenri",
+    "lemma": "Zaucken oder Mayenriß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_za_unling",
+    "lemma": "Zaͤunling /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zaunglocke",
+    "lemma": "Zaunglocke /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zaunko_nig",
+    "lemma": "Zaunkoͤnig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  },
+  {
+    "id": "sommerhoff_zaunrauthen",
+    "lemma": "Zaunrauthen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zaunruben",
+    "lemma": "Zaunruben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zaunschlu_pfferlein",
+    "lemma": "Zaunschluͤpfferlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zaunwindten",
+    "lemma": "Zaunwindten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zebast",
+    "lemma": "Zebast /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeckenko_rner",
+    "lemma": "Zeckenkoͤrner /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zehrgra_zehrkraut",
+    "lemma": "Zehrgraß /Zehrkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zehrwurtz_aronwurtz",
+    "lemma": "Zehrwurtz-Aronwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeidelbast",
+    "lemma": "Zeidelbast /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeugbohne",
+    "lemma": "Zeugbohne /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeilandt",
+    "lemma": "Zeilandt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeisig_oder_zinsigtraut",
+    "lemma": "Zeisig oder Zinsigtraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeitlosen",
+    "lemma": "Zeitlosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zeitlosen_auf_wiesen",
+    "lemma": "Zeitlosen auf wiesen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zellerie",
+    "lemma": "Zellerie /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zibeben",
+    "lemma": "Zibeben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zidiver_und_zidwerwurtz",
+    "lemma": "zidiver und Zidwerwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zidwersaat",
+    "lemma": "Zidwersaat /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zieber_oder_zwiebernu_lein",
+    "lemma": "Zieber oder Zwiebernuͤßlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziebeth",
+    "lemma": "Ziebeth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziebethtatze",
+    "lemma": "Ziebethtatze /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziedern",
+    "lemma": "Ziedern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziegen",
+    "lemma": "Ziegen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziegenbock",
+    "lemma": "Ziegenbock /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziegenbocks_bluth",
+    "lemma": "Ziegenbocks-Bluth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziegenbocks_oder_bocks_inschlicht",
+    "lemma": "Ziegenbocks- oder Bocks Inschlicht /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zieserlein",
+    "lemma": "Zieserlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zieserlein",
+    "lemma": "Zieserlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziesernu_lein",
+    "lemma": "Ziesernuͤßlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zimmer_oder_ruthe",
+    "lemma": "Zimmer oder Ruthe /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zimmetrindten",
+    "lemma": "Zimmetrindten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zinck",
+    "lemma": "Zinck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zinn",
+    "lemma": "Zinn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zinnkraut",
+    "lemma": "Zinnkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zinnober",
+    "lemma": "Zinnober",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zipperleinkraut",
+    "lemma": "Zipperleinkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zirmet",
+    "lemma": "Zirmet /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziser_erbsen",
+    "lemma": "Ziser Erbsen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_ziserlein",
+    "lemma": "Ziserlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zitterru_ben",
+    "lemma": "Zitterruͤben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zitterwurtz",
+    "lemma": "Zitterwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zittwersaant_zerbernsaadt",
+    "lemma": "Zittwersaant /Zerbernsaadt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zittwerwurtzel",
+    "lemma": "Zittwerwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "536"
+  },
+  {
+    "id": "sommerhoff_zucker",
+    "lemma": "Zucker",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zucker_alaun",
+    "lemma": "Zucker-Alaun /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zuckerriedt_oder_rohr",
+    "lemma": "Zuckerriedt oder Rohr /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zuckerwurtzel",
+    "lemma": "Zuckerwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zumpenkraut",
+    "lemma": "Zumpenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zungenbladt_za_pffleintraut",
+    "lemma": "Zungenbladt /Zaͤpffleintraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zungentraut",
+    "lemma": "Zungentraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zu_rgelbaum",
+    "lemma": "Zuͤrgelbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zwetschen",
+    "lemma": "Zwetschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zweyblaadt",
+    "lemma": "Zweyblaadt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zwiebel_oder_ascalon",
+    "lemma": "Zwiebel oder Ascalon /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zwiebel_oder_zwieffel",
+    "lemma": "Zwiebel oder Zwieffel.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zwiebeln",
+    "lemma": "Zwiebeln /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zwiebel_isop",
+    "lemma": "Zwiebel Isop /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zwitter_molybdena",
+    "lemma": "Zwitter Molybdena /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  },
+  {
+    "id": "sommerhoff_zypergra",
+    "lemma": "Zypergraß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "ruland": {
+    "title": "Lexicon Alchemiae",
+    "author": "Martin Ruland the Younger",
+    "year": 1612,
+    "language": "Latin with German translations",
+    "description": "A comprehensive alchemical dictionary with scholarly notes and hierarchical lists.",
+    "entry_count": 5727,
+    "structure": {
+      "letters": 0,
+      "pages": 0,
+      "sections": 0
+    }
+  },
+  "sommerhoff": {
+    "title": "Lexicon pharmaceutico-chymicum Latino-Germanicum et Germanico-Latinum",
+    "author": "Johann Christoph Sommerhoff",
+    "year": 1701,
+    "language": "Bilingual Latin-German",
+    "description": "A bilingual dictionary covering pharmaceutical, alchemical, and botanical terms with extensive symbol usage.",
+    "entry_count": 32469,
+    "structure": {
+      "letters": 0,
+      "pages": 552,
+      "sections": 3
+    },
+    "symbols": 297
+  },
+  "generated": "2025-04-11T17:26:35.109130",
+  "version": "2.0.0",
+  "converter": {
+    "name": "Enhanced TEI-XML to JSON Converter",
+    "features": [
+      "Document structure preservation",
+      "Page and navigation markers",
+      "Detailed symbol extraction",
+      "Cross-reference resolution",
+      "Search index generation",
+      "Multi-language support",
+      "Complete formatting preservation"
+    ]
+  }
+}

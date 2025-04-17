@@ -1,0 +1,771 @@
+[
+  {
+    "id": "Ruland1612-VAlrat",
+    "lemma": "VAlrat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vapor",
+    "lemma": "Vapor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vas-fictile",
+    "lemma": "Vas fictile .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Hafner Geschirr",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vas-crudum",
+    "lemma": "Vas crudum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vas-minus",
+    "lemma": "Vas minus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vas-metallicum",
+    "lemma": "Vas metallicum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vasa-fusoria",
+    "lemma": "Vasa fusoria",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vectis",
+    "lemma": "Vectis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Handthabe",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vectis",
+    "lemma": "Vectis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Haspelhorn",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vectis",
+    "lemma": "Vectis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schien-Schienholtz.",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vectes-recti",
+    "lemma": "Vectes recti ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Windtstangen",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vectores",
+    "lemma": "Vectores ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Drecker die auf dem Dreckwerck lauffen.",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vectiarii",
+    "lemma": "Vectiarii ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Haspeler",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vehiculum",
+    "lemma": "Vehiculum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Waͤhnlein",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena",
+    "lemma": "Vena ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Fletz",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena-cumulata",
+    "lemma": "Vena cumulata ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Geschuͤtte",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena-vsta",
+    "lemma": "Vena vsta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "geruͤst Ertz.",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Venae-tectum",
+    "lemma": "Venae tectum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena",
+    "lemma": "Vena ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gang",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Venula",
+    "lemma": "Venula ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Klufft",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena-transuersa",
+    "lemma": "Vena transuersa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Quergang",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena-Veneris",
+    "lemma": "Vena Veneris ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Venae-durissimae-nodus-,-Mißpuckd-.",
+    "lemma": "Venae durissimae nodus ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Mißpuckd",
+    "page": "491"
+  },
+  {
+    "id": "Ruland1612-Vena-cumulata",
+    "lemma": "Vena cumulata ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Stock",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vena-tranfuersa,",
+    "lemma": "Vena tranfuersa,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kreuzgang",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venae-caput",
+    "lemma": "Venae caput ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Außgehen deß Gangs.",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venas-vrere",
+    "lemma": "Venas vrere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ertz rösten.",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venas-corio-nudare-,-&-venam-aperire,-Gang-entbloͤssen.",
+    "lemma": "Venas corio nudare ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venam-tecti",
+    "lemma": "Venam tecti",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wandt welffen",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venula-fibra",
+    "lemma": "Venula fibra ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Klufft",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vena-continua-cohaerens-,-ganghafftig-.",
+    "lemma": "Vena continua cohaerens ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "ganghafftig",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vena-principalis",
+    "lemma": "Vena principalis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hauptgang",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venam",
+    "lemma": "Venam ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Verstreichen das Ertz",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venarum-fragmenta",
+    "lemma": "Venarum fragmenta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Geschuͤbe",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vena-solida",
+    "lemma": "Vena solida ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Volliger Gang",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vener",
+    "lemma": "Vener ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "S. Jacobo Muschein.",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venenum",
+    "lemma": "Venenum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gifft. Mercurii lapis, todet den Koͤnig die Seel/ weit sie aber wieder aufstehet / heist es auch Theriaca. Mercurius ist das Gifftaller Metallen / aͤngertvnd wandelt.",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venus",
+    "lemma": "Venus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venus",
+    "lemma": "Venus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "der vnreine lapis, die Materi.",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venter-equi",
+    "lemma": "Venter equi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Ventus-albus",
+    "lemma": "Ventus albus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Ventus-rubeus",
+    "lemma": "Ventus rubeus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Ventus-citrinus",
+    "lemma": "Ventus citrinus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Venti",
+    "lemma": "Venti ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vermiculum",
+    "lemma": "Vermiculum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vermilion",
+    "lemma": "Vermilion ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vernice",
+    "lemma": "Vernice ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Verto",
+    "lemma": "Verto",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "492"
+  },
+  {
+    "id": "Ruland1612-Vesica",
+    "lemma": "Vesica",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Vlrach",
+    "lemma": "Vlrach ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Via-recrementorum",
+    "lemma": "Via recrementorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Latht/ Lotht.",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Vicarius-Domini",
+    "lemma": "Vicarius Domini ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Vorleger",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Vinum-correctum",
+    "lemma": "Vinum correctum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Vinum-essatum",
+    "lemma": "Vinum essatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Viltrum-Philosophorum",
+    "lemma": "Viltrum Philosophorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Viride-aeris",
+    "lemma": "Viride aeris ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Viriditas-salis",
+    "lemma": "Viriditas salis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Virgula-furcata",
+    "lemma": "Virgula furcata ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ruttes darmit etliche vermeinen die Gaͤng auf¬zurichten.",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Viscaleus",
+    "lemma": "Viscaleus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Viscus-proprie",
+    "lemma": "Viscus proprie",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Viscus-secundae-generationis-,-est-cruor,-qui-descendit-a-salibus.",
+    "lemma": "Viscus secundae generationis ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "493"
+  },
+  {
+    "id": "Ruland1612-Visio",
+    "lemma": "Visio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein vbernatuͤrlich Gesicht¬oder Erscheinung der Geister",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitellum-poli",
+    "lemma": "Vitellum poli ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Alaun",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitrum",
+    "lemma": "Vitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glaß Siebs Reuder vmb der Distillation wille/Graͤh¬Kirchhoff dieweil der stein darinn verborgen ligt: Wirdt auch Sphaera genaͤut, dieweil der lapis darinn bewegt/ondof vnd ab getriben wirde; auch ein Kercker Gefengniß dieweil Breuti¬gam vnd Braut darinn mit gewalt versperret werden. Daher heist es auch der gruͤne alte Loͤwsweiler gewalt obet. Vitrum, I. Ex vitris Europaeis praestantissima sunt Murana, quę Veneta appellantur, & comparantur crystallo. Venedische Cristalline Glaͤser. 2. Vitra Asiatica pretiosissima fuerunt, Sareptana, quae appella¬ta sunt Sidonia, & comparata fuerunt, vt Lucianus scribit, Electro. 3. Recrementa vitri in candido viridia, weisse Glaßschlacken oder Schaum. 4. Recrementa vitri rubentia / Rothe Glaßschlacken oder Schaum. 5. 1 Vitrum, quo tinguntur metalla, Schmeltzglaͤß.",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitrificatio",
+    "lemma": "Vitrificatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitri-fel",
+    "lemma": "Vitri fel ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glaßgall",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitrum-nigrum",
+    "lemma": "Vitrum nigrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "schwarz schmeltzglaͤß oder smaͤlta.",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitriolum-Romanum",
+    "lemma": "Vitriolum Romanum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitriolum",
+    "lemma": "Vitriolum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitriolum-liquefactum",
+    "lemma": "Vitriolum liquefactum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein Vitriol auß Eri gezogen",
+    "page": "494"
+  },
+  {
+    "id": "Ruland1612-Vitriolum-nouum",
+    "lemma": "Vitriolum nouum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "weisser Galitzen stein.",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Viphi,-Vffi,-Infi",
+    "lemma": "Viphi, Vffi, Infi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Beyspiel deß steine",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vlpha",
+    "lemma": "Vlpha ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schlief",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vicus-aestiomenum",
+    "lemma": "Vicus aestiomenum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eins fressen der Schade",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vlyssipona",
+    "lemma": "Vlyssipona",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vmbra",
+    "lemma": "Vmbra ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schatten das grobonrein abzusondern Weiblein /ein rotduncklechte Erde.",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vmbilicus",
+    "lemma": "Vmbilicus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vmbratiles",
+    "lemma": "Vmbratiles",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "sindt verwandelte Leib von dem Gestirn der himmlischen Leib durch die krafft Magiae",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vncia",
+    "lemma": "Vncia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zoll",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vncam",
+    "lemma": "Vncam ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Quecksilber",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vndae",
+    "lemma": "Vndae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Lufft ond Irrdische Geister",
+    "page": "495"
+  },
+  {
+    "id": "Ruland1612-Vngosa",
+    "lemma": "Vngosa",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vnterrauchstein",
+    "lemma": "Vnterrauchstein",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vnterschwellen",
+    "lemma": "Vnterschwellen",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vngula",
+    "lemma": "Vngula",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Nagel deß Augs.",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vnguentum",
+    "lemma": "Vnguentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist das Elixir",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vnitas-Trithemii",
+    "lemma": "Vnitas Trithemii",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Volans",
+    "lemma": "Volans",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Volatile",
+    "lemma": "Volatile ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein leicht fluͤtig ding das ve der den Helmsteiget",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vomitiuum",
+    "lemma": "Vomitiuum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "waß oben aus wircket",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vritur",
+    "lemma": "Vritur ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vrina",
+    "lemma": "Vrina",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vrina",
+    "lemma": "Vrina",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Essig oder Harn eines Menschen, der Wein trinckt",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vrina",
+    "lemma": "Vrina",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "496"
+  },
+  {
+    "id": "Ruland1612-Vamas",
+    "lemma": "Vamas",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vismat",
+    "lemma": "Vismat",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vua-quercina",
+    "lemma": "Vua quercina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vuae-Hermetis",
+    "lemma": "Vuae Hermetis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Philosophisch Wasser darinn geschehet die de¬stillatio",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vulcanii",
+    "lemma": "Vulcanii",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vulsella",
+    "lemma": "Vulsella ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Fetor klammer.",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vulturnus",
+    "lemma": "Vulturnus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Suden Ost.",
+    "page": "497"
+  },
+  {
+    "id": "Ruland1612-Vzifur",
+    "lemma": "Vzifur ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "497"
+  }
+]

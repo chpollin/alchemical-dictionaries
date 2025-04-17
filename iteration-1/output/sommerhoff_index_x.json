@@ -1,0 +1,279 @@
+[
+  {
+    "id": "sommerhoff_xanthion_xanthium_lappa_minor_lappa_in_versa_phasganon",
+    "lemma": "Xanthion & Xanthium, Lappa minor, Lappa in versa, Phasganon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bett- ler-Laͤuß.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_x_x",
+    "lemma": "X. X",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xabar",
+    "lemma": "Xabar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gersten. Steph.",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xanthion_xanthium_phasganon_lappa_in_versa_minor",
+    "lemma": "Xanthion & Xanthium, Phasganon, Lappa in versa & minor.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Betler-Lauß.",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xanthos",
+    "lemma": "Xanthos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xenechdon_paracelso",
+    "lemma": "Xenechdon, Paracelso",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xenechton_xenechtum_seu_zenexton",
+    "lemma": "Xenechton & Xenechtum seu Zenexton",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xenechtum",
+    "lemma": "Xenechtum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xenexton_idem_quodxenechdon_xenechton_xenechtum_zenechdon_seu_ze",
+    "lemma": "Xenexton, idem quodxenechdon, Xenechton, Xenechtum & Zenechdon seu Ze- nexton,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xenoprepes",
+    "lemma": "Xenoprepes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xeraphion",
+    "lemma": "Xeraphion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xerion",
+    "lemma": "Xerion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xerocollyrion_xerocollyrium",
+    "lemma": "Xerocollyrion & Xerocollyrium",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_xerouyron_seu_xeromyrum",
+    "lemma": "Xerouyron seu Xeromyrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xerotribia",
+    "lemma": "Xerotribia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xestes_mensurae_romanae_genus",
+    "lemma": "Xestes, Mensurae Romanae genus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xir",
+    "lemma": "Xir,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xirasceth",
+    "lemma": "Xirasceth,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xisinum_xisium",
+    "lemma": "Xisinum, Xisium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essig. Dorn. Mart. Rul. & Johnsonus.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xiston",
+    "lemma": "Xiston,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Abgeschabener Ertz Rost. Mart. Rul. & Johns.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xisum",
+    "lemma": "Xisum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylanium",
+    "lemma": "Xylanium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Frantzosen Holtz. Lignum Guajacum Indicum.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylalo_xyloalo_s",
+    "lemma": "Xylaloè & Xyloaloës,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xyloalo_s_proba",
+    "lemma": "Xyloaloës Proba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylo_balsamum",
+    "lemma": "Xylo Balsamum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylo_caracta",
+    "lemma": "Xylo Caracta",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Johannis Brodt.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylolassia",
+    "lemma": "Xylolassia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mutter Zimmet. Videatur.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylocerata_cornua_lignea_seu_siliquae_dulces",
+    "lemma": "Xylocerata, Cornua Lignea seu Siliquae dulces.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Johannis Brodt.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylocinnamum",
+    "lemma": "Xylocinnamum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylocolla_vel_colla",
+    "lemma": "Xylocolla, vel Colla",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylo_guajacum",
+    "lemma": "Xylo Guajacum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xyio_hebenum",
+    "lemma": "Xyio Hebenum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylon_lignum",
+    "lemma": "Xylon Lignum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Holtz. Quod Hippocr. etiam Scamnum dicitur.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xylum_alo_s",
+    "lemma": "Xylum Aloës.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Paradis-Holtz.",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xysis",
+    "lemma": "Xysis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xysme",
+    "lemma": "Xysme,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xyster",
+    "lemma": "Xyster,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "434"
+  },
+  {
+    "id": "sommerhoff_xenechton",
+    "lemma": "XEnechton /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "535"
+  }
+]

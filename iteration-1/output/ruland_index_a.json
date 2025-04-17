@@ -1,0 +1,4246 @@
+[
+  {
+    "id": "Ruland1612-A",
+    "lemma": "A",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abam",
+    "lemma": "Abam",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abartamen",
+    "lemma": "Abartamen",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bley",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Aiarazat",
+    "lemma": "Aiarazat",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Accib",
+    "lemma": "Accib",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abacus",
+    "lemma": "Abacus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Buchbanck",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abacus-maior",
+    "lemma": "Abacus maior ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bergtrog",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abesamum",
+    "lemma": "Abesamum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kath / Leim",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abesum",
+    "lemma": "Abesum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Vngeleschter Kalch",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abestus",
+    "lemma": "Abestus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Albesten ,",
+      "abesten ,",
+      "ac morago ,",
+      "asbestus ."
+    ],
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Abicum",
+    "lemma": "Abicum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Deckel.",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Ablatio",
+    "lemma": "Ablatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "14"
+  },
+  {
+    "id": "Ruland1612-Aboit-vel-abit",
+    "lemma": "Aboit vel abit",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bleyweiß",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Ablutio",
+    "lemma": "Ablutio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Abluiren",
+    "lemma": "Abluiren ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Waͤschen / reinigen.",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Abneleitem",
+    "lemma": "Abneleitem",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Abrie",
+    "lemma": "Abrie ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "kibrit ,",
+      "kibuz ,",
+      "sulphur ,"
+    ],
+    "translation": "Schwebel.",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Abessi",
+    "lemma": "Abessi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die letzt vbrige materi / von der verzehrten vnd verdawten Speiß.",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acato",
+    "lemma": "Acato ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "araxos ,"
+    ],
+    "translation": "Ruß",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acahi",
+    "lemma": "Acahi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acalai",
+    "lemma": "Acalai ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltz",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acartum",
+    "lemma": "Acartum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mingen oder Minien",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acaid",
+    "lemma": "Acaid",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Essig",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acamech",
+    "lemma": "Acamech ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "acemech"
+    ],
+    "translation": "Vberfluessigkeit deß Silbers.",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acacia-ferrea",
+    "lemma": "Acacia ferrea",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eisener Loͤffel.",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acazdir",
+    "lemma": "Acazdir ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Accatum",
+    "lemma": "Accatum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Moͤsch",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Achates",
+    "lemma": "Achates",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "15"
+  },
+  {
+    "id": "Ruland1612-Acies",
+    "lemma": "Acies",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Stal oder Stahl",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acetabulus",
+    "lemma": "Acetabulus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "So viel in eine Eyerschale gehet",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acetum",
+    "lemma": "Acetum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acetum-amineum",
+    "lemma": "Acetum amineum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acetum-philosophorum",
+    "lemma": "Acetum philosophorum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Philosophischer Essig / Jungfraw Milch / ein Mercurial Wasser / daß die Metallen auffloeset",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acetum-radicale",
+    "lemma": "Acetum radicale",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acetum-radicatum-nonnullis-est-liquor-ille-acerrimus-aceti,-qui-abstracto-phlegmate-in-fundo-restat.-Fit-ex-Crystallis-fae¬cum-aceti-destillando-per-retortam-cum-cohobiis:-vel-acetum-vini-bonum-impone-in-retortam,-destilla-lento-igne-phle¬gma,-refunde-hoc-capiti-mortuo-saepius,-&-digere-infimo,-tan¬dem-destilla:-&-primo,-quod-erit-seorsim-cape,-quod-poste¬-4-RVLANDI-PHILOS.-ET-MEDICI-rius-igni-fortissimo-prolicitum-prodit-est,-acetum-radicatum.",
+    "lemma": "Acetum radicatum nonnullis",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "16"
+  },
+  {
+    "id": "Ruland1612-Acordina",
+    "lemma": "Acordina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Indisch Tutzia",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Acortinus",
+    "lemma": "Acortinus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Feigbonn.",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Acsuo",
+    "lemma": "Acsuo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rothe Corallen.",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Acus",
+    "lemma": "Acus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Streichnadel",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Acureb",
+    "lemma": "Acureb ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glaß.",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Acusto",
+    "lemma": "Acusto ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Salpeter.",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Adamas",
+    "lemma": "Adamas",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Demuth/Demanth",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Adamas",
+    "lemma": "Adamas ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Demanth/Demuth",
+    "page": "17"
+  },
+  {
+    "id": "Ruland1612-Adamas-acuminatus",
+    "lemma": "Adamas acuminatus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Diamant Punct",
+    "page": "19"
+  },
+  {
+    "id": "Ruland1612-A-,-Ein-Diamanttaffel-.",
+    "lemma": "A",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Ein Diamanttaffel",
+    "page": "19"
+  },
+  {
+    "id": "Ruland1612-Adamatum",
+    "lemma": "Adamatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Helmesse",
+    "page": "19"
+  },
+  {
+    "id": "Ruland1612-Adamita",
+    "lemma": "Adamita ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Geschlecht deß Weinsteine oder Nierensteins.",
+    "page": "19"
+  },
+  {
+    "id": "Ruland1612-Adarnech",
+    "lemma": "Adarnech",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "19"
+  },
+  {
+    "id": "Ruland1612-Adarces",
+    "lemma": "Adarces ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "artis ."
+    ],
+    "page": "19"
+  },
+  {
+    "id": "Ruland1612-Adarris",
+    "lemma": "Adarris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eine Blum deß Meerwassers.",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Addere",
+    "lemma": "Addere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "temperare"
+    ],
+    "translation": "Zuschlaͤhen.",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Additamenta",
+    "lemma": "Additamenta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zusetze",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adec",
+    "lemma": "Adec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sawer Milch",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Ader",
+    "lemma": "Ader ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adech",
+    "lemma": "Adech",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Derinnerliche Mensch/so alle Ding im Gemuͤth ovnsichtbarformiert die folgends der sichtbar Mensch mit Handen sichtbar / vund begreifflich darstellet.",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adehemest",
+    "lemma": "Adehemest ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "aiohenec ,",
+      "alhohonec ,"
+    ],
+    "translation": "Ein Blech.",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adeps",
+    "lemma": "Adeps ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adhehe",
+    "lemma": "Adhehe ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sawr Milch",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adho",
+    "lemma": "Adho",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "vel Adoc"
+    ],
+    "translation": "Milch",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adidachos",
+    "lemma": "Adidachos ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "adide alarcos .",
+      "adida larchos ,"
+    ],
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adirige",
+    "lemma": "Adirige ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adibat",
+    "lemma": "Adibat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Ados",
+    "lemma": "Ados ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adolescens",
+    "lemma": "Adolescens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Grender",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adorat",
+    "lemma": "Adorat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Admisurab",
+    "lemma": "Admisurab ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Erde",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adram",
+    "lemma": "Adram",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adrariges",
+    "lemma": "Adrariges ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist gruͤn Atramentl.",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adraragi",
+    "lemma": "Adraragi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gartensaffran",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adropistazar",
+    "lemma": "Adropistazar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Adsamar",
+    "lemma": "Adsamar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gewaschen /oder bruntz.",
+    "page": "20"
+  },
+  {
+    "id": "Ruland1612-Aduersa-venae-pars-,-Gegengrund-.",
+    "lemma": "Aduersa venae pars ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Gegengrund",
+    "page": "21"
+  },
+  {
+    "id": "Ruland1612-Aer",
+    "lemma": "Aer ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wetter",
+    "page": "21"
+  },
+  {
+    "id": "Ruland1612-Aes",
+    "lemma": "Aes ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "aes vstum,"
+    ],
+    "translation": "Kupffer",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aes-caldarium",
+    "lemma": "Aes caldarium",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "lebeter Kupffer",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aes-abstractum",
+    "lemma": "Aes abstractum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Abzug",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aes-residuum",
+    "lemma": "Aes residuum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gespliessen Kupffer",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aes-liquefactum",
+    "lemma": "Aes liquefactum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zien giessen",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aes-Hermetis",
+    "lemma": "Aes Hermetis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aes-vstum",
+    "lemma": "Aes vstum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "22"
+  },
+  {
+    "id": "Ruland1612-Aespurum",
+    "lemma": "Aespurum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "23"
+  },
+  {
+    "id": "Ruland1612-Aeris",
+    "lemma": "Aeris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "24"
+  },
+  {
+    "id": "Ruland1612-Aeris-scobs",
+    "lemma": "Aeris scobs",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kupffer feilich",
+    "page": "24"
+  },
+  {
+    "id": "Ruland1612-Aeris-flos-per-Metaphoram-,-sic-dicitur-a-Graecis,-proprie:-at-non-calcuantum,-id-est,-vitriolum,-seu-atramentum-nitorium,-vt-indoctiolim-crediderunt;-qui-illusi-vicinitate-vo¬cabulorum,-&-χαλκύείθο,-&-calefiantum-pro-vno-habuerunt,-maximo-errore.-Flos-autem-aeris-ρωνικοῦ-κιθος-diuersus-est-vete¬ribus-&-recentioribus.-Nam-veteres-florem-aeris-dicebant,-vt-patet,-globulos-illos-exsilientes-purpureos-ex-infusione-a¬quae,-&-respersione-aeris-ex-aqua.-Die-Koͤrner-/-so-da-herauß-pringen-auß-den-abgeloͤschten-Ertz-oder-das-schoͤnrothesklei¬ne-das-am-Kupffer-huͤrget.-De-illo-flore-aeris-loquitur-&-Dio¬scorides-l.-5.-c.-43.-vbi-&-eius-vires-&-medicas-virtutes-docet.-Recentiores-vero-florem-aeris,-vel-χαλκοῦἄνθος-vocant-aeruginem-aeris,-Kupffergruͤn-oder-Spangruͤn.-Cum-ergo-apud-veteres-leges-florem-aeris,-cum-apud-recentiores,-intellige-aeruginem-aeris.-Notandum-&-hoc,-quod-olim-miscebant,-&-squamam,-&-florem-aeris:-&-aliquid-inde-flebat,-quod-lepida-vocabant,-vt-patet-ex-Plinio.-Hodie-in-pharmacopoliis-non-habetur-flos-aeris:-Plin.-l.-34.-c.-11.-desumens-florem-aeris,-sic-inquit:-Aeris-flos-Medicinae-vtilis-est,-fit-enim-aere-fuso,-&-in-alias-fornaces-translato,-ibi-flatu-crebriore-excutiuntur,-veluti-milii-squamae,-quas-vocant-florem.-Cadunt-autem,-cum-panes-aeris-(-die-Kupf¬ferkuchen-)-aqua-refrigerantur,-rubentque.-Similiter-ex-iis-fit,-quam-vocant-lepida:-Et-sic-adulteratur-flos,-vt-squama-veniat-pro-eo:-flos-autem-sponte-cadit,-squama-excutitur-ictibus,-iis¬dem-panibus.-Haec-Plinius.-Ceterum-vt-simul-cum-flore-ae¬ris-fiat-fex-aeris,-&-relinquatur-in-imo-fornacum,-in-secundo-libro-agemus-in-capite-Diphrygis.-Florem-aeris-veteris-labo¬rati-Nicander-praedicat-in-Alexipharmaca-aduersus-haustos-fungos.",
+    "lemma": "Aeris flos per Metaphoram",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Die Koͤrner / so da herauß pringen auß den abgeloͤschten Ertz oder das schoͤnrothesklei¬ne das am Kupffer huͤrget.",
+    "page": "25"
+  },
+  {
+    "id": "Ruland1612-Aerugo-aeris",
+    "lemma": "Aerugo aeris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spahngruͤn Kupffer¬grün",
+    "page": "27"
+  },
+  {
+    "id": "Ruland1612-Arabes",
+    "lemma": "Arabes",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kupffergrün.",
+    "page": "28"
+  },
+  {
+    "id": "Ruland1612-Aliter",
+    "lemma": "Aliter",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Grünspan",
+    "page": "28"
+  },
+  {
+    "id": "Ruland1612-Aeruginatio",
+    "lemma": "Aeruginatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist die verguldung deß Ertzes in Famnitie rothe E de die man w. der imbibirt vund kochet das ist in der arder",
+    "page": "28"
+  },
+  {
+    "id": "Ruland1612-Aerarii",
+    "lemma": "Aerarii",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "roth gediegen Kupffer ist",
+    "page": "28"
+  },
+  {
+    "id": "Ruland1612-Aethna",
+    "lemma": "Aethna",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein vnsichtbahres schwebelisches Fewer in Bergen / das die Steine zu Kohlen machet / die man Steinkohlen nennet. Item alle brennende Erz in Bergen.",
+    "page": "33"
+  },
+  {
+    "id": "Ruland1612-Aethnici",
+    "lemma": "Aethnici",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "34"
+  },
+  {
+    "id": "Ruland1612-Aetites",
+    "lemma": "Aetites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Adler Stein",
+    "page": "34"
+  },
+  {
+    "id": "Ruland1612-Aetites",
+    "lemma": "Aetites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Adlerstein",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affronitrum",
+    "lemma": "Affronitrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glaßgall",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Africus",
+    "lemma": "Africus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mittel Suden West.",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affenicum",
+    "lemma": "Affenicum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affeos",
+    "lemma": "Affeos",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affrodina",
+    "lemma": "Affrodina",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Afformas",
+    "lemma": "Afformas",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affrotron",
+    "lemma": "Affrotron",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Affarx ,",
+      "atramentum ,",
+      "Affaris idem."
+    ],
+    "translation": "schaumig",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Afragar",
+    "lemma": "Afragar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Spangrün.",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affrengi",
+    "lemma": "Affrengi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Affidra",
+    "lemma": "Affidra",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bleyweiß",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Afrob",
+    "lemma": "Afrob",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Agar",
+    "lemma": "Agar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Algit,",
+      "Algerit idem. Agaba ist praeparitt"
+    ],
+    "translation": "Saltz",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Ahenum",
+    "lemma": "Ahenum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Ahius",
+    "lemma": "Ahius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltzstein",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Ahusal",
+    "lemma": "Ahusal",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "auch der Adler",
+    "page": "36"
+  },
+  {
+    "id": "Ruland1612-Aiarazath",
+    "lemma": "Aiarazath",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Bley",
+    "page": "37"
+  },
+  {
+    "id": "Ruland1612-Akibot",
+    "lemma": "Akibot",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "37"
+  },
+  {
+    "id": "Ruland1612-Akon",
+    "lemma": "Akon",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein wetzstein oder schlyff",
+    "page": "37"
+  },
+  {
+    "id": "Ruland1612-Alabastrites",
+    "lemma": "Alabastrites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Alabaster stein",
+    "page": "37"
+  },
+  {
+    "id": "Ruland1612-Alahabar",
+    "lemma": "Alahabar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "alabari ,",
+      "alchonor ,",
+      "allarinoch ,",
+      "albohonoch ,",
+      "alrachas ,",
+      "alastrob ,",
+      "alomba ,",
+      "alooc ,",
+      "allabor,",
+      "alcamor,"
+    ],
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alafor",
+    "lemma": "Alafor",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "alafort idem."
+    ],
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alahic",
+    "lemma": "Alahic",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", Etliche sagenses sey ein Ofen der Alchymistensetliche sa¬gen es sey Kohl.",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alatan",
+    "lemma": "Alatan",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bleyglett / Haffnerglett",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alasalet",
+    "lemma": "Alasalet ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alaboni",
+    "lemma": "Alaboni",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist Bley",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alartar",
+    "lemma": "Alartar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gebrandt Ertz.",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alachaschec",
+    "lemma": "Alachaschec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alahatib",
+    "lemma": "Alahatib ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alafreg",
+    "lemma": "Alafreg",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alaurat",
+    "lemma": "Alaurat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albatio",
+    "lemma": "Albatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Weisse, die toͤdtung zu Aschen verbrandt.",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albanum",
+    "lemma": "Albanum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albani",
+    "lemma": "Albani",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albaras",
+    "lemma": "Albaras ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Alberick",
+    "lemma": "Alberick ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "weiß Ertz.",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albetad",
+    "lemma": "Albetad ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albeston",
+    "lemma": "Albeston",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", ist lebendiger Kalck.",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albi",
+    "lemma": "Albi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albir",
+    "lemma": "Albir",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bech von Hben rindern",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albor",
+    "lemma": "Albor",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albot",
+    "lemma": "Albot ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Goldschmidts Tiegel.",
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Albotat",
+    "lemma": "Albotat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "alfidas"
+    ],
+    "page": "38"
+  },
+  {
+    "id": "Ruland1612-Album",
+    "lemma": "Album",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Weiß Kupffer",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Albuhar",
+    "lemma": "Albuhar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bleyweiß",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Albula",
+    "lemma": "Albula",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Perlein",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcali",
+    "lemma": "Alcali",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltz auß aller gebrandter Mater Aschen oder Kalck gezogen, wel¬ches eigentlich in einem jeden Ding / es sey fluͤssig / oder gantz hafft, ist vorhanden. Mag genennt werden / Aschensaltzi Kalcksaltz.",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcadp",
+    "lemma": "Alcadp ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcaol",
+    "lemma": "Alcaol ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcahest-Mercurius-dicitur-praeparatus-:-nonnulli-volunt-esse-tar¬tarum:-mens-tamen-auctoris-facile-deprehenditur-a-praepara¬tionis-eius-descriptione.",
+    "lemma": "Alcahest Mercurius dicitur praeparatus",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcanna",
+    "lemma": "Alcanna",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcebris-viuum",
+    "lemma": "Alcebris viuum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "alneric,",
+      "anerit,",
+      "aneric."
+    ],
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alchahest",
+    "lemma": "Alchahest",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zugericht Quecksilber der Leberdienstlichen",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alchimia",
+    "lemma": "Alchimia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alchitram",
+    "lemma": "Alchitram",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "vel Alchieram"
+    ],
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alchitran",
+    "lemma": "Alchitran",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcimad",
+    "lemma": "Alcimad ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spießglaß.",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcohol",
+    "lemma": "Alcohol",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcohol-vini",
+    "lemma": "Alcohol vini",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das subtiliste Puluer so man machen kan. Setzt man aber darzu Alcoholvimi, ist es ein rectificirter distil¬liter Wein der sauber außbrennt, wen er angezuͤndt wirdt.",
+    "page": "39"
+  },
+  {
+    "id": "Ruland1612-Alcool",
+    "lemma": "Alcool",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "40"
+  },
+  {
+    "id": "Ruland1612-Alcolismus",
+    "lemma": "Alcolismus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcol",
+    "lemma": "Alcol",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Essig",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcocl",
+    "lemma": "Alcocl",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcone",
+    "lemma": "Alcone ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mosch.",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcor",
+    "lemma": "Alcor",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcore",
+    "lemma": "Alcore",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spatt",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcohol",
+    "lemma": "Alcohol",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcubd",
+    "lemma": "Alcubd",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alcubrith",
+    "lemma": "Alcubrith",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Alcur, aut Aluzar est, idem quod sulphur,"
+    ],
+    "translation": "Schwebel",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alec",
+    "lemma": "Alec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alecharith",
+    "lemma": "Alecharith",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alechil",
+    "lemma": "Alechil",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Dreyfuß",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alectoria",
+    "lemma": "Alectoria",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alefantes",
+    "lemma": "Alefantes ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltzblum.",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alembaci",
+    "lemma": "Alembaci",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist gebrandt Bley",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alembic",
+    "lemma": "Alembic ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alembicus-seu-capitellum-,-(-Ein-Helm-)-quod-vasis-inferioribus-ad-vapores-recipiendos-imponitur.",
+    "lemma": "Alembicus seu capitellum",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Ein Helm",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alembicus-alius-rostratus-est;-alius-coecus.-Rostratus-est,-qui-humores-resolutos-per-canalem-aut-rostrum-ad-vas-recipiens-dimittit:-Alius-coecus,-hoc-est,-sine-rostro-sublimationibus-inseruiens.-Hic-in-sublimationibus-nonnunquam-in-vertice-perforatus-aliquantulum-est,-humores-ascendentes-emittens.",
+    "lemma": "Alembicus alius rostratus",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "41"
+  },
+  {
+    "id": "Ruland1612-Alembroth",
+    "lemma": "Alembroth",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Philosophisch Saltz Weißheit Saltz der Schluͤssel zu der Kunst.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alembroth-desiccatum",
+    "lemma": "Alembroth desiccatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Verdrockneter Weinstein-Saltz / aller Mei¬ster Meisterstuck.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Ales",
+    "lemma": "Ales",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "zusammen gesetzt Saltz.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alexanthi",
+    "lemma": "Alexanthi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Altingat"
+    ],
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alexir",
+    "lemma": "Alexir",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alezaram",
+    "lemma": "Alezaram",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bley waͤschen.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfacta",
+    "lemma": "Alfacta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfamadi",
+    "lemma": "Alfamadi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfadidam",
+    "lemma": "Alfadidam",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "oder Gold",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfatida",
+    "lemma": "Alfatida",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kupfferblech",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfatide",
+    "lemma": "Alfatide",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfasit,-aluasit",
+    "lemma": "Alfasit, aluasit ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alfusa",
+    "lemma": "Alfusa",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alga",
+    "lemma": "Alga",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schilff",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Algali",
+    "lemma": "Algali",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Salniter",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Algemet",
+    "lemma": "Algemet ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Algeriae,-Algerie",
+    "lemma": "Algeriae, Algerie ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kalck.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Aligulus",
+    "lemma": "Aligulus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alima",
+    "lemma": "Alima",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist etwas sandes so in den Gold Metallen gefunden wirde darauß das Bley wirdt.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alinzadir",
+    "lemma": "Alinzadir",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", ist kalt/ond trucken terra, heist Arabisch Borreza, Tin¬ckar, Arles nennet es Salmiat.",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Aliocab",
+    "lemma": "Aliocab ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alkaes",
+    "lemma": "Alkaes ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "42"
+  },
+  {
+    "id": "Ruland1612-Alkasial",
+    "lemma": "Alkasial",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkalia",
+    "lemma": "Alkalia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkale",
+    "lemma": "Alkale",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkalid,-Alkes,-Alcob",
+    "lemma": "Alkalid, Alkes, Alcob ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkali",
+    "lemma": "Alkali ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkali-itaq",
+    "lemma": "Alkali itaq",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkamia",
+    "lemma": "Alkamia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkantum",
+    "lemma": "Alkantum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkant",
+    "lemma": "Alkant",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "oder ein gattung Atrament",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alcara",
+    "lemma": "Alcara ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkaranum",
+    "lemma": "Alkaranum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkasa",
+    "lemma": "Alkasa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkibric",
+    "lemma": "Alkibric ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Alkibert ,",
+      "algibic ,",
+      "Alkibic ,",
+      "Alchabric"
+    ],
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkin",
+    "lemma": "Alkin ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkir",
+    "lemma": "Alkir ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkitram",
+    "lemma": "Alkitram ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkoel",
+    "lemma": "Alkoel ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Etliche sagen es sey lapis lazuli, Lasurstein/ctliche aber es sey Antimonium.",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkol",
+    "lemma": "Alkol ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "43"
+  },
+  {
+    "id": "Ruland1612-Alkosor",
+    "lemma": "Alkosor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alky-plunrbi",
+    "lemma": "Alky plunrbi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alkymia-puluis",
+    "lemma": "Alkymia puluis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Allabrot",
+    "lemma": "Allabrot",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alma",
+    "lemma": "Alma ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almabri",
+    "lemma": "Almabri",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", ist ein Stein der Ambrae gleich.",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almager",
+    "lemma": "Almager",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist synopide wie rothe Koͤrner.",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almagra",
+    "lemma": "Almagra",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "oth Erdreichs",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almakist,",
+    "lemma": "Almakist,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Almakanda ,"
+    ],
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almarchat",
+    "lemma": "Almarchat",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eschen oder Silberglett",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almarcab,-Almarchaz",
+    "lemma": "Almarcab, Almarchaz ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glette.",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almarcat",
+    "lemma": "Almarcat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almarcazida",
+    "lemma": "Almarcazida",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Silbergleit",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almargen",
+    "lemma": "Almargen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Armalgol ,",
+      "Almarago ,"
+    ],
+    "translation": "Corallen.",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almartack",
+    "lemma": "Almartack ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almatkasita",
+    "lemma": "Almatkasita",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein Mineralischer Stein",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almatatica",
+    "lemma": "Almatatica ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almechaside",
+    "lemma": "Almechaside",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almene",
+    "lemma": "Almene ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Salgemmae.",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almetat",
+    "lemma": "Almetat",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sindel oder Sehlacken deß Goldeß",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almisadir",
+    "lemma": "Almisadir ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Almizadir",
+    "lemma": "Almizadir",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alnec,-Allenec",
+    "lemma": "Alnec, Allenec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Alkalap ,"
+    ],
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Aloe",
+    "lemma": "Aloe ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alohar",
+    "lemma": "Alohar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Alohoc,",
+      "Alosohoc,",
+      "Alosoridem."
+    ],
+    "translation": "ist Quecksilber",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alofel",
+    "lemma": "Alofel ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alos,-Alo,-Alix",
+    "lemma": "Alos, Alo, Alix ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "almele ,",
+      "almele",
+      "alec ,",
+      "Alkalat ,",
+      "Alkalac ."
+    ],
+    "page": "44"
+  },
+  {
+    "id": "Ruland1612-Alosanthi",
+    "lemma": "Alosanthi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltzblust daß die Ferber brauchen",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alramudi",
+    "lemma": "Alramudi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alsech",
+    "lemma": "Alsech ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alselat",
+    "lemma": "Alselat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altambus",
+    "lemma": "Altambus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altanus",
+    "lemma": "Altanus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Suden Sudenwest",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altaris,-Antarit",
+    "lemma": "Altaris, Antarit ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Althanacha",
+    "lemma": "Althanacha ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altinuraum",
+    "lemma": "Altinuraum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altingat",
+    "lemma": "Altingat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spahngruͤn.",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altimar",
+    "lemma": "Altimar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Aycapher"
+    ],
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Altimio",
+    "lemma": "Altimio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Aludel",
+    "lemma": "Aludel",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Alu¬tel idem."
+    ],
+    "translation": "Ein sublimir Geschirr",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Aludit,-Antaric,-Azomses,-Azon",
+    "lemma": "Aludit, Antaric, Azomses, Azon ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alufir",
+    "lemma": "Alufir",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Roͤthe",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Aluech",
+    "lemma": "Aluech",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "der reine Coͤrper.",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Aluach",
+    "lemma": "Aluach",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alueus-nauiculae-similis-,-Seichst-.",
+    "lemma": "Alueus nauiculae similis",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Seichst",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alueus-minor",
+    "lemma": "Alueus minor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ertztrog",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Aluis,-Alasor",
+    "lemma": "Aluis, Alasor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alumboti",
+    "lemma": "Alumboti ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alumen",
+    "lemma": "Alumen",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Alaun",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Albertus",
+    "lemma": "Albertus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Alaunfolg",
+    "page": "45"
+  },
+  {
+    "id": "Ruland1612-Alumen",
+    "lemma": "Alumen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-alap",
+    "lemma": "Alumen alap ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-alafran",
+    "lemma": "Alumen alafran",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-alafuri-vel-alafor",
+    "lemma": "Alumen alafuri vel alafor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-Alkori",
+    "lemma": "Alumen Alkori",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-Albedane",
+    "lemma": "Alumen Albedane ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-album",
+    "lemma": "Alumen album ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-rosa",
+    "lemma": "Alumen rosa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-Alexandrinum",
+    "lemma": "Alumen Alexandrinum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-bulganum",
+    "lemma": "Alumen bulganum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Augstein",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-Calcilien",
+    "lemma": "Alumen Calcilien",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-crepum",
+    "lemma": "Alumen crepum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-de-alep-,-vel-sal-Graecus,-vel-de-Macedonia,-Griechisch-ond-Macedonisch-Saltz-.",
+    "lemma": "Alumen de alep",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Griechisch ond Macedonisch Saltz",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-de-Babylonia",
+    "lemma": "Alumen de Babylonia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-de-Crystallo",
+    "lemma": "Alumen de Crystallo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-de-pluma-,-id-est,-lameni,-vel-alumen-scariola.",
+    "lemma": "Alumen de pluma",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-fascioli",
+    "lemma": "Alumen fascioli ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-glaciosero",
+    "lemma": "Alumen glaciosero",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-lonid",
+    "lemma": "Alumen lonid ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-lamenum",
+    "lemma": "Alumen lamenum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gespalten.",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-liquidum",
+    "lemma": "Alumen liquidum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-lose",
+    "lemma": "Alumen lose ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Federweiß.",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-marinum",
+    "lemma": "Alumen marinum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-odig",
+    "lemma": "Alumen odig",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-philosophorum",
+    "lemma": "Alumen philosophorum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eyerschalen",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-rotundum",
+    "lemma": "Alumen rotundum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "48"
+  },
+  {
+    "id": "Ruland1612-Alumen-scariole",
+    "lemma": "Alumen scariole ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-scarolum",
+    "lemma": "Alumen scarolum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-scissum",
+    "lemma": "Alumen scissum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Vnser Frawen Eyß",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-syrach",
+    "lemma": "Alumen syrach",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-sysarach",
+    "lemma": "Alumen sysarach",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-alkokar",
+    "lemma": "Alumen alkokar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-alfurint",
+    "lemma": "Alumen alfurint",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alumen-laniosum",
+    "lemma": "Alumen laniosum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alunibur",
+    "lemma": "Alunibur",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alunsel",
+    "lemma": "Alunsel ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alusar",
+    "lemma": "Alusar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alusen",
+    "lemma": "Alusen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alzegi",
+    "lemma": "Alzegi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alzemafor",
+    "lemma": "Alzemafor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zinober.",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alzimar",
+    "lemma": "Alzimar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist das Gruͤn",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alzilat",
+    "lemma": "Alzilat",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Alzofar",
+    "lemma": "Alzofar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Amalgama",
+    "lemma": "Amalgama",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "deß Goldesrond Silbers verleibung mit dem Quecksilber",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Amalgamatio",
+    "lemma": "Amalgamatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "49"
+  },
+  {
+    "id": "Ruland1612-Amandinus-lapis",
+    "lemma": "Amandinus lapis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "50"
+  },
+  {
+    "id": "Ruland1612-Amassa",
+    "lemma": "Amassa",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "50"
+  },
+  {
+    "id": "Ruland1612-Ambra",
+    "lemma": "Ambra",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "50"
+  },
+  {
+    "id": "Ruland1612-Amene",
+    "lemma": "Amene",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "50"
+  },
+  {
+    "id": "Ruland1612-Amentum",
+    "lemma": "Amentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "50"
+  },
+  {
+    "id": "Ruland1612-Amethystus",
+    "lemma": "Amethystus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Amethyst",
+    "page": "50"
+  },
+  {
+    "id": "Ruland1612-Amianthus-lapis",
+    "lemma": "Amianthus lapis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "51"
+  },
+  {
+    "id": "Ruland1612-Amidum,-siue-Amylum",
+    "lemma": "Amidum, siue Amylum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kraffimehl vund Amlung Ameldorck",
+    "page": "52"
+  },
+  {
+    "id": "Ruland1612-Ammonis",
+    "lemma": "Ammonis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Ziherhorn",
+    "page": "52"
+  },
+  {
+    "id": "Ruland1612-Alterum",
+    "lemma": "Alterum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein anders mit Messingfarb ober¬zogen",
+    "page": "52"
+  },
+  {
+    "id": "Ruland1612-Amnis-alcalisatus",
+    "lemma": "Amnis alcalisatus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "finde Wasser durch die Erdkalck geseiget",
+    "page": "53"
+  },
+  {
+    "id": "Ruland1612-Amongabriel",
+    "lemma": "Amongabriel",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "53"
+  },
+  {
+    "id": "Ruland1612-Ampulla-vitrea",
+    "lemma": "Ampulla vitrea",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kolbe",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Ampulla-vitrea-altera-,-Vorleg-Glaß-.",
+    "lemma": "Ampulla vitrea altera",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Vorleg Glaß",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Amygdalae-apud-Chirurgos-,-caro-dicitur-superflue,-quarnasitur-ad-lingue-radicem,-Die-Mandeln-im-Munde.",
+    "lemma": "Amygdalae apud Chirurgos",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Die Mandeln im Munde.",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-An",
+    "lemma": "An",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Anfir",
+      "Anfirarto"
+    ],
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anaton",
+    "lemma": "Anaton",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anatris-vel-antaris",
+    "lemma": "Anatris vel antaris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anatron",
+    "lemma": "Anatron",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glaß zallen",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anatomia",
+    "lemma": "Anatomia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anatrum",
+    "lemma": "Anatrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Smalten / Sara¬cenisch Erdrich so die Glaßmahler brauchen / schwartz/roth¬ond blaw",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Ancora",
+    "lemma": "Ancora ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Ancosa",
+    "lemma": "Ancosa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Andarac",
+    "lemma": "Andarac ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Andena",
+    "lemma": "Andena",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anfaka",
+    "lemma": "Anfaka",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Anhelitus",
+    "lemma": "Anhelitus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Roßmist.",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Aniadus",
+    "lemma": "Aniadus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wickung der Ding",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Aniadum",
+    "lemma": "Aniadum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "54"
+  },
+  {
+    "id": "Ruland1612-Aniada",
+    "lemma": "Aniada",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "55"
+  },
+  {
+    "id": "Ruland1612-Anima",
+    "lemma": "Anima",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "55"
+  },
+  {
+    "id": "Ruland1612-Anima-Saturni-siue-althea-Saturni",
+    "lemma": "Anima Saturni siue althea Saturni",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein edle suͤssesso auß dem Biey mit Essig gezogen wirdt.",
+    "page": "56"
+  },
+  {
+    "id": "Ruland1612-Annora",
+    "lemma": "Annora ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "56"
+  },
+  {
+    "id": "Ruland1612-Annus-philosophicus",
+    "lemma": "Annus philosophicus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Philosophischen Jahrlist ein gewoͤhnlicher Monat.",
+    "page": "56"
+  },
+  {
+    "id": "Ruland1612-Anodus-nutrimentum",
+    "lemma": "Anodus nutrimentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eine ver dawte Nahrung die in den Nieren scheidet",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anontagius",
+    "lemma": "Anontagius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Philosophisch Gottes Gabstein / natuͤrlich fix Schwebel.",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anora",
+    "lemma": "Anora",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "lebendiger Kalck",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anotasier",
+    "lemma": "Anotasier ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Aliocab ,",
+      "Alemzadat"
+    ],
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Antal",
+    "lemma": "Antal",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Reinwischung",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anterit",
+    "lemma": "Anterit",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anthera",
+    "lemma": "Anthera",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Istersi¬lich ein außgezogene Arzney: Demnach das gelb der butzlein in den Blumen salß Lilgen Roͤsensond dergleichen.",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anthonor,-Athonor",
+    "lemma": "Anthonor, Athonor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Offen.",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anthous",
+    "lemma": "Anthous",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Redet man von Kraͤutern / so ist es Roßmarin: Sonst wirdt es genomen fuͤr das Elixir auß dem Gold. Item fuͤr eine außgezogene Artzney.",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Anticar",
+    "lemma": "Anticar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Antifides",
+    "lemma": "Antifides",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", ist der Kaͤlck deß Metalles.",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-Antimonium",
+    "lemma": "Antimonium",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spießglaß",
+    "page": "57"
+  },
+  {
+    "id": "Ruland1612-AnucarAncinar",
+    "lemma": "Anucar Ancinar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Anyadei",
+    "lemma": "Anyadei",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das geistlich Lebensewiger Glantz new Welt",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Apensalus",
+    "lemma": "Apensalus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", Ein Geschirr/darein Oel gethan wirdt / hat einen engen Mund.",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Aphebriock",
+    "lemma": "Aphebriock",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwebel",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Aphrodisia",
+    "lemma": "Aphrodisia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Aphronitrum",
+    "lemma": "Aphronitrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Salpeter der an Mawren vund Felsen waͤchst:",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Aquila",
+    "lemma": "Aquila",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "58"
+  },
+  {
+    "id": "Ruland1612-Aquila",
+    "lemma": "Aquila",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Adler ist der Vogel Leim / Zaͤhschleim / der in der ersten",
+    "page": "59"
+  },
+  {
+    "id": "Ruland1612-Aquila-philosophorum",
+    "lemma": "Aquila philosophorum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Der Philosophi¬sche Adler ist der Mercurius, auß den Metallen / ond lieblichen Wesen wenn die Ertz zu ihrer ersten Materi gebracht werden.",
+    "page": "59"
+  },
+  {
+    "id": "Ruland1612-Aquila",
+    "lemma": "Aquila ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "59"
+  },
+  {
+    "id": "Ruland1612-Aquila",
+    "lemma": "Aquila",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "59"
+  },
+  {
+    "id": "Ruland1612-Aquillo",
+    "lemma": "Aquillo",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mittelner Tost",
+    "page": "59"
+  },
+  {
+    "id": "Ruland1612-Aqua",
+    "lemma": "Aqua",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "das Wasser ist auch immer darvonnen / da¬ran ist aber kein Wolcken Wasser / sondern ein trucken mine¬ralischsprimaterialisch /Catholisch Wasser welches alle Me¬tallen auffloͤset/ond zu Wasser machet gleich wie das Eyß wi¬der zu Wasser wirde Ist vast gleich einem schwartzlichtem Oli sagt X. W.",
+    "page": "59"
+  },
+  {
+    "id": "Ruland1612-Aqua-alma",
+    "lemma": "Aqua alma",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Wasser daß von Wein gemacht wirdt durch sub¬limation",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-alregi",
+    "lemma": "Aqua alregi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-coelestis",
+    "lemma": "Aqua coelestis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Himmels Wasser / ist sublimirter Wein.",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-coelestina",
+    "lemma": "Aqua coelestina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-cerebri",
+    "lemma": "Aqua cerebri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-corrodens",
+    "lemma": "Aqua corrodens",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Was auffloͤset heist man Loͤsewasser / oder Beitzwasser alß Essigl ond anders",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-Elsabon",
+    "lemma": "Aqua Elsabon ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-faecum",
+    "lemma": "Aqua faecum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Weinhefenwasser",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-foetida",
+    "lemma": "Aqua foetida ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "der Straussen Magen.",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-fortis",
+    "lemma": "Aqua fortis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "61"
+  },
+  {
+    "id": "Ruland1612-Aqua-holsobon",
+    "lemma": "Aqua holsobon ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-lilii",
+    "lemma": "Aqua lilii ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-lubricata",
+    "lemma": "Aqua lubricata ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-marina",
+    "lemma": "Aqua marina",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltzwasser",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-Mercurii",
+    "lemma": "Aqua Mercurii",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "zerlassen mit seinem eignen Waͤsser¬daß in dem Stein fir ist / ond laͤufft weiß wie Wasser.",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-nitri",
+    "lemma": "Aqua nitri",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-permanens",
+    "lemma": "Aqua permanens",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das bleiblich Wasser¬oder der Philosophen Mercurius ist / so beyde Metalls Sonn und Mond mit Wasser zusammen hafft zerlassen wor¬den. Vel. Aqua permanens, ist das onverbreuͤlich Olis daß al¬len herbeste Essig-Ein scharff durchdringende Wassers daß die Coͤrper auffloͤset / ond die geistlich Macht. Wirdt Mercurius genennet dieweil es hitzig ond klar Mercurialische Krafft vnd Eigenschafft hat. Es wirdt genennet Mas oder Mann / fumus albus, weisser Rauch / dieweil es auffsteiget / auch Trachen¬schwanz, der fliegende Vogel",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-philosophica",
+    "lemma": "Aqua philosophica",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-palaestina",
+    "lemma": "Aqua palaestina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gruͤnspan¬",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-pluuialis",
+    "lemma": "Aqua pluuialis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "62"
+  },
+  {
+    "id": "Ruland1612-Aqua-rubicunda",
+    "lemma": "Aqua rubicunda ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "63"
+  },
+  {
+    "id": "Ruland1612-Aqua-Salmatina",
+    "lemma": "Aqua Salmatina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "63"
+  },
+  {
+    "id": "Ruland1612-Aqua-Saturnia",
+    "lemma": "Aqua Saturnia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sawrbrunnen",
+    "page": "63"
+  },
+  {
+    "id": "Ruland1612-Aqua-stillatitia",
+    "lemma": "Aqua stillatitia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist di¬stillirter Essig /oder auch aqua fort. Wirdt auch geneuet aqua maris, dieweil in der Distellation dessen mehr ist / alß der Er¬den/ond dieweils bitter ist. Wirdt auch genennet aqua nubis, omb der vielen Troͤpffern willen / pu omb der Helle oder Klar¬heit willen der Tropffen die vom Himmel fallen.",
+    "page": "63"
+  },
+  {
+    "id": "Ruland1612-Aqua-valens",
+    "lemma": "Aqua valens",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Scheidwasser",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Aqua-vitri",
+    "lemma": "Aqua vitri",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Glaß mit Wasser",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Aqua-vitae",
+    "lemma": "Aqua vitae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das Lebenwasser verstehet man zu zeiten fuͤr distillirten Wein bißweilen fuͤrgemenge Wasser / auß man¬cherley specien mit distillirtem Wein",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Aquarius",
+    "lemma": "Aquarius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eysen",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Aquastor-visio",
+    "lemma": "Aquastor visio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein geschichte / daß ein Wesen darstellt wel¬ches doch kein Wesen ist",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Aracon",
+    "lemma": "Aracon",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist der Laton",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Arbor-maris",
+    "lemma": "Arbor maris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Korallen Kralen",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Arbores",
+    "lemma": "Arbores",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Geschlecht deß Außsatzes",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Arcanum-res",
+    "lemma": "Arcanum res",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein heimlich onbegreifflich / vmoͤdtlich Ding¬daß der Mensch nicht kan erkennen ohne Erfahrnuß das ist eins ieden Dings Tugendt mittaufentfaͤltiger Besserung.",
+    "page": "64"
+  },
+  {
+    "id": "Ruland1612-Arcanum-materiale",
+    "lemma": "Arcanum materiale",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "65"
+  },
+  {
+    "id": "Ruland1612-Arcanum-specificum",
+    "lemma": "Arcanum specificum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "65"
+  },
+  {
+    "id": "Ruland1612-Archates",
+    "lemma": "Archates",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "dasselbige Waͤsen welches die Erde eigentlich traͤgesdenn die andern Element tragens nicht",
+    "page": "65"
+  },
+  {
+    "id": "Ruland1612-Archaeus",
+    "lemma": "Archaeus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist der Scheider der Elementen der es ordnet vund re¬giret / iedes an seinen Orth/ Geschlecht vnd Wesen",
+    "page": "65"
+  },
+  {
+    "id": "Ruland1612-Archeus",
+    "lemma": "Archeus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "65"
+  },
+  {
+    "id": "Ruland1612-Archeus-vero-vir-est,-producens-res-ex-Iliaste,-dispensator,-&-compositor-omnium-rerum.-Ist-eine-Krafft-/-die-alle-Dinge-auß-dem-Iliaste-fuͤrbringet-vund-scheidet-/-also-auch-im-Men¬schen-scheidet.",
+    "lemma": "Archeus vero vir",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Ist eine Krafft / die alle Dinge auß dem Iliaste fuͤrbringet vund scheidet / also auch im Men¬schen scheidet.",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Arcos",
+    "lemma": "Arcos ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Arcus",
+    "lemma": "Arcus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bogell",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Ardentia",
+    "lemma": "Ardentia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "was von Natur brennet / oder Fewer gibt",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Area",
+    "lemma": "Area ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Areae",
+    "lemma": "Areae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "außgestochene Plaͤtze.",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Area-capitis",
+    "lemma": "Area capitis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Fundgruben deß Gegendrumbe",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Area-rotunda",
+    "lemma": "Area rotunda ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Vinblauff im Gepell",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Aremaros",
+    "lemma": "Aremaros ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Zinober",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Arenamen",
+    "lemma": "Arenamen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Arenarmei"
+    ],
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Arenas-riuorum",
+    "lemma": "Arenas riuorum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "waschen / Seiffen",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Arena",
+    "lemma": "Arena ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sand ist der reine Coͤrper deß steins.",
+    "page": "66"
+  },
+  {
+    "id": "Ruland1612-Ares",
+    "lemma": "Ares ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gibt den Samen",
+    "page": "67"
+  },
+  {
+    "id": "Ruland1612-Argentum-rude-coloris-rubei-Prima-species-argenti-rudis-est-coloris-rubei,-à-Germanis,-roth-gulden-Ertz-vocatur.-Apparet-carbunculi-aliquod-esse-genus.-Sed-carbunculus-acrius-re¬fulget,-hoc-autem-argentum-rude-rubeum-languidius.-Re¬peritur-autem-in-fodinis,-in-vallis,-aliis-etiam-locis,-idque-va¬riis-modis:-praecipue-tamen-triplici-modo:-Primum-in-nigrore-RVLANDI-PHILOS.-ET-MEDICI57-quodam-lucet:-secundo-veluti-scintillae-quędam,-saxi-aliquod-genus-eius-amplectuntur.-Tertio-solidae-ipsius-massae-ad-saxa-adhaerescunt:-idque-interdum-simpliciter,-aut-simplici-modo:-Econtra-interdum-pro-altera-sui-parte,-quae-prominet-in-mu¬cronem-quasi-pyramidalem,-seu-turbinatum,-materiam-a¬liam,-quam-vena-continet,-amplectitur:-idque-in-forma-qua¬drata-in-modum-tesserae:-interdum-in-forma-sexangulari,-vt-adamas:-frequentissime-constat-pluribus,-&-inaequalibus-an¬gulis;-vt-Iris.-Ita-natura-Geometriam-exercuit-sub-terrae-vi¬sceribus,-mirabili-opificio.-Postremo-idem-argentum-rude-rubeum-caeruleo-conspersum,-pulcerrime-reperitur,-ita-vt-natura-ipsa-videatur-defessa-in-perficiendis-metallis,-se-re¬creasse,-&-oblectasse-talibus-coloribus,-quos-ars-summo-co¬natu-non-possit-assequi.-Haec-species-fuit-prorsus-(vt-aliae-fere-omnes)-incognita-Dioscoridi:-Plinio,-imo-cunctis-veteribus,-nisi-Theophrastus-de-primo-illo-loquatur-genere,-cum-inquit:-Gemma-alia-est-colore-prunis-assimilis.-Hoc-parum-amittit-de-suo-pondere,-dum-excoquitur,-vt-sciunt-illi-Cyclopes,-co¬ctores-metallorum.-Deinde-notandum-&-hoc,-quod-ex-illo-genere-conficitur-nobilis-color-in-picturis.-Posset-habere-&-in-Medicinis-locum,-si-quis-tentaret.-Hoc-&-quidam-sandara¬cam-esse-falsissime-credunt,-vt-de-sandaraca-suo-loco-agemus.",
+    "lemma": "Argentum rude coloris rubei",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "69"
+  },
+  {
+    "id": "Ruland1612-Argent.-Argentum-rude-plumbei-coloris",
+    "lemma": "Argent. Argentum rude plumbei coloris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "70"
+  },
+  {
+    "id": "Ruland1612-Argentum-rude-nigrum-est-tertium-argenti-rudis-genus-à-Ger¬manis,-Schwartz-Silber-Ertz-.-Cuius-in-nigrore-lucet-inter¬dum-secundum-genus,-quod-galenam-refert-coloris-plumbei.-Interdum-etiam-in-se-continet-scintillas-rubri-argenti-rudis:-item-&-scintillas-natura-candidi-argenti,-atque-quo-magis-illis-scin¬tillis-abundat,-tanto-plus-argenti,-quando-excoquitur,-red¬dit,-&-hoc-Plinio,-&-veteribus-ignotum-est.-Si-vero-sterile-est,-quod-fit-nonnunquam,-tunc-simpliciter-censenda-est-terra-nigra,-vt-suo-loco-de-terris.",
+    "lemma": "Argentum rude nigrum",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Schwartz Silber Ertz",
+    "page": "71"
+  },
+  {
+    "id": "Ruland1612-Argentum-rude-purpureum-quartum-genus-argenti-rudis-est-a-Germanis,-Braun-Erz-etiam-Plinio,-&-veteribus-ignotum.-Continet-autem-&-hoc-non-parum-argenti.-In-valle-in-fo¬dinis-montis-nomine-Tarcici-hoc-argentum-rude-demon¬strari-potest.",
+    "lemma": "Argentum rude purpureum quartum genus argenti rudis",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Braun Erz",
+    "page": "71"
+  },
+  {
+    "id": "Ruland1612-Argentum-rude-cineraceum,-&-ruffum",
+    "lemma": "Argentum rude cineraceum, & ruffum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Graw Ertz",
+    "page": "72"
+  },
+  {
+    "id": "Ruland1612-Argenti-recrementum",
+    "lemma": "Argenti recrementum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Silberschlacken",
+    "page": "72"
+  },
+  {
+    "id": "Ruland1612-Argenti-spuma",
+    "lemma": "Argenti spuma",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glette",
+    "page": "73"
+  },
+  {
+    "id": "Ruland1612-Argentum-ab-aere-separare-,-Seifferen-.",
+    "lemma": "Argentum ab aere separare",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Seifferen",
+    "page": "79"
+  },
+  {
+    "id": "Ruland1612-Argentum-in-globulos-dissoluere.",
+    "lemma": "Argentum in globulos dissoluere.",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Silberkoͤrnern.",
+    "page": "80"
+  },
+  {
+    "id": "Ruland1612-Argentum-populi",
+    "lemma": "Argentum populi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "80"
+  },
+  {
+    "id": "Ruland1612-Argentum-viuum-Chymistae-Mercurium-vocant-.-Estque-nihil-aliud,-quam-aqua-viscosa,-in-viscerib.-terrę,-subtilis-substantiae,-albae-terrae,-per-calorem-temperatissimum-vnita-totali-vnio¬ne,-perque-minima,-quousque-humidum-fuerit-temperatum-a-sic¬co,-&-siccum-ab-humido-aequaliter.-Estque-argentum-viuum-altera-pars-lapidis-philosophorum,-secundum-Chymistas:-Et-prin¬cipium-alterum:-materque-omnium-metallorum;-&-secundum-quod-coit-cum-patre,-&-masculo-suo-sulphure;-caussat-perfe¬ctionem,-&-imperfectionem-in-metallis,-&-metalla-quoque-(vt-foetus)-plus-a-matre,-sic-loquendo,-quam-patre-habent:-hinc-plurimum-trahunt-originem,-in-hoc-plurimum-resol¬uuntur.-Est-autem-argentum-viuum-duplex:-natiuum-scili¬cet,-&-artificiale.-Natiuum,-sui-coloris,-sine-excoctione,-quod-tale-reperitur-intra-metalla-in-lacubus,-in-quos-è-fibris-effluxit.-Ein-recht-na¬tuͤrlich-Quecksilber-/-id-est,-mater,-&-elementum-metallorum.-Hoc-nouit-ipse-Plinius-lib.-33.-c.-6.-cum-inquit.-Est-&-lapis-in-iis-venis,-cuius-vomica-liquoris-aeterni,-argentum-viuum-appel¬latur.-Dioscorides-ipsum-non-vidit-forsitan,-cum-inquit-lib.-5.-cap.-60.-Quin-etiam-argentum-viuum-inuenitur-in-argenti-fodinarum-testis,-stillatim-concretum;-alii-per-se-in-metallis-inueniri-tradunt.",
+    "lemma": "Argentum viuum Chymistae Mercurium vocant",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "80"
+  },
+  {
+    "id": "Ruland1612-Artificiale",
+    "lemma": "Artificiale",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein rein Quecksilber",
+    "page": "80"
+  },
+  {
+    "id": "Ruland1612-Argillae-dicuntur",
+    "lemma": "Argillae dicuntur",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Weisser Thann mit Silber Glimmerlein.",
+    "page": "82"
+  },
+  {
+    "id": "Ruland1612-Argistata",
+    "lemma": "Argistata",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Emgewaͤchst",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Argyros",
+    "lemma": "Argyros",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Geschweinung oder Schwinden deß Leibes / ond der Glieder Aristolochia, Haͤt eine weisse Blumelist inwendig rothigleich 2. wie der lapis selbst",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Arohot",
+    "lemma": "Arohot",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Quecksilber",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Aroph",
+    "lemma": "Aroph",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mandragora",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Arsaltos",
+    "lemma": "Arsaltos ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "asphaltos ,",
+      "aspaltum ."
+    ],
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Arsenii",
+    "lemma": "Arsenii ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Arsenicum",
+    "lemma": "Arsenicum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Luna, vn, er * Venus, Schwefels Gesell Geber. fol. 5. In die Seel. Ein hermaphrodith, das Mittel/ dadurch Schwefel vnd Mercu¬rius zusammen vereiniget werden hat Gemeinschafft mit bey¬den Naturen / darumb wirdt er Sol ond Luna genennet",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Artaueck",
+    "lemma": "Artaueck ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "artanecli ,",
+      "Arsenicum"
+    ],
+    "translation": "Der Arsenick, Rauschgeell Goldgelb Operment, Hyuttknrauch",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Artetiscius-licitur",
+    "lemma": "Artetiscius licitur",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Gudgbrechlicher",
+    "page": "84"
+  },
+  {
+    "id": "Ruland1612-Arthoicum-siue-Pannonium-:-oleum-rubeum-ex-radicibus-her¬barum-cum-pane-in-fimo-digestis,-expressum.-Vox-a-Theo¬phrasto-ficta.-Ein-roth-Del/-daß-aus-den-Wurtz:-in-werdi-/-wenn-marsie-in-Roßm.st-mit-Brodtfaulet-.",
+    "lemma": "Arthoicum siue Pannonium",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Ein roth Del/ daß aus den Wurtz: in werdi / wenn marsie in Roßm.st mit Brodtfaulet",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Artifex",
+    "lemma": "Artifex ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "Abtreiberi"
+    ],
+    "translation": "Probieret",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Asabon",
+    "lemma": "Asabon ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Asafaetida",
+    "lemma": "Asafaetida ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Teustelodraͤck",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Asagen",
+    "lemma": "Asagen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Asagi",
+    "lemma": "Asagi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Asamaz",
+    "lemma": "Asamaz ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Asaphatum",
+    "lemma": "Asaphatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gefloͤchten zittermaleflecht / Hayrwurm.",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Aseb",
+    "lemma": "Aseb ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "asep"
+    ],
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Aseb",
+    "lemma": "Aseb",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "85"
+  },
+  {
+    "id": "Ruland1612-Alumen",
+    "lemma": "Alumen",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Ased",
+    "lemma": "Ased ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Asedenigi",
+    "lemma": "Asedenigi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Aiegen",
+    "lemma": "Aiegen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Asenec",
+    "lemma": "Asenec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Aseph",
+    "lemma": "Aseph ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Asingar-vel-asugar,-asmiar,-asigi",
+    "lemma": "Asingar vel asugar, asmiar, asigi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Asmaga",
+    "lemma": "Asmaga ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "87"
+  },
+  {
+    "id": "Ruland1612-Asoper",
+    "lemma": "Asoper,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ruß.",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Aspaltum,-Asphaltum",
+    "lemma": "Aspaltum, Asphaltum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Assala",
+    "lemma": "Assala ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Muscatenuiß.",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Assaliae",
+    "lemma": "Assaliae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Holzwurme so zwischen den Bre¬ttern wachsen.",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Assanegi,-Asanirgi,-asaragi,",
+    "lemma": "Assanegi, Asanirgi, asaragi,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Assatio",
+    "lemma": "Assatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "geschicht im Eschen hart vnd trucken machen",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asser-triangularis",
+    "lemma": "Asser triangularis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Trag Bahr",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asseres-ad-latus-scalarum-lignis-impositi-,-Abtrut",
+    "lemma": "Asseres ad latus scalarum lignis impositi",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asser",
+    "lemma": "Asser",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wendbret",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asseres",
+    "lemma": "Asseres",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spahne",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asseres",
+    "lemma": "Asseres",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwarten",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asserculi-vel-pali-,-in-quibus-sedent-fossores,-qui-cuniculum-agunt.-Sitzpfahl-.",
+    "lemma": "Asserculi vel pali",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Sitzpfahl",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Assos",
+    "lemma": "Assos",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Alaun/sagt Morienes, ist aber gemachter Alaun von der Materi deß Steins nemblich weiß",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asterites",
+    "lemma": "Asterites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Fewerstein",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Astroites-mas",
+    "lemma": "Astroites mas",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Siegstein voller Sternen",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Astrum-sydus",
+    "lemma": "Astrum sydus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "oder Astrum heist das Gestirn-Aber in vnser Chymischer Kunst / be¬deutes die Natur ond Krafft eines Dingessso es empfahet auß der praeparation: Aiß wenn der Mercurius sublimirt, der Schwe¬bel mit einem Fuͤncklein Fewerangezuͤndet / ond das Saltz fuͤr sich selber soluiret vnd zerloͤset wirdt / so werden sie Astralisch¬Gestirnmaͤssig und heist das Gestirn Mercurii, deß Schwe¬fels und Saltzes. Vel Astrum, der Stern ist das alkol, oder quinta Essentia, die lautere va reineste Krafft /das Extractum, der Sahmsond die Natur sond Eigenschafft deß Dinges / sagt Baccho",
+    "page": "88"
+  },
+  {
+    "id": "Ruland1612-Asub",
+    "lemma": "Asub ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Senderung der Stern.",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Asubedegi",
+    "lemma": "Asubedegi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Asulci",
+    "lemma": "Asulci ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Asuoli",
+    "lemma": "Asuoli ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Atac",
+    "lemma": "Atac",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Atanor",
+    "lemma": "Atanor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Atebras,-vncus-aquinus",
+    "lemma": "Atebras, vncus aquinus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Athanor",
+    "lemma": "Athanor",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "89"
+  },
+  {
+    "id": "Ruland1612-Atincar,-vel-Atinkar",
+    "lemma": "Atincar, vel Atinkar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Burreß von Felsen",
+    "page": "91"
+  },
+  {
+    "id": "Ruland1612-Atramentum-album",
+    "lemma": "Atramentum album",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "91"
+  },
+  {
+    "id": "Ruland1612-Atramentum-citrinum",
+    "lemma": "Atramentum citrinum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "91"
+  },
+  {
+    "id": "Ruland1612-Atramentum-Hispanicum",
+    "lemma": "Atramentum Hispanicum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "91"
+  },
+  {
+    "id": "Ruland1612-Atramentum-rubeum-dicitur-asaric-,-vel-asagi.",
+    "lemma": "Atramentum rubeum dicitur asaric",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "91"
+  },
+  {
+    "id": "Ruland1612-Atramentorum",
+    "lemma": "Atramentorum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schreib Dinte",
+    "page": "91"
+  },
+  {
+    "id": "Ruland1612-Atramentum",
+    "lemma": "Atramentum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwartz Kreid¬Krieschbech.",
+    "page": "93"
+  },
+  {
+    "id": "Ruland1612-Atramentum-viride",
+    "lemma": "Atramentum viride",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "93"
+  },
+  {
+    "id": "Ruland1612-Atramentum-sutorium",
+    "lemma": "Atramentum sutorium",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schuster Schwaͤrtz",
+    "page": "93"
+  },
+  {
+    "id": "Ruland1612-Attagar",
+    "lemma": "Attagar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "99"
+  },
+  {
+    "id": "Ruland1612-Attingat",
+    "lemma": "Attingat",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "99"
+  },
+  {
+    "id": "Ruland1612-Attingit",
+    "lemma": "Attingit ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "99"
+  },
+  {
+    "id": "Ruland1612-Attractiua-dicuntur-medicamenta-,-alias-magnetica,-quae-vim-ad-se-trahendi-habent,-ex-similibus-etiam-attractiuis-com¬posita.",
+    "lemma": "Attractiua dicuntur medicamenta ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "99"
+  },
+  {
+    "id": "Ruland1612-Atureb",
+    "lemma": "Atureb ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "99"
+  },
+  {
+    "id": "Ruland1612-Aurancum",
+    "lemma": "Aurancum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "99"
+  },
+  {
+    "id": "Ruland1612-Auraric",
+    "lemma": "Auraric ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Aurum-latus",
+    "lemma": "Aurum latus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gold in weicher tinctur, oder Ferbung die da die Coͤrper tingirt, durch daß ihr zu gemischet wirdt",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Aurum-coctum",
+    "lemma": "Aurum coctum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "geschlagen Geld",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Aurum-coticula-experiri-,-Anstreichen-.",
+    "lemma": "Aurum coticula experiri",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Anstreichen",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Aurum-experiri-argento-viuo-,-Anquicken-.",
+    "lemma": "Aurum experiri argento viuo",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Anquicken",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Auis-Hermetis",
+    "lemma": "Auis Hermetis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist das rothe Bley mitten in dem Ey, daß nun ober sich will vnnd solllee. Es ist auch die Esch in der matrice, heist auch anser, vnd",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Aurum-obrizum",
+    "lemma": "Aurum obrizum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Goldfeilen oder Pur Gold",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum",
+    "lemma": "Auripigmentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Goldgelb¬Operment/ Huͤttenrauch",
+    "page": "100"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum",
+    "lemma": "Auripigmentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum-crustaleum",
+    "lemma": "Auripigmentum crustaleum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schiffriecht",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum-glebosum",
+    "lemma": "Auripigmentum glebosum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Stickicht Operment",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum-glebosum-mixtum-cum-sandaracha-Mit-Reschgelb-vermengt.",
+    "lemma": "Auripigmentum glebosum mixtum cum sandaracha",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Mit Reschgelb vermengt.",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum-rubeum",
+    "lemma": "Auripigmentum rubeum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Reelgar",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum-album-sublimatum-,-quod-venis-in-albo-sub¬luteis-distinguitur,-Weiß-sublimirt-Operment-.",
+    "lemma": "Auripigmentum album sublimatum",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Weiß sublimirt Operment",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auripigmentum-sublimatum",
+    "lemma": "Auripigmentum sublimatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Aurum",
+    "lemma": "Aurum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Goldtsa",
+    "page": "103"
+  },
+  {
+    "id": "Ruland1612-Auriga",
+    "lemma": "Auriga",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "treibet.",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Aurichalcum",
+    "lemma": "Aurichalcum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ertz oder Meßing. Auria massula, i. e. id est Koͤnig.",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Aurum-Philosophorum",
+    "lemma": "Aurum Philosophorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Aurum-potabile",
+    "lemma": "Aurum potabile",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Austromantia-alia",
+    "lemma": "Austromantia alia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Aurum-vitae",
+    "lemma": "Aurum vitae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein praecipitat mit Goldt gemacht der durch das Fewer in die hoͤchste Roͤhte gebracht ist.",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Aurum-viuum",
+    "lemma": "Aurum viuum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Auuer",
+    "lemma": "Auuer ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Axiculus",
+    "lemma": "Axiculus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Waltzes Walcheim.",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Axiculus-ferreus",
+    "lemma": "Axiculus ferreus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwentzelnagel.",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Axungia-de-mumia-,-quae-interdum-mumia-de-medullis-etiam-scripta-reperitur,-est-medulla-ossium.",
+    "lemma": "Axungia de mumia",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Aycophos",
+    "lemma": "Aycophos ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azaa",
+    "lemma": "Azaa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azagor",
+    "lemma": "Azagor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azamo",
+    "lemma": "Azamo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azarnet",
+    "lemma": "Azarnet",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Auripigmentum.",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azanec",
+    "lemma": "Azanec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azci",
+    "lemma": "Azci ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azec",
+    "lemma": "Azec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azedegim",
+    "lemma": "Azedegim ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azeff",
+    "lemma": "Azeff ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azeg",
+    "lemma": "Azeg",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "azezi ,",
+      "azegi ."
+    ],
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azegi-arec",
+    "lemma": "Azegi arec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azem",
+    "lemma": "Azem ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "108"
+  },
+  {
+    "id": "Ruland1612-Azemasor",
+    "lemma": "Azemasor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azensali",
+    "lemma": "Azensali",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein schwartzer Stein so im Goldt funden wirdt: Istauch Mooßsso auff den Felsen waͤchst.",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azernec",
+    "lemma": "Azernec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azius",
+    "lemma": "Azius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", ist ein Steinldarauf Saltz waͤchst.",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azimar",
+    "lemma": "Azimar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azob",
+    "lemma": "Azob",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", ist ZuckerAlaun.",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azoch",
+    "lemma": "Azoch ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist onser Mercurius / das ist ein doppelter Mercurius¬deß Steins Materi. Daher sagen sie / Azoch und Fewer sindt genug den Latonem zuweissen /ond das ganze werck zuferti¬gen. In der ersten Arbeit erscheinet er weiß: dan das Weib oberwindt den Mann. Darnach schwarz. Braseschi sage¬wan Azoch zu Saltz wirdt / so waͤschet er Latonem, das ist¬den Metallischen Schwefel. Dann wo er nicht die Roͤte able¬getsond weiß wirdisso taug er nichte Dieser Schwefel heist der Mann. Anfaͤnglich ist erroth / ond wann dieselbige Roͤthel oder die vnctuositas, Feistigkeit (welche die Roͤthe verursachet) hinweg ist so sagt mannider Schwefel sey hinweg.",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azoth",
+    "lemma": "Azoth",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sonst ist ein Quecksilber aus Metall gebracht. Aber Theophrastus nemet seiner fuͤrnemb¬ste Artzney eine also: Vermeinen etlicheles sehapis philo¬sophicus gewesen. Der Azoth wird auß den Coͤrpern gezo¬gen durch Mercurium / ond wird genennt",
+    "page": "109"
+  },
+  {
+    "id": "Ruland1612-Azub-Arabice,-Latine-Alumen,-Azel-idem.",
+    "lemma": "Azub Arabice, Latine Alumen, Azel idem.",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "110"
+  },
+  {
+    "id": "Ruland1612-Azubo",
+    "lemma": "Azubo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "110"
+  },
+  {
+    "id": "Ruland1612-Azuc",
+    "lemma": "Azuc",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "110"
+  },
+  {
+    "id": "Ruland1612-Azumen",
+    "lemma": "Azumen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "110"
+  },
+  {
+    "id": "Ruland1612-Azuric",
+    "lemma": "Azuric ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "110"
+  },
+  {
+    "id": "Ruland1612-Azymar",
+    "lemma": "Azymar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "110"
+  }
+]

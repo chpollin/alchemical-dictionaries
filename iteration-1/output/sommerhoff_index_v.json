@@ -1,0 +1,2656 @@
+[
+  {
+    "id": "sommerhoff_valeriana_bortensis",
+    "lemma": "Valeriana bortensis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_valeriana_syl_vestris_major_minor",
+    "lemma": "Valeriana syl vestris major & minor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_valeriana",
+    "lemma": "Valeriana,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_veneag",
+    "lemma": "Veneagò,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß Kraut.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_veratrum_album",
+    "lemma": "Veratrum album,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_veratrum_nigrum",
+    "lemma": "Veratrum nigrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_verbasculum_odoratum",
+    "lemma": "Verbasculum odoratum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schlüͤssel- Blumen.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_verbascum_mas_latifolium_blattaria_candela_regia_regis_candelaria_lana",
+    "lemma": "Verbascum mas, Latifolium, Blattaria, Candela Regia & Regis, Candelaria, Lana- ria, Leucophyllon, Phlomus & Phlonus, Tapsus barbatus, Pysnitis Apuleji, Pheminalis, Lucumbra.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wuͤlltraut / Koͤnigs-Kertzen / Unholden-Ker- tzen / Kertzen-Kraut / Feld-Kertzen / Himmel-Brandt / Baͤhren-Kraut / und Brenn-Kraut. Crescit passim in locis arenosis & sylvosis,",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_verbena_communis_flore_coeruleo_verbena_nas_verbenaca_herba_columbaris",
+    "lemma": "Verbena communis flore coeruleo, Verbena nas, Verbenaca, & herba columbaris & columbina, Verbena recta, mascula, supina, vulgaris, Peristereum, Junonis la- cryma, Herba Cincinnalis, sangninalis, Herba sacra & verbenaca, Hierabo- tane, Herba sagminalis, Peristereon.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eysen Kraut / Eysenhort / Tau- ben-Kraut / und Eysenreich. Crescit passim in Caemiteriis, aliisque incul- tis locis ad muros & sepes.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_verbena_foemina",
+    "lemma": "Verbena foemina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hederich.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_vermicularis",
+    "lemma": "Vermicularis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_veronica_mas_vulgatissima_veronica_mas_serpens_veronica_major_vera_vul",
+    "lemma": "Veronica mas & vulgatissima, Veronica mas serpens, Veronica major, vera & vul- garis, Veronica erecta & supina, & Betonica Pauii.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ehrenpreys/ Grundhey l / Schlangen Wund-Kraut / Heyl aller Schaͤden. Crescit in locis incultis ac dumetis.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_veronica_foemina_seu_pratensis_serpillifolia",
+    "lemma": "Veronica foemina seu pratensis Serpillifolia.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ehrenprens / das Weiblein / so etwas zaͤrter als das andere.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_victorialis",
+    "lemma": "Victorialis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Allermanns Harnisch.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_vinca_per_vinca_myrsinoides_clematis_daphnoides_minor_pervinca_centun",
+    "lemma": "Vinca per vinca, Myrsinoides, Clematis, Daphnoides minor, Pervinca, Centun- culus Plinii, Chamaedaphne Plinii, Viola mortuorum, Polygenoides, Unicor- dia, Palma virginea, Corona virginea",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sinngrun / Inaron / Weine gruͤn / Beerwinck / Maͤgt-Palmen und Todtenviolen. Solo gaudet foecundo.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_vincetoxicum",
+    "lemma": "Vincetoxicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwalben Wurk.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viola_agrestis",
+    "lemma": "Viola agrestis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Seyffen-Kraut.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viola_aurea",
+    "lemma": "Viola aurea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viola_flammea_tricolor",
+    "lemma": "Viola flammea, tricolor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viola_lutea",
+    "lemma": "Viola lutea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gelbe Violen.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viola_martia",
+    "lemma": "Viola.Martia, odorata, purpurea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viola_mortuorum",
+    "lemma": "Viola mortuorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Todten-Violen.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viala_tricolor_bortensis",
+    "lemma": "Viala tricolor bortensis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_violaria_mater_violarum",
+    "lemma": "Violaria, Mater Violarum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Violen-Kraut / Veyt- Kraut / braun Violen- Kraut / Merzen-Violen Kraut. Crescit juxta muros, sepes ac vias. Est una ex quinque herbis Emollientibus.",
+    "page": "200"
+  },
+  {
+    "id": "sommerhoff_viperina",
+    "lemma": "Viperina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_virga_aurea_latifolia_symphylbium_medium_media_solidago_consolida_me",
+    "lemma": "Virga aurea, latifolia, Symphylbium medium & media Solidago & Consolida me- dia, Herba S. Laurentii.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Guͤlden Wund-Kraut / Guͤnsel oder Guͤnzel ! guiden Guntzel. Crescit in locis montanis, sed magis udis.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_virga_pastoris_labrum_veneris",
+    "lemma": "Virga Pastoris, Labrum veneris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weberkarten.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitex",
+    "lemma": "Vitex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitia_sylvestris_aphaca_aphace_osmundi",
+    "lemma": "Vitia sylvestris, Aphaca & Aphace, Osmundi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wilde Wicken / oder St. Christophens Kraut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitis_alba",
+    "lemma": "Vitis alba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zaun-Ruͤben.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitis_septentrionalis",
+    "lemma": "Vitis septentrionalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hopffen. Herb. seu Fl. Lupuli.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitis_viniserae_folia",
+    "lemma": "Vitis viniserae folia.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weinslock oder Weinreden-Bluͤtter. Arabicè Harin. Coluntur in vineis & hortis.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitriaria",
+    "lemma": "Vitriaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß-Keaut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vitri_berba_vitriaria",
+    "lemma": "Vitri berba, Vitriaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß Reaut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vimaria",
+    "lemma": "Vimaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "GeyßBart.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vngula_caballina",
+    "lemma": "Vngula caballina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_volubilis_con_volvulus_major",
+    "lemma": "Volubilis, Con volvulus major.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Windig Blaͤtter / crescit passim.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_volubilis_seu_convolvulus_marinus",
+    "lemma": "Volubilis seu Convolvulus marinus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meerwinden.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_volucrum_majus_matrisylva_syl_vae_mater",
+    "lemma": "Volucrum majus, Matrisylva, syl vae Mater,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Specklilien.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vrceolaris",
+    "lemma": "Vrceolaris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gaͤß-Kraut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vva_lupina_seu_vulpis",
+    "lemma": "Vva lupina seu Vulpis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Nacht-Schatten.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_vulgago",
+    "lemma": "Vulgago,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_v",
+    "lemma": "V dicitur flammalis, &",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_vi_a_furni_fusionis",
+    "lemma": "VI. A Furni Fusionis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_vii_a_follium",
+    "lemma": "VII. A Follium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_viii_q_slammalis",
+    "lemma": "VIII. Q slammalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_vardus_indica",
+    "lemma": "Vardus Indica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Indianische Spicanarden.",
+    "page": "275"
+  },
+  {
+    "id": "sommerhoff_vigrificatio",
+    "lemma": "Vigrificatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "278"
+  },
+  {
+    "id": "sommerhoff_vil_cinereum_seu_gryseum",
+    "lemma": "Vil Cinereum, seu Gryseum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "278"
+  },
+  {
+    "id": "sommerhoff_viphetos",
+    "lemma": "Viphetos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "278"
+  },
+  {
+    "id": "sommerhoff_vitialia",
+    "lemma": "Vitialia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "278"
+  },
+  {
+    "id": "sommerhoff_vucista",
+    "lemma": "Vucista,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Muscaten-Nuß /",
+    "page": "280"
+  },
+  {
+    "id": "sommerhoff_v_accinia_nigra_idaeamigra",
+    "lemma": "V. Accinia nigra, Idaeamigra.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Heydel Beer.",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vacuatio_evacuatio",
+    "lemma": "Vacuatio, Evacuatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vakchi",
+    "lemma": "Vakchi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_valeriana_phu",
+    "lemma": "Valeriana, Phu.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Baldrian-Wurtzel.",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_valeriana",
+    "lemma": "Valeriana",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_valrat_ulcat",
+    "lemma": "Valrat & Ulcat,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vanellus",
+    "lemma": "Vanellus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vanilli_seu_benilli",
+    "lemma": "Vanilli seu Benilli.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Tesacten oder Campechen, est Fructus siliquosa alicujus Arboris Orientalis.",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vapor",
+    "lemma": "Vapor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vapor_potentialis_metalli",
+    "lemma": "Vapor Potentialis Metalli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vaporarium",
+    "lemma": "Vaporarium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vaporatio",
+    "lemma": "Vaporatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vaporis_balneum",
+    "lemma": "Vaporis Balneum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dampff-Badt.",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vappa",
+    "lemma": "Vappa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vara",
+    "lemma": "Vara,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Blat.",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vard",
+    "lemma": "Vard,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_varonign",
+    "lemma": "Varonign",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gemsen-Wurtzel / Schwindel-Kraut. Serap.",
+    "page": "420"
+  },
+  {
+    "id": "sommerhoff_vas_vasa_seu_vascula",
+    "lemma": "Vas, Vasa seu Vascula",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vas_crudum",
+    "lemma": "Vas Crudum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vas_metallicum",
+    "lemma": "Vas Metallicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vas_subtiliationi_inserviens",
+    "lemma": "Vas subtiliationi inserviens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vasa_fusoria",
+    "lemma": "Vasa Fusoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vasum_pro_vas",
+    "lemma": "Vasum, pro Vas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vean",
+    "lemma": "Vean,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vebet",
+    "lemma": "Vebet,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dill. Kraut. Serap.",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_veclon",
+    "lemma": "Veclon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Salben",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vegetabilia",
+    "lemma": "Vegetabilia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vegetativus",
+    "lemma": "Vegetativus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vebiculum",
+    "lemma": "Vebiculum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vellus_aureum",
+    "lemma": "Vellus Aureum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vena_tinctoria",
+    "lemma": "Vena Tinctoria.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Färber Roͤthe.",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vena_veneris",
+    "lemma": "Vena Veneris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eisentraut. Mart. Rul. & Johnsonus.",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venae_vegetabiles",
+    "lemma": "Venae Vegetabiles,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_veneago",
+    "lemma": "Veneago,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß-Kraut.",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venenum",
+    "lemma": "Venenum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gifft / est omne illud quod Corpori nostro communicatum, Mortem adfert; ut sunt Arsenici genera, pleraque F rialia deleteria qua- litate praedita &c. Quamvis in Chymicis 3 quoque Venenum dicatur, quo tamen nomine & Theriaca & Fermentum vocatur. M. Rul. & Th. Chym. Vol. 1. p. 741. Vol. 4. p. 891.",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_vener",
+    "lemma": "Vener,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Queck Silber. Mart. Rul. & Jobns.",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venetus_color",
+    "lemma": "Venetus Color,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venter",
+    "lemma": "Venter,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venter_equi",
+    "lemma": "Venter Equi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venter_equinus",
+    "lemma": "Venter Equinus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "421"
+  },
+  {
+    "id": "sommerhoff_venti",
+    "lemma": "Venti",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Die dampffende Geister. Mart. Rul. & Johns.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ventus_albus",
+    "lemma": "Ventus albus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Queck-Silber. Mart. Rul. & Johns.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ventus_chymicus_venti_chymici",
+    "lemma": "Ventus Chymicus, Venti Chymici",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ventus_citrinus",
+    "lemma": "Ventus Citrinus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwefel. Mart. Rul. & Jobns.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ventus_hermetis",
+    "lemma": "Ventus Hermetis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ventus",
+    "lemma": "Ventus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ventus_rubeus",
+    "lemma": "Ventus Rubeus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_venula",
+    "lemma": "Venula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_venus_macrocosmi",
+    "lemma": "Venus Macrocosmi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_venus_microcosmi",
+    "lemma": "Venus Microcosmi",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Die Nieren. Lex. Brun.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ver",
+    "lemma": "Ver,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Der Fruͤhling / inter Quatuor Anni rempora, primum & saluberria mum. Ex Hippocr. 3. Aph. 9. Sign. E",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verach",
+    "lemma": "Verach,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Drachen-Blut. Sylvat.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_ver",
+    "lemma": "Ver.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_veratrum_album",
+    "lemma": "Veratrum Album",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_veratum_nigrum",
+    "lemma": "Veratum Nigrum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verbasculum_odoratum",
+    "lemma": "Verbasculum Odoratum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verbascum",
+    "lemma": "Verbascum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wuͤll Kraut oder Blumen.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verbena_foemina",
+    "lemma": "Verbena Foemina",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hederich.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verbena_mas_seu_verbenaca",
+    "lemma": "Verbena Mas seu Verbenaca,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eisen Kraut.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vermes",
+    "lemma": "Vermes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vermes_majales",
+    "lemma": "Vermes Majales.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schmaltz-Kaͤfer oder Mayen-Würm.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vermicularis",
+    "lemma": "Vermicularis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vermiculum_vermicylium",
+    "lemma": "Vermiculum & Vermicylium",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vernatio_syphar_senecta_spolium_exuvium",
+    "lemma": "Vernatio, syphar, Senecta, Spolium, Exuvium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vernece_vernice",
+    "lemma": "Vernece & Vernice,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vernix_arabum",
+    "lemma": "Vernix Arabum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wacholder Gummi.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vernix",
+    "lemma": "Vernix,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vernix_seu_vernisium_vulgare",
+    "lemma": "Vernix seu Vernisium vulgare,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vernus",
+    "lemma": "Vernus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_veronica",
+    "lemma": "Veronica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ehren-Preiß.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verres",
+    "lemma": "Verres,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verristae",
+    "lemma": "Verristae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verrucaria",
+    "lemma": "Verrucaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rin- gel- Blumen.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_verto",
+    "lemma": "Verto,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vervex",
+    "lemma": "Vervex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Hammel.",
+    "page": "422"
+  },
+  {
+    "id": "sommerhoff_vesica_destillatoria",
+    "lemma": "Vesica Destillatoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vesicaria",
+    "lemma": "Vesicaria.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Juden Kirschen-Kraut.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vesicatoria",
+    "lemma": "Vesicatoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Blasen machende Mittel / sunt species Cauterii, ut dicitur potentialis, quando nempè ob copiam Salis volatilis, Cutis & Cuticula quasi aduritur, unde Cuticula mortificatur, & quicquid Lymphaticum est, in- tra Cutim & Cuticulam colligitur, unde Vesicae excitantur. Inter illa sunt Cantharides, Ranunculi Tadices, Tithymalli lacteus Succus, Arbotis juglandis Cortex &c. Lex. Blanc.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vespa",
+    "lemma": "Vespa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vespertilio",
+    "lemma": "Vespertilio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_veta",
+    "lemma": "Veta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wegerich. Sylvat.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_veterascens",
+    "lemma": "Veterascens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_veterinaria_medicina",
+    "lemma": "Veterinaria Medicina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vetonica_altilis_caryophyllus_hortensis",
+    "lemma": "Vetonica altilis, Caryophyllus hortensis.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Graß-Blumen.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_victicellae_liquor_aut_viticellae",
+    "lemma": "Victicellae Liquor, aut Viticellae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_victorialis_seu_allium_alpinum",
+    "lemma": "Victorialis seu Allium alpinum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Allermans Harnisch.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_victorialis",
+    "lemma": "Victorialis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_viltrum_philosophorum",
+    "lemma": "Viltrum Philosophorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vin",
+    "lemma": "Vin.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinca_per_vinca",
+    "lemma": "Vinca per Vinca.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Suͤn Grun.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vincetosicum_hitundinaria_asclepias",
+    "lemma": "Vincetosicum, Hitundinaria, Asclepias,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vini_lactis_ana_partes_aequales",
+    "lemma": "Vini & Lactis ana partes aequales,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vini_quinta_essentia",
+    "lemma": "Vini Quinta Essentia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinosus_amans_vini",
+    "lemma": "Vinosus, Amans Vini,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum",
+    "lemma": "Vinum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wein / est Succus Uvarum maturarum expressum",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum_adustum",
+    "lemma": "Vinum adustum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Frucht-Brandtewein. Sign. XX, Q",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum_album_vel_leuccenm",
+    "lemma": "Vinum album vel Leuccenm.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weisser Wein. Sig. 2., M, 6, X, * 8.",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum_alcalisatum_va",
+    "lemma": "Vinum alcalisatum VA.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum_amseneum",
+    "lemma": "Vinum amseneum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum_carenum",
+    "lemma": "Vinum Carenum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "423"
+  },
+  {
+    "id": "sommerhoff_vinum_circulatum",
+    "lemma": "Vinum Circulatum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vnum_correctum",
+    "lemma": "Vnum Correctum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_cos",
+    "lemma": "Vinum Cos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_creticum",
+    "lemma": "Vinum Creticum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_cydoneorum",
+    "lemma": "Vinum Cydoneorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_emeticum",
+    "lemma": "Vinum Emeticum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_essatum",
+    "lemma": "Vinum Essatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_hippocraticum",
+    "lemma": "Vinum Hippocraticum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hippocras Wein. sign. VI VI",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_medicatum",
+    "lemma": "Vinum Medicatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_mellicite",
+    "lemma": "Vinum Mellicite,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_merratum",
+    "lemma": "Vinum Merratum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_mortuum",
+    "lemma": "Vinum Mortuum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essig. Sign. Q, M, u",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_pauciferum",
+    "lemma": "Vinum Pauciferum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_pyracium",
+    "lemma": "Vinum Pyracium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_rubi_idai",
+    "lemma": "Vinum Rubi Idai,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hembeer Wein.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_rubrum",
+    "lemma": "Vinum Rubrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rother Wein. Sign. ve-",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vinum_squilliticum",
+    "lemma": "Vinum Squilliticum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_agrestis",
+    "lemma": "Viola Agrestis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Seyffen- Kraut.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_aurea",
+    "lemma": "Viola Aurea",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_dentaria_cons_lida_dentaria_symphythum_dentarium",
+    "lemma": "Viola Dentaria, Cons.lida Dentaria, Symphythum Dentarium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Klein Schuppen Wurtzel.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_flammei_tricolor_hortensis",
+    "lemma": "Viola Flammei, tricolor, hortensis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_lutea",
+    "lemma": "Viola lutea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_martia_purpurea",
+    "lemma": "Viola Martia Purpurea.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mertzen Violen.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_mortuorum_palma_virginea_corona_virginea",
+    "lemma": "Viola Mortuorum, Palma Virginea, Corona Virginea",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sin Gruͤn.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viola_tricolor_hortensis",
+    "lemma": "Viola Tricolor hortensis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vipera",
+    "lemma": "Vipera, Germ. Natter / Otter / Atter / Heck Natter Brandt Schlange /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Natter / Otter / Atter / Heck Natter Brandt Schlange /",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_viperaria_seu_viperina",
+    "lemma": "Viperaria seu Viperina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vir",
+    "lemma": "Vir,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Mann / rectè dixit Linden, esse nomen Sexûs, Aetatis. Statûs & Di- gnitatis. Ex XIII. §. 9. seq. Vir mysti. è quoque dicitur in negotio lapidis Philosophici illud Metallum, vel ejus Metalli Semen, quod jungitur) to vivo, tanquam Foeminae. Libavi. T. 2. p. 142.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_vires",
+    "lemma": "Vires,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_virga",
+    "lemma": "Virga,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Zimmer-",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_virga_aurea",
+    "lemma": "Virga Aurea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_virga_pastoris_labrum_lavacrum_veneris",
+    "lemma": "Virga Pastoris, Labrum & Lavacrum Veneris.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ru- ben-Strehl oder Weber Karten.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_virga_sacerdotis",
+    "lemma": "Virga Sacerdotis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwalben-Wurtzel.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_virga_sanguinea_ligustrum",
+    "lemma": "Virga Sanguinea, Ligustrum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hardt-Riegel.",
+    "page": "424"
+  },
+  {
+    "id": "sommerhoff_virginea_herba_cotula_foetida_cynantheonis_bufonaria_chamomilla_canina",
+    "lemma": "Virginea Herba, Cotula foetida, Cynantheonis, Bufonaria, Chamomilla Canina.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "stinckende Chamillen.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_virgo",
+    "lemma": "Virgo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_virgultum",
+    "lemma": "Virgultum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viride_aeris_viride_graecum_vel_hispanicum_seu_aerugo_rasilis_prasium_viride_bic",
+    "lemma": "Viride Aeris, Viride Graecum vel Hispanicum, seu Aerugo Rasilis, Prasium Viride, bic Alexandrinum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grun-Span / Span-Gruͤn oder Spannisch-Gruͤn. Est autem Aerugo, non quidem Aeris flos, ut putarunt nonnulli, sed quae- dam veluti Rasura Viridis, quae illius Laminis +ti Vapore madidis effloruit & nominatur vulgaris; Copiosa est & venalis ubique reperitur. Arugi- nis duae traduntur à Dioscoride differentiae: Una vulgaris simpliciter Aerugo dicta: Altera Scolecia seu in Vermiculorum speciem effigiata. Eaque duplex, fossilis una & altera Factitia, utraque autem rarissima. Sign. Q, 3, R, T,C,X, SOH,O, IP. 4P. SID. OTI.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viridis",
+    "lemma": "Viridis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viridis_leo",
+    "lemma": "Viridis Leo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viriditas_salis",
+    "lemma": "Viriditas Salis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_virosus",
+    "lemma": "Virosus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_virtus",
+    "lemma": "Virtus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_virtus",
+    "lemma": "Virtus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_virtus_celtica",
+    "lemma": "Virtus Celtica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vis",
+    "lemma": "Vis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viscaleus",
+    "lemma": "Viscaleus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viscum_viscus_boxus_seu_ixos",
+    "lemma": "Viscum, Viscus, Boxus, seu Ixos",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Affolter-Mystel oder Mißpell. vide supra Viscaleus.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viscus_avium_seu_aucupiarius",
+    "lemma": "Viscus Avium, seu Aucupiarius",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Vogel Leymi Gluten viscatum.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viscus",
+    "lemma": "Viscus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_viscus_secundae_generationis",
+    "lemma": "Viscus Secundae generationis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitellum_poli",
+    "lemma": "Vitellum Poli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Allaun. Mart. Rulandus.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitellus_luteum_luteum_ovi",
+    "lemma": "Vitellus, Luteum, Luteum ovi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyer-Dotter / oder das gelbe vom Ey. Sign. V S, F 3",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitex",
+    "lemma": "Vitex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Keusch-Lamb.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitia_sylvestris_fuchsii_aphaca_aphace_seu_osmundi",
+    "lemma": "Vitia Sylvestris Fuchsii, Aphaca & Aphace seu Osmundi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "wilde Wicken oder St. Christophens Kraut.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitus_alba",
+    "lemma": "Vitus alba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weisse Zaun-Ruͤben.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitis_carut",
+    "lemma": "Vitis Carut,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Steinbrech.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitis_idaea_nigra",
+    "lemma": "Vitis Idaea nigra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitis_idaea_rubra",
+    "lemma": "Vitis Idaea rubra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitis_vigra",
+    "lemma": "Vitis Vigra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwartze Stuͤck-Wurtzel.",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitis_septentrionalis",
+    "lemma": "Vitis Septentrionalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "425"
+  },
+  {
+    "id": "sommerhoff_vitis_vinifera",
+    "lemma": "Vitis Vinifera.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitis_vinifera",
+    "lemma": "Vitis Vinifera",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitium_lachryma",
+    "lemma": "Vitium Lachryma",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Reben-Wasser",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitraria",
+    "lemma": "Vitraria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "St. Peters Kraut.",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitreus_hyalodes_hyaloides",
+    "lemma": "Vitreus, Hyalodes, Hyaloides,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitri_fel",
+    "lemma": "Vitri Fel.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß Gall.",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitrifictio",
+    "lemma": "Vitrifictio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitrificatioqque_ri",
+    "lemma": "Vitrificatioqque ri,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitri_herba_vitriaria",
+    "lemma": "Vitri Herba, Vitriaria",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß Kraut",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriola",
+    "lemma": "Vitriola",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitrioli_albi_praeparatio",
+    "lemma": "Vitrioli albi praeparatio",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitrioli_liquor",
+    "lemma": "Vitrioli Liquor",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitrioli_nominis_explicatio",
+    "lemma": "Vitrioli Nominis Explicatio.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolorum",
+    "lemma": "Vitriolorum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum",
+    "lemma": "Vitriolum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kupffer-Wasser / est Sal minerale Metallis proximum, de &te & g re participans; varia ejus sunt genera pro natura Minerae quàm in se continet, differentia. Praestat hoc plus minus vè, tàm pro Re- gionum, Locorum, ac Coeli dispositione, quàm ipsius fossilis Materiae ex qua arte conficitur. Prostant Vitriolum, Anglicum, Coeruleum, Cyprium, Gal- licum, Glosslariense, Svecicum, Ungaricum, Romanum & viride &c. Romanum coeteris generibus praecellit, si sincerum sit; Secundum locum obtinet Cyprium. Ungaricum quod Coeruleum, multum quoque commendatur. Quod ex An- glia & inferiori Germania advehitur. Coerulei coloris, non usque quoque lau- dabile est. Gosslariense, quale subviride, herbacei coloris, magis granula- tum, grumosumque instar Salis Communis, paulum unctuosum, manui- que tangentis adhaerens:",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_album",
+    "lemma": "Vitriolum Album,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weiß Kupffer-Wasser, weiß Vickrill / weisser Calitzel- Stein / Kupffer-Rauch. Invenitur in fodinis metallicis vel ex Metallis & corum fontibus praeparatur. Sign. EDEOEI.",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_album_vomitivum",
+    "lemma": "Vitriolum Album Vomitivum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_bohemicum",
+    "lemma": "Vitriolum Bohemicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_cyprianum_seu_de_cypro",
+    "lemma": "Vitriolum Cyprianum seu de Cypro.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Blauer Cyprianischer Victrill oder Ca- litzel-Stein. Advehitur de Cypo & ex Anglia, & pulchrum in Germania quoque praeparatur.",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_fixum",
+    "lemma": "Vitriolum Fixum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_goslariense",
+    "lemma": "Vitriolum Goslariense,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum_liquefactum",
+    "lemma": "Vitriolum Liquefactum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Vieteiol aus Ertz gezogen. Mart. Rul. & Johns. Multa ac varia ex Vitriolo confici possunt Medicamenta, quae ratione praepara- tionis diversae, insignes, multas ac diversas acquirunt Facultates, de qui- bus videatur Schraederus.",
+    "page": "426"
+  },
+  {
+    "id": "sommerhoff_vitriolum",
+    "lemma": "Vitriolum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitriolum_novum",
+    "lemma": "Vitriolum novum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitriolum_romanum",
+    "lemma": "Vitriolum. Romanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitriotum_salisburgense",
+    "lemma": "Vitriotum Salisburgense.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Saltzburger Kupffer Wasset.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitriolum_viride",
+    "lemma": "Vitriolum viride.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gruͤn Kupffer-Wasser.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitriolum_ungaricum",
+    "lemma": "Vitriolum Ungaricum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ungarisch Kupffer-Wasser Vitriolum Salisburgen. se & Ungaricum bona sunt.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitriolum",
+    "lemma": "Vitriolum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum_antimonii",
+    "lemma": "Vitrum Antimonii, .",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Glaß von Spieß-Glaß. Conficitur ex Antimonio optimo subtilissimè gsato per lentissimam Calcinationem, in patina ter- rea non Xtreata, semper cum Spatula agitando donec fumus cessat, po- steà per fortiorem Calcinationem & Fusionem finitur labor.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum",
+    "lemma": "Vitrum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum",
+    "lemma": "Vitrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum_nigrum",
+    "lemma": "Vitrum nigrum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwartz Schmeltz Glaß. Mart. Rul. & Johns.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum_vas",
+    "lemma": "Vitrum Vas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum_venetum_crystallo_simile",
+    "lemma": "Vitrum Venetum & Crystallo simile",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitrum",
+    "lemma": "Vitrum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitulus",
+    "lemma": "Vitulus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Kalb. Propriè dicitur Vaccae proles, unde Bos juvenis appel- latur Gal. L. 11. S. Fac. §. Medulla In usu Medico sunt, Medulla crurum Vituli, Sanguis Vituli & Sevum Vitulinum: Germ. Kalbs-Bein-Marck / Blut und Fett.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vitulus_marinus",
+    "lemma": "Vitulus Marinus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Meer-Kalb. Vid. Phoca.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_viverra",
+    "lemma": "Viverra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_vuarchedamia",
+    "lemma": "Vuarchedamia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_vola",
+    "lemma": "Vola,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Die flache Hand. Lex. Brun.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volans_unquasi",
+    "lemma": "Volans, Unquasi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Queck-Silber. Dorn. & Johnson.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volatile",
+    "lemma": "Volatile,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volatilia",
+    "lemma": "Volatilia",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volema",
+    "lemma": "Volema,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volimis",
+    "lemma": "Volimis.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Oliven. Sylvat.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volsella_labis_forceps",
+    "lemma": "Volsella, Labis, Forceps.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Zange.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volva",
+    "lemma": "Volva,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volubilis_marina_seu_soldanella",
+    "lemma": "Volubilis Marina seu Soldanella.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meer-Koͤhl oder Windten.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_volucrum_majus_circaea_monspeliensis_silvae_mater_mater_sylva",
+    "lemma": "Volucrum majus, Circaea Monspeliensis, Silvae Mater & Mater Sylva,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Waldt-Lilien.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_vomica_liquoris_aeterni",
+    "lemma": "Vomica Liquoris aeterni,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_vomilium",
+    "lemma": "Vomilium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_vomitivum_vomitorium",
+    "lemma": "Vomitivum & Vomitorium",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spey) Mittel.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_vulcanii_vel_vulcanales_paracelso",
+    "lemma": "Vulcanii vel Vulcanales Paracelso",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulcanii_seu_vulcanici",
+    "lemma": "Vulcanii seu Vulcanici",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulgago_baccaris_seu_baccarus_nardus_rustica",
+    "lemma": "Vulgago, Baccaris seu Baccarus, Nardus Rustica.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulgaris",
+    "lemma": "Vulgaris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gemein.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulnereria",
+    "lemma": "Vulnereria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wundt heylende Mittel.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulpanser",
+    "lemma": "Vulpanser,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulpis_siv_vulpecula_axungia",
+    "lemma": "Vulpis sivè Vulpecula Axungia",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Fuchs-Schmaltz / est Pinguedo Animalis Quadrupedis digitati, vivipari, dolosi & astuti satis noti, Naturae Caninae quodammodo participis. Praeparatur quoque de Vulpe cum reliquis in- gredientibus per coctionem Oleum itemque Linctus vel Loch de Pulmone Vulpia.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_vulpis_pulmo",
+    "lemma": "Vulpis Pulmo.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Fuchs Lunge.",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_vulsella",
+    "lemma": "Vulsella,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine geuer-Zange & Labis, Forceps.",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_vultur",
+    "lemma": "Vultur.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_vulvaria",
+    "lemma": "Vulvaria.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Scham Kraut.",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_vnos",
+    "lemma": "Vnos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wein. Matth. Sylvat.",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_vergtaubenkropff_oder_berg_erdrauch",
+    "lemma": "Vergtaubenkropff oder Berg Erdrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "448"
+  },
+  {
+    "id": "sommerhoff_vergwachs",
+    "lemma": "Vergwachs /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "448"
+  },
+  {
+    "id": "sommerhoff_vltis",
+    "lemma": "Vltis /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_von_jericho",
+    "lemma": "von Jericho /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "505"
+  },
+  {
+    "id": "sommerhoff_valerian",
+    "lemma": "VAlerian /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogener_ani",
+    "lemma": "Vberzogener Aniß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogene_cubeben",
+    "lemma": "Vberzogene Cubeben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogener_fenchel",
+    "lemma": "Vberzogener Fenchel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogener_ku_mmel",
+    "lemma": "Vberzogener Kuͤmmel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogne_mandeln",
+    "lemma": "Vberzogne Mandeln /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogener_wurmsamen",
+    "lemma": "Vberzogener Wurmsamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vberzogener_zimmet",
+    "lemma": "Vberzogener Zimmet /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vchtblum",
+    "lemma": "Vchtblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vehedistel",
+    "lemma": "Vehedistel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veldt_marter",
+    "lemma": "Veldt-Marter /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veilblum",
+    "lemma": "Veilblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veilbraune_welsche_violen",
+    "lemma": "Veilbraune welsche Violen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veilkraut",
+    "lemma": "Veilkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veilreben",
+    "lemma": "Veilreben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veilsamen",
+    "lemma": "Veilsamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_veilwurtzel",
+    "lemma": "Veilwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_venedisches_gla",
+    "lemma": "Venedisches Glaß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_venedischer_ku_mmel",
+    "lemma": "Venedischer Kuͤmmel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_venedische_pappeln_oder_ro_slein",
+    "lemma": "Venedische Pappeln oder Roͤslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_venedische_rosen",
+    "lemma": "Venedische Rosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_venushaar",
+    "lemma": "Venushaar /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_venusstrehl",
+    "lemma": "Venusstrehl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_verbru_the_ku_chlein",
+    "lemma": "Verbruͤthe Kuͤchlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vergi_mein_nicht",
+    "lemma": "Vergiß mein nicht",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vergi_mein_nicht",
+    "lemma": "Vergiß mein nicht",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vermeinte_hirschzung",
+    "lemma": "Vermeinte Hirschzung /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vermeinter_peterlein_aus_alerandria",
+    "lemma": "Vermeinter Peterlein aus Alerandria /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vermeinte_schwartze_nie_wurtzel",
+    "lemma": "Vermeinte schwartze Nießwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vermeinte_weisse_nie_wurtz",
+    "lemma": "Vermeinte weisse Nießwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vermeinter_zu_rgelbaum",
+    "lemma": "Vermeinter Zuͤrgelbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vermilion_oder_bereiter_zinnober",
+    "lemma": "Vermilion oder bereiter Zinnober /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_versch_oder_versig",
+    "lemma": "Versch oder Versig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_vierbla_tterichter_steinklee",
+    "lemma": "Vierblaͤtterichter Steinklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_violen",
+    "lemma": "Violen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_violbraune_welsche_violen",
+    "lemma": "Violbraune welsche Violen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_violenkraut",
+    "lemma": "Violenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_violenreben",
+    "lemma": "Violenreben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_violensamen",
+    "lemma": "Violensamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_violenwurtzel",
+    "lemma": "Violenwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vipern",
+    "lemma": "Vipern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vipernschmaltz",
+    "lemma": "Vipernschmaltz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vitriol",
+    "lemma": "Vitriol /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vlmenbaum",
+    "lemma": "Vlmenbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarische_blaue_waldreben",
+    "lemma": "Vngarische blaue Waldreben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarische_feldziviebel",
+    "lemma": "Vngarische Feldziviebel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarische_feilwurtzel_oder_feigelwurtz",
+    "lemma": "Vngarische Feilwurtzel oder Feigelwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarische_ginster",
+    "lemma": "Vngarische Ginster /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarische_quetschen_oder_zwetschen",
+    "lemma": "Vngarische Quetschen oder Zwetschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarischer_spindelbaum",
+    "lemma": "Vngarischer Spindelbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarischer_wegdorn_oder_creutzbeer",
+    "lemma": "Vngarischer Wegdorn oder Creutzbeer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngarische_violenwurtzel_oder_feigelwurtz",
+    "lemma": "Vngarische Violenwurtzel oder Feigelwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vngeleschter_kalck_oder_kalch",
+    "lemma": "Vngeleschter Kalck oder Kalch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnholdenkertzen",
+    "lemma": "Vnholdenkertzen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnholdenkraut",
+    "lemma": "Vnholdenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnkraut",
+    "lemma": "Vnkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnnu_tze_sorgen",
+    "lemma": "Vnnuͤtze Sorgen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_balsam_oder_mu_ntz",
+    "lemma": "Vnser Lieben Frauen Balsam oder Muͤntz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_bettstroh",
+    "lemma": "Vnser Lieben Frauen Bettstroh /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_distel",
+    "lemma": "Vnser Lieben Frauen Distel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_ei",
+    "lemma": "Vnser Lieben Frauen Eiß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_flachs",
+    "lemma": "Vnser Lieben Frauen Flachs /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_handschuh",
+    "lemma": "Vnser Lieben Frauen Handschuh /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_lilgen_oder_lilien",
+    "lemma": "Vnser Lieben Frauen Lilgen oder Lilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_mantel",
+    "lemma": "Vnser Lieben Frauen Mantel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_mu_ntz_oder_balsam",
+    "lemma": "Vnser Lieben Frauen Muͤntz oder Balsam /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_schu_hlein",
+    "lemma": "Vnser Lieben Frauen Schuͤhlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnser_lieben_frauen_wegstroh",
+    "lemma": "Vnser Lieben Frauen Wegstroh /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnterscheid_so_zwischen_den_nu_kern_ist",
+    "lemma": "Vnterscheid so zwischen den Nußkern ist /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnzeitige_na_gelein",
+    "lemma": "Vnzeitige Naͤgelein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnzeitiger_pfeffer",
+    "lemma": "Vnzeitiger Pfeffer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vnzeitiger_traubensafft",
+    "lemma": "Vnzeitiger Traubensafft /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelsbeer",
+    "lemma": "Vogelsbeer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelshertzlein",
+    "lemma": "Vogelshertzlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelskraut",
+    "lemma": "Vogelskraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelsleim",
+    "lemma": "Vogelsleim /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelsnest",
+    "lemma": "Vogelsnest /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelswicken_oder_wilde_wicken",
+    "lemma": "Vogelswicken oder wilde Wicken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vogelszu_nglein",
+    "lemma": "Vogelszuͤnglein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_vorsto",
+    "lemma": "Vorstoß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  }
+]

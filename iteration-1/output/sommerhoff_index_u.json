@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "sommerhoff_umbilicus_veneris_cymbalaria",
+    "lemma": "Umbilicus Veneris, Cymbalaria.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_ungarica_berba_simeonis_herba_alcea",
+    "lemma": "Ungarica berba, Simeonis herba, alcea.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pflug-Wurtz.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_unguis_aquilae_batis_batis_marina",
+    "lemma": "Unguis Aquilae, Batis & Batis marina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meet-, Fenchel / oder Bacillen /",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_unifolium_monophydum_gramen_parnassi",
+    "lemma": "Unifolium, Monophydum. Gramen Parnassi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Einbladt. crescit in sylvo- sis locis.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_uninaria_seris",
+    "lemma": "Uninaria seris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfäffen-Röhrlein.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_urinalis_herba",
+    "lemma": "Urinalis herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lein Kraut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_urtica_mortua",
+    "lemma": "Urtica mortua,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_urtica_urens_major_minor_asperior_urtica_communis_foemina_urtica_urens_ma",
+    "lemma": "Urtica urens major & minor asperior, Urtica communis, foemina, Urtica urens ma- xima, syl vestris, vulgaris, Urtica urens altera, Acalyphe.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grosse ge- meine und auch kleine und heisse Brennessel / Heydternessel. Crescit passim lo- cis arenosis juxta muros ac sepes,",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_usnea_officinarum_muscus_cranio_adnatus",
+    "lemma": "Usnea Officinarum, Muscus Cranio adnatus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Todten-Kopff-Mooß.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_uvaherba_botrys_quercula_peregrina_artemisia_turcica_patientia_italorum",
+    "lemma": "Uvaherba, Botrys Quercula peregrina, Artemisia Turcica, Patientia Italorum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Trauben-Kraut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_uva_versa_seu_lupina",
+    "lemma": "Uva versa seu lupina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_uvularia",
+    "lemma": "Uvularia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zapfflein-Kraut.",
+    "page": "201"
+  },
+  {
+    "id": "sommerhoff_uaceratio",
+    "lemma": "uaceratio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weichung Lex. Brun.",
+    "page": "247"
+  },
+  {
+    "id": "sommerhoff_ulissipona_ulyssipona",
+    "lemma": "Ulissipona & Ulyssipona,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_ulixatrum",
+    "lemma": "Ulixatrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Petersilgen. atth. Syl vat.",
+    "page": "427"
+  },
+  {
+    "id": "sommerhoff_uimaria_seu_barba_caprina_regina_prati",
+    "lemma": "Uimaria seu Barba Caprina, Regina Prati.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Geyß Bardt.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ulmus",
+    "lemma": "Ulmus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rust Baum oder Rust Holtz / Lindt-Bast oder Ulmen-Baum.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ulphonos",
+    "lemma": "Ulphonos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ulpha_lapsatura",
+    "lemma": "Ulpha, Lapsatura,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ulrach",
+    "lemma": "Ulrach,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Drachen-Blut.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ulula",
+    "lemma": "Ulula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbellae",
+    "lemma": "Umbellae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbilicus_marinus_seu_fabae_marinae",
+    "lemma": "Umbilicus Marinus seu Fabae Marinae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meer-Bone oder Meer Nebel. Est Te- staceum quoddam planum, ab una parte rubrum, ab altera fuscum. Habentur majora & minora.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbilicus_terrae_malum_terrae_panis_terrae",
+    "lemma": "Umbilicus Terrae, malum Terrae, Panis Terrae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Erdt- Aepffel.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbilicus_veneris",
+    "lemma": "Umbilicus Veneris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbilicus_veneris_marinus_lapis",
+    "lemma": "Umbilicus Veneris Marinus, Lapis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbla",
+    "lemma": "Umbla,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umblici_marini",
+    "lemma": "Umblici Marini,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbra",
+    "lemma": "Umbra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_umbragines",
+    "lemma": "Umbragines",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unca",
+    "lemma": "Unca,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Queck Silber. Mart. Rulandus.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_uncia",
+    "lemma": "Uncia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Gewicht von 2. Loth",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unctio",
+    "lemma": "Unctio",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Salbung oder Einsalbung.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unctuositas_seu_unctuosus",
+    "lemma": "Unctuositas seu Unctuosus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unda",
+    "lemma": "Unda,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wasser. Lex. Brun.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unda_vel_undenae",
+    "lemma": "Unda vel Undenae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_undosa",
+    "lemma": "Undosa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unefera_unephera_maronia_maronium",
+    "lemma": "Unefera & Unephera, Maronia & Maronium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rhavon- tica.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ung_ungt",
+    "lemma": "Ung & Ungt.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ungarica_herba_simeonis_herba_alcea",
+    "lemma": "Ungarica Herba, Simeonis Herba, Alcea.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "PflugWurtzet. vid Herbas.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_ungosae",
+    "lemma": "Ungosae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Aller Koth/ so von Men- schen und Thieren gehet. Dorn. Mart. Rul. & Johnsonus.",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unguenta_4_calida",
+    "lemma": "Unguenta 4. Calida,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "428"
+  },
+  {
+    "id": "sommerhoff_unguenta_4_frigida",
+    "lemma": "Unguenta 4. Frigida,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguentarius",
+    "lemma": "Unguentarius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguentum_ab_unguendo",
+    "lemma": "Unguentum ab Unguendo.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Salben oder Schmieren / est Medicamentum ex- ternum, quod consistentiam Linimento paulo crassiorem habet. Germ. Eine Salbe. Lex. Brun.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguentum_apostolorum_it",
+    "lemma": "Unguentum Apostolorum, ità",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguentum_croceum",
+    "lemma": "Unguentum Croceum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguentum_de_cyclamine",
+    "lemma": "Unguentum de Cyclamine,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguiculi",
+    "lemma": "Unguiculi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Knoͤpfflein. vid Alabastri.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguis_aquilae_batis_batis_marina",
+    "lemma": "Unguis Aquilae, Batis & Batis Marina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bacillen oder Meer-Fenchel.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unguis_odoratus",
+    "lemma": "Unguis odoratus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Indianische Muschel-Schalen",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_ungula",
+    "lemma": "Ungula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Klauen.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_ungula_alcis",
+    "lemma": "Ungula Alcis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Elendts-Klaue / praefertur quae à posteriore Dextro Pede sumitur; apportantur ex Locis Orientalibus, Lit- taw, Lapland & aliis Locis.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_ungula_caballina_farfara_tussilago",
+    "lemma": "Ungula Caballina. Farfara, Tussilago.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Huff-Lattig.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unicornu",
+    "lemma": "Unicornu.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Horn / diversarum Rerum nomen est.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unciornu_fossile_cornu_fossile_ebur_fossile_lapis_ceratites",
+    "lemma": "Unciornu fossile, Cornu fossile, Ebur fossile, Lapis Ceratites,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gegraben Ein-Horn / gegraben Helffen-Bein. Invenitur tam crassum ac magnum saepiùs, ut à nullo un- quàm Animali produci potuerit. Substantia Lapidea, semper & vel dura vel levis seu mollis est. Reperitur in variis Locis Germaniae, propè Elbin- gerodam oppidum Comitatûs Stollbergensis, propè Heydelbergam, Hil- desheimium, item in Moraevia, Silesia, Saxonia. Hassia, multisque Locis a- liis; vid Etmullerus, Kircherus, Schraederus & alii.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unicarau_marinum",
+    "lemma": "Unicarau Marinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unicornu_minerale",
+    "lemma": "Unicornu Minerale,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unicornu_solare",
+    "lemma": "Unicornu Solare,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unicornu_verum_unicornis_remena_reem_reim_alcherchedom",
+    "lemma": "Unicornu Verum, & Unicornis, Remena, Reem & Reim, Alcherchedom.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unifoli_m_monophyllum_gramen_parnassi",
+    "lemma": "Unifoliùm, Monophyllum, Gramen Parnassi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein-Bladt.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_uniones_margaritae_aut_perlae",
+    "lemma": "Uniones, Margaritae aut Perlae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Perlein. Sunt Gemmae Maritimae quaedam species. videantur Margaritae.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unitas_vel_idem_quod_unio_unitio_vel_monas_denotat_unarium_numerum",
+    "lemma": "Unitas, vel idem, quod unio, Unitio, vel Monas, & denotat Unarium numerum Spagyricum & Mysticum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_universale_seu_catholicum_aliquando",
+    "lemma": "Universale seu Catholicum, aliquando",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_unquasi_volans",
+    "lemma": "Unquasi, Volans,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Queck-Silber. Dorn. & Johns.",
+    "page": "429"
+  },
+  {
+    "id": "sommerhoff_upupa_avis",
+    "lemma": "Upupa, Avis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_uranios",
+    "lemma": "Uranios,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_uranoscopos_callionymos",
+    "lemma": "Uranoscopos, Callionymos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urargiros",
+    "lemma": "Urargiros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urcealis_urceolaris",
+    "lemma": "Urcealis & Urceolaris",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_uredines",
+    "lemma": "Uredines,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urema",
+    "lemma": "Urema,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Urin. Hippocr. de Nat. hum. t. 19. & 20.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urens_seu_urentia",
+    "lemma": "Urens seu Urentia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_uretica",
+    "lemma": "Uretica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Urin treibende Mittel.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_uri_pili",
+    "lemma": "Uri Pili",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urina_g",
+    "lemma": "Urina G).",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Urin / est Sal resolutum generatum in Hepate (in quo fallun- tur) per suum Emunctorium, ut superfluum excrementum Salis, à Natura pulsum. Dorn. M. Rul. & Johns. Sign. 6+. J, SQ, E, G, 6I- VR X X",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urina_puelarum",
+    "lemma": "Urina Puelarum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urina_puerorum",
+    "lemma": "Urina Puerorum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urina_vini",
+    "lemma": "Urina Vini,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essig/ & usurpatur pro Hominis Cna, vi- num assiduè bibentis. Dorn. Mart. Rul. & Jobnson.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urinatis_herba_osyris_linum_beatae_mariae_linaria",
+    "lemma": "Urinatis Herba, Osyris, Linum Beatae Mariae, Linaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lein Kraut.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urinatis_seu_utinatoria_galix_remora_aratri_resta_bovis",
+    "lemma": "Urinatis seu Utinatoria galix, Remora Aratri, Resta Bovis.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Heu Hechel- Wurtzel",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urinaria_seris",
+    "lemma": "Urinaria Seris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfaffen-Roͤhrlein.",
+    "page": "430"
+  },
+  {
+    "id": "sommerhoff_urinator",
+    "lemma": "Urinator,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urinosa",
+    "lemma": "Urinosa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urna",
+    "lemma": "Urna",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_uron_e_lotium",
+    "lemma": "Uron, E, Lotium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Harn /Bruntz. Lexic Brun.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_ursi_axungia",
+    "lemma": "Ursi Axungia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Beeren-Schmaltz est Pinguedo Animalis Quadrupedis fe- ri, Crudelis, Catarrhosi, Phlegmatici, Lumbis robustissimi, Lascivi, per Se- ptimanas aliquot continuas dormientis. &c. Plura lege apud Aldrov. Libr. 1. de Quadrup. dig. Vivip. c. 5.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_ursub_usrub_uzurub",
+    "lemma": "Ursub, Usrub, Uzurub",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urtica",
+    "lemma": "Urtica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Nessel",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urtica_innoxia_lamium",
+    "lemma": "Urtica Innoxia, Lamium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Tode Nessel- Blu- men.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urtica_labeo_fuchsii_ocymastrum_ferraria_ficaria_major",
+    "lemma": "Urtica Labeo Fuchsii, Ocymastrum, Ferraria, Ficaria major,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Braun Wurtzel.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urtica_lactea_anonium_lamium",
+    "lemma": "Urtica Lactea, Anonium, Lamium:",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Todte Nessel- Blumen.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urtica_mortua",
+    "lemma": "Urtica Mortua.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Todte Nesseln.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urtica",
+    "lemma": "Urtica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_urus",
+    "lemma": "Urus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_ussida",
+    "lemma": "Ussida,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Goldt-Reinigung. Mart. Rul. & Jobns.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usia",
+    "lemma": "Usia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usifur",
+    "lemma": "Usifur",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usifur",
+    "lemma": "Usifur",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mening. Vafur idem Mat. Rul.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usnea",
+    "lemma": "Usnea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mooß von Menschen Hirn-Schale. Legatur Schraed. & Frid. Hanffin. & Bekerus in Microc. Medic.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usrub_ursub_uzurup",
+    "lemma": "Usrub, Ursub; Uzurup,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_ustio",
+    "lemma": "Ustio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_ustulatio",
+    "lemma": "Ustulatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_ulstus",
+    "lemma": "Ulstus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usurat",
+    "lemma": "Usurat,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zinn. Mmart. Rul.",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_usus",
+    "lemma": "Usus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_utensilia",
+    "lemma": "Utensilia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_uteraria",
+    "lemma": "Uteraria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "431"
+  },
+  {
+    "id": "sommerhoff_uterinum_singulare",
+    "lemma": "Uterinum Singulare,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uterus_spagyricus",
+    "lemma": "Uterus Spagyricus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_utilis_utilitas",
+    "lemma": "Utilis, Utilitas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gebrauch.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva",
+    "lemma": "Uva,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Traube.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva_crispa_uva_marina_ceanothus_asper_theophr_grossularia",
+    "lemma": "Uva Crispa, Uva. Marina, Ceanothus asper Theophr. Grossularia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Krussel- Beer / Kloster-Beer. Crescunt in Hortis & Sepibus.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva_herba_botrys_artemesia_turcica_patientia_italorum",
+    "lemma": "Uva Herba, Botrys, Artemesia Turcica, Patientia Italorum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Trauben- Kraut.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva_damascenae_majores_ac_meliores",
+    "lemma": "Uva Damascenae majores ac meliores",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grosse blaue Rosinen.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva_hermetis",
+    "lemma": "Uva Hermetis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_immaturae",
+    "lemma": "Uvae Immaturae",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_johannis_nigrae",
+    "lemma": "Uvae Johannis nigrae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwartze Joh. Trauben. Crescunt n Hortis.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_johannis_rubrae_ceanothi_leves_rubri_theophrasti_grassularia_ribes",
+    "lemma": "Uvae Johannis rubrae, Ceanothi leves rubri Theophrasti, Grassularia, Ribes.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_lupine_versae_vulpinae",
+    "lemma": "Uvae Lupine, Versae & Vulpinae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_lupinae_seu_vulpis",
+    "lemma": "Uvae Lupinae seu vulpis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Nacht Schatten.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_marinae_vel_coophyton",
+    "lemma": "Uvae Marinae vel Coophyton",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva_passae_majores_seu_passulae_majores_vulg",
+    "lemma": "Uva Passae majores seu Passulae majores vulg. Germ. Grosse Rosinen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grosse Rosinen /",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_passae_minores_seu_passulae_minores_corinthiarae",
+    "lemma": "Uvae Passae minores seu Passulae minores Corinthiarae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kleine Rosinen / Corin- then Wein Beerlein. Crescunt in Candia, Castilia, Maltha, Moluca, Zanda & aliis Locis.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uva_quercinae",
+    "lemma": "Uva Quercinae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_serventine",
+    "lemma": "Uvae Serventine.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zaun Rüben.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_sylvestres",
+    "lemma": "Uvae Sylvestres.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Stephans-Koͤrner.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_versae_seu_fupinae_vel_vulpinae",
+    "lemma": "Uvae Versae seu Fupinae vel Vulpinae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvae_vulpine_lupinae",
+    "lemma": "Uvae Vulpine & Lupinae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Nacht Schatten. Ità à quibusdam nominantur.",
+    "page": "432"
+  },
+  {
+    "id": "sommerhoff_uvularia_lingua_pagana_hippoglossum",
+    "lemma": "Uvularia, Lingua pagana, Hippoglossum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Raͤpfflein Kraut /",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_uxor",
+    "lemma": "Uxor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_uzifur_uzufar_uzufur",
+    "lemma": "Uzifur, Uzufar, Uzufur,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zinnober. Dorn. Mart. Rul. & Johns. vocatur & Usifur Th. Chym. Vol. II. p. 436. Forest. L. 30. Obs. 8.",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_uzurup_ursub_usrub",
+    "lemma": "Uzurup, Ursub, Usrub",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "433"
+  },
+  {
+    "id": "sommerhoff_u_rckischer_hanenfu",
+    "lemma": "uͤrckischer Hanenfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "522"
+  },
+  {
+    "id": "sommerhoff_ulmerrosen",
+    "lemma": "Ulmerrosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungarischer_bathengel",
+    "lemma": "Ungarischer Bathengel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungarische_creutzbeer_oder_wegdorn",
+    "lemma": "Ungarische Creutzbeer oder Wegdorn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungarisches_leimkraut",
+    "lemma": "Ungarisches Leimkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungarische_scorzoner",
+    "lemma": "Ungarische Scorzoner /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungarischer_wilder_flachs",
+    "lemma": "Ungarischer wilder Flachs /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungarische_zeitlosen",
+    "lemma": "Ungarische Zeitlosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungerkraut",
+    "lemma": "Ungerkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_ungewaschene_wolle",
+    "lemma": "Ungewaschene Wolle /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  },
+  {
+    "id": "sommerhoff_unzeitige_feigen",
+    "lemma": "Unzeitige Feigen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "523"
+  }
+]

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alchemical Dictionary Browser</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        header {
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        #controls {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            margin-bottom: 10px;
+            flex-wrap: wrap; /* Allow wrapping on small screens */
+        }
+        #letter-selector button {
+            padding: 5px 8px;
+            margin: 2px;
+            cursor: pointer;
+            min-width: 30px; /* Ensure buttons have some width */
+            border: 1px solid #ccc;
+            background-color: #eee;
+        }
+         #letter-selector button.active {
+             background-color: #007bff;
+             color: white;
+             border-color: #0056b3;
+         }
+          #letter-selector button:disabled {
+              cursor: not-allowed;
+              opacity: 0.5;
+              background-color: #f8f8f8;
+          }
+        main {
+            display: flex;
+            flex-grow: 1; /* Takes remaining height */
+            gap: 15px;
+            overflow: hidden; /* Prevent layout issues */
+            margin-top: 10px;
+        }
+        #entry-list-container, #entry-detail-container {
+            border: 1px solid #ccc;
+            padding: 10px;
+            overflow-y: auto; /* Enable scrolling */
+            height: 100%; /* Fill available vertical space */
+            box-sizing: border-box;
+        }
+        #entry-list-container {
+            flex: 1; /* Adjust ratio as needed */
+            min-width: 200px; /* Ensure list is usable */
+        }
+        #entry-detail-container {
+            flex: 3; /* Adjust ratio as needed */
+        }
+        #entry-list ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        #entry-list li {
+            padding: 5px 2px;
+            cursor: pointer;
+            border-bottom: 1px solid #eee;
+            word-wrap: break-word; /* Prevent long lemmas overflowing */
+        }
+        #entry-list li:hover {
+            background-color: #f0f0f0;
+        }
+        #entry-list li.selected {
+             font-weight: bold;
+             background-color: #e0e0e0;
+        }
+        #entry-detail h3 {
+            margin-top: 0;
+            word-wrap: break-word;
+        }
+         #entry-detail p small {
+             color: #666;
+         }
+        #entry-detail .label {
+            font-weight: bold;
+            margin-top: 10px; /* Increased spacing */
+            margin-bottom: 3px;
+            display: block;
+            color: #333;
+        }
+        #entry-detail .definition,
+        #entry-detail .variants,
+        #entry-detail .translations,
+        #entry-detail .symbols,
+        #entry-detail .references {
+             margin-left: 10px;
+             font-size: 0.95em;
+             line-height: 1.5;
+             color: #222; /* Slightly darker text */
+        }
+         #entry-detail .definition {
+             margin-bottom: 10px; /* Space after definition */
+         }
+          #entry-detail .variants { font-style: italic; color: #444; }
+         #entry-detail .symbols { margin-top: 5px; }
+         #entry-detail .symbol {
+              font-family: 'Segoe UI Symbol', 'Noto Sans Symbols 2', sans-serif; /* Ensure symbols render */
+              font-size: 1.2em; /* Slightly larger symbols */
+              margin-right: 7px; /* More spacing */
+              display: inline-block;
+              min-width: 1em;
+              text-align: center;
+              cursor: default; /* Indicate non-interactive */
+              vertical-align: middle; /* Align better with text */
+         }
+          #entry-detail ul.references {
+               list-style: disc;
+               padding-left: 20px; /* Indent list */
+               margin-top: 0;
+          }
+           #entry-detail ul.references li {
+                margin-bottom: 3px;
+           }
+        #status-indicator {
+            margin-top: 5px;
+            font-style: italic;
+            color: #555;
+            height: 1.5em; /* Reserve space */
+            text-align: right; /* Align status to the right */
+        }
+        .loading {
+            cursor: wait !important;
+        }
+         .loading * {
+            pointer-events: none; /* Prevent interaction during load */
+         }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Alchemical Dictionary Browser</h1>
+        <div id="controls">
+            <div> <label for="dictionary-select">Select Dictionary:</label>
+                <select id="dictionary-select" disabled> <option value="" disabled selected>Loading...</option>
+                    </select>
+            </div>
+            <div id="letter-selector">
+                <span>Loading letters...</span>
+            </div>
+        </div>
+        <div id="status-indicator">Initializing...</div>
+    </header>
+
+    <main>
+        <div id="entry-list-container">
+            <h2>Entries (<span id="current-letter"></span>)</h2>
+            <div id="entry-list">
+                <ul></ul>
+            </div>
+        </div>
+        <div id="entry-detail-container">
+            <h2>Details</h2>
+            <div id="entry-detail">
+                <p>Select an entry from the list.</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // --- Configuration for the DictionaryDataLoader ---
+        const config = {
+            // IMPORTANT: Adjust 'dataPath' relative to this index.html file
+            dataPath: '../output/'
+        };
+        // --------------------------------------------------
+    </script>
+
+    <script src="js/load.js"></script>
+    <script src="js/browse.js"></script>
+
+</body>
+</html>

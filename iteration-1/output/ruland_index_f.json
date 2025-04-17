@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "Ruland1612-FAbaagrestis",
+    "lemma": "FAbaagrestis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Frigbonen",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Faba",
+    "lemma": "Faba ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das dritte Theil/ei¬nes Strupels oder Quintleins",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fabiola",
+    "lemma": "Fabiola ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bonen Blut",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Facinum",
+    "lemma": "Facinum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist Ertz.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Falcanos",
+    "lemma": "Falcanos ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fasces-virgultorum",
+    "lemma": "Fasces virgultorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gebundt Reissig.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fasdir,-id-est,-sasdir",
+    "lemma": "Fasdir, id est, sasdir ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fass-nimateria",
+    "lemma": "Fass nimateria ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fatum",
+    "lemma": "Fatum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fauonius",
+    "lemma": "Fauonius ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "West",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Faulex",
+    "lemma": "Faulex ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fecla",
+    "lemma": "Fecla ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Feces",
+    "lemma": "Feces ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Todten Kopff.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Feces-candidae",
+    "lemma": "Feces candidae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fedum",
+    "lemma": "Fedum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fellech,-faules",
+    "lemma": "Fellech, faules ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fel-vitri",
+    "lemma": "Fel vitri",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Glaß Gall",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fel-draconis",
+    "lemma": "Fel draconis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Fella",
+    "lemma": "Fella .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist Schwefel Wasser.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Femina",
+    "lemma": "Femina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferramenta",
+    "lemma": "Ferramenta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ehserne Schlengel/Hammergezeuge.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferramentum-primum",
+    "lemma": "Ferramentum primum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bergeisen",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferramentum-secundum",
+    "lemma": "Ferramentum secundum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ruz Eysen",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferramentum-quartum",
+    "lemma": "Ferramentum quartum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Fimmel",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferramento-exposita",
+    "lemma": "Ferramento exposita ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Treiben vnder den Klotz.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferrum-signatorium",
+    "lemma": "Ferrum signatorium ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gegraben Stempel.",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferrum-Indicum",
+    "lemma": "Ferrum Indicum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "218"
+  },
+  {
+    "id": "Ruland1612-Ferrum",
+    "lemma": "Ferrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eisen",
+    "page": "219"
+  },
+  {
+    "id": "Ruland1612-Ferri-recrementa-nigra-,-Schwartzer-Sinder-.-1.-Cinerea.-2.-Coerulea.-4.-De¬3.-Fabrorum,-Schmidtschlacken-oder-Sinder.-RVLANDI-PHIL.-ET-MEDICI.-211-4.-Desilientia-de-massa-ferrea-calida,-quando-densatur,-&-pulsatum-malleis-ligneis-in-massam-redigitur,-Eisen-/-daß-da-abspringt/wann-man-es-zusammen-treibt-.-5.-Bracteae,-quo-de-ferro-desiliunt,-quando-bacilla-malleis-ma¬gnis-faciunt,-quibus-postea-fabri-ferrum-acuunt,-Grosser-Hammerschlack-/-damit-die-Schndt-staͤhlen.",
+    "lemma": "Ferri recrementa nigra ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Schwartzer Sinder",
+    "page": "223"
+  },
+  {
+    "id": "Ruland1612-Ferri-scobs-elimata-,-Eisen-feilich.",
+    "lemma": "Ferri scobs elimata ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Eisen feilich.",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Ferrugo",
+    "lemma": "Ferrugo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sindelstein.",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Ferrugo",
+    "lemma": "Ferrugo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rost",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Fermentatio",
+    "lemma": "Fermentatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Fermentatio",
+    "lemma": "Fermentatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Fermentum-album",
+    "lemma": "Fermentum album ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Fermentum",
+    "lemma": "Fermentum .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ferment ist Elixir, Sawrteigl Deysseul Hefell 212 LEXICON ALCHEMIAE MART. oder Vrhed wie mans neuet / macht das corpus luͤck daß auff¬gehetlound der spiritus Platz findet / damit es zum backen ge¬schickt werde: Wie nun das Meel kein Hefel ist / sonder das Meel ond Wassersondder gantze Trig wird durchsaͤwer / vi eitel Hefell also ist auch allhie der lapis selbs das ferment, doch wirdt Gold und Mercurius auch terment genennet.",
+    "page": "224"
+  },
+  {
+    "id": "Ruland1612-Fermentum",
+    "lemma": "Fermentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "225"
+  },
+  {
+    "id": "Ruland1612-Feruere",
+    "lemma": "Feruere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Socken",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Feru,-zegi",
+    "lemma": "Feru, zegi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fexa",
+    "lemma": "Fexa",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hefen oder Berme",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fex-vitri",
+    "lemma": "Fex vitri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fibulae",
+    "lemma": "Fibulae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Anwuͤrffe, Schlurffen / Rhorberg.",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fibula-ferrea",
+    "lemma": "Fibula ferrea ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Klammer/Klemmer.",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fibulae-ferreae-ter-curuatae-,-Kropen-/auff-drey-Orten-verbrochen-.",
+    "lemma": "Fibulae ferreae ter curuatae ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Kropen /auff drey Orten verbrochen",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Ficus-cutis",
+    "lemma": "Ficus cutis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Die Wartz an dem Kme deß Rosses, der Muter dienstlich",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fida",
+    "lemma": "Fida ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gold oder Silber",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fidda,-Fidhe",
+    "lemma": "Fidda, Fidhe ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fider,-fidex",
+    "lemma": "Fider, fidex ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Fido",
+    "lemma": "Fido ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Figere",
+    "lemma": "Figere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist fix machen staß im Feiwr bestehe.",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Figura-disci",
+    "lemma": "Figura disci ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Auge",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Filletin",
+    "lemma": "Filletin ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eisen Plech.",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Filius",
+    "lemma": "Filius ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Der Sohnidas Kindt",
+    "page": "226"
+  },
+  {
+    "id": "Ruland1612-Filius-vnius",
+    "lemma": "Filius vnius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "auch der ge¬borne Stein der gespeiset widt / vnnd der Mercurius, der die Sonn oder den Vatter ombbringet",
+    "page": "227"
+  },
+  {
+    "id": "Ruland1612-Filius-vnius-diei-,-id-est,-lapis-Philosophicus,-der-Philosophisch(Stein.",
+    "lemma": "Filius vnius diei ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "der Philosophisch(Stein.",
+    "page": "227"
+  },
+  {
+    "id": "Ruland1612-Filius-vnius-diei",
+    "lemma": "Filius vnius diei ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "227"
+  },
+  {
+    "id": "Ruland1612-Filius-Veneris",
+    "lemma": "Filius Veneris ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Messeng oder Moͤsch.",
+    "page": "227"
+  },
+  {
+    "id": "Ruland1612-Filtratio",
+    "lemma": "Filtratio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Filtratio",
+    "lemma": "Filtratio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Filtriren",
+    "lemma": "Filtriren ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Durch ein Filtz-oder wuͤllen Tuchreinigen.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Filum-arsenicale",
+    "lemma": "Filum arsenicale ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Filum-ex-alumine-plumoso-,-Jungfraw-Faden.",
+    "lemma": "Filum ex alumine plumoso ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Jungfraw Faden.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fimus-equinus",
+    "lemma": "Fimus equinus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Pferdemist ist ein feuchte Waͤrme.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fiola",
+    "lemma": "Fiola ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Glaß mit eim langen Halß.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Firex",
+    "lemma": "Firex ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Firfir",
+    "lemma": "Firfir ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Firmamentum",
+    "lemma": "Firmamentum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Lasur",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fisarum",
+    "lemma": "Fisarum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fistula",
+    "lemma": "Fistula ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Fistel.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fistula",
+    "lemma": "Fistula ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Welchin / Form-Rohr.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fissuras-agere-vel-adigere",
+    "lemma": "Fissuras agere vel adigere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ritz hawen.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fixio,-oder-fixatio",
+    "lemma": "Fixio, oder fixatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "bestaͤndig machenffigiren.",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fixatio",
+    "lemma": "Fixatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wenn es gar duͤrr ond fest wirdi / daß sichs nicht mehr in Was¬ser resoluirt, sonder in Fewer bestetzet",
+    "page": "228"
+  },
+  {
+    "id": "Ruland1612-Fixio",
+    "lemma": "Fixio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zaͤhmachung oder Stetmachung.",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Fyada",
+    "lemma": "Fyada ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flammula",
+    "lemma": "Flammula ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hanenfuß",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flagae",
+    "lemma": "Flagae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Etwas daß wir nit sehen / vnd doch bey ons ist in vnsern verborgenen Worten und Wercken",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flegmon",
+    "lemma": "Flegmon ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Blut Eyß",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flos",
+    "lemma": "Flos",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Florificiren",
+    "lemma": "Florificiren ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "oder Blumen machen",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flos-aeris",
+    "lemma": "Flos aeris ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flos-aeris",
+    "lemma": "Flos aeris ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist das coagulum, Beyß oder Lipplder Mann-sovber das Weibewircket ist der Geist deß Mannes / der das Werck vollendet. Flos, Diumsist das extract.",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flos-cheiri",
+    "lemma": "Flos cheiri",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flos-salis",
+    "lemma": "Flos salis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flos-sectorem-Croe-:-alii-volunt-esse-croci-flores:-ob-additionem-croe,-putantes-errorum-illorum,-qui-scripta-Paracelsi-manu-non-exacte-legerunt-è-pro-ci.-Egovero-per-transpositionem-deprehendi-esse-florem-muscatae-nucis,-vt-sonath-anthos-denotat:-alii-florem-che¬lidoniae-extractum:-Saffran-/oder-außge;-ogne-Schelkraut-(Blumen.",
+    "lemma": "Flos sectorem Croe",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Saffran /oder außge; ogne Schelkraut (Blumen.",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Flox",
+    "lemma": "Flox ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Fluores",
+    "lemma": "Fluores ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Fluͤsse",
+    "page": "229"
+  },
+  {
+    "id": "Ruland1612-Fluores-rubri",
+    "lemma": "Fluores rubri .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "230"
+  },
+  {
+    "id": "Ruland1612-Fluores-candidi-&-pellucidi",
+    "lemma": "Fluores candidi & pellucidi .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Weisse durchsichtige Fluͤsse / wie ein Crystall.",
+    "page": "231"
+  },
+  {
+    "id": "Ruland1612-Fluores-cinerei",
+    "lemma": "Fluores cinerei",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Einem runden Meer Igel gleich daran viel Koͤrnlein von Wasserkieß gesprengt.",
+    "page": "231"
+  },
+  {
+    "id": "Ruland1612-Fluores-nigri",
+    "lemma": "Fluores nigri .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwarz viereckichte Fluͤsse.",
+    "page": "232"
+  },
+  {
+    "id": "Ruland1612-Fluores-coerulei.",
+    "lemma": "Fluores coerulei.",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Blawe durchsichtige Fluͤsse.",
+    "page": "232"
+  },
+  {
+    "id": "Ruland1612-Fluores-purpurei.",
+    "lemma": "Fluores purpurei.",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Braune Fluͤsse wie Ametisten.",
+    "page": "232"
+  },
+  {
+    "id": "Ruland1612-Fluores-phoenicei",
+    "lemma": "Fluores phoenicei .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "232"
+  },
+  {
+    "id": "Ruland1612-Fluores-flaui",
+    "lemma": "Fluores flaui .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Neben einem grawen spattlin einem sechseckichten Glantz gewachsen",
+    "page": "232"
+  },
+  {
+    "id": "Ruland1612-Fluores-Virides",
+    "lemma": "Fluores Virides .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gruͤne wuͤrfflichte Fluͤsse.",
+    "page": "233"
+  },
+  {
+    "id": "Ruland1612-Fluores-non-pellucidi-&-imperfecti",
+    "lemma": "Fluores non pellucidi & imperfecti .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Weisse vn zeitige Fluͤsse.",
+    "page": "234"
+  },
+  {
+    "id": "Ruland1612-Focus-excoctorum",
+    "lemma": "Focus excoctorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Herd im Ossen",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Focus",
+    "lemma": "Focus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Floßherd",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Focus-extra-demicilium-,-in-quo-massae-plumbeae-liquantur,-Zulaß-Herd-.",
+    "lemma": "Focus extra demicilium ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Zulaß Herd",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Fodina",
+    "lemma": "Fodina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zechy Grube.",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Fodinarum-fructus-exstans-è-fornace",
+    "lemma": "Fodinarum fructus exstans è fornace ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Außbeute",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foedula",
+    "lemma": "Foedula",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Pfifferling",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foenix-vel-phoenix-,-filius-vnius-diei,-Der-Philosophisch-Stein-.",
+    "lemma": "Foenix vel phoenix ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Der Philosophisch Stein",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Follis",
+    "lemma": "Follis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Balg",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Folles-spiritales",
+    "lemma": "Folles spiritales ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "fuͤnfferley Wetter Blaßbaͤlg.",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Folia-daturae",
+    "lemma": "Folia daturae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Folia",
+    "lemma": "Folia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Blaͤttersist das rein abgesonderte. Waͤn sie sagen vertite aurum in folia, das ist / soluirt zu Wasser / daß die Seel rein moͤge auß gezogen werden, die Schwefel ist / ond",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Fom",
+    "lemma": "Fom ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Fons-Philosophorum",
+    "lemma": "Fons Philosophorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mariebad Philosophischer (Breuoffen",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foramen-superioris-tabulati-follium-,-Spundloch-.",
+    "lemma": "Foramen superioris tabulati follium ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Spundloch",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foramen-spiritale-follium-,-Windfang-.",
+    "lemma": "Foramen spiritale follium ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Windfang",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foramen-fistularum",
+    "lemma": "Foramen fistularum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gepor",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foramina-spiritalia",
+    "lemma": "Foramina spiritalia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Windloͤcher",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Fores",
+    "lemma": "Fores ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Strodel",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Foricula",
+    "lemma": "Foricula ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Thorlein-Ventilthuͤrlein.",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Forceps",
+    "lemma": "Forceps ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zang mit einem Hacken",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Forceps-ferreus",
+    "lemma": "Forceps ferreus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zangldarinn man Kugeln geust",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Forfex",
+    "lemma": "Forfex",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein Klufft",
+    "page": "235"
+  },
+  {
+    "id": "Ruland1612-Formae-rerum",
+    "lemma": "Formae rerum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Formicae",
+    "lemma": "Formicae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "dief gewurtzelte Wartzen/ Ohnmeissen Wartz",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax",
+    "lemma": "Fornax ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Heintzel Offen sein vielerley.",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax-prima-vitrariorum-,-&-etiam-ea,-in-qua-excoquuntur-venae,-Schmeltzoffen-.",
+    "lemma": "Fornax prima vitrariorum ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Schmeltzoffen",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax-in-qua-plumbum-ab-argento-separatur-,-,-Treibherd-.",
+    "lemma": "Fornax in qua plumbum ab argento separatur ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Treibherd",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax,-in-qua-argentum-&-plumbum-ab-aere-secernunt",
+    "lemma": "Fornax, in qua argentum & plumbum ab aere secernunt ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Seigeroffen",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax,-in-qua-ferrum-excoquitur",
+    "lemma": "Fornax, in qua ferrum excoquitur ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rennherd",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax,-in-qua-panes-aerei-torrefacti-coquuntur",
+    "lemma": "Fornax, in qua panes aerei torrefacti coquuntur ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gerherde",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax-in-qua-calefiunt-panes-aerei-,-Waͤrm-Offen.",
+    "lemma": "Fornax in qua calefiunt panes aerei ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Waͤrm Offen.",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax,-quae-foraminibus-vento-inspiratur",
+    "lemma": "Fornax, quae foraminibus vento inspiratur ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Windt Offen",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax-furno-similis-,-Spleiß-Offen-.",
+    "lemma": "Fornax furno similis ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Spleiß Offen",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornax-anemia-e-ferro-fit-instar-tripodis-,-cum-conisterio,-&-foco,-quam-duae-regiones-per-craticulam-discernunt.-Conisterium-clauditur-ianua-ferrea,-per-quam-aer-subintrat.-Pocus-autem-est-apertus-&-intus-luto-crasso-inductus.-Ergastulum-est-liberum-spatium.-Plerunquen.-accommodantur-resper-sartaginem,-ollam,-catinum-triangularem,-&-similia,-ita-vt-insistant-prunis,-vel-parumper-demittantur.-Quanquam-autem-ignis-nonnunquam-etiam-flabello,-vel-follib.-in¬tendatur:-tamen-subintrantis-aeris-seu-venti-vis-potissima-est.-Itaque-&-eo-in-loco-collocari-debet,-vt-ianua-conisterii-vento-vel-aeris-motui-exponatur,-sitque-nullus-alius-exitus-vndiquaque,-fe¬nestris-&-aliis-partib.-clausis,-praeter-sursum-tendens-fumarium,-vt-ita-aer-cogatur-eo-per-prunas-elabi.-Id-autem-tunc-maxime-sit,-cum-liquare-aliquid-magno-igni-aut-calcinare-volumus.",
+    "lemma": "Fornax anemia e ferro fit instar tripodis ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornacis-magister",
+    "lemma": "Fornacis magister ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Garmacher",
+    "page": "236"
+  },
+  {
+    "id": "Ruland1612-Fornacula",
+    "lemma": "Fornacula ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Probiroffen",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fornix",
+    "lemma": "Fornix ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Boge",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossa-occulta",
+    "lemma": "Fossa occulta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Felort",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Forniculae",
+    "lemma": "Forniculae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schnapperlein",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossa-latens",
+    "lemma": "Fossa latens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Leng/Querschlag",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossa-latens-iuxta-lacunam-,-Außgeworffen-Ortlein-.",
+    "lemma": "Fossa latens iuxta lacunam ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Außgeworffen Ortlein",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossam-latentem-substruere-,-Kasten-schlagen-.",
+    "lemma": "Fossam latentem substruere ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Kasten schlagen",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossam-patentem-ducere-,-Rosch-treiben-.",
+    "lemma": "Fossam patentem ducere ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Rosch treiben",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossos-ducere",
+    "lemma": "Fossos ducere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Scherpffen",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossor",
+    "lemma": "Fossor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "hauwer Berghauwer.",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fossores",
+    "lemma": "Fossores ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Krumbhalß",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Frondes-lauri",
+    "lemma": "Frondes lauri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Corber blaͤtter sind die Farben.",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fugile",
+    "lemma": "Fugile ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ohrenmuel/ Ohremuͤckel o Ohrenvttel geschwulst hindern Ohren.",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fuligo-metallorum",
+    "lemma": "Fuligo metallorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fuligo",
+    "lemma": "Fuligo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schmitz Ram/ schwertze",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fulme",
+    "lemma": "Fulme",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fulminatio",
+    "lemma": "Fulminatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "237"
+  },
+  {
+    "id": "Ruland1612-Fulturae-natiuae",
+    "lemma": "Fulturae natiuae vel",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "fornices,"
+    ],
+    "translation": "Bergesteine",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumus",
+    "lemma": "Fumus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist die faex, Drusen am Doden / doch eigentlich daß auff¬steigetsond den Coͤrper mit sich fuͤhret. Dann es ist zweyerley Rauch / die mit der Erden vermischt machen die Stern vom Himmel fallen machen auch Cometen und Regendogen um die Sonne und den Mond. Wann de¬noet ein mines 46. ralische Materi sanet sie mit der vermenget per minima, wird auch firond zu einem Metall: findet sie aber keine / so wirdt sie ein Mercurius. Die mineralische Krafft aber / die sie finden solllist klarer sulphur gewaschen / vund zum theil fir¬ond wirdtgefunden in den außgezogenen Steinen / vnnd im Sand-glaͤntzet wie Silbersond dieweil ohne diß nichts wirdt so wirkts gefunden allenthalben wo Metallen geboren wer¬den; Derhalben das Metall, daß viel Schwefel helt wirdt ge¬nennet",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumus-albus",
+    "lemma": "Fumus albus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Mercurius, die Seel vund Tinctur Himmel¬Wasser / quinta essentia Veneris, dieser fuͤhret die Farb deß Goldts trucken in die Hoͤhe. Da steiget die Schlang auff den Baum findet die Mutter mit zweyen Jungen / ond frisset sic alle. Das ist: Der Rauch steiget ober sich / vnnd findet zwen Schwefel mit dem Mercurio, das soluirt er alles¬zeuchts in sich wirdi Fix ond Stein. Der weisse Rauch ist die Seel / der auffgeloͤsten Coͤrper / macht lebendig / vnnd weisset.",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumus-citrinus",
+    "lemma": "Fumus citrinus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist gelber Schwefel.",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumus-rubeus",
+    "lemma": "Fumus rubeus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist rot Auripigment",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumus-virosus,-vel-virus",
+    "lemma": "Fumus virosus, vel virus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwaden",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumus-casae-vel-cassae",
+    "lemma": "Fumus casae vel cassae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Huͤtten Rauch¬",
+    "page": "238"
+  },
+  {
+    "id": "Ruland1612-Fumigatio",
+    "lemma": "Fumigatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Funis-ductarius",
+    "lemma": "Funis ductarius ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Seil",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Funis-ex-philyris-tiliae-factus-,-Past-.",
+    "lemma": "Funis ex philyris tiliae factus ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Past",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Funiculus-canabinus",
+    "lemma": "Funiculus canabinus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schnur",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Fures-candidi",
+    "lemma": "Fures candidi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rote Wasser",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Furogi",
+    "lemma": "Furogi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Furnus",
+    "lemma": "Furnus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Furnus-apertus",
+    "lemma": "Furnus apertus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Furnus-probatorius-siue-docimasticus-,-est-furaus-apertus,-in-quo-metalla-perfectiora-purgantur,-examinantur,-vel,-vt-vsi¬tatiori-rem-delineem-vocabulo,-fulminantur.-Hic-furnus-vt-plurimum-ex-argilla-vel-laminis-ferreis,-raro-ex-laterib.-in-se¬quentem-modum-exstruitur.-Sumitur-lamina-ferrea,-vel-ex-argilla-facta,-&-in-quadrum-ita-construitur,-vt-latitudo-pedis-vnius,-in-duodecim-partes-diuisi,-vndecies-mensurata,-am¬plitudinem-fundamenti-constituat,-sedecies-autem-longitu¬dinem-conficiat.-Sed-quando-in-longum-octies-mensura-sum¬ta-est,-furnus-sensim-in-diuexitatem-est-incuruandus,-vt-tan¬dem-angustior-fiat-mensuris-quatuor,-&-crater-in-summo-furno-septem-duntaxat-mensurarum-amplitudinem-retineat.-Conuenit-autem-laminas-in-crassitie-sesquimensuram-habe¬re,-pauimentum-vero,-&-fundum-ex-argilla-factum,-tres-qua¬drantes-vnius-continere.-His-ita-constructis-a-pauimento-sursum-capiendae-sunt-mensurae-tres,-&-quatuor-in-latum,-quae-inferius-ostiolum-constituunt.-A-cuspide-huius-ostioli-RVLANDI-PHIL.-ET-MEDICI.-227-idem-paries-continuetur,-per-duas-mensuras,-quae-spatium-inter-iam-dictum,-&-proxime-sequens-ostium-conficiunt.-In¬de-repetendae-sunt-mensurae-tres-cum-dimidia-sursum,-qua¬tuor-vero-in-latum,-ex-quibus-ostiolum-imponendis,-eximen¬disque-nec-non-dirigendis-rebus-accommodatum-fit.-Ab-hoc-progrediendum,-atque-post-vnius-mensurae-metam,-in-medio-paruum-aliquid-foramen,-auricularem-digitum-vix-continens,-perforandum-est,-carbonibus-ferro-mouendis-inseruiens.-In¬super-tres-quadrantes-vnius-mensurae-sub-ostioli-finibus-sunt-statuendi-dextrorsum,-atque-sinistrorsum,-vbi-duo-foramina-mediocrem-digitum-lata-conficiuntur.-In-haec-foramina,-quib.-respondere-debent-alia-duo,-in-pariet-aduerso-ferreae-trabes,-quae-in-pariete-anteriore-quatuor-digitos-latos-procedunt,-im¬ponuntur.-Porro-vtrique-ostiolo-ad-ignem-moderandum-fores-seu-obices-adaptandi-sunt,-cum-ansa,-vt-possint-abstrahi-&-reponi:-quorum-superior,-foramen-oblongum,-vt-clauso-ostiolo,-nihil¬ominus-visui-nihil-detrahatur,-contineat;-inferior-vero-fora¬mine-rotundo-&-maiori,-vt-ignis-aerem-fouentem-attrahat,-sti¬patus-sit.-Supra-trabes,-lamina-terrea-a-laterib.-tribus-excaua¬ta,-vbi-cinis-transeat,-in-quarto-autem-integra,-&-recta-parietem-an¬teriorem-tangens,-ponitur.-Hinc-pauimentum-ergasterii-&-te¬gulae-fornicatae,-quod-a-laterib.-&-dorso-duabus-cum-dimidia-men¬suris-abesse-debet,-superstruitur.-Praeterea-foramen-aliquod-rotundum,-prope-ostiolum-superius-excauatur,-adacrem-ministrandum;-omnib.-ad-hunc-modum-exstructis,-furno-adhuc-molli-foris-sul¬ci-fossaeque-ad-bracteas-ferreas,-furnum-firmantes,-recipiendas-in-eo-effingantur.-Tandem-in-loco-aprico-furnus-arefactus-a-fi¬gulo-probe-coquatur.-Hic-accomodatissimum-furnum-ex¬struendi-modus,-tum-quia-non-facile-cineribus-obstruitur,-o¬mnique-propterea-docimastico-negotio-sufficiens-est,-tum,-quia-ob-ignis-dirigendi-dexteritatem-omnes-alios-longe-antecellit.",
+    "lemma": "Furnus probatorius siue docimasticus ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "239"
+  },
+  {
+    "id": "Ruland1612-Furnus-ventosus",
+    "lemma": "Furnus ventosus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "241"
+  },
+  {
+    "id": "Ruland1612-Furni-tecti",
+    "lemma": "Furni tecti",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "241"
+  },
+  {
+    "id": "Ruland1612-Furnus-tectus-aut-est-simplex,-aut-compositus.",
+    "lemma": "Furnus tectus aut",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "241"
+  },
+  {
+    "id": "Ruland1612-Furnus-coementatorius",
+    "lemma": "Furnus coementatorius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "241"
+  },
+  {
+    "id": "Ruland1612-Furnus-reuerberatorius",
+    "lemma": "Furnus reuerberatorius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "242"
+  },
+  {
+    "id": "Ruland1612-Furnus-dissolutorius",
+    "lemma": "Furnus dissolutorius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "243"
+  },
+  {
+    "id": "Ruland1612-Furnus-ascensorius",
+    "lemma": "Furnus ascensorius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "243"
+  },
+  {
+    "id": "Ruland1612-Furnus-siccus",
+    "lemma": "Furnus siccus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "243"
+  },
+  {
+    "id": "Ruland1612-Furnus-vesicae",
+    "lemma": "Furnus vesicae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "243"
+  },
+  {
+    "id": "Ruland1612-Furnus-catini",
+    "lemma": "Furnus catini ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "244"
+  },
+  {
+    "id": "Ruland1612-Furnus-balnei",
+    "lemma": "Furnus balnei",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "244"
+  },
+  {
+    "id": "Ruland1612-Furnus-descensorius",
+    "lemma": "Furnus descensorius",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "245"
+  },
+  {
+    "id": "Ruland1612-Furni-compositi",
+    "lemma": "Furni compositi",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "245"
+  },
+  {
+    "id": "Ruland1612-Furnus-acediae",
+    "lemma": "Furnus acediae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein fauler Heintze",
+    "page": "246"
+  },
+  {
+    "id": "Ruland1612-Furnus-panis",
+    "lemma": "Furnus panis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hitziger Off.",
+    "page": "246"
+  },
+  {
+    "id": "Ruland1612-Furnus-sabuli",
+    "lemma": "Furnus sabuli ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hitziger Sandt.",
+    "page": "246"
+  },
+  {
+    "id": "Ruland1612-Fusi",
+    "lemma": "Fusi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spindlen/ Korbhoͤltzer / darumb die Gepellseil sein ange¬trieben.",
+    "page": "246"
+  },
+  {
+    "id": "Ruland1612-Fusio",
+    "lemma": "Fusio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "246"
+  },
+  {
+    "id": "Ruland1612-Fusio-per-antimonium-,-qua-verum-aurum,-non-modo-a-metal¬lis-imperfectis,-sed-etiam-ab-ipso-argento-separamus,-&-fit-hoc-modo:-Accipio-aurum-aliis-metallis-mixtum,-ipsique-tres-partes-antimonii-puluerisati-commisceo,-&-in-crucibulo-igni-contumaci-in-furnum-ventosum-pono.-Postea-iuuante-(si-placet)-folle-probe-liquefactum,-in-pyramidem-calefactam,-seuoque-illitam-transfundo,-vbi-labris-malleo-concussis,-re¬gulas-aurum-continens,-in-apice-residebit,-quem-malleo-detrunco.-Antimonium-porro-residuum-rursus-in-tigillo-igni-ad-tertiam-etiam-vicem-impono,-&-praedicto-modo-procedo,-vt-omne-aurum-ex-antimonio-protrudatur.-Tandem-regulos-hosce-singulos,-in-catillo-terreo-prope-follem-pono,-carbonibusque-superpositis,-in-modum-fornicis-ignem-accendo,-tam-diuque-234LEXICON-ALCHEMIAE-MART.-flammam-superinduco,-quousque-omni-antimonio-euapora¬to-aurum-purum-putumque-resideat,-quod-statim-coagulatur.",
+    "lemma": "Fusio per antimonium ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "246"
+  }
+]

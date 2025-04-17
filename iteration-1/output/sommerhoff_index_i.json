@@ -1,0 +1,2077 @@
+[
+  {
+    "id": "aloë_c",
+    "lemma": "I. Aloë Caballina",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "37"
+  },
+  {
+    "id": "sommerhoff_ibiscus",
+    "lemma": "Ibiscus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eybisch.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_ideritis_apuleij_deuarolibanum_h_salutaris",
+    "lemma": "Ideritis Apuleij, Deuarolibanum, H. Salutaris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Roßmarin.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_illecebra_major",
+    "lemma": "Illecebra major,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Knaben-Kraut / Fortz-Zwang.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_illecebra_minor",
+    "lemma": "Illecebra minor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mauerpfeffer.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_imperatoria",
+    "lemma": "Imperatoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meister Wurtz.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_imperatoris_herba",
+    "lemma": "Imperatoris Herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfaffenroͤhrlein",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_impetiginaria_petraea_seu_saxatilis",
+    "lemma": "Impetiginaria petraea, seu saxatilis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Steinleber-Kraut. v. Lichen petraeus.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_inda_folia",
+    "lemma": "Inda Folia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_intibus",
+    "lemma": "Intibus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Endivien.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_iringus",
+    "lemma": "Iringus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_irio_irion_lobelii",
+    "lemma": "Irio & Irion Lobelii,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wegsenfft.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_iris_illyrica_seu_florentina",
+    "lemma": "Iris Illyrica seu Florentina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_iris_nostr_s",
+    "lemma": "Iris nostràs,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_iris_palustris_lutea",
+    "lemma": "Iris palustris lutea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_isatis_sativa_sylvestris",
+    "lemma": "Isatis sativa & sylvestris.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zahme und wilde Wendt.",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_iva_arthetica_seu_arthritica",
+    "lemma": "Iva arthetica seu arthritica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "184"
+  },
+  {
+    "id": "sommerhoff_i_acea_clavellata_herba_trinitatis_herba",
+    "lemma": "I Acea, Clavellata herba, Trinitatis herba:",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dreysaltigkeit- Kraut oder Blumen. vid Flores & Herba.",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_iberis_piperitis",
+    "lemma": "Iberis, Piperitis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfeffer-Kraut. vid Lepidium.",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ibex",
+    "lemma": "Ibex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ibicaria_doronicum",
+    "lemma": "Ibicaria, Doronicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gembsen:Wurtzel / dder Schwindel-Wurtzel.",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ibiga_abiga_ajuga_iva_chamaepythis_thus_terrae_plinii",
+    "lemma": "Ibiga, Abiga, Ajuga, Iva, Chamaepythis, Thus Terrae Plinii.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schlag- Kraͤutlein /",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ibis",
+    "lemma": "Ibis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ibiscus",
+    "lemma": "Ibiscus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eybisch.",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ichneumon",
+    "lemma": "Ichneumon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "207"
+  },
+  {
+    "id": "sommerhoff_ichthya",
+    "lemma": "Ichthya,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ichthyocolla",
+    "lemma": "Ichthyocolla,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hausen. Piscis magnus est, longitudine viginti quatuor pe- dum, pondere nonnunquam ad Llibras quadringenta. In Danubio ma- ximè ex Ponto venit. Gluten illud album est, ex illius corio, intestinis, ven- triculo, cauda & pinnis confectum. Germ. Hausen-Blasen und Mundleim. Vocatur etiam Collapiscium.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_icteritis_apul_herba_salutaris_dendrolibanum",
+    "lemma": "Icteritis Apul. herba Salutaris, Dendrolibanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Roß- marin. Vid. Herbas.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idam",
+    "lemma": "Idam,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Muß. Mart. Rul.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idaea_nigra",
+    "lemma": "Idaea nigra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Heydelbeer /",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ideus_ides",
+    "lemma": "Ideus, Ides,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idiota",
+    "lemma": "Idiota,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idiotae",
+    "lemma": "Idiotae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idroagira",
+    "lemma": "Idroagira,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idromel",
+    "lemma": "Idromel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_idum",
+    "lemma": "Idum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Muß. Johns. Lexic.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_iffides",
+    "lemma": "Iffides,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bleyweiß / oder Bley-Asche/ Mart. Rul. & Jobns.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_igde",
+    "lemma": "Igde,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_a",
+    "lemma": "Ignis, A",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_actualis",
+    "lemma": "Ignis actualis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eigentlich Feuer. Lex. Blanc.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_alchimistici_gradus_paracels",
+    "lemma": "Ignis alchimistici Gradus. Paracels.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_algir",
+    "lemma": "Ignis algir,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_caior",
+    "lemma": "Ignis caior,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_circulatorius",
+    "lemma": "Ignis circulatorius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein gelind Circulir-Fener. Sign. C, EI,KA",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_clar_ardens",
+    "lemma": "Ignis clarè ardens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwefel. Mart. Rul. & Johns.",
+    "page": "208"
+  },
+  {
+    "id": "sommerhoff_ignis_elementaris",
+    "lemma": "Ignis Elementaris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_extinctus",
+    "lemma": "Ignis extinctus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_gebennae",
+    "lemma": "Ignis Gebennae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_gradus_octo",
+    "lemma": "Ignis Gradus octo",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_i_a_ventris_equi",
+    "lemma": "I. A Ventris Equi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ii_a_olis",
+    "lemma": "II. A Olis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_iii_a_furni",
+    "lemma": "III A Furni",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_iv_a_furni_fixionis",
+    "lemma": "IV. A Furni Fixionis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_gradus",
+    "lemma": "Ignis Gradus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_i_est_lentissimus_instar_teporis_ignaviusculi_vocaturque_ignis_balnei_mitis",
+    "lemma": "I. Est lentissimus, instar Teporis ignaviusculi, vocaturque Ignis Balnei mitis, aut Fimi, aut Digestionis, circulatorius, qui ad tactum ita describitur, ut cum digitus hominis teneri semper ferre possit. Et licet habeat suas inten- siones & remissiones, nunquam tamen e",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ii_gradus",
+    "lemma": "II. Gradus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_iii_gradus",
+    "lemma": "III. Gradus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_iv_est_summus_gradus",
+    "lemma": "IV. Est Summus Gradus, &",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_pro_lapide_pbilosophico",
+    "lemma": "Ignis pro Lapide Pbilosophico,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_lentus",
+    "lemma": "Ignis lentus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_leonis",
+    "lemma": "Ignis Leonis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_persicus",
+    "lemma": "Ignis Persicus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_philosophicus",
+    "lemma": "Ignis Philosophicus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_philosophorum",
+    "lemma": "Ignis Philosophorum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_potentialis",
+    "lemma": "Ignis potentialis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein etzend Feuer. Lex. Blan.",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_pruinus_adeptus",
+    "lemma": "Ignis pruinus adeptus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_ad_quorundam_opinionem",
+    "lemma": "Ignis ad quorundam Opinionem",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_reverberius",
+    "lemma": "Ignis Reverberius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "209"
+  },
+  {
+    "id": "sommerhoff_ignis_rotae_q",
+    "lemma": "Ignis rotae Q,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_sacer_icteritia_rubea",
+    "lemma": "Ignis Sacer, Icteritia rubea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Die Rose / St. Antonius-Feuer.",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_sapientum",
+    "lemma": "Ignis Sapientum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_silvestris",
+    "lemma": "Ignis silvestris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_subterraneus",
+    "lemma": "Ignis subterraneus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_suppressionis",
+    "lemma": "Ignis suppressionis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_tris_elementum",
+    "lemma": "Ignis Tris Elementum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignis_vitrioli",
+    "lemma": "Ignis Vitrioli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignitio",
+    "lemma": "Ignitio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kalckmachung/ oder Brennung.",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ignotica",
+    "lemma": "Ignotica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schlaffmachende Mittel. Sylvat.",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ilech_vlech",
+    "lemma": "Ilech Vlech,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ilech_crudum",
+    "lemma": "Ilech crudum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ilech_magnum",
+    "lemma": "Ilech magnum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_ileidos_ileidus",
+    "lemma": "Ileidos & Ileidus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_iliaster_iliadiis_iliadum_lleidos",
+    "lemma": "Iliaster, Iliadiis, Iliadum & lleidos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_iliaster_aut_iliastes_vel_iliadum",
+    "lemma": "Iliaster, aut Iliastes, vel Iliadum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_iliaster_secundus_vel_praeparatus",
+    "lemma": "Iliaster secundus vel praeparatus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_iliaster_tertius",
+    "lemma": "Iliaster tertius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_iliaster_quartus_magnus",
+    "lemma": "Iliaster quartus, magnus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_iliaster",
+    "lemma": "Iliaster",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_illambonos_collyrium",
+    "lemma": "Illambonos, Collyrium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "210"
+  },
+  {
+    "id": "sommerhoff_illecebra",
+    "lemma": "Illecebra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_illitio",
+    "lemma": "Illitio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_illota_lana",
+    "lemma": "Illota Lana,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_ilys",
+    "lemma": "Ilys,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imbemon",
+    "lemma": "Imbemon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imber",
+    "lemma": "Imber,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imbibere",
+    "lemma": "Imbibere,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imbibitio",
+    "lemma": "Imbibitio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imbik",
+    "lemma": "Imbik,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_immersiva_corrosio",
+    "lemma": "Immersiva Corrosio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eindunckende oder einweichende Verbrennung. Lex. Brun.",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impar",
+    "lemma": "Impar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impastatio",
+    "lemma": "Impastatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imperatoria",
+    "lemma": "Imperatoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meister Wurtz.",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imperatoria_apulorum",
+    "lemma": "Imperatoria Apulorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Beeren-Wurtzel.",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imperatoris_herba",
+    "lemma": "Imperatoris Herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfaffen-Röhrlein.",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_imperfectum",
+    "lemma": "Imperfectum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impetiginaria_petraea_seu_saxatilis_lichen_petraeus",
+    "lemma": "Impetiginaria petraea, seu saxatilis, Lichen petraeus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Steinleber-Kraut.",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impinguatio",
+    "lemma": "Impinguatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impraegnatio",
+    "lemma": "Impraegnatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impurum_alcali",
+    "lemma": "Impurum alcali,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_impurum_tartari",
+    "lemma": "Impurum Tartari,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_inalienatus",
+    "lemma": "Inalienatus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_inaresco",
+    "lemma": "Inaresco,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_inauratio",
+    "lemma": "Inauratio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Vergüldung. Lex. Blanc.",
+    "page": "211"
+  },
+  {
+    "id": "sommerhoff_incarnantia_incarnativa",
+    "lemma": "Incarnantia & Incarnativa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incensum_judaeorum",
+    "lemma": "Incensum Judaeorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Juden-Weyrauch / est Storax calamita.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_inceratio",
+    "lemma": "Inceratio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incid",
+    "lemma": "Incid.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incidens",
+    "lemma": "Incidens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incineratio",
+    "lemma": "Incineratio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incisorium",
+    "lemma": "Incisorium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incorporatio",
+    "lemma": "Incorporatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lubmachung. Mart. Rul. & Jobus.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incrassantia_medicamenta",
+    "lemma": "Incrassantia Medicamenta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dick-machende Mittel.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incrementum",
+    "lemma": "Incrementum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incuba",
+    "lemma": "Incuba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_incuriae_furnus",
+    "lemma": "Incuriae Furnus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indargirios",
+    "lemma": "Indargirios",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Quecksilbet.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indarion",
+    "lemma": "Indarion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indebidester",
+    "lemma": "Indebidester,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Biebergeyl. Sylvat.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indicans",
+    "lemma": "Indicans,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indicum_indigo_lapis_indicus_pictorum_atramentum_indicum_pauli",
+    "lemma": "Indicum, Indigo, Lapis Indicus pictorum, Atramentum Indicum Pauli.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "In- dich- Blau.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indicum_sal",
+    "lemma": "Indicum Sal,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Stein oder Indlanisch Saltz.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indus",
+    "lemma": "Indus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_indolentia",
+    "lemma": "Indolentia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schmertzen- linderende Mittel.",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_inductio",
+    "lemma": "Inductio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_inebuchos",
+    "lemma": "Inebuchos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bleyweiß",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_inedion",
+    "lemma": "Inedion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "212"
+  },
+  {
+    "id": "sommerhoff_infans_spagyricorum",
+    "lemma": "Infans Spagyricorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_infervefacio_hoc",
+    "lemma": "Infervefacio, hoc",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_infundibulum",
+    "lemma": "Infundibulum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_infundibulum_vulg_tritorium",
+    "lemma": "Infundibulum, vulgò Tritorium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Trichter. Lex. Blanc.",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_infusio",
+    "lemma": "Infusio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_ingredientia",
+    "lemma": "Ingredientia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inguinaria_plinii_potentilla_tanacetum_sylvestre_anserina",
+    "lemma": "Inguinaria Plinii, Potentilla, Tanacetum sylvestre, Anserina.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gaͤnßerig. vid Herbas.",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inguinbar",
+    "lemma": "Inguinbar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_ingulia",
+    "lemma": "Ingulia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_injectio_intestinalis",
+    "lemma": "Injectio intestinalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inoleon",
+    "lemma": "Inoleon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inomel",
+    "lemma": "Inomel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inquimatizare",
+    "lemma": "Inquimatizare,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_insectum",
+    "lemma": "Insectum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_insolatio",
+    "lemma": "Insolatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_insolatus",
+    "lemma": "Insolatus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inspiss",
+    "lemma": "Inspiss.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inspissatio",
+    "lemma": "Inspissatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_instrumenta_chymica_pharmacevtica",
+    "lemma": "Instrumenta Chymica & Pharmacevtica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_insuccatio",
+    "lemma": "Insuccatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_insufflatio",
+    "lemma": "Insufflatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_interpassatio",
+    "lemma": "Interpassatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Untersteppung/ oder Zwischen Nehung.",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_intestina_terrae",
+    "lemma": "Intestina Terrae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_intybus_intubum_intubus",
+    "lemma": "Intybus, Intubum & Intubus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Endivien.",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_invictum",
+    "lemma": "Invictum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inula_enula_elenium_helenium_germ_aland",
+    "lemma": "Inula, Enula, Elenium, Helenium. Germ Aland.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_inula_rustica_apul_alum_gallicum",
+    "lemma": "Inula rustica Apul. Alum Gallicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwartz- Wurtz.",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_involucrum_majus_lilium_caprinum",
+    "lemma": "Involucrum majus, Lilium Caprinum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Speck- Lilien.",
+    "page": "213"
+  },
+  {
+    "id": "sommerhoff_ipacedes_ipoacidos",
+    "lemma": "Ipacedes, Ipoacidos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_ipnos",
+    "lemma": "Ipnos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Ofen. Hippocr. lib. 2.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_ipocystus_seu_ipoquistidos_officinarum",
+    "lemma": "Ipocystus, seu Ipoquistidos officinarum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_ipoterion",
+    "lemma": "Ipoterion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iringus",
+    "lemma": "Iringus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "MannsTreu.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_irion_seu_erysimon",
+    "lemma": "Irion seu Erysimon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hederich.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris",
+    "lemma": "Iris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Regen Bogen.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris",
+    "lemma": "Iris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris_iii_florentina",
+    "lemma": "Iris III. florentina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris",
+    "lemma": "Iris",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris_v_illyrica",
+    "lemma": "Iris V. Illyrica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris_vi_nostratis",
+    "lemma": "Iris VI. nostratis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwertel.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris_vii_palustris_lutea",
+    "lemma": "Iris VII. palustris lutea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ackermanns-Wurtz.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris",
+    "lemma": "Iris",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris",
+    "lemma": "Iris",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris",
+    "lemma": "Iris, sylvestris, Ephemeron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mayen- Blumlein.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_iris_tuberosa",
+    "lemma": "Iris Tuberosa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hermodactylen- Wurtzel.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_irroratio",
+    "lemma": "Irroratio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isatis_sativ_sylvestris",
+    "lemma": "Isatis sativ. & sylvestris.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zahmer und wilder Weyd.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_ischaema",
+    "lemma": "Ischaema,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bluth-stillende Mittel. Lex. Brun.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_ischuretica",
+    "lemma": "Ischuretica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Urinetreibende Mittel. Lex. Blanc.",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isir",
+    "lemma": "Isir,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isochryson",
+    "lemma": "Isochryson,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isochrysum",
+    "lemma": "Isochrysum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isocrates",
+    "lemma": "Isocrates,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isopus",
+    "lemma": "Isopus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isorrhopos",
+    "lemma": "Isorrhopos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "214"
+  },
+  {
+    "id": "sommerhoff_isosthatmos",
+    "lemma": "Isosthatmos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_ispida",
+    "lemma": "Ispida,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_italicum",
+    "lemma": "Italicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_itea",
+    "lemma": "Itea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weyden oder Felber.",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_itrion",
+    "lemma": "Itrion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_iva",
+    "lemma": "Iva,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_iva_arthetica_vel_muscata",
+    "lemma": "Iva Arthetica vel muscata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_iva_arthetica_vel_arthritica",
+    "lemma": "Iva Arthetica vel arthritica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schlag Kraͤutlein.",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_iva_muschata",
+    "lemma": "Iva Muschata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Iven-Kraut / Edel Chamaͤnder- lein / das Weiblein.",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_iva_potabilis",
+    "lemma": "Iva potabilis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Tranck / so die lahmen Glieder zu rechte bringet. Mart . Rul. & Johns.",
+    "page": "215"
+  },
+  {
+    "id": "sommerhoff_iuvilia",
+    "lemma": "Iuvilia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "216"
+  },
+  {
+    "id": "sommerhoff_ixia",
+    "lemma": "Ixia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "216"
+  },
+  {
+    "id": "sommerhoff_ixodis",
+    "lemma": "Ixodis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "216"
+  },
+  {
+    "id": "sommerhoff_ixos",
+    "lemma": "Ixos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "216"
+  },
+  {
+    "id": "sommerhoff_i_regnum_animale",
+    "lemma": "I. Regnum Animale,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "344"
+  },
+  {
+    "id": "sommerhoff_ii_regnum_minerale",
+    "lemma": "II. Regnum Minerale,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "344"
+  },
+  {
+    "id": "sommerhoff_iii_regnum_vegetabile",
+    "lemma": "III. Regnum Vegetabile",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "344"
+  },
+  {
+    "id": "sommerhoff_irsiasi_tifarum",
+    "lemma": "Irsiasi & Tifarum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lebendiger Schwefel. Johns.",
+    "page": "419"
+  },
+  {
+    "id": "sommerhoff_iris_ferrum",
+    "lemma": "Iris, Ferrum &.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eysen. Mart. Rul. & Johnsonus.",
+    "page": "435"
+  },
+  {
+    "id": "sommerhoff_indianische_feigen",
+    "lemma": "Indianische Feigen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "460"
+  },
+  {
+    "id": "sommerhoff_ibisch",
+    "lemma": "Ibisch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_igel",
+    "lemma": "Igel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_igelsklette",
+    "lemma": "Igelsklette /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_igelsknospen",
+    "lemma": "Igelsknospen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_imbenwolff",
+    "lemma": "Imbenwolff /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_imber",
+    "lemma": "Imber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_imben",
+    "lemma": "Imben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_immenblat",
+    "lemma": "Immenblat /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_immenkraut",
+    "lemma": "Immenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_incens",
+    "lemma": "Incens /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_beinwellen_oder_indianisch_bilsamkraut",
+    "lemma": "Indianische Beinwellen oder Indianisch Bilsamkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_aydtstein_oder_augstein",
+    "lemma": "indianischer Aydtstein oder Augstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_baumichte_salbey",
+    "lemma": "Indianische baumichte Salbey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_beinwellen",
+    "lemma": "Indianische Beinwellen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischblat",
+    "lemma": "Indianischblat /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisch_blau",
+    "lemma": "Indianisch Blau /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_blum",
+    "lemma": "Indianische Blum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisch_blumenriedt",
+    "lemma": "Indianisch Blumenriedt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_buchsdornsafft",
+    "lemma": "Indianischer Buchsdornsafft /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_costenwurtzel",
+    "lemma": "Indianische Costenwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_erde",
+    "lemma": "Indianische Erde /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_feigen",
+    "lemma": "Indianische Feigen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_feigenbaum",
+    "lemma": "Indianischer Feigenbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisch_fench",
+    "lemma": "Indianisch Fench /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_fieberrinde",
+    "lemma": "Indianische Fieberrinde /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisch_geyerling_oder_zuckerwurtzel",
+    "lemma": "Indianisch Geyerling oder Zuckerwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_grosser_nachtschatten",
+    "lemma": "Indianischer grosser Nachtschatten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_grosse_saamenblum",
+    "lemma": "Indianische grosse Saamenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianische_gru_ne_judendo_cklein",
+    "lemma": "Indianische gruͤne Judendoͤcklein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_hirschen",
+    "lemma": "Indianischer Hirschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_holder",
+    "lemma": "Indianischer Holder /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisches_un",
+    "lemma": "Indianisches- un /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_klee",
+    "lemma": "Indianischer Klee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisch_korn",
+    "lemma": "Indianisch Korn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_ku_rbes",
+    "lemma": "Indianischer Kuͤrbes /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianisches_lillgenrohr",
+    "lemma": "Indianisches Lillgenrohr /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_magsamen",
+    "lemma": "Indianischer Magsamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_magsamensafft",
+    "lemma": "Indianischer Magsamensafft /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_indianischer_moley",
+    "lemma": "Indianischer Moley /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianisch_musa",
+    "lemma": "Indianisch Musa /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_muscheln_schale",
+    "lemma": "Indianische Muscheln-Schale /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_na_gelein",
+    "lemma": "Indianische Naͤgelein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_narden",
+    "lemma": "Indianischer Narden /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_nu",
+    "lemma": "Indianische Nuͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_nu_lein",
+    "lemma": "Indianische Nuͤßlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianisch_pappas",
+    "lemma": "Indianisch Pappas /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_pfeffer",
+    "lemma": "Indianischer Pfeffer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_rother_schwertel",
+    "lemma": "Indianischer rother Schwertel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_salbey",
+    "lemma": "Indianische Salbey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianisch_saltz",
+    "lemma": "Indianisch Saltz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianisch_samkraut",
+    "lemma": "Indianisch Samkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_seeblum",
+    "lemma": "Indianische Seeblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_spick",
+    "lemma": "Indianischer Spick /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_weyrauch",
+    "lemma": "Indianischer Weyrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_wohlru_chender_calmus",
+    "lemma": "Indianischer wohlruͤchender Calmus /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_wolffsmilch",
+    "lemma": "Indianische Wolffsmilch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianisches_wundkraut",
+    "lemma": "Indianisches Wundkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_zaunr_ben",
+    "lemma": "Indianische Zaunrüͤben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_zuckerwurtzel",
+    "lemma": "Indianische Zuckerwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianische_viol_oder_veil",
+    "lemma": "Indianische Viol oder Veil /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_ingber_calecutischer",
+    "lemma": "Ingber Calecutischer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_ingberkraut",
+    "lemma": "Ingberkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_ingber_mechinischer",
+    "lemma": "Ingber Mechinischer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_ingber_wilder",
+    "lemma": "Ingber wilder /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_ingru_n",
+    "lemma": "Ingruͤn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_isop",
+    "lemma": "Isop /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_italia_nisches_eisenkraut",
+    "lemma": "Italiaͤnisches Eisenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_italianischer_fenchel",
+    "lemma": "Italianischer Fenchel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_italia_nischer_grosser_frembder_ku_mmel",
+    "lemma": "Italiaͤnischer grosser frembder Kuͤmmel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_italia_nischer_hirschen",
+    "lemma": "Italiaͤnischer Hirschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_itali_nische_schlehen",
+    "lemma": "Italiänische Schlehen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_italianischer_steinbrech",
+    "lemma": "Italianischer Steinbrech /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "480"
+  },
+  {
+    "id": "sommerhoff_indianischer_kra",
+    "lemma": "Indianischer Kraͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "487"
+  },
+  {
+    "id": "sommerhoff_indianisches_nardenkraut",
+    "lemma": "Indianisches Nardenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "498"
+  },
+  {
+    "id": "sommerhoff_indianische_rhabarbar",
+    "lemma": "Indianische Rhabarbar /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "504"
+  },
+  {
+    "id": "sommerhoff_inbeth",
+    "lemma": "Inbeth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "537"
+  }
+]

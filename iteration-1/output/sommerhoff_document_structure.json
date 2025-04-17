@@ -1,0 +1,5135 @@
+{
+  "sections": [
+    {
+      "id": "frontmatter_0",
+      "type": "frontmatter",
+      "title": "",
+      "parent": null
+    },
+    {
+      "id": "dictionary_1",
+      "type": "dictionary",
+      "title": "",
+      "parent": null
+    },
+    {
+      "id": "errata_2",
+      "type": "errata",
+      "title": "",
+      "parent": null
+    }
+  ],
+  "pages": {
+    "1": {
+      "id": "img_0001",
+      "facs": "#facs_1",
+      "headers_footers": []
+    },
+    "2": {
+      "id": "img_0002",
+      "facs": "#facs_2",
+      "headers_footers": []
+    },
+    "3": {
+      "id": "img_0003",
+      "facs": "#facs_3",
+      "headers_footers": []
+    },
+    "4": {
+      "id": "img_0004",
+      "facs": "#facs_4",
+      "headers_footers": []
+    },
+    "5": {
+      "id": "img_0005",
+      "facs": "#facs_5",
+      "headers_footers": []
+    },
+    "6": {
+      "id": "img_0006",
+      "facs": "#facs_6",
+      "headers_footers": []
+    },
+    "7": {
+      "id": "img_0007",
+      "facs": "#facs_7",
+      "headers_footers": []
+    },
+    "8": {
+      "id": "img_0008",
+      "facs": "#facs_8",
+      "headers_footers": []
+    },
+    "9": {
+      "id": "img_0009",
+      "facs": "#facs_9",
+      "headers_footers": []
+    },
+    "10": {
+      "id": "img_0010",
+      "facs": "#facs_10",
+      "headers_footers": []
+    },
+    "11": {
+      "id": "img_0011",
+      "facs": "#facs_11",
+      "headers_footers": []
+    },
+    "12": {
+      "id": "img_0012",
+      "facs": "#facs_12",
+      "headers_footers": []
+    },
+    "13": {
+      "id": "img_0013",
+      "facs": "#facs_13",
+      "headers_footers": []
+    },
+    "14": {
+      "id": "img_0014",
+      "facs": "#facs_14",
+      "headers_footers": []
+    },
+    "15": {
+      "id": "img_0015",
+      "facs": "#facs_15",
+      "headers_footers": []
+    },
+    "16": {
+      "id": "img_0016",
+      "facs": "#facs_16",
+      "headers_footers": []
+    },
+    "17": {
+      "id": "img_0017",
+      "facs": "#facs_17",
+      "headers_footers": []
+    },
+    "18": {
+      "id": "img_0018",
+      "facs": "#facs_18",
+      "headers_footers": []
+    },
+    "19": {
+      "id": "img_0019",
+      "facs": "#facs_19",
+      "headers_footers": []
+    },
+    "20": {
+      "id": "img_0020",
+      "facs": "#facs_20",
+      "headers_footers": []
+    },
+    "21": {
+      "id": "img_0021",
+      "facs": "#facs_21",
+      "headers_footers": []
+    },
+    "22": {
+      "id": "img_0022",
+      "facs": "#facs_22",
+      "headers_footers": []
+    },
+    "23": {
+      "id": "img_0023",
+      "facs": "#facs_23",
+      "headers_footers": []
+    },
+    "24": {
+      "id": "img_0024",
+      "facs": "#facs_24",
+      "headers_footers": []
+    },
+    "25": {
+      "id": "img_0025",
+      "facs": "#facs_25",
+      "headers_footers": []
+    },
+    "26": {
+      "id": "img_0026",
+      "facs": "#facs_26",
+      "headers_footers": [
+        "A AA AB",
+        "I)",
+        "A.",
+        "A",
+        "Absorbentia"
+      ]
+    },
+    "27": {
+      "id": "img_0027",
+      "facs": "#facs_27",
+      "headers_footers": [
+        "2",
+        "AB AC",
+        "A 3",
+        "Acordina"
+      ]
+    },
+    "29": {
+      "id": "img_0029",
+      "facs": "#facs_29",
+      "headers_footers": [
+        "4",
+        "AC AD",
+        "Adp."
+      ]
+    },
+    "30": {
+      "id": "img_0030",
+      "facs": "#facs_30",
+      "headers_footers": [
+        "AD ÆG ÆS",
+        "5",
+        "A 3",
+        "Æs"
+      ]
+    },
+    "31": {
+      "id": "img_0031",
+      "facs": "#facs_31",
+      "headers_footers": [
+        "6",
+        "AES AET AF AG",
+        "Agresta"
+      ]
+    },
+    "32": {
+      "id": "img_0032",
+      "facs": "#facs_32",
+      "headers_footers": [
+        "AG AH AI AK AL",
+        "7",
+        "Alberas"
+      ]
+    },
+    "33": {
+      "id": "img_0033",
+      "facs": "#facs_33",
+      "headers_footers": [
+        "8",
+        "AL",
+        "Alchahest"
+      ]
+    },
+    "34": {
+      "id": "img_0034",
+      "facs": "#facs_34",
+      "headers_footers": [
+        "AL",
+        "9",
+        "Ales"
+      ]
+    },
+    "35": {
+      "id": "img_0035",
+      "facs": "#facs_35",
+      "headers_footers": [
+        "10",
+        "AL",
+        "Alkalid"
+      ]
+    },
+    "36": {
+      "id": "img_0036",
+      "facs": "#facs_36",
+      "headers_footers": [
+        "AL",
+        "11",
+        "5",
+        "B 2",
+        "Aloë"
+      ]
+    },
+    "37": {
+      "id": "img_0037",
+      "facs": "#facs_37",
+      "headers_footers": [
+        "12",
+        "AL",
+        "Althaa"
+      ]
+    },
+    "38": {
+      "id": "img_0038",
+      "facs": "#facs_38",
+      "headers_footers": [
+        "AL",
+        "13",
+        "B 3",
+        "Alumen"
+      ]
+    },
+    "40": {
+      "id": "img_0040",
+      "facs": "#facs_40",
+      "headers_footers": [
+        "AM",
+        "15",
+        "Ammii"
+      ]
+    },
+    "41": {
+      "id": "img_0041",
+      "facs": "#facs_41",
+      "headers_footers": [
+        "16",
+        "AM AN",
+        "Anaca-"
+      ]
+    },
+    "42": {
+      "id": "img_0042",
+      "facs": "#facs_42",
+      "headers_footers": [
+        "AN",
+        "17",
+        "Angelus"
+      ]
+    },
+    "43": {
+      "id": "img_0043",
+      "facs": "#facs_43",
+      "headers_footers": [
+        "18",
+        "AN",
+        "Anta-"
+      ]
+    },
+    "44": {
+      "id": "img_0044",
+      "facs": "#facs_44",
+      "headers_footers": [
+        "AN",
+        "19",
+        "C 2",
+        "Anti-"
+      ]
+    },
+    "45": {
+      "id": "img_0045",
+      "facs": "#facs_45",
+      "headers_footers": [
+        "20",
+        "AN",
+        "Anti-"
+      ]
+    },
+    "46": {
+      "id": "img_0046",
+      "facs": "#facs_46",
+      "headers_footers": [
+        "AN AP",
+        "21",
+        "C 3",
+        "Apoca-"
+      ]
+    },
+    "47": {
+      "id": "img_0047",
+      "facs": "#facs_47",
+      "headers_footers": [
+        "22",
+        "AP AQ",
+        "Aqua"
+      ]
+    },
+    "48": {
+      "id": "img_0048",
+      "facs": "#facs_48",
+      "headers_footers": [
+        "AQ",
+        "23",
+        "Aqua"
+      ]
+    },
+    "49": {
+      "id": "img_0049",
+      "facs": "#facs_49",
+      "headers_footers": [
+        "AQ",
+        "24",
+        "aqua"
+      ]
+    },
+    "50": {
+      "id": "img_0050",
+      "facs": "#facs_50",
+      "headers_footers": [
+        "AQ",
+        "AR",
+        "25",
+        "Arbor"
+      ]
+    },
+    "51": {
+      "id": "img_0051",
+      "facs": "#facs_51",
+      "headers_footers": [
+        "AR",
+        "26",
+        "Archeus",
+        "IC"
+      ]
+    },
+    "52": {
+      "id": "img_0052",
+      "facs": "#facs_52",
+      "headers_footers": [
+        "AR",
+        "27",
+        "Arrbaeni-"
+      ]
+    },
+    "53": {
+      "id": "img_0053",
+      "facs": "#facs_53",
+      "headers_footers": [
+        "28",
+        "AR"
+      ]
+    },
+    "54": {
+      "id": "img_0054",
+      "facs": "#facs_54",
+      "headers_footers": [
+        "AR",
+        "29",
+        "Arundo",
+        "D 3"
+      ]
+    },
+    "55": {
+      "id": "img_0055",
+      "facs": "#facs_55",
+      "headers_footers": [
+        "AR",
+        "AS",
+        "30",
+        "Asubic,"
+      ]
+    },
+    "56": {
+      "id": "img_0056",
+      "facs": "#facs_56",
+      "headers_footers": [
+        "AS",
+        "31"
+      ]
+    },
+    "57": {
+      "id": "img_0057",
+      "facs": "#facs_57",
+      "headers_footers": [
+        "32",
+        "AT",
+        "AS",
+        "Avaritia"
+      ]
+    },
+    "58": {
+      "id": "img_0058",
+      "facs": "#facs_58",
+      "headers_footers": [
+        "AV",
+        "AU",
+        "33",
+        "Aurum",
+        "E"
+      ]
+    },
+    "59": {
+      "id": "img_0059",
+      "facs": "#facs_59",
+      "headers_footers": [
+        "AU AX AY AZ",
+        "34",
+        "Azeg"
+      ]
+    },
+    "60": {
+      "id": "img_0060",
+      "facs": "#facs_60",
+      "headers_footers": [
+        "AZ BA",
+        "35",
+        "B.",
+        "2",
+        "E",
+        "Bacca"
+      ]
+    },
+    "61": {
+      "id": "img_0061",
+      "facs": "#facs_61",
+      "headers_footers": [
+        "BA",
+        "36",
+        "Balneum"
+      ]
+    },
+    "62": {
+      "id": "img_0062",
+      "facs": "#facs_62",
+      "headers_footers": [
+        "BA",
+        "37",
+        "E 3"
+      ]
+    },
+    "63": {
+      "id": "img_0063",
+      "facs": "#facs_63",
+      "headers_footers": [
+        "38",
+        "BA",
+        "Baptis"
+      ]
+    },
+    "64": {
+      "id": "img_0064",
+      "facs": "#facs_64",
+      "headers_footers": [
+        "BA",
+        "39",
+        "Bezabar,"
+      ]
+    },
+    "65": {
+      "id": "img_0065",
+      "facs": "#facs_65",
+      "headers_footers": [
+        "BE",
+        "40"
+      ]
+    },
+    "66": {
+      "id": "img_0066",
+      "facs": "#facs_66",
+      "headers_footers": [
+        "BE",
+        "BI",
+        "41",
+        "E",
+        "Bismuthum"
+      ]
+    },
+    "67": {
+      "id": "img_0067",
+      "facs": "#facs_67",
+      "headers_footers": [
+        "BO",
+        "BL",
+        "BI",
+        "42",
+        "Bolus"
+      ]
+    },
+    "68": {
+      "id": "img_0068",
+      "facs": "#facs_68",
+      "headers_footers": [
+        "B0",
+        "43",
+        "F 2",
+        "Botamum"
+      ]
+    },
+    "69": {
+      "id": "img_0069",
+      "facs": "#facs_69",
+      "headers_footers": [
+        "BO",
+        "BR",
+        "44",
+        "Buccelaton"
+      ]
+    },
+    "70": {
+      "id": "img_0070",
+      "facs": "#facs_70",
+      "headers_footers": [
+        "BU BY",
+        "45",
+        "Cab",
+        "F 3"
+      ]
+    },
+    "71": {
+      "id": "img_0071",
+      "facs": "#facs_71",
+      "headers_footers": [
+        "CA",
+        "46",
+        "C,",
+        "Cadmià"
+      ]
+    },
+    "72": {
+      "id": "img_0072",
+      "facs": "#facs_72",
+      "headers_footers": [
+        "CA",
+        "47",
+        "Calchiteos"
+      ]
+    },
+    "73": {
+      "id": "img_0073",
+      "facs": "#facs_73",
+      "headers_footers": [
+        "48",
+        "CA",
+        "Calcula"
+      ]
+    },
+    "74": {
+      "id": "img_0074",
+      "facs": "#facs_74",
+      "headers_footers": [
+        "CA",
+        "49",
+        "G",
+        "Calor"
+      ]
+    },
+    "75": {
+      "id": "img_0075",
+      "facs": "#facs_75",
+      "headers_footers": [
+        "CA",
+        "50",
+        "Calx viva"
+      ]
+    },
+    "76": {
+      "id": "img_0076",
+      "facs": "#facs_76",
+      "headers_footers": [
+        "CA",
+        "51",
+        "Cancer",
+        "G 2"
+      ]
+    },
+    "77": {
+      "id": "img_0077",
+      "facs": "#facs_77",
+      "headers_footers": [
+        "CA",
+        "52",
+        "Cantum"
+      ]
+    },
+    "78": {
+      "id": "img_0078",
+      "facs": "#facs_78",
+      "headers_footers": [
+        "CA",
+        "53",
+        "Carabius",
+        "G 3",
+        "8"
+      ]
+    },
+    "79": {
+      "id": "img_0079",
+      "facs": "#facs_79",
+      "headers_footers": [
+        "CA",
+        "54",
+        "Caseus"
+      ]
+    },
+    "80": {
+      "id": "img_0080",
+      "facs": "#facs_80",
+      "headers_footers": [
+        "CA",
+        "6",
+        "55"
+      ]
+    },
+    "81": {
+      "id": "img_0081",
+      "facs": "#facs_81",
+      "headers_footers": [
+        "56",
+        "CA",
+        "Catapl.",
+        "O"
+      ]
+    },
+    "82": {
+      "id": "img_0082",
+      "facs": "#facs_82",
+      "headers_footers": [
+        "CA",
+        "57",
+        "H",
+        "Caulis"
+      ]
+    },
+    "83": {
+      "id": "img_0083",
+      "facs": "#facs_83",
+      "headers_footers": [
+        "CA CE",
+        "58",
+        "Cepa"
+      ]
+    },
+    "84": {
+      "id": "img_0084",
+      "facs": "#facs_84",
+      "headers_footers": [
+        "CE",
+        "59",
+        "Cerasa",
+        "H 2"
+      ]
+    },
+    "85": {
+      "id": "img_0085",
+      "facs": "#facs_85",
+      "headers_footers": [
+        "CE",
+        "60",
+        "Cerevi-"
+      ]
+    },
+    "86": {
+      "id": "img_0086",
+      "facs": "#facs_86",
+      "headers_footers": [
+        "61",
+        "CE",
+        "Ceti",
+        "H 3"
+      ]
+    },
+    "87": {
+      "id": "img_0087",
+      "facs": "#facs_87",
+      "headers_footers": [
+        "62",
+        "CH",
+        "Chamae-",
+        "C"
+      ]
+    },
+    "88": {
+      "id": "img_0088",
+      "facs": "#facs_88",
+      "headers_footers": [
+        "CH",
+        "63",
+        "Cheudanum"
+      ]
+    },
+    "89": {
+      "id": "img_0089",
+      "facs": "#facs_89",
+      "headers_footers": [
+        "CH",
+        "64",
+        "Choacum"
+      ]
+    },
+    "90": {
+      "id": "img_0090",
+      "facs": "#facs_90",
+      "headers_footers": [
+        "65",
+        "CH",
+        "Chryso-"
+      ]
+    },
+    "91": {
+      "id": "img_0091",
+      "facs": "#facs_91",
+      "headers_footers": [
+        "CH",
+        "66",
+        "Chymica,",
+        "GC"
+      ]
+    },
+    "92": {
+      "id": "img_0092",
+      "facs": "#facs_92",
+      "headers_footers": [
+        "CHCI",
+        "67",
+        "Cinamo-",
+        "I 2"
+      ]
+    },
+    "93": {
+      "id": "img_0093",
+      "facs": "#facs_93",
+      "headers_footers": [
+        "CI",
+        "68",
+        "Cinnaba-",
+        "C"
+      ]
+    },
+    "94": {
+      "id": "img_0094",
+      "facs": "#facs_94",
+      "headers_footers": [
+        "69",
+        "CI",
+        "Circu-",
+        "I 3"
+      ]
+    },
+    "95": {
+      "id": "img_0095",
+      "facs": "#facs_95",
+      "headers_footers": [
+        "CICL",
+        "70",
+        "Coagula-"
+      ]
+    },
+    "96": {
+      "id": "img_0096",
+      "facs": "#facs_96",
+      "headers_footers": [
+        "CLCO",
+        "71"
+      ]
+    },
+    "97": {
+      "id": "img_0097",
+      "facs": "#facs_97",
+      "headers_footers": [
+        "co",
+        "72",
+        "Cochlea,"
+      ]
+    },
+    "98": {
+      "id": "img_0098",
+      "facs": "#facs_98",
+      "headers_footers": [
+        "co",
+        "73",
+        "K 2",
+        "Colutbea,"
+      ]
+    },
+    "99": {
+      "id": "img_0099",
+      "facs": "#facs_99",
+      "headers_footers": [
+        "CO",
+        "74"
+      ]
+    },
+    "100": {
+      "id": "img_0100",
+      "facs": "#facs_100",
+      "headers_footers": [
+        "CO",
+        "70"
+      ]
+    },
+    "101": {
+      "id": "img_0101",
+      "facs": "#facs_101",
+      "headers_footers": [
+        "CO",
+        "76",
+        "Conchae,"
+      ]
+    },
+    "102": {
+      "id": "img_0102",
+      "facs": "#facs_102",
+      "headers_footers": [
+        "CO",
+        "77",
+        "Congluten",
+        "K 3"
+      ]
+    },
+    "103": {
+      "id": "img_0103",
+      "facs": "#facs_103",
+      "headers_footers": [
+        "co",
+        "78",
+        "Coopertio"
+      ]
+    },
+    "104": {
+      "id": "img_0104",
+      "facs": "#facs_104",
+      "headers_footers": [
+        "co",
+        "79"
+      ]
+    },
+    "105": {
+      "id": "img_0105",
+      "facs": "#facs_105",
+      "headers_footers": [
+        "CO",
+        "80",
+        "Coro-"
+      ]
+    },
+    "106": {
+      "id": "img_0106",
+      "facs": "#facs_106",
+      "headers_footers": [
+        "CO",
+        "81",
+        "Cortices.",
+        "L"
+      ]
+    },
+    "107": {
+      "id": "img_0107",
+      "facs": "#facs_107",
+      "headers_footers": [
+        "co",
+        "82",
+        "Cortices.",
+        "L 2",
+        "Cortices"
+      ]
+    },
+    "108": {
+      "id": "img_0108",
+      "facs": "#facs_108",
+      "headers_footers": [
+        "CO",
+        "83"
+      ]
+    },
+    "109": {
+      "id": "img_0109",
+      "facs": "#facs_109",
+      "headers_footers": [
+        "CO",
+        "84",
+        "Costa"
+      ]
+    },
+    "110": {
+      "id": "img_0110",
+      "facs": "#facs_110",
+      "headers_footers": [
+        "COCR",
+        "85",
+        "Crocus"
+      ]
+    },
+    "111": {
+      "id": "img_0111",
+      "facs": "#facs_111",
+      "headers_footers": [
+        "86",
+        "CR"
+      ]
+    },
+    "112": {
+      "id": "img_0112",
+      "facs": "#facs_112",
+      "headers_footers": [
+        "CR CU",
+        "87",
+        "Cubil"
+      ]
+    },
+    "113": {
+      "id": "img_0113",
+      "facs": "#facs_113",
+      "headers_footers": [
+        "cu",
+        "88",
+        "Cupressi,"
+      ]
+    },
+    "114": {
+      "id": "img_0114",
+      "facs": "#facs_114",
+      "headers_footers": [
+        "CU CY",
+        "89",
+        "Cynya",
+        "M"
+      ]
+    },
+    "115": {
+      "id": "img_0115",
+      "facs": "#facs_115",
+      "headers_footers": [
+        "CYDA",
+        "90",
+        "D",
+        "Dactyli"
+      ]
+    },
+    "116": {
+      "id": "img_0116",
+      "facs": "#facs_116",
+      "headers_footers": [
+        "DA",
+        "91",
+        "Daximi-",
+        "M 2"
+      ]
+    },
+    "117": {
+      "id": "img_0117",
+      "facs": "#facs_117",
+      "headers_footers": [
+        "DA DE",
+        "92",
+        "Deje-"
+      ]
+    },
+    "118": {
+      "id": "img_0118",
+      "facs": "#facs_118",
+      "headers_footers": [
+        "DE",
+        "93",
+        "Dentales,",
+        "M3"
+      ]
+    },
+    "119": {
+      "id": "img_0119",
+      "facs": "#facs_119",
+      "headers_footers": [
+        "94",
+        "DE",
+        "Descenso-"
+      ]
+    },
+    "120": {
+      "id": "img_0120",
+      "facs": "#facs_120",
+      "headers_footers": [
+        "DE",
+        "95",
+        "Dia,"
+      ]
+    },
+    "121": {
+      "id": "img_0121",
+      "facs": "#facs_121",
+      "headers_footers": [
+        "DI",
+        "96",
+        "Diaplas-"
+      ]
+    },
+    "122": {
+      "id": "img_0122",
+      "facs": "#facs_122",
+      "headers_footers": [
+        "DI",
+        "97"
+      ]
+    },
+    "123": {
+      "id": "img_0123",
+      "facs": "#facs_123",
+      "headers_footers": [
+        "DI",
+        "98",
+        "Diecbo-"
+      ]
+    },
+    "124": {
+      "id": "img_0124",
+      "facs": "#facs_124",
+      "headers_footers": [
+        "DI",
+        "99",
+        "N3",
+        "Dionysia,"
+      ]
+    },
+    "125": {
+      "id": "img_0125",
+      "facs": "#facs_125",
+      "headers_footers": [
+        "DI",
+        "100",
+        "Discus"
+      ]
+    },
+    "126": {
+      "id": "img_0126",
+      "facs": "#facs_126",
+      "headers_footers": [
+        "DI",
+        "101",
+        "Diygros,",
+        "N 3"
+      ]
+    },
+    "127": {
+      "id": "img_0127",
+      "facs": "#facs_127",
+      "headers_footers": [
+        "DI DO",
+        "102",
+        "Dosis."
+      ]
+    },
+    "128": {
+      "id": "img_0128",
+      "facs": "#facs_128",
+      "headers_footers": [
+        "DO DR",
+        "103",
+        "Durusa-"
+      ]
+    },
+    "129": {
+      "id": "img_0129",
+      "facs": "#facs_129",
+      "headers_footers": [
+        "DRDU",
+        "104"
+      ]
+    },
+    "130": {
+      "id": "img_0130",
+      "facs": "#facs_130",
+      "headers_footers": [
+        "DU DI EB EC.",
+        "105",
+        "E",
+        "Ecdo-",
+        "0"
+      ]
+    },
+    "131": {
+      "id": "img_0131",
+      "facs": "#facs_131",
+      "headers_footers": [
+        "EC ED EF",
+        "106",
+        "Eirion,"
+      ]
+    },
+    "132": {
+      "id": "img_0132",
+      "facs": "#facs_132",
+      "headers_footers": [
+        "EL",
+        "107",
+        "Electrum",
+        "O 2"
+      ]
+    },
+    "133": {
+      "id": "img_0133",
+      "facs": "#facs_133",
+      "headers_footers": [
+        "EL",
+        "108",
+        "Eleti,"
+      ]
+    },
+    "134": {
+      "id": "img_0134",
+      "facs": "#facs_134",
+      "headers_footers": [
+        "EL",
+        "109",
+        "Ellych.",
+        "O 3"
+      ]
+    },
+    "135": {
+      "id": "img_0135",
+      "facs": "#facs_135",
+      "headers_footers": [
+        "EL EM",
+        "110",
+        "Empla-"
+      ]
+    },
+    "136": {
+      "id": "img_0136",
+      "facs": "#facs_136",
+      "headers_footers": [
+        "EM EN",
+        "111",
+        "Epice-"
+      ]
+    },
+    "137": {
+      "id": "img_0137",
+      "facs": "#facs_137",
+      "headers_footers": [
+        "EN EP",
+        "112"
+      ]
+    },
+    "138": {
+      "id": "img_0138",
+      "facs": "#facs_138",
+      "headers_footers": [
+        "EP EQ ER.",
+        "113",
+        "Erice-"
+      ]
+    },
+    "139": {
+      "id": "img_0139",
+      "facs": "#facs_139",
+      "headers_footers": [
+        "ERES",
+        "114",
+        "Essentia,"
+      ]
+    },
+    "140": {
+      "id": "img_0140",
+      "facs": "#facs_140",
+      "headers_footers": [
+        "ES ET EU",
+        "115",
+        "Experi-"
+      ]
+    },
+    "141": {
+      "id": "img_0141",
+      "facs": "#facs_141",
+      "headers_footers": [
+        "EU EX",
+        "116"
+      ]
+    },
+    "142": {
+      "id": "img_0142",
+      "facs": "#facs_142",
+      "headers_footers": [
+        "EX EZ",
+        "117",
+        "F.",
+        "P 3"
+      ]
+    },
+    "143": {
+      "id": "img_0143",
+      "facs": "#facs_143",
+      "headers_footers": [
+        "FAFAE",
+        "118",
+        "F",
+        "Fascicu-"
+      ]
+    },
+    "144": {
+      "id": "img_0144",
+      "facs": "#facs_144",
+      "headers_footers": [
+        "119",
+        "FAFE",
+        "Perra-"
+      ]
+    },
+    "145": {
+      "id": "img_0145",
+      "facs": "#facs_145",
+      "headers_footers": [
+        "FE FI",
+        "120",
+        "Filicula,"
+      ]
+    },
+    "146": {
+      "id": "img_0146",
+      "facs": "#facs_146",
+      "headers_footers": [
+        "FIFL",
+        "121",
+        "2"
+      ]
+    },
+    "147": {
+      "id": "img_0147",
+      "facs": "#facs_147",
+      "headers_footers": [
+        "FL",
+        "122",
+        "FLORES VEGETABILES.",
+        "Flores"
+      ]
+    },
+    "148": {
+      "id": "img_0148",
+      "facs": "#facs_148",
+      "headers_footers": [
+        "FL",
+        "123",
+        "Florei"
+      ]
+    },
+    "149": {
+      "id": "img_0149",
+      "facs": "#facs_149",
+      "headers_footers": [
+        "FL",
+        "124"
+      ]
+    },
+    "150": {
+      "id": "img_0150",
+      "facs": "#facs_150",
+      "headers_footers": [
+        "FL",
+        "125",
+        "Flores"
+      ]
+    },
+    "151": {
+      "id": "img_0151",
+      "facs": "#facs_151",
+      "headers_footers": [
+        "FL",
+        "126"
+      ]
+    },
+    "152": {
+      "id": "img_0152",
+      "facs": "#facs_152",
+      "headers_footers": [
+        "FL.",
+        "127",
+        "Flo-"
+      ]
+    },
+    "153": {
+      "id": "img_0153",
+      "facs": "#facs_153",
+      "headers_footers": [
+        "FLFO",
+        "128",
+        "Foenix,"
+      ]
+    },
+    "154": {
+      "id": "img_0154",
+      "facs": "#facs_154",
+      "headers_footers": [
+        "FEEFO",
+        "129",
+        ","
+      ]
+    },
+    "155": {
+      "id": "img_0155",
+      "facs": "#facs_155",
+      "headers_footers": [
+        "FO FR",
+        "130"
+      ]
+    },
+    "156": {
+      "id": "img_0156",
+      "facs": "#facs_156",
+      "headers_footers": [
+        "FR FU",
+        "131",
+        "Fungus,",
+        "R 2"
+      ]
+    },
+    "157": {
+      "id": "img_0157",
+      "facs": "#facs_157",
+      "headers_footers": [
+        "FU",
+        "132",
+        "G.",
+        "Galbanum,",
+        "R 3"
+      ]
+    },
+    "158": {
+      "id": "img_0158",
+      "facs": "#facs_158",
+      "headers_footers": [
+        "FU FY GA.",
+        "133"
+      ]
+    },
+    "159": {
+      "id": "img_0159",
+      "facs": "#facs_159",
+      "headers_footers": [
+        "GA",
+        "134",
+        "Genista,"
+      ]
+    },
+    "160": {
+      "id": "img_0160",
+      "facs": "#facs_160",
+      "headers_footers": [
+        "GAGE",
+        "135"
+      ]
+    },
+    "161": {
+      "id": "img_0161",
+      "facs": "#facs_161",
+      "headers_footers": [
+        "GEGI",
+        "136",
+        "Gisentera,"
+      ]
+    },
+    "162": {
+      "id": "img_0162",
+      "facs": "#facs_162",
+      "headers_footers": [
+        "GI GL",
+        "137",
+        "Gluta,"
+      ]
+    },
+    "163": {
+      "id": "img_0163",
+      "facs": "#facs_163",
+      "headers_footers": [
+        "GLGN GOGR",
+        "138"
+      ]
+    },
+    "164": {
+      "id": "img_0164",
+      "facs": "#facs_164",
+      "headers_footers": [
+        "GR.",
+        "139",
+        "S 2",
+        "Gratia"
+      ]
+    },
+    "165": {
+      "id": "img_0165",
+      "facs": "#facs_165",
+      "headers_footers": [
+        "GRGU",
+        "140",
+        "cummi"
+      ]
+    },
+    "166": {
+      "id": "img_0166",
+      "facs": "#facs_166",
+      "headers_footers": [
+        "GUGYHAHAE",
+        "141",
+        "H.",
+        "Haemati-"
+      ]
+    },
+    "167": {
+      "id": "img_0167",
+      "facs": "#facs_167",
+      "headers_footers": [
+        "HAEHA",
+        "142",
+        "Hamal-"
+      ]
+    },
+    "168": {
+      "id": "img_0168",
+      "facs": "#facs_168",
+      "headers_footers": [
+        "HAHE",
+        "143",
+        "Hedyn-"
+      ]
+    },
+    "169": {
+      "id": "img_0169",
+      "facs": "#facs_169",
+      "headers_footers": [
+        "HE",
+        "144",
+        "Hemicongi"
+      ]
+    },
+    "170": {
+      "id": "img_0170",
+      "facs": "#facs_170",
+      "headers_footers": [
+        "HE",
+        "145",
+        "Hepta-"
+      ]
+    },
+    "171": {
+      "id": "img_0171",
+      "facs": "#facs_171",
+      "headers_footers": [
+        "146",
+        "Herbae.",
+        "HERBAE.",
+        "T 2",
+        "Amara"
+      ]
+    },
+    "172": {
+      "id": "img_0172",
+      "facs": "#facs_172",
+      "headers_footers": [
+        "Herbae.",
+        "147"
+      ]
+    },
+    "173": {
+      "id": "img_0173",
+      "facs": "#facs_173",
+      "headers_footers": [
+        "148",
+        "Herbae.",
+        "Arthri-"
+      ]
+    },
+    "174": {
+      "id": "img_0174",
+      "facs": "#facs_174",
+      "headers_footers": [
+        "Herbae.",
+        "149",
+        "Betoni-",
+        "T 3"
+      ]
+    },
+    "175": {
+      "id": "img_0175",
+      "facs": "#facs_175",
+      "headers_footers": [
+        "150",
+        "Herbae.",
+        "Calamin-."
+      ]
+    },
+    "176": {
+      "id": "img_0176",
+      "facs": "#facs_176",
+      "headers_footers": [
+        "Herbae.",
+        "Cauda"
+      ]
+    },
+    "177": {
+      "id": "img_0177",
+      "facs": "#facs_177",
+      "headers_footers": [
+        "152",
+        "Herbae.",
+        "Chrysan-"
+      ]
+    },
+    "178": {
+      "id": "img_0178",
+      "facs": "#facs_178",
+      "headers_footers": [
+        "Herbae.",
+        "153",
+        "U",
+        "Corona"
+      ]
+    },
+    "179": {
+      "id": "img_0179",
+      "facs": "#facs_179",
+      "headers_footers": [
+        "Herbae.",
+        "154",
+        "Dipsacus,",
+        "C"
+      ]
+    },
+    "180": {
+      "id": "img_0180",
+      "facs": "#facs_180",
+      "headers_footers": [
+        "Herbae.",
+        "155",
+        "U 2",
+        "Equise-"
+      ]
+    },
+    "181": {
+      "id": "img_0181",
+      "facs": "#facs_181",
+      "headers_footers": [
+        "Herbae.",
+        "156",
+        "Haemio-",
+        "u 3"
+      ]
+    },
+    "182": {
+      "id": "img_0182",
+      "facs": "#facs_182",
+      "headers_footers": [
+        "157",
+        "Herbae."
+      ]
+    },
+    "183": {
+      "id": "img_0183",
+      "facs": "#facs_183",
+      "headers_footers": [
+        "158",
+        "Herbae.",
+        "Hysso-"
+      ]
+    },
+    "184": {
+      "id": "img_0184",
+      "facs": "#facs_184",
+      "headers_footers": [
+        "Herbae.",
+        "159",
+        "Lavendu-"
+      ]
+    },
+    "185": {
+      "id": "img_0185",
+      "facs": "#facs_185",
+      "headers_footers": [
+        "160",
+        "Herbae.",
+        "Linum,"
+      ]
+    },
+    "186": {
+      "id": "img_0186",
+      "facs": "#facs_186",
+      "headers_footers": [
+        "Herbae.",
+        "161",
+        "Marrubium,",
+        "X"
+      ]
+    },
+    "187": {
+      "id": "img_0187",
+      "facs": "#facs_187",
+      "headers_footers": [
+        "2",
+        "162",
+        "Herbae.",
+        "Meum,"
+      ]
+    },
+    "188": {
+      "id": "img_0188",
+      "facs": "#facs_188",
+      "headers_footers": [
+        "Herbae.",
+        "163",
+        "X 2",
+        "Nasturtium"
+      ]
+    },
+    "189": {
+      "id": "img_0189",
+      "facs": "#facs_189",
+      "headers_footers": [
+        "164",
+        "Herbae.",
+        "Origa-"
+      ]
+    },
+    "190": {
+      "id": "img_0190",
+      "facs": "#facs_190",
+      "headers_footers": [
+        "Herbae.",
+        "165",
+        "Peri-",
+        "X 3"
+      ]
+    },
+    "191": {
+      "id": "img_0191",
+      "facs": "#facs_191",
+      "headers_footers": [
+        "Herbae.",
+        "166.",
+        "Plantago"
+      ]
+    },
+    "192": {
+      "id": "img_0192",
+      "facs": "#facs_192",
+      "headers_footers": [
+        "Herbae.",
+        "Pulegi-"
+      ]
+    },
+    "193": {
+      "id": "img_0193",
+      "facs": "#facs_193",
+      "headers_footers": [
+        "168",
+        "Herbae.",
+        "Rubia"
+      ]
+    },
+    "194": {
+      "id": "img_0194",
+      "facs": "#facs_194",
+      "headers_footers": [
+        "Herbae.",
+        "16",
+        "X",
+        "San-"
+      ]
+    },
+    "195": {
+      "id": "img_0195",
+      "facs": "#facs_195",
+      "headers_footers": [
+        "Herbae.",
+        "170",
+        "Seseli,",
+        "172"
+      ]
+    },
+    "196": {
+      "id": "img_0196",
+      "facs": "#facs_196",
+      "headers_footers": [
+        "Herbae.",
+        "171"
+      ]
+    },
+    "197": {
+      "id": "img_0197",
+      "facs": "#facs_197",
+      "headers_footers": [
+        "Herbae.",
+        "Spongia"
+      ]
+    },
+    "198": {
+      "id": "img_0198",
+      "facs": "#facs_198",
+      "headers_footers": [
+        "Herbae.",
+        "173",
+        "Trifolium"
+      ]
+    },
+    "199": {
+      "id": "img_0199",
+      "facs": "#facs_199",
+      "headers_footers": [
+        "Herbae.",
+        "174"
+      ]
+    },
+    "200": {
+      "id": "img_0200",
+      "facs": "#facs_200",
+      "headers_footers": [
+        "Herbae.",
+        "175",
+        "Viperina,"
+      ]
+    },
+    "201": {
+      "id": "img_0201",
+      "facs": "#facs_201",
+      "headers_footers": [
+        "Herbae.",
+        "176",
+        "Hiero-",
+        "Z"
+      ]
+    },
+    "203": {
+      "id": "img_0203",
+      "facs": "#facs_203",
+      "headers_footers": [
+        "HIHO",
+        "178",
+        "Hoedus"
+      ]
+    },
+    "204": {
+      "id": "img_0204",
+      "facs": "#facs_204",
+      "headers_footers": [
+        "HO HU",
+        "179",
+        "Z 2",
+        "Hufacium,"
+      ]
+    },
+    "205": {
+      "id": "img_0205",
+      "facs": "#facs_205",
+      "headers_footers": [
+        "HUHI",
+        "180",
+        "Hydro-"
+      ]
+    },
+    "206": {
+      "id": "img_0206",
+      "facs": "#facs_206",
+      "headers_footers": [
+        "HY",
+        "181",
+        "Hysges,",
+        "Z 3"
+      ]
+    },
+    "207": {
+      "id": "img_0207",
+      "facs": "#facs_207",
+      "headers_footers": [
+        "HY JAIBIC",
+        "182",
+        "I.",
+        "Ichthya,"
+      ]
+    },
+    "208": {
+      "id": "img_0208",
+      "facs": "#facs_208",
+      "headers_footers": [
+        "ICIDIE IFIG",
+        "183",
+        "Ignis"
+      ]
+    },
+    "209": {
+      "id": "img_0209",
+      "facs": "#facs_209",
+      "headers_footers": [
+        "16",
+        "184",
+        "Ignis"
+      ]
+    },
+    "210": {
+      "id": "img_0210",
+      "facs": "#facs_210",
+      "headers_footers": [
+        "IGIL.",
+        "185",
+        "Illecebra,",
+        "A a"
+      ]
+    },
+    "211": {
+      "id": "img_0211",
+      "facs": "#facs_211",
+      "headers_footers": [
+        "186",
+        "ILIM IN",
+        "Incarnan-"
+      ]
+    },
+    "212": {
+      "id": "img_0212",
+      "facs": "#facs_212",
+      "headers_footers": [
+        "IN",
+        "187",
+        "Aa à",
+        "Infant"
+      ]
+    },
+    "213": {
+      "id": "img_0213",
+      "facs": "#facs_213",
+      "headers_footers": [
+        "INIO",
+        "188",
+        "Josachar,"
+      ]
+    },
+    "214": {
+      "id": "img_0214",
+      "facs": "#facs_214",
+      "headers_footers": [
+        "IOIPIRIS",
+        "189",
+        "Isosthath-",
+        "Aa 3"
+      ]
+    },
+    "215": {
+      "id": "img_0215",
+      "facs": "#facs_215",
+      "headers_footers": [
+        "ISIT III",
+        "190",
+        "Juniperi,"
+      ]
+    },
+    "216": {
+      "id": "img_0216",
+      "facs": "#facs_216",
+      "headers_footers": [
+        "IUIX KA",
+        "191",
+        "K.",
+        "Kaled,"
+      ]
+    },
+    "217": {
+      "id": "img_0217",
+      "facs": "#facs_217",
+      "headers_footers": [
+        "KAKE",
+        "192",
+        "Keyri,"
+      ]
+    },
+    "218": {
+      "id": "img_0218",
+      "facs": "#facs_218",
+      "headers_footers": [
+        "KIKO KUKY",
+        "193",
+        "Kymenna,",
+        "B b"
+      ]
+    },
+    "219": {
+      "id": "img_0219",
+      "facs": "#facs_219",
+      "headers_footers": [
+        "194",
+        "KYLA",
+        "L.",
+        "Lab"
+      ]
+    },
+    "220": {
+      "id": "img_0220",
+      "facs": "#facs_220",
+      "headers_footers": [
+        "LA",
+        "195",
+        "Lactu-",
+        "Bb 2"
+      ]
+    },
+    "221": {
+      "id": "img_0221",
+      "facs": "#facs_221",
+      "headers_footers": [
+        "196",
+        "LA",
+        "Lanaria"
+      ]
+    },
+    "222": {
+      "id": "img_0222",
+      "facs": "#facs_222",
+      "headers_footers": [
+        "LA",
+        "197",
+        "Lapillus;",
+        "Bb 3"
+      ]
+    },
+    "223": {
+      "id": "img_0223",
+      "facs": "#facs_223",
+      "headers_footers": [
+        "LA",
+        "198",
+        "Lapis"
+      ]
+    },
+    "224": {
+      "id": "img_0224",
+      "facs": "#facs_224",
+      "headers_footers": [
+        "LA",
+        "199"
+      ]
+    },
+    "225": {
+      "id": "img_0225",
+      "facs": "#facs_225",
+      "headers_footers": [
+        "LA",
+        "200"
+      ]
+    },
+    "226": {
+      "id": "img_0226",
+      "facs": "#facs_226",
+      "headers_footers": [
+        "LA",
+        "201",
+        "Lapis"
+      ]
+    },
+    "227": {
+      "id": "img_0227",
+      "facs": "#facs_227",
+      "headers_footers": [
+        "LA",
+        "202"
+      ]
+    },
+    "228": {
+      "id": "img_0228",
+      "facs": "#facs_228",
+      "headers_footers": [
+        "203",
+        "LA",
+        "Laum"
+      ]
+    },
+    "229": {
+      "id": "img_0229",
+      "facs": "#facs_229",
+      "headers_footers": [
+        "LA",
+        "204"
+      ]
+    },
+    "230": {
+      "id": "img_0230",
+      "facs": "#facs_230",
+      "headers_footers": [
+        "LA",
+        "205"
+      ]
+    },
+    "231": {
+      "id": "img_0231",
+      "facs": "#facs_231",
+      "headers_footers": [
+        "LA",
+        "206"
+      ]
+    },
+    "232": {
+      "id": "img_0232",
+      "facs": "#facs_232",
+      "headers_footers": [
+        "LALE",
+        "207",
+        "Leniens,"
+      ]
+    },
+    "233": {
+      "id": "img_0233",
+      "facs": "#facs_233",
+      "headers_footers": [
+        "208",
+        "LE",
+        "Lepus"
+      ]
+    },
+    "234": {
+      "id": "img_0234",
+      "facs": "#facs_234",
+      "headers_footers": [
+        "209",
+        "LE LI",
+        "Libya-"
+      ]
+    },
+    "235": {
+      "id": "img_0235",
+      "facs": "#facs_235",
+      "headers_footers": [
+        "210",
+        "LI",
+        "Lignum"
+      ]
+    },
+    "236": {
+      "id": "img_0236",
+      "facs": "#facs_236",
+      "headers_footers": [
+        "211",
+        "LI",
+        "Limaco-"
+      ]
+    },
+    "237": {
+      "id": "img_0237",
+      "facs": "#facs_237",
+      "headers_footers": [
+        "212",
+        "LI"
+      ]
+    },
+    "238": {
+      "id": "img_0238",
+      "facs": "#facs_238",
+      "headers_footers": [
+        "LI",
+        "213",
+        "Linum",
+        "Dd 3"
+      ]
+    },
+    "239": {
+      "id": "img_0239",
+      "facs": "#facs_239",
+      "headers_footers": [
+        "LI",
+        "214",
+        "Liquor"
+      ]
+    },
+    "240": {
+      "id": "img_0240",
+      "facs": "#facs_240",
+      "headers_footers": [
+        "LI",
+        "215",
+        "Litri-"
+      ]
+    },
+    "241": {
+      "id": "img_0241",
+      "facs": "#facs_241",
+      "headers_footers": [
+        "216",
+        "LILO",
+        "Lumen",
+        "Ec"
+      ]
+    },
+    "242": {
+      "id": "img_0242",
+      "facs": "#facs_242",
+      "headers_footers": [
+        "LO LU",
+        "217"
+      ]
+    },
+    "243": {
+      "id": "img_0243",
+      "facs": "#facs_243",
+      "headers_footers": [
+        "LU",
+        "218",
+        "Lu-"
+      ]
+    },
+    "244": {
+      "id": "img_0244",
+      "facs": "#facs_244",
+      "headers_footers": [
+        "LU LY",
+        "219",
+        "M. Ita",
+        "Ec a"
+      ]
+    },
+    "245": {
+      "id": "img_0245",
+      "facs": "#facs_245",
+      "headers_footers": [
+        "218",
+        "LU",
+        "Lu-"
+      ]
+    },
+    "246": {
+      "id": "img_0246",
+      "facs": "#facs_246",
+      "headers_footers": [
+        "LU LY",
+        "219",
+        "Ee a",
+        "M. Ita"
+      ]
+    },
+    "247": {
+      "id": "img_0247",
+      "facs": "#facs_247",
+      "headers_footers": [
+        "220",
+        "MA",
+        "M.",
+        "Magi-"
+      ]
+    },
+    "248": {
+      "id": "img_0248",
+      "facs": "#facs_248",
+      "headers_footers": [
+        "MA",
+        "221",
+        "Magi-",
+        "Ee 3"
+      ]
+    },
+    "249": {
+      "id": "img_0249",
+      "facs": "#facs_249",
+      "headers_footers": [
+        "MA",
+        "222",
+        "32",
+        "Atala-"
+      ]
+    },
+    "250": {
+      "id": "img_0250",
+      "facs": "#facs_250",
+      "headers_footers": [
+        "MA",
+        "223",
+        "Malva"
+      ]
+    },
+    "251": {
+      "id": "img_0251",
+      "facs": "#facs_251",
+      "headers_footers": [
+        "MA",
+        "224",
+        "Ma-",
+        "Ff"
+      ]
+    },
+    "252": {
+      "id": "img_0252",
+      "facs": "#facs_252",
+      "headers_footers": [
+        "MA",
+        "225"
+      ]
+    },
+    "253": {
+      "id": "img_0253",
+      "facs": "#facs_253",
+      "headers_footers": [
+        "226",
+        "MA",
+        "Ma-"
+      ]
+    },
+    "254": {
+      "id": "img_0254",
+      "facs": "#facs_254",
+      "headers_footers": [
+        "MA",
+        "227"
+      ]
+    },
+    "255": {
+      "id": "img_0255",
+      "facs": "#facs_255",
+      "headers_footers": [
+        "228",
+        "MA"
+      ]
+    },
+    "256": {
+      "id": "img_0256",
+      "facs": "#facs_256",
+      "headers_footers": [
+        "MA",
+        "229",
+        "Me-"
+      ]
+    },
+    "257": {
+      "id": "img_0257",
+      "facs": "#facs_257",
+      "headers_footers": [
+        "230",
+        "MAME"
+      ]
+    },
+    "258": {
+      "id": "img_0258",
+      "facs": "#facs_258",
+      "headers_footers": [
+        "ME",
+        "231",
+        "Melan-"
+      ]
+    },
+    "259": {
+      "id": "img_0259",
+      "facs": "#facs_259",
+      "headers_footers": [
+        "232",
+        "ME",
+        "Meli-"
+      ]
+    },
+    "260": {
+      "id": "img_0260",
+      "facs": "#facs_260",
+      "headers_footers": [
+        "ME",
+        "233",
+        "Mer-",
+        "G 2"
+      ]
+    },
+    "261": {
+      "id": "img_0261",
+      "facs": "#facs_261",
+      "headers_footers": [
+        "ME",
+        "234"
+      ]
+    },
+    "262": {
+      "id": "img_0262",
+      "facs": "#facs_262",
+      "headers_footers": [
+        "ME",
+        "235"
+      ]
+    },
+    "263": {
+      "id": "img_0263",
+      "facs": "#facs_263",
+      "headers_footers": [
+        "236",
+        "ME",
+        "Mercu-"
+      ]
+    },
+    "264": {
+      "id": "img_0264",
+      "facs": "#facs_264",
+      "headers_footers": [
+        "ME",
+        "237",
+        "etho-",
+        "Gg 3"
+      ]
+    },
+    "265": {
+      "id": "img_0265",
+      "facs": "#facs_265",
+      "headers_footers": [
+        "ME MI",
+        "238",
+        "Mistu-"
+      ]
+    },
+    "266": {
+      "id": "img_0266",
+      "facs": "#facs_266",
+      "headers_footers": [
+        "MI",
+        "239"
+      ]
+    },
+    "267": {
+      "id": "img_0267",
+      "facs": "#facs_267",
+      "headers_footers": [
+        "MI MO",
+        "240",
+        "Morum,"
+      ]
+    },
+    "268": {
+      "id": "img_0268",
+      "facs": "#facs_268",
+      "headers_footers": [
+        "MO",
+        "241"
+      ]
+    },
+    "269": {
+      "id": "img_0269",
+      "facs": "#facs_269",
+      "headers_footers": [
+        "MO",
+        "242"
+      ]
+    },
+    "270": {
+      "id": "img_0270",
+      "facs": "#facs_270",
+      "headers_footers": [
+        "MO",
+        "243",
+        "Hh 3",
+        "Mucila-"
+      ]
+    },
+    "271": {
+      "id": "img_0271",
+      "facs": "#facs_271",
+      "headers_footers": [
+        "MU",
+        "244",
+        "Muren,"
+      ]
+    },
+    "272": {
+      "id": "img_0272",
+      "facs": "#facs_272",
+      "headers_footers": [
+        "MU",
+        "245",
+        "Mutu-",
+        "Hh3"
+      ]
+    },
+    "273": {
+      "id": "img_0273",
+      "facs": "#facs_273",
+      "headers_footers": [
+        "246",
+        "MY",
+        "N."
+      ]
+    },
+    "274": {
+      "id": "img_0274",
+      "facs": "#facs_274",
+      "headers_footers": [
+        "MY",
+        "247"
+      ]
+    },
+    "275": {
+      "id": "img_0275",
+      "facs": "#facs_275",
+      "headers_footers": [
+        "248",
+        "NA",
+        "N.",
+        "Nigrisi-"
+      ]
+    },
+    "276": {
+      "id": "img_0276",
+      "facs": "#facs_276",
+      "headers_footers": [
+        "NA NE",
+        "249"
+      ]
+    },
+    "277": {
+      "id": "img_0277",
+      "facs": "#facs_277",
+      "headers_footers": [
+        "250",
+        "NE NI"
+      ]
+    },
+    "278": {
+      "id": "img_0278",
+      "facs": "#facs_278",
+      "headers_footers": [
+        "NI",
+        "251",
+        "Nocti-"
+      ]
+    },
+    "279": {
+      "id": "img_0279",
+      "facs": "#facs_279",
+      "headers_footers": [
+        "NI",
+        "252"
+      ]
+    },
+    "280": {
+      "id": "img_0280",
+      "facs": "#facs_280",
+      "headers_footers": [
+        "NO",
+        "253",
+        "Nucle-",
+        "li 3"
+      ]
+    },
+    "281": {
+      "id": "img_0281",
+      "facs": "#facs_281",
+      "headers_footers": [
+        "NU",
+        "254",
+        "Nux"
+      ]
+    },
+    "282": {
+      "id": "img_0282",
+      "facs": "#facs_282",
+      "headers_footers": [
+        "NU NY",
+        "255",
+        "Nysae,"
+      ]
+    },
+    "283": {
+      "id": "img_0283",
+      "facs": "#facs_283",
+      "headers_footers": [
+        "256",
+        "NYOA OB",
+        "O.",
+        "Obstru-"
+      ]
+    },
+    "284": {
+      "id": "img_0284",
+      "facs": "#facs_284",
+      "headers_footers": [
+        "OB OC OD",
+        "257",
+        "Olea",
+        "K 2"
+      ]
+    },
+    "285": {
+      "id": "img_0285",
+      "facs": "#facs_285",
+      "headers_footers": [
+        "ODOE",
+        "258"
+      ]
+    },
+    "286": {
+      "id": "img_0286",
+      "facs": "#facs_286",
+      "headers_footers": [
+        "OE OFOIOL",
+        "259"
+      ]
+    },
+    "287": {
+      "id": "img_0287",
+      "facs": "#facs_287",
+      "headers_footers": [
+        "OL-",
+        "266",
+        "5",
+        "Oleum"
+      ]
+    },
+    "288": {
+      "id": "img_0288",
+      "facs": "#facs_288",
+      "headers_footers": [
+        "OL",
+        "261",
+        "Olus"
+      ]
+    },
+    "289": {
+      "id": "img_0289",
+      "facs": "#facs_289",
+      "headers_footers": [
+        "OL",
+        "262"
+      ]
+    },
+    "290": {
+      "id": "img_0290",
+      "facs": "#facs_290",
+      "headers_footers": [
+        "OLOM",
+        "263",
+        "Ompha-",
+        "t 3"
+      ]
+    },
+    "291": {
+      "id": "img_0291",
+      "facs": "#facs_291",
+      "headers_footers": [
+        "OMON OP",
+        "264",
+        "Orchis,"
+      ]
+    },
+    "292": {
+      "id": "img_0292",
+      "facs": "#facs_292",
+      "headers_footers": [
+        "OP-",
+        "265"
+      ]
+    },
+    "293": {
+      "id": "img_0293",
+      "facs": "#facs_293",
+      "headers_footers": [
+        "OPOR",
+        "266"
+      ]
+    },
+    "294": {
+      "id": "img_0294",
+      "facs": "#facs_294",
+      "headers_footers": [
+        "OR",
+        "267",
+        "Ortho-",
+        "L 2"
+      ]
+    },
+    "295": {
+      "id": "img_0295",
+      "facs": "#facs_295",
+      "headers_footers": [
+        "OR OS",
+        "268",
+        "Ostra-"
+      ]
+    },
+    "296": {
+      "id": "img_0296",
+      "facs": "#facs_296",
+      "headers_footers": [
+        "OS OT OV OX",
+        "269",
+        "Oxy,",
+        "LI 3"
+      ]
+    },
+    "297": {
+      "id": "img_0297",
+      "facs": "#facs_297",
+      "headers_footers": [
+        "OX OZ",
+        "270",
+        "Ozo,"
+      ]
+    },
+    "298": {
+      "id": "img_0298",
+      "facs": "#facs_298",
+      "headers_footers": [
+        "OZPA.",
+        "271",
+        "P.",
+        "Palma"
+      ]
+    },
+    "299": {
+      "id": "img_0299",
+      "facs": "#facs_299",
+      "headers_footers": [
+        "PA",
+        "272",
+        "Pare-",
+        "Mm"
+      ]
+    },
+    "300": {
+      "id": "img_0300",
+      "facs": "#facs_300",
+      "headers_footers": [
+        "PA",
+        "273"
+      ]
+    },
+    "301": {
+      "id": "img_0301",
+      "facs": "#facs_301",
+      "headers_footers": [
+        "PA",
+        "274",
+        "Pati-",
+        "Mm 2"
+      ]
+    },
+    "302": {
+      "id": "img_0302",
+      "facs": "#facs_302",
+      "headers_footers": [
+        "PA",
+        "275"
+      ]
+    },
+    "303": {
+      "id": "img_0303",
+      "facs": "#facs_303",
+      "headers_footers": [
+        "PAPE",
+        "276",
+        "Mm 3",
+        "Pepti-"
+      ]
+    },
+    "304": {
+      "id": "img_0304",
+      "facs": "#facs_304",
+      "headers_footers": [
+        "27",
+        "PE"
+      ]
+    },
+    "305": {
+      "id": "img_0305",
+      "facs": "#facs_305",
+      "headers_footers": [
+        "PE",
+        "278",
+        "Persicum"
+      ]
+    },
+    "306": {
+      "id": "img_0306",
+      "facs": "#facs_306",
+      "headers_footers": [
+        "ε",
+        "PE",
+        "279",
+        "Pezet-"
+      ]
+    },
+    "307": {
+      "id": "img_0307",
+      "facs": "#facs_307",
+      "headers_footers": [
+        "PE PH",
+        "280",
+        "Phar-"
+      ]
+    },
+    "308": {
+      "id": "img_0308",
+      "facs": "#facs_308",
+      "headers_footers": [
+        "PH",
+        "281",
+        "Phrycte,"
+      ]
+    },
+    "309": {
+      "id": "img_0309",
+      "facs": "#facs_309",
+      "headers_footers": [
+        "PH",
+        "282"
+      ]
+    },
+    "310": {
+      "id": "img_0310",
+      "facs": "#facs_310",
+      "headers_footers": [
+        "PH",
+        "283",
+        "Phy-",
+        "Nn 2"
+      ]
+    },
+    "311": {
+      "id": "img_0311",
+      "facs": "#facs_311",
+      "headers_footers": [
+        "PH PI",
+        "284",
+        "Nn 3",
+        "Piper"
+      ]
+    },
+    "312": {
+      "id": "img_0312",
+      "facs": "#facs_312",
+      "headers_footers": [
+        "PI",
+        "285"
+      ]
+    },
+    "313": {
+      "id": "img_0313",
+      "facs": "#facs_313",
+      "headers_footers": [
+        "PI",
+        "286",
+        "Pissoce-"
+      ]
+    },
+    "314": {
+      "id": "img_0314",
+      "facs": "#facs_314",
+      "headers_footers": [
+        "PI PL",
+        "287",
+        "Planta-"
+      ]
+    },
+    "315": {
+      "id": "img_0315",
+      "facs": "#facs_315",
+      "headers_footers": [
+        "288",
+        "PL",
+        "Plum-"
+      ]
+    },
+    "316": {
+      "id": "img_0316",
+      "facs": "#facs_316",
+      "headers_footers": [
+        "PL PNPO",
+        "289",
+        "Poly-",
+        "O0"
+      ]
+    },
+    "317": {
+      "id": "img_0317",
+      "facs": "#facs_317",
+      "headers_footers": [
+        "PO",
+        "290",
+        "OO 2",
+        "Porphy-"
+      ]
+    },
+    "318": {
+      "id": "img_0318",
+      "facs": "#facs_318",
+      "headers_footers": [
+        "PO",
+        "291"
+      ]
+    },
+    "319": {
+      "id": "img_0319",
+      "facs": "#facs_319",
+      "headers_footers": [
+        "PO PR",
+        "292",
+        "Prasi-"
+      ]
+    },
+    "320": {
+      "id": "img_0320",
+      "facs": "#facs_320",
+      "headers_footers": [
+        "PR",
+        "293",
+        "Prochy-",
+        "O0 3"
+      ]
+    },
+    "321": {
+      "id": "img_0321",
+      "facs": "#facs_321",
+      "headers_footers": [
+        "PR",
+        "294",
+        "Psit-"
+      ]
+    },
+    "322": {
+      "id": "img_0322",
+      "facs": "#facs_322",
+      "headers_footers": [
+        "PRPS",
+        "295"
+      ]
+    },
+    "323": {
+      "id": "img_0323",
+      "facs": "#facs_323",
+      "headers_footers": [
+        "PS PT PU",
+        "296",
+        "Pulmo-"
+      ]
+    },
+    "324": {
+      "id": "img_0324",
+      "facs": "#facs_324",
+      "headers_footers": [
+        "PU",
+        "297",
+        "Putredo",
+        "Pp"
+      ]
+    },
+    "325": {
+      "id": "img_0325",
+      "facs": "#facs_325",
+      "headers_footers": [
+        "PU PY",
+        "298",
+        "Pyrr-"
+      ]
+    },
+    "326": {
+      "id": "img_0326",
+      "facs": "#facs_326",
+      "headers_footers": [
+        "PYQU",
+        "299.",
+        "Quinque"
+      ]
+    },
+    "327": {
+      "id": "img_0327",
+      "facs": "#facs_327",
+      "headers_footers": [
+        "Qu",
+        "300"
+      ]
+    },
+    "328": {
+      "id": "img_0328",
+      "facs": "#facs_328",
+      "headers_footers": [
+        "QURA",
+        "301",
+        "R.",
+        "RA-",
+        "Pp 3"
+      ]
+    },
+    "329": {
+      "id": "img_0329",
+      "facs": "#facs_329",
+      "headers_footers": [
+        "RA",
+        "302",
+        "VEGETABILIUM RADICES.",
+        "Radix"
+      ]
+    },
+    "330": {
+      "id": "img_0330",
+      "facs": "#facs_330",
+      "headers_footers": [
+        "RA",
+        "303",
+        "Radix"
+      ]
+    },
+    "331": {
+      "id": "img_0331",
+      "facs": "#facs_331",
+      "headers_footers": [
+        "RA",
+        "304",
+        "Radix"
+      ]
+    },
+    "332": {
+      "id": "img_0332",
+      "facs": "#facs_332",
+      "headers_footers": [
+        "RA",
+        "305"
+      ]
+    },
+    "333": {
+      "id": "img_0333",
+      "facs": "#facs_333",
+      "headers_footers": [
+        "RA",
+        "306"
+      ]
+    },
+    "334": {
+      "id": "img_0334",
+      "facs": "#facs_334",
+      "headers_footers": [
+        "RA",
+        "307",
+        "Radix",
+        "Qq 3"
+      ]
+    },
+    "335": {
+      "id": "img_0335",
+      "facs": "#facs_335",
+      "headers_footers": [
+        "RA",
+        "308"
+      ]
+    },
+    "336": {
+      "id": "img_0336",
+      "facs": "#facs_336",
+      "headers_footers": [
+        "RA",
+        "309"
+      ]
+    },
+    "337": {
+      "id": "img_0337",
+      "facs": "#facs_337",
+      "headers_footers": [
+        "RA",
+        "310",
+        "Radis"
+      ]
+    },
+    "338": {
+      "id": "img_0338",
+      "facs": "#facs_338",
+      "headers_footers": [
+        "RA",
+        "311",
+        "Radix"
+      ]
+    },
+    "339": {
+      "id": "img_0339",
+      "facs": "#facs_339",
+      "headers_footers": [
+        "RA",
+        "312",
+        "Radix"
+      ]
+    },
+    "340": {
+      "id": "img_0340",
+      "facs": "#facs_340",
+      "headers_footers": [
+        "RA",
+        "313",
+        "Rr",
+        "Radix"
+      ]
+    },
+    "341": {
+      "id": "img_0341",
+      "facs": "#facs_341",
+      "headers_footers": [
+        "RA",
+        "314",
+        "Radix",
+        "TN"
+      ]
+    },
+    "342": {
+      "id": "img_0342",
+      "facs": "#facs_342",
+      "headers_footers": [
+        "RA",
+        "315",
+        "Rece-"
+      ]
+    },
+    "343": {
+      "id": "img_0343",
+      "facs": "#facs_343",
+      "headers_footers": [
+        "RARE",
+        "316"
+      ]
+    },
+    "344": {
+      "id": "img_0344",
+      "facs": "#facs_344",
+      "headers_footers": [
+        "RE",
+        "317",
+        "Resi-"
+      ]
+    },
+    "345": {
+      "id": "img_0345",
+      "facs": "#facs_345",
+      "headers_footers": [
+        "RE",
+        "318"
+      ]
+    },
+    "346": {
+      "id": "img_0346",
+      "facs": "#facs_346",
+      "headers_footers": [
+        "RE",
+        "319",
+        "Reu,"
+      ]
+    },
+    "347": {
+      "id": "img_0347",
+      "facs": "#facs_347",
+      "headers_footers": [
+        "RERH",
+        "320",
+        "Rhom-",
+        "SS"
+      ]
+    },
+    "348": {
+      "id": "img_0348",
+      "facs": "#facs_348",
+      "headers_footers": [
+        "RH",
+        "321"
+      ]
+    },
+    "349": {
+      "id": "img_0349",
+      "facs": "#facs_349",
+      "headers_footers": [
+        "RHRIRO",
+        "322",
+        "Rodo-"
+      ]
+    },
+    "350": {
+      "id": "img_0350",
+      "facs": "#facs_350",
+      "headers_footers": [
+        "RO",
+        "323",
+        "S8 2",
+        "Rotun-"
+      ]
+    },
+    "351": {
+      "id": "img_0351",
+      "facs": "#facs_351",
+      "headers_footers": [
+        "RO RU",
+        "324",
+        "Ru-"
+      ]
+    },
+    "352": {
+      "id": "img_0352",
+      "facs": "#facs_352",
+      "headers_footers": [
+        "RU",
+        "325",
+        "S, est",
+        "SS 3"
+      ]
+    },
+    "353": {
+      "id": "img_0353",
+      "facs": "#facs_353",
+      "headers_footers": [
+        "326",
+        "SA",
+        "S.",
+        "Sae-"
+      ]
+    },
+    "354": {
+      "id": "img_0354",
+      "facs": "#facs_354",
+      "headers_footers": [
+        "327",
+        "SA"
+      ]
+    },
+    "355": {
+      "id": "img_0355",
+      "facs": "#facs_355",
+      "headers_footers": [
+        "328",
+        "SA",
+        "Sag-"
+      ]
+    },
+    "356": {
+      "id": "img_0356",
+      "facs": "#facs_356",
+      "headers_footers": [
+        "SA",
+        "329",
+        "Sal",
+        "Tt 2"
+      ]
+    },
+    "357": {
+      "id": "img_0357",
+      "facs": "#facs_357",
+      "headers_footers": [
+        "SA",
+        "330"
+      ]
+    },
+    "358": {
+      "id": "img_0358",
+      "facs": "#facs_358",
+      "headers_footers": [
+        "SA",
+        "331"
+      ]
+    },
+    "359": {
+      "id": "img_0359",
+      "facs": "#facs_359",
+      "headers_footers": [
+        "SA",
+        "332",
+        "Sal"
+      ]
+    },
+    "360": {
+      "id": "img_0360",
+      "facs": "#facs_360",
+      "headers_footers": [
+        "SA",
+        "333",
+        "Samies,"
+      ]
+    },
+    "361": {
+      "id": "img_0361",
+      "facs": "#facs_361",
+      "headers_footers": [
+        "SA",
+        "334"
+      ]
+    },
+    "362": {
+      "id": "img_0362",
+      "facs": "#facs_362",
+      "headers_footers": [
+        "SA",
+        "335",
+        "San-"
+      ]
+    },
+    "363": {
+      "id": "img_0363",
+      "facs": "#facs_363",
+      "headers_footers": [
+        "SA",
+        "336",
+        "Saprias,"
+      ]
+    },
+    "364": {
+      "id": "img_0364",
+      "facs": "#facs_364",
+      "headers_footers": [
+        "SA",
+        "337",
+        "Saxi-",
+        "Uu"
+      ]
+    },
+    "365": {
+      "id": "img_0365",
+      "facs": "#facs_365",
+      "headers_footers": [
+        "SASBSC",
+        "338",
+        "Sche-"
+      ]
+    },
+    "366": {
+      "id": "img_0366",
+      "facs": "#facs_366",
+      "headers_footers": [
+        "SC",
+        "339",
+        "selibra,",
+        "Uu 3"
+      ]
+    },
+    "367": {
+      "id": "img_0367",
+      "facs": "#facs_367",
+      "headers_footers": [
+        "SCSE",
+        "340"
+      ]
+    },
+    "368": {
+      "id": "img_0368",
+      "facs": "#facs_368",
+      "headers_footers": [
+        "SE",
+        "341"
+      ]
+    },
+    "369": {
+      "id": "img_0369",
+      "facs": "#facs_369",
+      "headers_footers": [
+        "SE",
+        "342",
+        "SEMINA.",
+        "Semen"
+      ]
+    },
+    "370": {
+      "id": "img_0370",
+      "facs": "#facs_370",
+      "headers_footers": [
+        "SE",
+        "343",
+        "Semen"
+      ]
+    },
+    "371": {
+      "id": "img_0371",
+      "facs": "#facs_371",
+      "headers_footers": [
+        "SE",
+        "344"
+      ]
+    },
+    "372": {
+      "id": "img_0372",
+      "facs": "#facs_372",
+      "headers_footers": [
+        "SE",
+        "345",
+        "Semen",
+        "XX"
+      ]
+    },
+    "373": {
+      "id": "img_0373",
+      "facs": "#facs_373",
+      "headers_footers": [
+        "SE",
+        "346",
+        "Semen"
+      ]
+    },
+    "374": {
+      "id": "img_0374",
+      "facs": "#facs_374",
+      "headers_footers": [
+        "SE",
+        "347",
+        "XX 2",
+        "Semen"
+      ]
+    },
+    "375": {
+      "id": "img_0375",
+      "facs": "#facs_375",
+      "headers_footers": [
+        "SE",
+        "348",
+        "Semen",
+        "XX 3"
+      ]
+    },
+    "376": {
+      "id": "img_0376",
+      "facs": "#facs_376",
+      "headers_footers": [
+        "SE",
+        "349"
+      ]
+    },
+    "377": {
+      "id": "img_0377",
+      "facs": "#facs_377",
+      "headers_footers": [
+        "SE",
+        "350",
+        "Semen"
+      ]
+    },
+    "378": {
+      "id": "img_0378",
+      "facs": "#facs_378",
+      "headers_footers": [
+        "SE",
+        "351",
+        "Semis"
+      ]
+    },
+    "379": {
+      "id": "img_0379",
+      "facs": "#facs_379",
+      "headers_footers": [
+        "SE",
+        "352",
+        "Seri-"
+      ]
+    },
+    "380": {
+      "id": "img_0380",
+      "facs": "#facs_380",
+      "headers_footers": [
+        "SE",
+        "353",
+        "Yy",
+        "Seulo."
+      ]
+    },
+    "381": {
+      "id": "img_0381",
+      "facs": "#facs_381",
+      "headers_footers": [
+        "SESF SI",
+        "354",
+        "Siego-"
+      ]
+    },
+    "382": {
+      "id": "img_0382",
+      "facs": "#facs_382",
+      "headers_footers": [
+        "SI",
+        "355",
+        "Silv.",
+        "172"
+      ]
+    },
+    "383": {
+      "id": "img_0383",
+      "facs": "#facs_383",
+      "headers_footers": [
+        "Si",
+        "356",
+        "Sinm"
+      ]
+    },
+    "384": {
+      "id": "img_0384",
+      "facs": "#facs_384",
+      "headers_footers": [
+        "SMSO",
+        "357",
+        "Solis",
+        "Yy 3"
+      ]
+    },
+    "385": {
+      "id": "img_0385",
+      "facs": "#facs_385",
+      "headers_footers": [
+        "SO",
+        "358",
+        "Soti-"
+      ]
+    },
+    "386": {
+      "id": "img_0386",
+      "facs": "#facs_386",
+      "headers_footers": [
+        "SOSP",
+        "359",
+        "Specu-"
+      ]
+    },
+    "387": {
+      "id": "img_0387",
+      "facs": "#facs_387",
+      "headers_footers": [
+        "360",
+        "SP",
+        "Spina"
+      ]
+    },
+    "388": {
+      "id": "img_0388",
+      "facs": "#facs_388",
+      "headers_footers": [
+        "SP",
+        "361",
+        "Spiritus",
+        "Z 2"
+      ]
+    },
+    "389": {
+      "id": "img_0389",
+      "facs": "#facs_389",
+      "headers_footers": [
+        "SP",
+        "362",
+        "Spona"
+      ]
+    },
+    "390": {
+      "id": "img_0390",
+      "facs": "#facs_390",
+      "headers_footers": [
+        "SP",
+        "363",
+        "L22",
+        "Spyras."
+      ]
+    },
+    "391": {
+      "id": "img_0391",
+      "facs": "#facs_391",
+      "headers_footers": [
+        "SPSQST",
+        "364",
+        "Staphis,"
+      ]
+    },
+    "392": {
+      "id": "img_0392",
+      "facs": "#facs_392",
+      "headers_footers": [
+        "ST",
+        "365",
+        "Stercus",
+        "22 3"
+      ]
+    },
+    "393": {
+      "id": "img_0393",
+      "facs": "#facs_393",
+      "headers_footers": [
+        "366",
+        "ST",
+        "Sto-"
+      ]
+    },
+    "394": {
+      "id": "img_0394",
+      "facs": "#facs_394",
+      "headers_footers": [
+        "ST",
+        "367",
+        "Styrax"
+      ]
+    },
+    "395": {
+      "id": "img_0395",
+      "facs": "#facs_395",
+      "headers_footers": [
+        "STSU",
+        "368",
+        "Succus",
+        "Aaa"
+      ]
+    },
+    "396": {
+      "id": "img_0396",
+      "facs": "#facs_396",
+      "headers_footers": [
+        "SU",
+        "369"
+      ]
+    },
+    "397": {
+      "id": "img_0397",
+      "facs": "#facs_397",
+      "headers_footers": [
+        "SU",
+        "370",
+        "Sulphur"
+      ]
+    },
+    "398": {
+      "id": "img_0398",
+      "facs": "#facs_398",
+      "headers_footers": [
+        "SU",
+        "371",
+        "Aaa 2",
+        "Sulphur"
+      ]
+    },
+    "399": {
+      "id": "img_0399",
+      "facs": "#facs_399",
+      "headers_footers": [
+        "SUSY",
+        "372",
+        "Sycites"
+      ]
+    },
+    "400": {
+      "id": "img_0400",
+      "facs": "#facs_400",
+      "headers_footers": [
+        "SY",
+        "373",
+        "Aaa 3",
+        "Syringa"
+      ]
+    },
+    "401": {
+      "id": "img_0401",
+      "facs": "#facs_401",
+      "headers_footers": [
+        "SYTA",
+        "374",
+        "Tabi-"
+      ]
+    },
+    "402": {
+      "id": "img_0402",
+      "facs": "#facs_402",
+      "headers_footers": [
+        "TA",
+        "375",
+        "Taleo-"
+      ]
+    },
+    "403": {
+      "id": "img_0403",
+      "facs": "#facs_403",
+      "headers_footers": [
+        "TA",
+        "376",
+        "Tar-"
+      ]
+    },
+    "404": {
+      "id": "img_0404",
+      "facs": "#facs_404",
+      "headers_footers": [
+        "TA TE",
+        "377",
+        "Tela",
+        "B bb"
+      ]
+    },
+    "405": {
+      "id": "img_0405",
+      "facs": "#facs_405",
+      "headers_footers": [
+        "TE",
+        "378",
+        "Terra",
+        "B bb 2"
+      ]
+    },
+    "406": {
+      "id": "img_0406",
+      "facs": "#facs_406",
+      "headers_footers": [
+        "TE",
+        "379"
+      ]
+    },
+    "407": {
+      "id": "img_0407",
+      "facs": "#facs_407",
+      "headers_footers": [
+        "TE",
+        "380",
+        "Tessares",
+        "Bbb 3"
+      ]
+    },
+    "408": {
+      "id": "img_0408",
+      "facs": "#facs_408",
+      "headers_footers": [
+        "TE",
+        "381"
+      ]
+    },
+    "409": {
+      "id": "img_0409",
+      "facs": "#facs_409",
+      "headers_footers": [
+        "382",
+        "TE",
+        "Tetti-"
+      ]
+    },
+    "410": {
+      "id": "img_0410",
+      "facs": "#facs_410",
+      "headers_footers": [
+        "383",
+        "TE TH",
+        "Theo-"
+      ]
+    },
+    "411": {
+      "id": "img_0411",
+      "facs": "#facs_411",
+      "headers_footers": [
+        "TH",
+        "384",
+        "Theriaca"
+      ]
+    },
+    "412": {
+      "id": "img_0412",
+      "facs": "#facs_412",
+      "headers_footers": [
+        "TH",
+        "385",
+        "CCC",
+        "Thy-"
+      ]
+    },
+    "413": {
+      "id": "img_0413",
+      "facs": "#facs_413",
+      "headers_footers": [
+        "THTI",
+        "386",
+        "Tin-"
+      ]
+    },
+    "414": {
+      "id": "img_0414",
+      "facs": "#facs_414",
+      "headers_footers": [
+        "TITMTO",
+        "387",
+        "Toxica,",
+        "CCc 2"
+      ]
+    },
+    "415": {
+      "id": "img_0415",
+      "facs": "#facs_415",
+      "headers_footers": [
+        "TOTR",
+        "388",
+        "Tians-"
+      ]
+    },
+    "416": {
+      "id": "img_0416",
+      "facs": "#facs_416",
+      "headers_footers": [
+        "TR",
+        "389",
+        "Tri-",
+        "Cec;"
+      ]
+    },
+    "417": {
+      "id": "img_0417",
+      "facs": "#facs_417",
+      "headers_footers": [
+        "TR",
+        "390",
+        "Tufah,"
+      ]
+    },
+    "418": {
+      "id": "img_0418",
+      "facs": "#facs_418",
+      "headers_footers": [
+        "TRTU",
+        "391"
+      ]
+    },
+    "419": {
+      "id": "img_0419",
+      "facs": "#facs_419",
+      "headers_footers": [
+        "TU TY",
+        "392",
+        "Typha"
+      ]
+    },
+    "420": {
+      "id": "img_0420",
+      "facs": "#facs_420",
+      "headers_footers": [
+        "TYVA",
+        "393",
+        "V.",
+        "Ddd",
+        "Vas,"
+      ]
+    },
+    "421": {
+      "id": "img_0421",
+      "facs": "#facs_421",
+      "headers_footers": [
+        "VAVE",
+        "394",
+        "Venti"
+      ]
+    },
+    "422": {
+      "id": "img_0422",
+      "facs": "#facs_422",
+      "headers_footers": [
+        "VE",
+        "395",
+        "Vefica",
+        "Ddd 2"
+      ]
+    },
+    "423": {
+      "id": "img_0423",
+      "facs": "#facs_423",
+      "headers_footers": [
+        "VEVI",
+        "96",
+        "Vinum"
+      ]
+    },
+    "424": {
+      "id": "img_0424",
+      "facs": "#facs_424",
+      "headers_footers": [
+        "VI",
+        "397",
+        "Vir-",
+        "Ddd 3"
+      ]
+    },
+    "425": {
+      "id": "img_0425",
+      "facs": "#facs_425",
+      "headers_footers": [
+        "VI",
+        "398",
+        "Viti"
+      ]
+    },
+    "426": {
+      "id": "img_0426",
+      "facs": "#facs_426",
+      "headers_footers": [
+        "VI",
+        "399",
+        "Vitrio-"
+      ]
+    },
+    "427": {
+      "id": "img_0427",
+      "facs": "#facs_427",
+      "headers_footers": [
+        "VI UL",
+        "400",
+        "Ulmis,"
+      ]
+    },
+    "428": {
+      "id": "img_0428",
+      "facs": "#facs_428",
+      "headers_footers": [
+        "UL UM UN",
+        "401",
+        "Unguenta",
+        "E ee"
+      ]
+    },
+    "429": {
+      "id": "img_0429",
+      "facs": "#facs_429",
+      "headers_footers": [
+        "UN",
+        "402",
+        "Voar-"
+      ]
+    },
+    "430": {
+      "id": "img_0430",
+      "facs": "#facs_430",
+      "headers_footers": [
+        "VO UR",
+        "403",
+        "Urinator,",
+        "Eee 2"
+      ]
+    },
+    "431": {
+      "id": "img_0431",
+      "facs": "#facs_431",
+      "headers_footers": [
+        "URUS UT",
+        "404",
+        "Uterinum"
+      ]
+    },
+    "432": {
+      "id": "img_0432",
+      "facs": "#facs_432",
+      "headers_footers": [
+        "UT UT VU",
+        "405",
+        "Vulpis",
+        "Ece 3"
+      ]
+    },
+    "433": {
+      "id": "img_0433",
+      "facs": "#facs_433",
+      "headers_footers": [
+        "VU WAWI XAXE",
+        "406",
+        "X.",
+        "Xero-"
+      ]
+    },
+    "434": {
+      "id": "img_0434",
+      "facs": "#facs_434",
+      "headers_footers": [
+        "XEXIXY",
+        "407",
+        "Y.",
+        "Yerva."
+      ]
+    },
+    "435": {
+      "id": "img_0435",
+      "facs": "#facs_435",
+      "headers_footers": [
+        "YEYGYLYOYRYSYXZA",
+        "408",
+        "Z.",
+        "Zafa-"
+      ]
+    },
+    "436": {
+      "id": "img_0436",
+      "facs": "#facs_436",
+      "headers_footers": [
+        "ZAZE",
+        "409",
+        "Fff",
+        "Zerci,"
+      ]
+    },
+    "437": {
+      "id": "img_0437",
+      "facs": "#facs_437",
+      "headers_footers": [
+        "ZE ZI",
+        "410",
+        "zonitis."
+      ]
+    },
+    "438": {
+      "id": "img_0438",
+      "facs": "#facs_438",
+      "headers_footers": [
+        "ZO ZU ZX",
+        "411",
+        "FINIS.",
+        "Vollkommen"
+      ]
+    },
+    "439": {
+      "id": "img_0439",
+      "facs": "#facs_439",
+      "headers_footers": []
+    },
+    "440": {
+      "id": "img_0440",
+      "facs": "#facs_440",
+      "headers_footers": [
+        "Wollkommenes Deutsches Woͤrter-Buch Aller Kraͤuter / Whiere und Ertz/ so wol derer / welche in vorhergehenden la- teinischen LEXICO begriffen / als auch anderer/ die in Apothecken / Material-Kammern / und sonst hin und wieder vorkommen."
+      ]
+    },
+    "441": {
+      "id": "img_0441",
+      "facs": "#facs_441",
+      "headers_footers": []
+    },
+    "442": {
+      "id": "img_0442",
+      "facs": "#facs_442",
+      "headers_footers": [
+        "A.",
+        "a 2",
+        "Aeschroͤß-"
+      ]
+    },
+    "443": {
+      "id": "img_0443",
+      "facs": "#facs_443",
+      "headers_footers": [
+        "4",
+        "+3)o(ἑα-",
+        "Ama-"
+      ]
+    },
+    "444": {
+      "id": "img_0444",
+      "facs": "#facs_444",
+      "headers_footers": [
+        "43) o (ἑa-",
+        "5",
+        "a 3",
+        "Arti-"
+      ]
+    },
+    "445": {
+      "id": "img_0445",
+      "facs": "#facs_445",
+      "headers_footers": [
+        "B.",
+        "Bad-"
+      ]
+    },
+    "446": {
+      "id": "img_0446",
+      "facs": "#facs_446",
+      "headers_footers": [
+        "D)Ou-",
+        "7",
+        "Bern"
+      ]
+    },
+    "447": {
+      "id": "img_0447",
+      "facs": "#facs_447",
+      "headers_footers": [
+        "8",
+        "*3) o(8a-",
+        "Berg-"
+      ]
+    },
+    "448": {
+      "id": "img_0448",
+      "facs": "#facs_448",
+      "headers_footers": [
+        "113) oἑκ-",
+        "9",
+        "Bingel-",
+        "§"
+      ]
+    },
+    "449": {
+      "id": "img_0449",
+      "facs": "#facs_449",
+      "headers_footers": [
+        "EO-",
+        "10",
+        "Bley-"
+      ]
+    },
+    "450": {
+      "id": "img_0450",
+      "facs": "#facs_450",
+      "headers_footers": [
+        "OIA-",
+        "11",
+        "Brand-",
+        "b2"
+      ]
+    },
+    "451": {
+      "id": "img_0451",
+      "facs": "#facs_451",
+      "headers_footers": [
+        "*8)(έκ-",
+        "12",
+        "Brust-"
+      ]
+    },
+    "452": {
+      "id": "img_0452",
+      "facs": "#facs_452",
+      "headers_footers": [
+        "+)ο 8-",
+        "13",
+        "C.",
+        "b 3",
+        "Canarien-"
+      ]
+    },
+    "453": {
+      "id": "img_0453",
+      "facs": "#facs_453",
+      "headers_footers": [
+        "τα)οέκ-",
+        "14",
+        "Clareth/"
+      ]
+    },
+    "454": {
+      "id": "img_0454",
+      "facs": "#facs_454",
+      "headers_footers": [
+        "15",
+        "*3)(-",
+        "Cucum-"
+      ]
+    },
+    "455": {
+      "id": "img_0455",
+      "facs": "#facs_455",
+      "headers_footers": [
+        "43) ὁ (ἑκ-",
+        "16",
+        "D.",
+        "Diamand/"
+      ]
+    },
+    "456": {
+      "id": "img_0456",
+      "facs": "#facs_456",
+      "headers_footers": [
+        "(13)o (tu-",
+        "17",
+        "Durch-"
+      ]
+    },
+    "457": {
+      "id": "img_0457",
+      "facs": "#facs_457",
+      "headers_footers": [
+        "1)o(ἑ-",
+        "18",
+        "E.",
+        "Eisen-"
+      ]
+    },
+    "458": {
+      "id": "img_0458",
+      "facs": "#facs_458",
+      "headers_footers": [
+        "413) o (8α-",
+        "19",
+        "Erdbeer /",
+        "c 2"
+      ]
+    },
+    "459": {
+      "id": "img_0459",
+      "facs": "#facs_459",
+      "headers_footers": [
+        "43) ο (ξu-",
+        "20",
+        "Ewiges"
+      ]
+    },
+    "460": {
+      "id": "img_0460",
+      "facs": "#facs_460",
+      "headers_footers": [
+        "Q)OH-",
+        "21",
+        "F.",
+        "c 3",
+        "Feld-"
+      ]
+    },
+    "461": {
+      "id": "img_0461",
+      "facs": "#facs_461",
+      "headers_footers": [
+        "22",
+        "Q)OA-",
+        "Fisch-"
+      ]
+    },
+    "462": {
+      "id": "img_0462",
+      "facs": "#facs_462",
+      "headers_footers": [
+        "23",
+        "Frembd"
+      ]
+    },
+    "463": {
+      "id": "img_0463",
+      "facs": "#facs_463",
+      "headers_footers": [
+        "A)OR-",
+        "24",
+        "G.",
+        "Gampffer"
+      ]
+    },
+    "464": {
+      "id": "img_0464",
+      "facs": "#facs_464",
+      "headers_footers": [
+        "+3)οἑ-",
+        "25",
+        "d",
+        "Gebaumte"
+      ]
+    },
+    "465": {
+      "id": "img_0465",
+      "facs": "#facs_465",
+      "headers_footers": [
+        "26",
+        "13) ο (ἔκ-",
+        "Gelbe"
+      ]
+    },
+    "466": {
+      "id": "img_0466",
+      "facs": "#facs_466",
+      "headers_footers": [
+        "α3) o (ἑu-",
+        "29",
+        "d 2",
+        "Gold-"
+      ]
+    },
+    "467": {
+      "id": "img_0467",
+      "facs": "#facs_467",
+      "headers_footers": [
+        "Ou-",
+        "30",
+        "Groß"
+      ]
+    },
+    "468": {
+      "id": "img_0468",
+      "facs": "#facs_468",
+      "headers_footers": [
+        "27",
+        "D8)OE-",
+        "d 2",
+        "Gelbe",
+        "27"
+      ]
+    },
+    "469": {
+      "id": "img_0469",
+      "facs": "#facs_469",
+      "headers_footers": [
+        "28",
+        "*8) Eσ-",
+        "Gespreckt"
+      ]
+    },
+    "470": {
+      "id": "img_0470",
+      "facs": "#facs_470",
+      "headers_footers": [
+        "*3) 0 (E-",
+        "31",
+        "Groß"
+      ]
+    },
+    "471": {
+      "id": "img_0471",
+      "facs": "#facs_471",
+      "headers_footers": [
+        "13) o (ξα-",
+        "32",
+        "Groß"
+      ]
+    },
+    "472": {
+      "id": "img_0472",
+      "facs": "#facs_472",
+      "headers_footers": [
+        "EO(",
+        "33",
+        "e",
+        "Gummi"
+      ]
+    },
+    "473": {
+      "id": "img_0473",
+      "facs": "#facs_473",
+      "headers_footers": [
+        "34",
+        "113) o(8",
+        "H.",
+        "Hanff-"
+      ]
+    },
+    "474": {
+      "id": "img_0474",
+      "facs": "#facs_474",
+      "headers_footers": [
+        "35",
+        "48)Oθ-",
+        "e 2",
+        "Heder-"
+      ]
+    },
+    "475": {
+      "id": "img_0475",
+      "facs": "#facs_475",
+      "headers_footers": [
+        "EJOIA-",
+        "36",
+        "Heyd-"
+      ]
+    },
+    "476": {
+      "id": "img_0476",
+      "facs": "#facs_476",
+      "headers_footers": [
+        "37",
+        "113) o (ἑx-",
+        "Hirsch-",
+        "e 3"
+      ]
+    },
+    "477": {
+      "id": "img_0477",
+      "facs": "#facs_477",
+      "headers_footers": [
+        "*3)OFa-",
+        "38",
+        "Hummel /"
+      ]
+    },
+    "478": {
+      "id": "img_0478",
+      "facs": "#facs_478",
+      "headers_footers": [
+        "EOFa-",
+        "J.",
+        "Jaspis",
+        "39"
+      ]
+    },
+    "479": {
+      "id": "img_0479",
+      "facs": "#facs_479",
+      "headers_footers": [
+        "O(8",
+        "40",
+        "India-"
+      ]
+    },
+    "480": {
+      "id": "img_0480",
+      "facs": "#facs_480",
+      "headers_footers": [
+        "A)OS-",
+        "Judisch",
+        "f"
+      ]
+    },
+    "481": {
+      "id": "img_0481",
+      "facs": "#facs_481",
+      "headers_footers": [
+        "E)OCPA-",
+        "42",
+        "K.",
+        "Katzen-"
+      ]
+    },
+    "482": {
+      "id": "img_0482",
+      "facs": "#facs_482",
+      "headers_footers": [
+        "ε)Oα-",
+        "43",
+        "f 2",
+        "Kleine"
+      ]
+    },
+    "483": {
+      "id": "img_0483",
+      "facs": "#facs_483",
+      "headers_footers": [
+        "*3)O(S-",
+        "44",
+        "Klein"
+      ]
+    },
+    "484": {
+      "id": "img_0484",
+      "facs": "#facs_484",
+      "headers_footers": [
+        "A)OH-",
+        "45",
+        "f 2",
+        "Klein"
+      ]
+    },
+    "485": {
+      "id": "img_0485",
+      "facs": "#facs_485",
+      "headers_footers": [
+        "&8) oἑα-",
+        "46",
+        "Klein"
+      ]
+    },
+    "486": {
+      "id": "img_0486",
+      "facs": "#facs_486",
+      "headers_footers": [
+        "2",
+        "13) o(ἑκ-",
+        "Knodten-"
+      ]
+    },
+    "487": {
+      "id": "img_0487",
+      "facs": "#facs_487",
+      "headers_footers": [
+        "EOE",
+        "48",
+        "Krackbeer-"
+      ]
+    },
+    "488": {
+      "id": "img_0488",
+      "facs": "#facs_488",
+      "headers_footers": [
+        "88) o(ἑ-",
+        "49",
+        "8",
+        "Krummer"
+      ]
+    },
+    "489": {
+      "id": "img_0489",
+      "facs": "#facs_489",
+      "headers_footers": [
+        "118) οἕ-",
+        "50",
+        "L.",
+        "Lackrit"
+      ]
+    },
+    "490": {
+      "id": "img_0490",
+      "facs": "#facs_490",
+      "headers_footers": [
+        "(8)O(ra-",
+        "51",
+        "Leckrig",
+        "g 2"
+      ]
+    },
+    "491": {
+      "id": "img_0491",
+      "facs": "#facs_491",
+      "headers_footers": [
+        "52",
+        "18)OSu-",
+        "Looß/"
+      ]
+    },
+    "492": {
+      "id": "img_0492",
+      "facs": "#facs_492",
+      "headers_footers": [
+        "D61A-",
+        "53",
+        "M.",
+        "Morgen-",
+        "g3"
+      ]
+    },
+    "493": {
+      "id": "img_0493",
+      "facs": "#facs_493",
+      "headers_footers": [
+        "483)O(l-",
+        "54",
+        "Mauf-"
+      ]
+    },
+    "494": {
+      "id": "img_0494",
+      "facs": "#facs_494",
+      "headers_footers": [
+        "*3) Ora-",
+        "55",
+        "Meer-"
+      ]
+    },
+    "495": {
+      "id": "img_0495",
+      "facs": "#facs_495",
+      "headers_footers": [
+        "A3)O(l-",
+        "56",
+        "Milch-"
+      ]
+    },
+    "496": {
+      "id": "img_0496",
+      "facs": "#facs_496",
+      "headers_footers": [
+        "4i3) o (tu-",
+        "Muͤnche-",
+        "h"
+      ]
+    },
+    "497": {
+      "id": "img_0497",
+      "facs": "#facs_497",
+      "headers_footers": [
+        "(63) o(eu-",
+        "58",
+        "N.",
+        "Naͤgelein-"
+      ]
+    },
+    "498": {
+      "id": "img_0498",
+      "facs": "#facs_498",
+      "headers_footers": [
+        "(3)o (Fa-",
+        "59",
+        "Ocher-",
+        "h 2"
+      ]
+    },
+    "499": {
+      "id": "img_0499",
+      "facs": "#facs_499",
+      "headers_footers": [
+        "60",
+        "1) ὁ⟨ἕκ-",
+        "O.",
+        "P.",
+        "Pappeln-"
+      ]
+    },
+    "500": {
+      "id": "img_0500",
+      "facs": "#facs_500",
+      "headers_footers": [
+        "6)OrA-",
+        "61",
+        "h 3",
+        "Pfauen-"
+      ]
+    },
+    "501": {
+      "id": "img_0501",
+      "facs": "#facs_501",
+      "headers_footers": [
+        "13 ὁ ⟨ἑα-",
+        "62",
+        "Pocken-"
+      ]
+    },
+    "502": {
+      "id": "img_0502",
+      "facs": "#facs_502",
+      "headers_footers": [
+        "Q3)O(Fu-",
+        "63",
+        "Quapp/"
+      ]
+    },
+    "503": {
+      "id": "img_0503",
+      "facs": "#facs_503",
+      "headers_footers": [
+        "64",
+        "+OE-",
+        "Q.",
+        "R.",
+        "Rauppen-"
+      ]
+    },
+    "504": {
+      "id": "img_0504",
+      "facs": "#facs_504",
+      "headers_footers": [
+        "M)OHo-",
+        "64",
+        "Rindi-"
+      ]
+    },
+    "505": {
+      "id": "img_0505",
+      "facs": "#facs_505",
+      "headers_footers": [
+        "O-",
+        "66",
+        "Roß-"
+      ]
+    },
+    "506": {
+      "id": "img_0506",
+      "facs": "#facs_506",
+      "headers_footers": [
+        "(33)o(tid-",
+        "67",
+        "i 2",
+        "Rothe"
+      ]
+    },
+    "507": {
+      "id": "img_0507",
+      "facs": "#facs_507",
+      "headers_footers": [
+        "118) ο (ἕσ-",
+        "68",
+        "S.",
+        "Saffran"
+      ]
+    },
+    "508": {
+      "id": "img_0508",
+      "facs": "#facs_508",
+      "headers_footers": [
+        "413) o (ἑ2",
+        "69",
+        "i 3",
+        "Saphyr /"
+      ]
+    },
+    "509": {
+      "id": "img_0509",
+      "facs": "#facs_509",
+      "headers_footers": [
+        "ας) ὁ⟨ἐπ-",
+        "70",
+        "Scham-"
+      ]
+    },
+    "510": {
+      "id": "img_0510",
+      "facs": "#facs_510",
+      "headers_footers": [
+        "ε)OE-",
+        "71",
+        "Schmahl-"
+      ]
+    },
+    "511": {
+      "id": "img_0511",
+      "facs": "#facs_511",
+      "headers_footers": [
+        "43)o(5",
+        "72",
+        "Schwal-"
+      ]
+    },
+    "512": {
+      "id": "img_0512",
+      "facs": "#facs_512",
+      "headers_footers": [
+        "*13)O(ἑ-",
+        "73",
+        "Schweinen",
+        "t"
+      ]
+    },
+    "513": {
+      "id": "img_0513",
+      "facs": "#facs_513",
+      "headers_footers": [
+        "43) o (Sn-",
+        "74",
+        "Sengen-"
+      ]
+    },
+    "514": {
+      "id": "img_0514",
+      "facs": "#facs_514",
+      "headers_footers": [
+        "(3)O(IA-",
+        "75",
+        "k 2",
+        "Sonnen-"
+      ]
+    },
+    "515": {
+      "id": "img_0515",
+      "facs": "#facs_515",
+      "headers_footers": [
+        "43) o (ἑu-",
+        "78",
+        "Sper-"
+      ]
+    },
+    "516": {
+      "id": "img_0516",
+      "facs": "#facs_516",
+      "headers_footers": [
+        "EOH-",
+        "77",
+        "k 3",
+        "Steben-"
+      ]
+    },
+    "517": {
+      "id": "img_0517",
+      "facs": "#facs_517",
+      "headers_footers": [
+        "78",
+        "(3)o(Sa-",
+        "Stein-"
+      ]
+    },
+    "518": {
+      "id": "img_0518",
+      "facs": "#facs_518",
+      "headers_footers": [
+        "(8)O(F-",
+        "79",
+        "Strobel-",
+        "79"
+      ]
+    },
+    "519": {
+      "id": "img_0519",
+      "facs": "#facs_519",
+      "headers_footers": [
+        "WO-",
+        "80",
+        "T.",
+        "Tannen-"
+      ]
+    },
+    "520": {
+      "id": "img_0520",
+      "facs": "#facs_520",
+      "headers_footers": [
+        "() OrA-",
+        "81",
+        "Thannen-"
+      ]
+    },
+    "521": {
+      "id": "img_0521",
+      "facs": "#facs_521",
+      "headers_footers": [
+        "ε3)o(Fo-",
+        "82",
+        "Turbith"
+      ]
+    },
+    "522": {
+      "id": "img_0522",
+      "facs": "#facs_522",
+      "headers_footers": [
+        "O1A-",
+        "83",
+        "U.",
+        "I 2",
+        "Viol-"
+      ]
+    },
+    "523": {
+      "id": "img_0523",
+      "facs": "#facs_523",
+      "headers_footers": [
+        "113) ὁπ-",
+        "84",
+        "Wach-"
+      ]
+    },
+    "524": {
+      "id": "img_0524",
+      "facs": "#facs_524",
+      "headers_footers": [
+        "13)O(*",
+        "85",
+        "W.",
+        "l 3",
+        "Wald-"
+      ]
+    },
+    "525": {
+      "id": "img_0525",
+      "facs": "#facs_525",
+      "headers_footers": [
+        "86",
+        "46) οἔν-",
+        "Wasser-"
+      ]
+    },
+    "526": {
+      "id": "img_0526",
+      "facs": "#facs_526",
+      "headers_footers": [
+        "EOTA-",
+        "Weicher"
+      ]
+    },
+    "527": {
+      "id": "img_0527",
+      "facs": "#facs_527",
+      "headers_footers": [
+        "α) ο⟨ξα-",
+        "88",
+        "Weiß"
+      ]
+    },
+    "528": {
+      "id": "img_0528",
+      "facs": "#facs_528",
+      "headers_footers": [
+        "DOE-",
+        "89",
+        "Weisser"
+      ]
+    },
+    "529": {
+      "id": "img_0529",
+      "facs": "#facs_529",
+      "headers_footers": [
+        "413) o (ξσ-",
+        "90",
+        "Welsch"
+      ]
+    },
+    "530": {
+      "id": "img_0530",
+      "facs": "#facs_530",
+      "headers_footers": [
+        "E)OFA-",
+        "91",
+        "m 2",
+        "Weyer-"
+      ]
+    },
+    "531": {
+      "id": "img_0531",
+      "facs": "#facs_531",
+      "headers_footers": [
+        "92",
+        "(8) o(F-",
+        "Wilde"
+      ]
+    },
+    "532": {
+      "id": "img_0532",
+      "facs": "#facs_532",
+      "headers_footers": [
+        "EOSA-",
+        "93",
+        "m 3",
+        "Wilden"
+      ]
+    },
+    "533": {
+      "id": "img_0533",
+      "facs": "#facs_533",
+      "headers_footers": [
+        "*8)OSu-",
+        "94",
+        "Witte-"
+      ]
+    },
+    "534": {
+      "id": "img_0534",
+      "facs": "#facs_534",
+      "headers_footers": [
+        "P IOEo-",
+        "95",
+        "Wuͤtte-"
+      ]
+    },
+    "535": {
+      "id": "img_0535",
+      "facs": "#facs_535",
+      "headers_footers": [
+        "96",
+        "43) o (Si-",
+        "X.",
+        "Y.",
+        "Z.",
+        "Zaune"
+      ]
+    },
+    "536": {
+      "id": "img_0536",
+      "facs": "#facs_536",
+      "headers_footers": [
+        "97",
+        "n",
+        "Zucker"
+      ]
+    },
+    "537": {
+      "id": "img_0537",
+      "facs": "#facs_537",
+      "headers_footers": [
+        "98",
+        "ENDE",
+        "ALPHA-"
+      ]
+    },
+    "538": {
+      "id": "img_0538",
+      "facs": "#facs_538",
+      "headers_footers": [
+        "ALPHABETUM CHYMICUM & NUMERUS CHYMICUS",
+        "2 CHARA-"
+      ]
+    },
+    "539": {
+      "id": "img_0539",
+      "facs": "#facs_539",
+      "headers_footers": [
+        "100",
+        "CHARACTERES sive Signa Metallorum, Mineralium, Ponderum, Planetarum aliarumque Rerum Chymicarum.",
+        "A.",
+        "Antimo-"
+      ]
+    },
+    "540": {
+      "id": "img_0540",
+      "facs": "#facs_540",
+      "headers_footers": [
+        "101",
+        "Balneum",
+        "n 3"
+      ]
+    },
+    "541": {
+      "id": "img_0541",
+      "facs": "#facs_541",
+      "headers_footers": [
+        "102",
+        "B.",
+        "Cera"
+      ]
+    },
+    "542": {
+      "id": "img_0542",
+      "facs": "#facs_542",
+      "headers_footers": [
+        "103"
+      ]
+    },
+    "543": {
+      "id": "img_0543",
+      "facs": "#facs_543",
+      "headers_footers": [
+        "104",
+        "D.",
+        "E.",
+        "Fornax,"
+      ]
+    },
+    "544": {
+      "id": "img_0544",
+      "facs": "#facs_544",
+      "headers_footers": [
+        "105",
+        "G.",
+        "H.",
+        "I.",
+        "K",
+        "Lamina,"
+      ]
+    },
+    "545": {
+      "id": "img_0545",
+      "facs": "#facs_545",
+      "headers_footers": [
+        "106",
+        "Luna"
+      ]
+    },
+    "546": {
+      "id": "img_0546",
+      "facs": "#facs_546",
+      "headers_footers": [
+        "107",
+        "M.",
+        "Mixtura"
+      ]
+    },
+    "547": {
+      "id": "img_0547",
+      "facs": "#facs_547",
+      "headers_footers": [
+        "108",
+        "N.",
+        "O.",
+        "P.",
+        "Plumbum"
+      ]
+    },
+    "548": {
+      "id": "img_0548",
+      "facs": "#facs_548",
+      "headers_footers": [
+        "109",
+        "Q",
+        "R.",
+        "S"
+      ]
+    },
+    "549": {
+      "id": "img_0549",
+      "facs": "#facs_549",
+      "headers_footers": [
+        "110"
+      ]
+    },
+    "550": {
+      "id": "img_0550",
+      "facs": "#facs_550",
+      "headers_footers": [
+        "111",
+        "T.",
+        "Tingere,"
+      ]
+    },
+    "551": {
+      "id": "img_0551",
+      "facs": "#facs_551",
+      "headers_footers": [
+        "112",
+        "V.",
+        "Windi"
+      ]
+    },
+    "552": {
+      "id": "img_0552",
+      "facs": "#facs_552",
+      "headers_footers": [
+        "W.",
+        "Z.",
+        "Diphtongi Chymici",
+        "ae. oe. au. uu.",
+        "12. 42. 15. 55.",
+        "Elementa Quatuor",
+        "Gradus Ignis.",
+        "Menses duodecim & 12. Signa Coelestia.",
+        "Planetae Septem.",
+        "Ponde-"
+      ]
+    },
+    "553": {
+      "id": "img_0553",
+      "facs": "#facs_553",
+      "headers_footers": [
+        "114",
+        "Pondera Chymica.",
+        "Tempora. Quatuor Anni.",
+        "Dies & Septimanae.",
+        "Vocales Chymici.",
+        "A. E. I. O,CV, L. M, N. V.",
+        "1. 2. 3. 44 5. 6. 7. 8. 9.",
+        "FINIS."
+      ]
+    },
+    "554": {
+      "id": "img_0554",
+      "facs": "#facs_554",
+      "headers_footers": []
+    },
+    "555": {
+      "id": "img_0555",
+      "facs": "#facs_555",
+      "headers_footers": [
+        "ENDE"
+      ]
+    }
+  },
+  "letters": [],
+  "headers_footers": {
+    "unknown": [
+      "mar",
+      "AC",
+      "3",
+      "14",
+      "AL",
+      "Amarago",
+      "ma me-",
+      "D 2",
+      "Prae- paratio",
+      "ferè",
+      "Carvum,",
+      "per",
+      "tur,",
+      "estque",
+      "Cordiale",
+      "vias,",
+      "candi-",
+      "L 3",
+      "baccis",
+      "parata",
+      "Go-",
+      "la,",
+      "P 2",
+      "Q 2",
+      "Q 3",
+      "à su-",
+      "omne",
+      "garga-",
+      "Germ.",
+      "lapatra,",
+      "stris,",
+      "faciem",
+      "Theatr.",
+      "HE HI",
+      "177",
+      "ut",
+      "tant",
+      "ciunt",
+      "Cc",
+      "C5 2.",
+      "in",
+      "Occiden-",
+      "bonum",
+      "Cc 3",
+      "D d 2",
+      "pur-",
+      "tur",
+      "cul.",
+      "Mar-",
+      "VO-",
+      "Ff 2",
+      "Ff 3",
+      "decem",
+      "Gg",
+      "cau-",
+      "vocatur",
+      "spe-",
+      "colore",
+      "Hh",
+      "planis",
+      "nicil-",
+      "natura-",
+      "Nitrum",
+      "li 2.",
+      "Kk",
+      "Mus",
+      "Succini",
+      "Kk a",
+      "busd",
+      "stentia",
+      "L1",
+      "que",
+      "bi",
+      "res",
+      "rursum",
+      "Nn",
+      "decidit,",
+      "exce",
+      "ἔ1",
+      "cantur",
+      "Aqua",
+      "Pp 2",
+      "Germ.",
+      "Germ.",
+      "Qq",
+      "Qq 2",
+      "Esula",
+      "usui",
+      "drov.",
+      "Rr 2",
+      "erat",
+      "bitum",
+      "dem,",
+      "Tt",
+      "le",
+      "mira",
+      "Flos",
+      "Tt 3",
+      "Scoriam",
+      "uu 2",
+      "Brust-",
+      "Arcii",
+      "dri-",
+      "pora",
+      "ipsam",
+      "ctei",
+      "libros"
+    ]
+  }
+}

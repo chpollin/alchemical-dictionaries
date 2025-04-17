@@ -1,0 +1,605 @@
+[
+  {
+    "id": "Ruland1612-OBelchera",
+    "lemma": "OBelchera ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Obelkara",
+    "lemma": "Obelkara ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "der Cucurbit.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Obrizum-aurum",
+    "lemma": "Obrizum aurum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Obrizum",
+    "lemma": "Obrizum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Ocob",
+    "lemma": "Ocob ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Ocra",
+    "lemma": "Ocra ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gelb Erdrich/ ond heist Vger.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Ocra-Graecis",
+    "lemma": "Ocra Graecis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ockergelbl gelbe Erdes Berck¬gelb: sicuti Chrysocolla est, Berck gruͤn-& coeruleum, Berck¬blaw.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Ochra-Attica",
+    "lemma": "Ochra Attica ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Dottergelb",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Ochra",
+    "lemma": "Ochra ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bleygelb",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Occidens",
+    "lemma": "Occidens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Occidens-stella",
+    "lemma": "Occidens stella ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Occidens",
+    "lemma": "Occidens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wurtze / Winter¬hermaphrodyth",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Odorifera-medicamenta",
+    "lemma": "Odorifera medicamenta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Officina",
+    "lemma": "Officina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Treibhutt",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Officina",
+    "lemma": "Officina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Seigerhuͤtten",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Olea",
+    "lemma": "Olea",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Oleum",
+    "lemma": "Oleum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "wirdt außgezogen von einer trocknen Sub¬stanz aber das Wasser von einer feuchten Substanz denn das",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Oleum",
+    "lemma": "Oleum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "heist auch das erste Wass. ridas von sanguine oder capil¬lis distilliret wirdt.",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Oleum-benedictum",
+    "lemma": "Oleum benedictum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "macht man mit Zieglen.",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Oleum-frumenti",
+    "lemma": "Oleum frumenti ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Dincklkoͤrnen",
+    "page": "364"
+  },
+  {
+    "id": "Ruland1612-Oleum-sulphuris",
+    "lemma": "Oleum sulphuris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": ", sindt sublimirte oder erhoͤchte Nebel von dem bereiten Schwefel.",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-fixum",
+    "lemma": "Oleum fixum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum",
+    "lemma": "Oleum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-destillatum",
+    "lemma": "Oleum destillatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-palestinum",
+    "lemma": "Oleum palestinum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Essig",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-stillatitium-descensorium-est,-quod-destillatione-per-de¬scensum-efficitur.",
+    "lemma": "Oleum stillatitium descensorium",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-per-elixationem-extractum-,-&-excoctum-est,-quod-co¬quendo-extrahitur.-Id-autem-fit,-vel-per-elixationem-in-hu¬more,-aut-per-siccam-flammam.",
+    "lemma": "Oleum per elixationem extractum ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-ex-assatione-fit-per-siccam-flammam,-cum-res-per-se-absque-vllo-menstruo-igneo-calori-adhibitae-oleum-accendant,-quod-colli¬get-quouis-modo.-Et-fit-dupliciter,-assatione-&-combustione.",
+    "lemma": "Oleum ex assatione",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "365"
+  },
+  {
+    "id": "Ruland1612-Oleum-ardens",
+    "lemma": "Oleum ardens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "weinsten Oel",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Oleum-vitrioli-aurificatum-,-est,-quod-auro-dulcoratum-est-arti¬ficiose,-Vitriol,-Oel-mit-Goldsuͤß-gemacht.",
+    "lemma": "Oleum vitrioli aurificatum ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Vitriol, Oel mit Goldsuͤß gemacht.",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Oleum-colcotharinum",
+    "lemma": "Oleum colcotharinum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "das rot Oel auß Vitriol.",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Oleitas-rerum",
+    "lemma": "Oleitas rerum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Olympicus-spiritus",
+    "lemma": "Olympicus spiritus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das Gestirn im Menschen, das da macht¬daß er ein Schatten von sum gibt",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Oly",
+    "lemma": "Oly ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist die Feistigkeit der Schleim der Metallen / stiesset ob dem menstruum, wann sie soluirt sindt",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Onyx",
+    "lemma": "Onyx",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Onix",
+    "lemma": "Onix .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein reiner Chalcedonier",
+    "page": "366"
+  },
+  {
+    "id": "Ruland1612-Opali",
+    "lemma": "Opali",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "367"
+  },
+  {
+    "id": "Ruland1612-Ophites",
+    "lemma": "Ophites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "367"
+  },
+  {
+    "id": "Ruland1612-Operarius",
+    "lemma": "Operarius ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schomper",
+    "page": "368"
+  },
+  {
+    "id": "Ruland1612-Operculum",
+    "lemma": "Operculum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Treibhut",
+    "page": "368"
+  },
+  {
+    "id": "Ruland1612-Operculum-ampullae",
+    "lemma": "Operculum ampullae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Helm Alembit",
+    "page": "368"
+  },
+  {
+    "id": "Ruland1612-Operculum-superioris",
+    "lemma": "Operculum superioris",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spund",
+    "page": "368"
+  },
+  {
+    "id": "Ruland1612-Operimethiolin",
+    "lemma": "Operimethiolin",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "den Rauch von Ertz",
+    "page": "368"
+  },
+  {
+    "id": "Ruland1612-Opilare",
+    "lemma": "Opilare ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Opilatiua",
+    "lemma": "Opilatiua ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "was verstopffet verstellet",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Oppodeltoch",
+    "lemma": "Oppodeltoch ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist das fuͤrnembste Stichpflaster Theophrasti.",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Ops-metallum",
+    "lemma": "Ops metallum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Optos",
+    "lemma": "Optos ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orale",
+    "lemma": "Orale ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orbis",
+    "lemma": "Orbis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Scheibe / Scheiben darauff die Seil geben",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orbis-saxeus",
+    "lemma": "Orbis saxeus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rondtstein",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orbiculi",
+    "lemma": "Orbiculi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Pompen Soge",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Oriens",
+    "lemma": "Oriens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Oriens",
+    "lemma": "Oriens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "der Auffgangsrot oli, der Vatterlrot vitriol, Rubin der Mans sal vrinae, Soulguidener Schwefel der Wider Som¬mer/ Kreys Weinstein / Eschen Erz Wein Eisenoli.",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Ordoleum,-ordeolum,",
+    "lemma": "Ordoleum, ordeolum,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein klein Geschwaͤr wie ein Gerffen Koͤrnlein in Augbrawen",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orexis",
+    "lemma": "Orexis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sodtbrandt",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Organopeotica",
+    "lemma": "Organopeotica",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Kunst aller Kriegsruͤstung.",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orichalcea-fila",
+    "lemma": "Orichalcea fila ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Messinge Buͤrsten.",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orizeum",
+    "lemma": "Orizeum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Gold.",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orizeum-foliatum",
+    "lemma": "Orizeum foliatum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "geschlagen Gold",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orizeum-praecipitatum",
+    "lemma": "Orizeum praecipitatum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Oriza",
+    "lemma": "Oriza ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Reiß.",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orms",
+    "lemma": "Orms ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Ornithae-Cecias",
+    "lemma": "Ornithae Cecias ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ostsuden",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orobo",
+    "lemma": "Orobo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Orogamo",
+    "lemma": "Orogamo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Os",
+    "lemma": "Os ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mundloch",
+    "page": "369"
+  },
+  {
+    "id": "Ruland1612-Os-fornacis",
+    "lemma": "Os fornacis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Auge",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Os-spiritale",
+    "lemma": "Os spiritale ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Spundtsso den Wind facht.",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ostracites",
+    "lemma": "Ostracites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Osoror",
+    "lemma": "Osoror ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ossa-paralleli",
+    "lemma": "Ossa paralleli",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein sondere Artzney/zu allen Podagra",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ostrutium-transplantatum",
+    "lemma": "Ostrutium transplantatum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Othan",
+    "lemma": "Othan ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ouum",
+    "lemma": "Ouum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ouum-philosophicum",
+    "lemma": "Ouum philosophicum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Oxos,-id-est,-acetum,-oleum-Palaestinum",
+    "lemma": "Oxos, id est, acetum, oleum Palaestinum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Oxy",
+    "lemma": "Oxy ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ozeman",
+    "lemma": "Ozeman ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  },
+  {
+    "id": "Ruland1612-Ozo",
+    "lemma": "Ozo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "370"
+  }
+]

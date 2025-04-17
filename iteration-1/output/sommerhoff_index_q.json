@@ -1,0 +1,565 @@
+[
+  {
+    "id": "sommerhoff_quajacum_lignum_germanicum",
+    "lemma": "quajacum Lignum Germanicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eschen-Holtz oder Wund-Holtz.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_quercula_calamandrina_minor",
+    "lemma": "Quercula calamandrina & minor.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Chamanderlein.",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_quercula_peregrina_patientia_italorum_botrys",
+    "lemma": "Quercula peregrina, Patientia Italorum, Botrys.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Tauben: Kraut /",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_quercus_folia_seu_arboris_jovis_folia",
+    "lemma": "Quercus folia, seu Arboris Jovis folia.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eychen Laub. Crescunt in arbori- bus Quercuum in sylvis.",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_quinquefolium",
+    "lemma": "Quinquefolium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_quinquenervia",
+    "lemma": "Quinquenervia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spitziger Wegerig.",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_quirini_domini_herba",
+    "lemma": "Quirini Domini herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Huff-Lattig.",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_quisquilium",
+    "lemma": "Quisquilium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "193"
+  },
+  {
+    "id": "sommerhoff_q_e",
+    "lemma": "Q. E.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Quint-Essenz/ oder das S-ehtileste vdn einem jeden Ding. Sign. q ee, 4, P OE, W, 4",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_q_pl",
+    "lemma": "Q pl.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_q_v",
+    "lemma": "Q v.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Soviel man will.",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quadragesima_cybelia_dasypodia",
+    "lemma": "Quadragesima, Cybelia, Dasypodia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Violen: Blue men.",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quadrangulum",
+    "lemma": "Quadrangulum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quadrans",
+    "lemma": "Quadrans,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quadtas",
+    "lemma": "Quadtas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quandros",
+    "lemma": "Quandros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quanli",
+    "lemma": "Quanli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bley. Mart. Rul. & Johns.",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quantitas",
+    "lemma": "Quantitas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quaquila_vel_quisquila",
+    "lemma": "Quaquila, vel Quisquila,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quars",
+    "lemma": "Quars,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quartarium",
+    "lemma": "Quartarium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sechs Loth.",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quartarius_quarta",
+    "lemma": "Quartarius, Quarta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quartatio",
+    "lemma": "Quartatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quartio",
+    "lemma": "Quartio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Knoden / das Fersen Bein / auch der Sprung / als Leporinus. Germ. Der Haßen-Sprung",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quartura",
+    "lemma": "Quartura,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_quaternarius",
+    "lemma": "Quaternarius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatrio",
+    "lemma": "Quatrio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_aquae_pleuriticae",
+    "lemma": "Quatuor Aquae Pleuriticae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_flores_cordiales",
+    "lemma": "Quatuor Flores Cordiales,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_naturae_essentialium_mistorum",
+    "lemma": "Quatuor Naturae Essentialium mistorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_semina_calida_majora",
+    "lemma": "Quatuor Semina calida majora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_semina_calida_minora",
+    "lemma": "Quatuor Semina calida minora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_semina_frigida_majora",
+    "lemma": "Quatuor Semina frigida majora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_semina_frigida_minora",
+    "lemma": "Quatuor Semina frigida minora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_unguenta_calida",
+    "lemma": "Quatuor Unguenta calida,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quatuor_unguenta_frigida",
+    "lemma": "Quatuor Unguenta frigida,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quebricum",
+    "lemma": "Quebricum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quebrith_quibrith",
+    "lemma": "Quebrith, Quibrith,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwefel. Mart. Rul.",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quellem",
+    "lemma": "Quellem,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quelles",
+    "lemma": "Quelles,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quercinus_oernus",
+    "lemma": "Quercinus, Oernus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quercula_calamandrina_minor",
+    "lemma": "Quercula Calamandrina, & minor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quercus",
+    "lemma": "Quercus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Eichbaum.",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_querquedula",
+    "lemma": "Querquedula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quianos",
+    "lemma": "Quianos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quid_pro_quo",
+    "lemma": "Quid pro quo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eins vor das an- dere zu nehmen.",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinquefolium",
+    "lemma": "Quinquefolium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Fuͤnff Finger- Kraut /",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinque_fragmenta_lapidum_pretiosorum",
+    "lemma": "Quinque Fragmenta Lapidum pretiosorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinque_genera_myrobalanorum",
+    "lemma": "Quinque Genera Myrobalanorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinque_herbae_capillares",
+    "lemma": "Quinque Herbae Capillares,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinque_herbae_emollientes",
+    "lemma": "Quinque Herbae Emollientes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinquenervia",
+    "lemma": "Quinquenervia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_quinque_radices_aperientes_majores",
+    "lemma": "Quinque Radices Aperientes majores,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quinque_radices_aperientes_minores",
+    "lemma": "Quinque Radices Aperientes minores,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quinta",
+    "lemma": "Quinta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quisquila",
+    "lemma": "Quisquila,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quisquilium",
+    "lemma": "Quisquilium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kermes-Beer.",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quinta_essentia",
+    "lemma": "Quinta Essentia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quintam_essentiam_vini_lullius",
+    "lemma": "Quintam Essentiam Vini, Lullius",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quomodo",
+    "lemma": "Quomodo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_quovis",
+    "lemma": "Quovis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "328"
+  },
+  {
+    "id": "sommerhoff_qcalaminth",
+    "lemma": "QCalaminth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "452"
+  },
+  {
+    "id": "sommerhoff_queckengra",
+    "lemma": "Queckengraß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_qohapp",
+    "lemma": "QoHapp /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quecken",
+    "lemma": "Quecken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_queckengra",
+    "lemma": "Queckengraß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_queckenkraut",
+    "lemma": "Queckenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quecksteltze_oder_bachsteltze",
+    "lemma": "Quecksteltze oder Bachsteltze /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quecksilber",
+    "lemma": "Quecksilber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quendel",
+    "lemma": "Quendel",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_questenkraut",
+    "lemma": "Questenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quetschen",
+    "lemma": "Quetschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quitten_oder_ku_tten",
+    "lemma": "Quitten oder Kuͤtten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quittenbaum",
+    "lemma": "Quittenbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quittenbrod",
+    "lemma": "Quittenbrod /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quittenkern",
+    "lemma": "Quittenkern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quittenpfersing",
+    "lemma": "Quittenpfersing /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  },
+  {
+    "id": "sommerhoff_quovis_oder_pofist_und_pubenfist",
+    "lemma": "Quovis oder Pofist und Pubenfist /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "503"
+  }
+]

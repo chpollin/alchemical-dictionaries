@@ -1,0 +1,825 @@
+[
+  {
+    "id": "Ruland1612-DAbar",
+    "lemma": "D Abar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dach",
+    "lemma": "Dach ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dactiletus",
+    "lemma": "Dactiletus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zeitloß",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Daib",
+    "lemma": "Daib ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Danic",
+    "lemma": "Danic ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Daniti",
+    "lemma": "Daniti ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Gewicht/6. Gersten Koͤrner.",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dansir,-densir",
+    "lemma": "Dansir, densir ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Daram",
+    "lemma": "Daram ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Daran,-damatan",
+    "lemma": "Daran, damatan ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Daura",
+    "lemma": "Daura ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Christ Wuit",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Debessis",
+    "lemma": "Debessis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Decimar",
+    "lemma": "Decimar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist Biey in der Natur Zinß.",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Decuma",
+    "lemma": "Decuma ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zehende",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Decumanus",
+    "lemma": "Decumanus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zehender",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Degegi",
+    "lemma": "Degegi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dehen",
+    "lemma": "Dehen ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Heist allerley Oel /außgenommen Baumoͤl dieß heist Zaic vel Zaich",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dehene",
+    "lemma": "Dehene ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dehenes",
+    "lemma": "Dehenes ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Dehenez,-duenec,-duhenec",
+    "lemma": "Dehenez, duenec, duhenec ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Deliquium",
+    "lemma": "Deliquium",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "193"
+  },
+  {
+    "id": "Ruland1612-Deliquium-in-aere-est-liquatio-concreti,-quae-fit,-insinuante-se-hu¬miditate-externa,-&-siccitatem-resoluente,-vt-fluat.-Ita-resolu¬tum-quod-est,-liquor-vocatur,-&-consistentiam-habet-aqueam.-(Quanquam-n.-&-lapides-calcarii-dissipentur,-ab-humiditate-aerea-vel-aquea;-tamen-hoc-nec-liquatio-est,-nec-liquor,-quod-inde-exsistit,-appellatur.)-Deliquium-est-duplex:-Vaporosum,-&-Embapticum.",
+    "lemma": "Deliquium in aere",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "194"
+  },
+  {
+    "id": "Ruland1612-Deliquium-vaporosum",
+    "lemma": "Deliquium vaporosum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "194"
+  },
+  {
+    "id": "Ruland1612-Deliquium-embapticum",
+    "lemma": "Deliquium embapticum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "194"
+  },
+  {
+    "id": "Ruland1612-Dem,-dehin",
+    "lemma": "Dem, dehin ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Demensum",
+    "lemma": "Demensum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Leschen",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Demensum-duplicatum",
+    "lemma": "Demensum duplicatum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wehr",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Demetiri",
+    "lemma": "Demetiri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Vormessen",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Demotiuus-lapsus",
+    "lemma": "Demotiuus lapsus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Der gaͤhe Todt.",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Denequat",
+    "lemma": "Denequat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Denses",
+    "lemma": "Denses ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kimen",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Dens-pili",
+    "lemma": "Dens pili ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Deuͤmling.",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Dentes-pili",
+    "lemma": "Dentes pili ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zacken",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Dentes-axis",
+    "lemma": "Dentes axis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hebarmstrich oder Hebeblatten.",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Denodatio",
+    "lemma": "Denodatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Derquet",
+    "lemma": "Derquet ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Derses",
+    "lemma": "Derses",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Dampff darauß die Beuͤne wachsen.",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Deserere-fodinam",
+    "lemma": "Deserere fodinam ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Aufflassen",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Descensio",
+    "lemma": "Descensio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Anderwers distilliren.",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Descensio-calida-(vulgo-distillatio-per-descensum)",
+    "lemma": "Descensio calida (vulgo distillatio per descensum)",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "195"
+  },
+  {
+    "id": "Ruland1612-Descensio-frigida",
+    "lemma": "Descensio frigida",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Descensum,-descensorum",
+    "lemma": "Descensum, descensorum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Ofen/ darinn man vnder sich treibt.",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Descendere",
+    "lemma": "Descendere ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "heistflissig machen zusammen schmeltzen.",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Descendere-gradib.-saxo-incisis",
+    "lemma": "Descendere gradib. saxo incisis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Einfahren auff gehawen? Stuf¬fen.",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Destillatio",
+    "lemma": "Destillatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein Reinigung vnd Clarificirung .",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Destillatio",
+    "lemma": "Destillatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Destillatio-per-ascensum-est,-cum-antequam-destillet-extractum,-sub¬limatur-specie-aerea.-Debetque-ea-esse-continua,-ab-initio-ad-fi¬nem-cum-opere-interrupto-vix-ascendat-id,-quod-reliquum-est.",
+    "lemma": "Destillatio per ascensum",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Destillatio-per-descensum-est,-cum-absque-eleuatione-prolectatus-humor-deorsum-destillat.",
+    "lemma": "Destillatio per descensum",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Destillatio-per-inclinationem-est,-quam-fit-vase-continente-materiam-in-latus-inclinato,-rostro-deorsum-vergente.-Illudvas,-cum-plerumque-sit-retorta,-et-destillatio-per-retortam-opus-nominatur.-Non-184-LEXICON-ALCHEMIAE-MART.-nunquam,-&-destillatio-per-descensum-dicitur,-quod-parua-fiat-eleuatio,-indeque-maxime-deorsum-reflexio,-vel-quod-spi¬ritus-maxime-deorsum-reuocentur,-&-sine-alembico-in-cur¬uatura-coagulantes-descendant.",
+    "lemma": "Destillatio per inclinationem",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "196"
+  },
+  {
+    "id": "Ruland1612-Deuexum",
+    "lemma": "Deuexum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Das hangende oder gehaͤnge deß Gebirgs.",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diamascien,-Dyamassien",
+    "lemma": "Diamascien, Dyamassien ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diapencia",
+    "lemma": "Diapencia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sinnaw.",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diaphoreticum",
+    "lemma": "Diaphoreticum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "was den Schweiß bringt.",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diaphanum",
+    "lemma": "Diaphanum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Durchscheing",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diasatyrion",
+    "lemma": "Diasatyrion",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diatessadelton",
+    "lemma": "Diatessadelton ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diathetis",
+    "lemma": "Diathetis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eine angeborne Art oder Natur.",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Dienez",
+    "lemma": "Dienez",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Dikalegi,-dicalegi,-ditalem",
+    "lemma": "Dikalegi, dicalegi, ditalem ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Dilutum",
+    "lemma": "Dilutum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Caugen durch Erdrich gemacht.",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Dimidiatae",
+    "lemma": "Dimidiatae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Pfaͤnnlein",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Dyonysius-lapis",
+    "lemma": "Dyonysius lapis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diphryges",
+    "lemma": "Diphryges ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Der schifer",
+    "page": "197"
+  },
+  {
+    "id": "Ruland1612-Diphryges",
+    "lemma": "Diphryges .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Vnder Offenbruͤch.",
+    "page": "199"
+  },
+  {
+    "id": "Ruland1612-Digestio",
+    "lemma": "Digestio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "heist eine Enderung eines Dings in ein anders durch Ermallung vund Kochung der Natur.",
+    "page": "199"
+  },
+  {
+    "id": "Ruland1612-Digestio",
+    "lemma": "Digestio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "199"
+  },
+  {
+    "id": "Ruland1612-Digestio",
+    "lemma": "Digestio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "199"
+  },
+  {
+    "id": "Ruland1612-Digestio",
+    "lemma": "Digestio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Digestio-in-athannore-fit-,-quando-turri-athannoris-carbonibus-ad-summum-vsque-impleta,-ignem-in-foco-accendimus,-&-ferrea-spatula-vel-registro-pro-nostro-arbitrio-ostiolum,-calorem-ad-athannos-transmittens,-dilatamus.-Quomodo-autem-calor-ille-dirigi,-hoc-est,-quando-remissior-aut-intensior-esse-debeat,-discors-est-Philo¬sophorum-opinio.-Quidam-enim-naturae-operationem-(vt-aiunt-aemulantes-continuum-cudemque-a-principio-actionis-vsque-ad-fi¬nem-calorem-requiri-contendunt.-Alii-in-gradus-dispescunt,-vt-prin¬cipio-nimirum-ad-albedinem-vsque-primus-gradus,-inde-ad-flauedinem-secundus,-ad-finem-autem,-qui-est-vberrimae-rubedinis,-tertius-adhibe¬Q-5.-tur.-Cui-sententię-&-nos,-plurimis-tam-autoritatibus-qui-rationibus-in¬ducti-adstipulamur,-alteram-suis-auctorib.-opinionem-relinquentes.",
+    "lemma": "Digestio in athannore fit ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Discessus-fit",
+    "lemma": "Discessus fit ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Discessus-per-exspirationem-est,-cum-pars-in-spiritum-attenuata-discedit.-Et-exspiratio-tunc-nominatur-principaliter,-cum-in-aerem-liberum-eleuat,-demittiturque.-Quin,-excipitur,-destilllatio-vel-sublimatio-nun¬cupatur,-quam-operationes-nonnunquam-etiam-pro-exspiratione-famulan¬tur.-Est-autem-exspiratio-in-humidis-vapidisque.",
+    "lemma": "Discessus per exspirationem",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Discretores",
+    "lemma": "Discretores ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ernpucher",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Discus-solis",
+    "lemma": "Discus solis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Dispoliare",
+    "lemma": "Dispoliare ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist auff oͤsen Todten / Corrumpiren.",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Distillatio",
+    "lemma": "Distillatio ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Doͤpften Distilliren.",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Distillatio",
+    "lemma": "Distillatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "200"
+  },
+  {
+    "id": "Ruland1612-Distillatio",
+    "lemma": "Distillatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "201"
+  },
+  {
+    "id": "Ruland1612-Distractio",
+    "lemma": "Distractio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "201"
+  },
+  {
+    "id": "Ruland1612-Distributor",
+    "lemma": "Distributor ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Auß thei er.",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Diuaporatio",
+    "lemma": "Diuaporatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Diuaporatio",
+    "lemma": "Diuaporatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Diuinatio",
+    "lemma": "Diuinatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Diuertallum",
+    "lemma": "Diuertallum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Waß auß den elementen geboren wirdt",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Doal",
+    "lemma": "Doal ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Dolet",
+    "lemma": "Dolet ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Domicilium",
+    "lemma": "Domicilium ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kott",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Dracatium",
+    "lemma": "Dracatium ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Draco",
+    "lemma": "Draco",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist Mercurius, auch der schwartze Raab/oder die schwaͤre am bode / frisset den schwantz truncket den Mercurium, heis¬set Saltz /ond Sulphur draconicum, ist die Erde von der Suͤ¬nen Coͤrper wird g-toͤdtet, wann sie die Seel verlieret / vund aufferwecket, wan sie wider kompt. Er frist den Mercurium, als ein Gifft ond stirbt saufft ihn wiederumbsond wirdt leben¬dig/ ond so legt er ab alle vnreinigkeit dan er wirdt weiß vnnd lebt. Disser wirdt auch daß Weid genennet / die ihren Mann toͤdtet darumb sie wiederumb getoͤvet wirdt.",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Draconites",
+    "lemma": "Draconites",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "onser grawen Wass. Schlangen",
+    "page": "202"
+  },
+  {
+    "id": "Ruland1612-Dracunculus",
+    "lemma": "Dracunculus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "wild Natterzuͤn glein.",
+    "page": "203"
+  },
+  {
+    "id": "Ruland1612-Dragantum-vitriolum",
+    "lemma": "Dragantum vitriolum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "203"
+  },
+  {
+    "id": "Ruland1612-Dragantum,-dragantium",
+    "lemma": "Dragantum, dragantium ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "203"
+  },
+  {
+    "id": "Ruland1612-Dragantum",
+    "lemma": "Dragantum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist ein Gummi-Etliche sagen / is sey",
+    "page": "203"
+  },
+  {
+    "id": "Ruland1612-Dragantum",
+    "lemma": "Dragantum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "findt vier ey Gattung Intisch/ Arabisch sdaß da geib ist) Cyprinum das gruͤn ist / Das vierdt.",
+    "page": "203"
+  },
+  {
+    "id": "Ruland1612-Duamir",
+    "lemma": "Duamir",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "203"
+  },
+  {
+    "id": "Ruland1612-Dubclech",
+    "lemma": "Dubclech",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sole der Geschwaͤr.",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Dubel-coleph",
+    "lemma": "Dubel coleph",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Eine composition von weissen Corallen und Agstein.",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Ductarii-funes",
+    "lemma": "Ductarii funes ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duenech",
+    "lemma": "Duenech",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "der Stein Gruͤn Dauer beguͤnnet zu wachsen.",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duelech",
+    "lemma": "Duelech",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein gefehrlich Ge¬schlecht des Seeins im Menschen wie ein Duffestein",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duenecli",
+    "lemma": "Duenecli",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duenez",
+    "lemma": "Duenez ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "variants": [
+      "daeneck ,"
+    ],
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duenege",
+    "lemma": "Duenege ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein Gi uͤn Victriol.",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Dulcedo-Saturni",
+    "lemma": "Dulcedo Saturni",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Blyweiß",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Dunequer",
+    "lemma": "Dunequer ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Durdales",
+    "lemma": "Durdales",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duumuiri-iurati",
+    "lemma": "Duumuiri iurati ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Zwen Geschn orne / die im Gebuͤrge fahren.",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duo-Fratres",
+    "lemma": "Duo Fratres",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Duo-Fratres-Edar",
+    "lemma": "Duo Fratres Edar &",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Dyota",
+    "lemma": "Dyota",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  },
+  {
+    "id": "Ruland1612-Dyoptra",
+    "lemma": "Dyoptra",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "204"
+  }
+]

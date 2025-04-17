@@ -1,0 +1,5875 @@
+[
+  {
+    "id": "sommerhoff_galix_glandium_plin_copula_glandium",
+    "lemma": "Galix Glandium Plin. & Copula Glandium .",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eychen-Hutlein",
+    "page": "74"
+  },
+  {
+    "id": "sommerhoff_gircaea_monspetiensium",
+    "lemma": "Gircaea, Monspetiensium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Specklilien.",
+    "page": "94"
+  },
+  {
+    "id": "sommerhoff_grateria_nasturtium_album_arabum_raphanus_condimentarius_raphanus_ob",
+    "lemma": "Grateria, Nasturtium album, Arabum, Raphanus condimentarius, Raphanus ob- soniorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meerrettia.",
+    "page": "110"
+  },
+  {
+    "id": "sommerhoff_greta_rubra",
+    "lemma": "Greta rubra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rothe Kreyde / oder Roͤtelstein.",
+    "page": "111"
+  },
+  {
+    "id": "sommerhoff_g_it_simpliciter_medicis_notata_litera_legend",
+    "lemma": "G Ità simpliciter à Medicis notata Litera, legend.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_g_graecum_t_medicis_graecis_uncia",
+    "lemma": "G. Graecum T. Medicis Graecis Uncia",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zwey Loth/ oder Zviij. 8. Quintlein / oder 24 Scrupel. Zxxiv. &c.",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gabal",
+    "lemma": "Gabal,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gabanala",
+    "lemma": "Gabanala,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gabirea_species",
+    "lemma": "Gabirea, Species",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gabricu_terminus",
+    "lemma": "Gabricu, Terminus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gaea_ferrea",
+    "lemma": "Gaea, ferrea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gaeodesl",
+    "lemma": "Gaeodesl,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gagarab",
+    "lemma": "Gagarab,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spießglaß.",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gagates",
+    "lemma": "Gagates,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_gala",
+    "lemma": "Gala,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Milch. quia Liquor calidus, dulcis & tenuis est.",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galac_galak",
+    "lemma": "Galac, Galak,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Saure Milch.",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galacon",
+    "lemma": "Galacon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galactes_galactites",
+    "lemma": "Galactes, & Galactites,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galanga",
+    "lemma": "Galanga,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Galgand.",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galarias",
+    "lemma": "Galarias,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galax_glaux_noctua",
+    "lemma": "Galax, Glaux & Noctua,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galbanetum",
+    "lemma": "Galbanetum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "158"
+  },
+  {
+    "id": "sommerhoff_galbanum_galbanus_c_halbana_lachryma_metopii_gesor_gezer_chalbanum",
+    "lemma": "Galbanum, Galbanus, C halbana & Lachryma Metopii, Gesor & Gezer, Chalbanum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mutter-Hartz / est Gummi, Succus aut Lachryma Ferulae Syriacae, seu Liquor grumis flavis aut candicantibus compactus, Substantiâ molli, pingui, digitis adhaerente, Sapore amariusculo, Odore gravi. Eligendum purum, pingue, cum accenditur flamman nutriens, mediocriter visco- sum, colore flavum, tale cum recens est. Advehitur ex Alexandria Aegy- pti, & inde ad nos.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galbene",
+    "lemma": "Galbene,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kraen-Augen.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galbuli_plinii_globuli_cyparissi_sphaeriae_theophrasti_spaeritides",
+    "lemma": "Galbuli Plinii, Globuli Cyparissi, Sphaeriae Theophrasti, Spaeritides,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Cypressen.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gaelea",
+    "lemma": "Gaelea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Ca- pelle. Lexic. Brun.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galea",
+    "lemma": "Galea",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Helm oder Hut auff einen Kolben.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galega",
+    "lemma": "Galega,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Geyß-Rauthen /",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galena_galenae",
+    "lemma": "Galena, Galenae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galenica_medicamenta_seu_medicina",
+    "lemma": "Galenica Medicamenta seu Medicina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ga- lenische Artzney. Lex. Blanc.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galenion",
+    "lemma": "Galenion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galeon",
+    "lemma": "Galeon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galeopsis_fuchsij",
+    "lemma": "Galeopsis Fuchsij,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Braun-Wurtz.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galeos_latine_mustelus",
+    "lemma": "Galeos, latine Mustelus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galerita",
+    "lemma": "Galerita,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pestilen;-Wurtz.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galias",
+    "lemma": "Galias,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galiopsis_dioscoridis",
+    "lemma": "Galiopsis Dioscoridis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Todte Nessel-Blumen.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gullia",
+    "lemma": "Gullia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gallae",
+    "lemma": "Gallae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Galläpffel. Et sunt Gallae Augustinae, & Marmanigae, & Turcicae & Verinae &c.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gallia_moschata_mesues_nicolai",
+    "lemma": "Gallia Moschata Mesues & Nicolai",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gallinae_axungia",
+    "lemma": "Gallinae axungia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Huͤner Fett / oder Huͤner-Schmaltz. Est Pinguedo Ani- malculi pennati domestici bipedis notissimi.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gallitrichum",
+    "lemma": "Gallitrichum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Scharlach-Kraut.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gakium",
+    "lemma": "Gakium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gallopavus_seu_pavo_pavus",
+    "lemma": "Gallopavus, seu Pavo & Pavus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfau.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_galreda",
+    "lemma": "Galreda,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gallrey.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gammarorum_lapides_oculi_cancri_officinal",
+    "lemma": "Gammarorum Lapides, Oculi Cancri officinal.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gammaros",
+    "lemma": "Gammaros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Krebs /",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gangitis",
+    "lemma": "Gangitis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_ganimedes",
+    "lemma": "Ganimedes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_ganza_seu_anser",
+    "lemma": "Ganza seu Anser,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Ganß.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gargarisma_gargarismus_collutio_oris",
+    "lemma": "Gargarisma, Gargarismus, Collutio Oris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Gurgelvasser.",
+    "page": "159"
+  },
+  {
+    "id": "sommerhoff_gara",
+    "lemma": "Gara,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lorbeer-Baum.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_garggarisma_synanchica",
+    "lemma": "Garggarisma synanchica.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_garyophyllatae_avariciae_sanamundae_gei_radices",
+    "lemma": "Garyophyllatae, Avariciae, Sanamundae, & Gei Radices.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gas",
+    "lemma": "Gas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gist / vel Gest aut Geest.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gaseata",
+    "lemma": "Gaseata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Odermeng.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gatrinum",
+    "lemma": "Gatrinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weyd-Asche.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gattaria",
+    "lemma": "Gattaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Katzen-Krauk.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gatar",
+    "lemma": "Gatar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lorbeer Baum & Galbanum.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_ge",
+    "lemma": "Ge,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Erde. Significatio ejus triplex: Physica, Medi- ca & Spagyrica. Vid. Lex. Brun.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_geaucia",
+    "lemma": "Geaucia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schelkraut-Safft.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gebalum_gebulum",
+    "lemma": "Gebalum & Gebulum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gecbarsam_gecharsun_difdaba",
+    "lemma": "Gecbarsam & Gecharsun, Difdaba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_grfsase_cefrise",
+    "lemma": "Grfsase, cefrise,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meer-Schwamm.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gelappa_gialappa_jalappa_bryonia_nigra",
+    "lemma": "Gelappa, Gialappa, Jalappa, Bryonia nigra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Jalaw- pen/ oder fremde Purgier-Wurtzel.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gelatina",
+    "lemma": "Gelatina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Galteni Galrede. Lex Brun.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gelatio_gelatum",
+    "lemma": "Gelatio, Gelatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gelbenec",
+    "lemma": "Gelbenec,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gelbum_gelfum",
+    "lemma": "Gelbum, Gelfum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_geluta_seu_celutta",
+    "lemma": "Geluta seu Celutta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gemini",
+    "lemma": "Gemini,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zwilling. Sign. NE, XX, II, TT.",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_gemma_vitae",
+    "lemma": "Gemma Vitae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "160"
+  },
+  {
+    "id": "sommerhoff_genista",
+    "lemma": "Genista,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfriemen.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_genitale",
+    "lemma": "Genitale,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Zimmer-",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gex_tiana_rutiata",
+    "lemma": "Gex tiana (rutiata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_genula",
+    "lemma": "Genula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Mißgewaͤchs aus Pastinac / so man sie offt versetzet.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_geodes",
+    "lemma": "Geodes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_geodes_siv_geodius_lapis",
+    "lemma": "Geodes sivè Geodius Lapis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Adler-Stein- Weiblein.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_geps_gepsen_gepsin",
+    "lemma": "Geps, Gepsen, Gepsin,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gips.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_geramum",
+    "lemma": "Geramum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Erde.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_geranion",
+    "lemma": "Geranion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gerbulle_ginest",
+    "lemma": "Gerbulle, Ginest,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_germen",
+    "lemma": "Germen,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gersa",
+    "lemma": "Gersa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bleyweiß.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gersa_seu_chersa",
+    "lemma": "Gersa seu Chersa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gesor_gazar",
+    "lemma": "Gesor & Gazar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mutter-Hartz.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gesentera_gesenteria",
+    "lemma": "Gesentera, Gesenteria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Regenwurm.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_geum_plinii_avaricia",
+    "lemma": "Geum Plinii, Avaricia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Raͤgelein-Wurtzel.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_ghitta_jemoul",
+    "lemma": "Ghitta Jemoul,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gi_gij",
+    "lemma": "Gi & Gij,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Erde/ oder das sich in den Glaß-Oefen / Ca- minen / oder in der Glaß-Huͤtten wie ein Glantz anhaͤngt / daß die Mahler brauchen / und auch Gi genannt wird. Item Terra Nidi Hirundinis.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gialappa_gialapium_jalappa",
+    "lemma": "gialappa, Gialapium, Jalappa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_giampelicis",
+    "lemma": "Giampelicis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gibar",
+    "lemma": "Gibar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Artzneyr so auß Metall gemacht wird.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gibum",
+    "lemma": "Gibum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gich_gepsim_gepfin_gipsum",
+    "lemma": "Gich, Gepsim & Gepfin, Gipsum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gisi_vel_gisico",
+    "lemma": "Gisi vel Gisico,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gigrocis",
+    "lemma": "Gigrocis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gilbonec_gionec",
+    "lemma": "Gilbonec, Gionec,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gilenet_gisbenet",
+    "lemma": "Gilenet, Gisbenet,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gilibanum",
+    "lemma": "Gilibanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wacholderbaum.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gilla_vel_grillus",
+    "lemma": "Gilla vel Grillus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gilvus_helvus",
+    "lemma": "Gilvus, Helvus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gingiber",
+    "lemma": "Gingiber,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ingber.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gingidium",
+    "lemma": "Gingidium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kerbel-Kraut.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gipsum",
+    "lemma": "Gipsum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gir_gith",
+    "lemma": "Gir, Gith,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lebendiger Kalck.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_girba",
+    "lemma": "Girba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Moͤrfel.",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_girgies",
+    "lemma": "Girgies,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_girmer",
+    "lemma": "Girmer,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weinstein. Mart. Rul. & Johns-",
+    "page": "161"
+  },
+  {
+    "id": "sommerhoff_gisentera_kyranides",
+    "lemma": "Gisentera, Kyranides,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wurm.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gisisim",
+    "lemma": "Gisisim,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gummi.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_git_gith",
+    "lemma": "Git, Gith,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glabra_succisa_jacea_nigra_morsus_diaboli",
+    "lemma": "Glabra, Succisa, Jacea nigra, Morsus Diaboli.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Teuffels Abbis.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glacies_dura",
+    "lemma": "Glacies dura,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Crystall. Vid. Lap. Crystallus.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glacies_mariae",
+    "lemma": "Glacies Mariae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Frauen-Eyß.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gladiolus_caeruleus_maj",
+    "lemma": "Gladiolus caeruleus maj.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gladiolus_luteus",
+    "lemma": "Gladiolus luteus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ackermanns-Wurtzel.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glagos",
+    "lemma": "Glagos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Milch. Brun. Lexic.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glandium_calyculi_cupulae_putamina_cyttari",
+    "lemma": "Glandium Calyculi, Cupulae, Putamina, Cyttari.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Die Huͤthlein auss denen Eycheln / oder Eycheln-Huͤlßlein / oder Haͤublein auff den Eycheln.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glans_seu_acylos_sive_glandes_quercini_seu_dryobalani_acyli",
+    "lemma": "Glans seu Acylos , sive Glandes Quercini, seu Dryobalani, Acyli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eicheln. Vocatur etiam Li- gnum Sanctum Germanicum.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glans",
+    "lemma": "Glans,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Zäpfflein. Vid. Suppositorium.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glans_seu_glandes_sardinae_seu_sardinacae",
+    "lemma": "Glans seu Glandes Sardinae, seu Sardinacae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glans_jovis_glans_sardiniana",
+    "lemma": "Glans Jovis, Glans Sardiniana,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kesten.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glans_myrepsica_seu_unguentaria",
+    "lemma": "Glans Myrepsica, seu Unguentaria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glassa",
+    "lemma": "glassa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Truckener Verniß. Mart. Ruland. & Johnson. Lexic.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glastum",
+    "lemma": "Glastum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zahmer und wilder Weyd.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glaura_glaure",
+    "lemma": "Glaura & Glaure,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glaux",
+    "lemma": "Glaux",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Nacht-Eule.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gleba_seu_bolus",
+    "lemma": "Gleba, seu Bolus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bolus.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gleba_lemnia_terra_sacra_sigillum_aprae_rubrica_lemnia_sigillum_lemnium_lutum",
+    "lemma": "Gleba Lemnia, Terra Sacra, Sigillum (aprae, Rubrica lemnia, Sigillum lemnium, Lutum lemnium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gesiegelte Erden auß der Insul Lemnio-",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gleba_nvorwegica_albicans",
+    "lemma": "Gleba NVorwegica albicans.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mohn-Milch.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glechon_blecon_blechon",
+    "lemma": "Glechon, Blecon, Blechon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Poley.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glechonites",
+    "lemma": "Glechonites,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glessum_charabe_electrum",
+    "lemma": "Glessum, Charabe, Electrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Augstein.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gleucinon",
+    "lemma": "Gleucinon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gleucos",
+    "lemma": "Gleucos",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gleuxis",
+    "lemma": "Gleuxis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gli",
+    "lemma": "Gli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Balsam.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glis",
+    "lemma": "Glis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glis_montanus",
+    "lemma": "Glis Montanus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Murmelthier.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glisomargo",
+    "lemma": "Glisomargo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_globulus_cupressi_pila_cupressi",
+    "lemma": "Globulus Cupressi, Pila Cupressi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eypressen-Beer / oder Cypressen-Nuͤß /",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_globus_seu_globulus",
+    "lemma": "Globus seu Globulus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pillen / oder Pillulein.",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_glossopetrae",
+    "lemma": "Glossopetrae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "162"
+  },
+  {
+    "id": "sommerhoff_gluta",
+    "lemma": "Gluta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten",
+    "lemma": "Gluten,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ochsen-Gall.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten_carnis",
+    "lemma": "Gluten Carnis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bein- oder Fleisch-Leim.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten_piscium",
+    "lemma": "Gluten Piscium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hauseblasen.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten_ranarum_seu_gluten_de_aquatico",
+    "lemma": "Gluten Ranarum seu Gluten de aquatico;",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten_romanum",
+    "lemma": "Gluten Romanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mastir.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten_spagyricum_aquilae",
+    "lemma": "Gluten Spagyricum Aquilae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gluten_viscatum",
+    "lemma": "Gluten Viscatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Vogel-Leym.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glutinis_tenacitas",
+    "lemma": "Glutinis Tenacitas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Mineral-Hartz.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glycasma",
+    "lemma": "Glycasma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glyceratum_glycirrhiza_glycyphytum_qlycirrbiza",
+    "lemma": "Glyceratum, Glycirrhiza, Glycyphytum, qlycirrbiza,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Suß Holtz.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glycisis_casta_herba_poeonia",
+    "lemma": "Glycisis & Casta herba, Poeonia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gicht- Rosen.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glycychymos",
+    "lemma": "Glycychymos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glycipricos",
+    "lemma": "Glycipricos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glycys_glycytes",
+    "lemma": "Glycys, Glycytes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_glyzyrrhiza",
+    "lemma": "Glyzyrrhiza,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Suͤß Holtz.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gnaphalium_montanum",
+    "lemma": "Gnaphalium Montanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gnidius",
+    "lemma": "Gnidius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gniest",
+    "lemma": "Gniest,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gobeira_mespila_agabor",
+    "lemma": "Gobeira, Mespila, Agabor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "EinPulder. M. Rul. & Johns.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gofet_julia_herba_ageratum_seu_eupatorium_mesuae",
+    "lemma": "Gofet, Julia Herba, Ageratum seu Eupatorium Mesuae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lorbeertraut.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gongylion_vel_congyllidion",
+    "lemma": "Gongylion vel Congyllidion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gorgonei_fontes",
+    "lemma": "Gorgonei Fontes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gorgonia_gorgonias",
+    "lemma": "Gorgonia, Gorgonias,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gorgonium_lithospermum_sativum",
+    "lemma": "Gorgonium. Lithospermum sativum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meer-Hirsen.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gosel",
+    "lemma": "Gosel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gossopium_gassipium_seu_bombasum_bombax_cotonium_cotum_criophoton",
+    "lemma": "Gossopium & Gassipium, seu Bombasum & Bombax, Cotonium & Cotum, & Criophoton. Lana Arborea, Lana Xylina.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Baumwollen. Exoticum est & seri- tur Vitis Lanigera, seu Xylondendron in Apulia, Creta, Cypro & Sicilia aliisque Regionibus. Haec Lanugo excalefacit & siccat. Matthiolus. Vid. Sem. Bombacis.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gr",
+    "lemma": "Gr.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gracis",
+    "lemma": "Gracis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Saffran.",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gradatio",
+    "lemma": "Gradatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gradus",
+    "lemma": "Gradus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "163"
+  },
+  {
+    "id": "sommerhoff_gramen",
+    "lemma": "Gramen,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Graß.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_gramma",
+    "lemma": "Gramma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Scrupel oder zwantzig Gran.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_chermes",
+    "lemma": "Grana Chermes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kermes-Beer.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_granum",
+    "lemma": "Grana, Granum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_crucis_christi_seu_sigilli_christi_seu_paridis",
+    "lemma": "Grana Crucis Christi, seu Sigilli Christi, seu Paridis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Einbeer-Koͤrner /",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_hederae_arboreae",
+    "lemma": "Grana Hederae arboreae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_juniperi",
+    "lemma": "Grana Juniperi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wacholder-Beer.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_paradisi",
+    "lemma": "Grana Paradisi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_tigliae_seu_grana_tilli_sed_ricini_americani",
+    "lemma": "Grana Tigliae seu Grana Tilli, sed Ricini Americani.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "AmericanischeSpring- Koͤrner. Crescunt & advehuntur ex A merica, unde & nomen habent. Vir- tutes inveniendae sunt apud Borellum Cent. 3. Observ. 29.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_tinctoria",
+    "lemma": "Grana Tinctoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Faͤrber Beer.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grana_turdorum",
+    "lemma": "Grana Turdorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wacholder-Beer.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granata_mala",
+    "lemma": "Granata Mala,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Granaten-Aepffel.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granatus",
+    "lemma": "Granatus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Granaten-Stein. Sign. 4.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granda",
+    "lemma": "Granda,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granula",
+    "lemma": "Granula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granulatio",
+    "lemma": "Granulatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Granutirtes Pulver.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granulatio_metallica_seu_fusoria",
+    "lemma": "Granulatio metallica seu fusoria,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_minimum_pondus",
+    "lemma": "Granum minimum Pondus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Gran/ Eines grossen Pfefferkorns schwer. Sign. Gr. Gr. gr.j.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_alcelin",
+    "lemma": "Granum Alcelin,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_frumenti",
+    "lemma": "Granum Frumenti,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_frumenti",
+    "lemma": "Granum Frumenti,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_gnidium_coccum_gnidium",
+    "lemma": "Gnidium, Coccum Gnidium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kellers- halß-Samen.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_incombustibile_metallorum",
+    "lemma": "Granum incombustibile Metallorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_infectorium",
+    "lemma": "Granum infectorium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kermes Beer.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_nil",
+    "lemma": "Granum nil,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_nostrum",
+    "lemma": "Granum nostrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_regium_majus_minus",
+    "lemma": "Granum Regium majus & minus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_granum_viride",
+    "lemma": "Granum viride,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_graphicon",
+    "lemma": "Graphicon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Tinten.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_grassa",
+    "lemma": "Grassa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Borax.",
+    "page": "164"
+  },
+  {
+    "id": "sommerhoff_gratia_dei",
+    "lemma": "Gratia DEI,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gratia_dei",
+    "lemma": "Gratia DEI,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ruprechts-Kraut.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gratiola",
+    "lemma": "Gratiola,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wild Aurins Kraut.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gravus_marmor_porphyrites_lapis",
+    "lemma": "Gravus, Marmor, Porphyrites Lapis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_grossulariae",
+    "lemma": "Grossulariae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_grossulariae_rubrae",
+    "lemma": "Grossulariae rubrae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_grossum",
+    "lemma": "Grossum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gruma",
+    "lemma": "Gruma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weinstein.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gryphus",
+    "lemma": "Gryphus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guajaci_refina",
+    "lemma": "Guajaci refina",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Frantzosenholtz-Hartz.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guajacum_lignum",
+    "lemma": "Guajacum Lignum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guarini",
+    "lemma": "Guarini,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guecitarum_guers",
+    "lemma": "Guecitarum. Guers,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ochsenstein.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guma_gumma",
+    "lemma": "Guma, Gumma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guma_cupri",
+    "lemma": "Guma Cupri,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guma_gumi",
+    "lemma": "Guma. Gumi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_guma_paradisi",
+    "lemma": "Guma Paradisi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Oppermendt.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gumma_philosophicum",
+    "lemma": "Gumma Philosophicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gummi",
+    "lemma": "Gummi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gummi_animae",
+    "lemma": "Gummi Animae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Fluß-Hartz.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gummi_arabicum_officinarum_galeno_thebaicum_nonnullis_babylonicum",
+    "lemma": "Gummi Arabicum Officinarum, Galeno Thebaicum, nonnullis Babylonicum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Arabischer Gum- mi. Vid. Arabicum Gummi. Sign. E-",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gummi_arboris_nucum",
+    "lemma": "Gummi Arboris Nucum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_gummi_asimar_seu_asinar",
+    "lemma": "Gummi Asimar seu Asinar,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mandeln Hark.",
+    "page": "165"
+  },
+  {
+    "id": "sommerhoff_galbanum",
+    "lemma": "Galbanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mutter-Hartz.",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gummi_gitta_seu_cuttae_gamu_seu_gemu_gutta_gamandra_seu_cutta_camba_cummicot",
+    "lemma": "Gummi Gitta seu cuttae, Gamu seu Gemu, Gutta Gamandra seu cutta camba, cummicot . ta, Gatta seu Catta Peuma, Gummi Peruvianum sive de Peru, de Jemu & deGa- mandra, Gummi de Goa, Ghitta, Jemou, Succus Cambici vel Combrici, à quibus- dam Succus Hollandicus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gummi-Gutt.",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gummi_hederae",
+    "lemma": "Gummi Hederae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ebheu-Gummi.",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gummi_juniperinum",
+    "lemma": "Gummi Juniperinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gummicula",
+    "lemma": "Gummicula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Baldrian.",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gummositas",
+    "lemma": "Gummositas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gutt",
+    "lemma": "Gutt.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gutta",
+    "lemma": "Gutta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gutta_hammoniaca_seu_harmoniaca",
+    "lemma": "Gutta Hammoniaca seu Harmoniaca,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gutta",
+    "lemma": "Gutta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gymnocrithon",
+    "lemma": "Gymnocrithon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gynaeceum_gynacum_galeni",
+    "lemma": "Gynaeceum & Gynacum Galeni,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spießglaß. Gorraeus.",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gypsos_gipsum_gypsus",
+    "lemma": "Gypsos, Gipsum & Gypsus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gipps / Sparrkalck / oder Sperrkalck. Ità di- citur quod ex Lapidibus tostis & ambustis exprimitur. Cognata Calci res est, sed nonest ità calidum. Differunt, quod Calx restincta humore ali- quo acquirit calorem; Gypsum non accenditur. Duo sunt potissimum ejus Genera: Unum nativum, seu fossile, est Terra, sumitate potissimum illius, estque simile fere Nitro, latis venis: Alterum factitium, ex Lapide albo, simile Alabastro, cujus tamen varia sunt genera pro diversitate lo- corum.",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gyris",
+    "lemma": "Gyris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "166"
+  },
+  {
+    "id": "sommerhoff_gentumnodia",
+    "lemma": "Gentumnodia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wegtritt.",
+    "page": "177"
+  },
+  {
+    "id": "sommerhoff_galega_castracana_rutha_capraria_caprina_galega_vulgaris",
+    "lemma": "Galega, & Castracana, Rutha capraria & caprina, Galega vulgaris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Geyß- Rauthen / und Plecken-Rraut / colitur in hortis.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_galeopsis_fuchsii",
+    "lemma": "Galeopsis Fuchsii,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_g_liopsis_dioscorid",
+    "lemma": "G. liopsis Dioscorid.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Todte Nesseln.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gallitrichum_seu_gallitricum",
+    "lemma": "Gallitrichum seu Gallitricum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gallium_gallion_galation_galerium_luteum_primum_gallii_primum_genus",
+    "lemma": "Gallium, Gallion, & Galation, & Galerium luteum primum, Gallii primum genus, Gilliam flore luteo.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wald-Stroh / oder Alstroh / Unser Frauen Beth- Stroh / Meger-Rraut / Wegstroh. Crescit passim.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gattaria_herba",
+    "lemma": "Gattaria herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Katzen Rraut.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_genicularis_berba",
+    "lemma": "Genicularis berba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Baldrian-Wurtzel.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_genista",
+    "lemma": "Genista,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Pfrimmen.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_geranium",
+    "lemma": "Geranium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Storch-Schnabel- Braut / Ruprechts-Rraut / Gichtkraut / GOttes Gnade / klein Schoͤll- Wurtzel / klein Schwalben-Kraut / Rothlauff-Kraut (quia Erysipelati mederi dicitur) passim nascitur in campestribus secus vias & juxta sepes.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gingidium",
+    "lemma": "Gingidium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Koͤrbel-Kraut.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_glastum_guadum_isatis",
+    "lemma": "Glastum Guadum, Isatis.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weyden. Sativ. & Sylvestris.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_glabra_jacea_niora",
+    "lemma": "Glabra, Jacea niora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Teuffels Abbis.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_ghycypicron",
+    "lemma": "Ghycypicron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hinsch-Kraut.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gnaphalium_montanum",
+    "lemma": "Gnaphalium montanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gramen_officinale",
+    "lemma": "Gramen Officinale,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gramen_parnassi",
+    "lemma": "Gramen Parnassi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Einbiabt.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gramen_porcinum",
+    "lemma": "Gramen Porcinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weetztritt.",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gratia_dei",
+    "lemma": "Gratia Dei,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gratia_dei",
+    "lemma": "Gratia Dei,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gratiola",
+    "lemma": "Gratiola,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_gratiola_seu_gratia_dei_lymnesium_seu_centaroides_sancta_caballina",
+    "lemma": "Gratiola seu Gratia Dei, Lymnesium seu Centaroides, Sancta Caballina.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_grossulariae",
+    "lemma": "Grossulariae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_grossulariae_rubrae",
+    "lemma": "Grossulariae rubrae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "182"
+  },
+  {
+    "id": "sommerhoff_guercula_peregrina_botrys",
+    "lemma": "Guercula peregrina, Botrys,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Trauben-Kraut/",
+    "page": "327"
+  },
+  {
+    "id": "sommerhoff_gretischer_ammey",
+    "lemma": "Gretischer Ammey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "454"
+  },
+  {
+    "id": "sommerhoff_gretischer_dictam",
+    "lemma": "Gretischer Dictam /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "454"
+  },
+  {
+    "id": "sommerhoff_gesegnete_distel",
+    "lemma": "Gesegnete Distel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "456"
+  },
+  {
+    "id": "sommerhoff_garteneppich",
+    "lemma": "Garteneppich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "458"
+  },
+  {
+    "id": "sommerhoff_gaffer",
+    "lemma": "GAffer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_galappenwurtzel_oder_galappen",
+    "lemma": "Galappenwurtzel oder Galappen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_galbanum",
+    "lemma": "Galbanum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_galbankraut",
+    "lemma": "Galbankraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_grosser_galgandt",
+    "lemma": "Grosser Galgandt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_galgandt",
+    "lemma": "Galgandt",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gallitzelstein_oder_gallitzenstein",
+    "lemma": "Gallitzelstein oder Gallitzenstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_galla_pffel",
+    "lemma": "Gallaͤpffel",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gallmey_oder_gallmeystein",
+    "lemma": "Gallmey oder Gallmeystein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gallmeyfluch",
+    "lemma": "Gallmeyfluch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gallrey",
+    "lemma": "Gallrey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gama_nderleinm",
+    "lemma": "Gamaͤnderleinm /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gamillen",
+    "lemma": "Gamillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "463"
+  },
+  {
+    "id": "sommerhoff_gampffer_oder_gaffer_und_campher",
+    "lemma": "Gampffer oder Gaffer und Campher /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gampfferkvaut",
+    "lemma": "Gampfferkvaut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_mbse_oder_ga_mbsenkugel",
+    "lemma": "Gaͤmbse oder Gaͤmbsenkugel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_blu_mlein",
+    "lemma": "Gaͤnßbluͤmlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_distel",
+    "lemma": "Gaͤnßdistel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_eysop_oder_ysop",
+    "lemma": "Gaͤnß Eysop oder Ysop /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_erich",
+    "lemma": "Gaͤnßerich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_fleckenkraut",
+    "lemma": "Gaͤnßfleckenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_fu",
+    "lemma": "Gaͤnßfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_kra",
+    "lemma": "Gaͤnßkraͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_kraut",
+    "lemma": "Gaͤnßkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_kraut",
+    "lemma": "Gaͤnßkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_kraut",
+    "lemma": "Gaͤnßkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_pappeln",
+    "lemma": "Gaͤnßpappeln /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_sthmaltz",
+    "lemma": "Gaͤnßsthmaltz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ga_n_zunge",
+    "lemma": "Gaͤnßzunge /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_ganserkraut",
+    "lemma": "Ganserkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_garaffel",
+    "lemma": "Garaffel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_garb",
+    "lemma": "Garb /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartel",
+    "lemma": "Gartel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenbacillen",
+    "lemma": "Gartenbacillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_garten_oder_gro_baldrian",
+    "lemma": "Garten-oder groß Baldrian /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenbalsam",
+    "lemma": "Gartenbalsam /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenbohnen",
+    "lemma": "Gartenbohnen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartencypressen",
+    "lemma": "Gartencypressen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenendivien",
+    "lemma": "Gartenendivien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_garteneppig",
+    "lemma": "Garteneppig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenerbis",
+    "lemma": "Gartenerbis /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenheber",
+    "lemma": "Gartenheber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenheyl",
+    "lemma": "Gartenheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenisop_oder_eysop",
+    "lemma": "Gartenisop oder Eysop /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenklee",
+    "lemma": "Gartenklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenkra",
+    "lemma": "Gartenkraͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenkraut",
+    "lemma": "Gartenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenku_mmel",
+    "lemma": "Gartenkuͤmmel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenmagen_oder_mohn",
+    "lemma": "Gartenmagen oder Mohn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartennesseln",
+    "lemma": "Gartennesseln /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenpappeln_oder_herbstrosen",
+    "lemma": "Gartenpappeln oder Herbstrosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenquendel_oder_ro_mischer_quendel",
+    "lemma": "Gartenquendel oder Roͤmischer Quendel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenrapuntzel",
+    "lemma": "Gartenrapuntzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenrauthen",
+    "lemma": "Gartenrauthen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartensaffran",
+    "lemma": "Gartensaffran /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartensaturey",
+    "lemma": "Gartensaturey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenscariol_oder_gartenseriol",
+    "lemma": "Gartenscariol oder Gartenseriol /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenscharlach",
+    "lemma": "Gartenscharlach /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenseliung",
+    "lemma": "Gartenseliung /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartensenff_weisser",
+    "lemma": "Gartensenff weisser /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenspargen",
+    "lemma": "Gartenspargen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartensteinklee",
+    "lemma": "Gartensteinklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenwegwarten_oder_wegwei",
+    "lemma": "Gartenwegwarten oder Wegweiß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartenwermut",
+    "lemma": "Gartenwermut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_garthagen",
+    "lemma": "Garthagen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gartwurtz",
+    "lemma": "Gartwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gauchblume",
+    "lemma": "Gauchblume /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gauchbrod",
+    "lemma": "Gauchbrod /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gauchhaber",
+    "lemma": "Gauchhaber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gauchheyl",
+    "lemma": "Gauchheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gauchklee",
+    "lemma": "Gauchklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "464"
+  },
+  {
+    "id": "sommerhoff_gebaumte_hau_wurtzel",
+    "lemma": "Gebaumte Haußwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gebrandter_alaun",
+    "lemma": "Gebrandter Alaun /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gebrandt_bley",
+    "lemma": "Gebrandt Bley /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gebrandt_helffenbein",
+    "lemma": "Gebrandt Helffenbein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gebrandt_hirschhorn",
+    "lemma": "Gebrandt Hirschhorn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gebrandt_kupffer",
+    "lemma": "Gebrandt Kupffer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefeilt_stahl",
+    "lemma": "Gefeilt Stahl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefeynte_oder_gefeinte_rosen_oder_ro_slein",
+    "lemma": "Gefeynte oder gefeinte Rosen oder Roͤslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_chamillen_oder_gamillen",
+    "lemma": "Gefuͤlte Chamillen oder Gamillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_dru_wurtz",
+    "lemma": "Gefuͤlte Drußwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_englische_dru_wurtz",
+    "lemma": "Gefuͤlte Englische Drußwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_frembde_hyacinth",
+    "lemma": "Gefuͤlte frembde Hyacinth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_granatenblumen",
+    "lemma": "Gefuͤlte Granatenblumen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lt_gro_hanenfu_oder_gra_ha_nlein",
+    "lemma": "Gefuͤlt groß Hanenfuß oder Graßhaͤnlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lt_gu_lden_leberkraut",
+    "lemma": "Gefuͤlt guͤlden Leberkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lt_osephssta_blein",
+    "lemma": "Gefuͤlt osephsstaͤblein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lt_kleiner_hanenfu",
+    "lemma": "Gefuͤlt kleiner Hanenfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_ko_nigs_cron",
+    "lemma": "Gefuͤlte Koͤnigs-Cron /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_magdblu_mlein_oder_gefu_lte_metern",
+    "lemma": "Gefuͤlte Magdbluͤmlein oder gefuͤlte Metern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lter_magsamen",
+    "lemma": "Gefuͤlter Magsamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_na_geleinblum",
+    "lemma": "Gefuͤlte Naͤgeleinblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_narcissenro_slein",
+    "lemma": "Gefuͤlte Narcissenroͤslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lter_peterlein",
+    "lemma": "Gefuͤlter Peterlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lt_rohr_mit_marck",
+    "lemma": "Gefuͤlt Rohr mit Marck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_schlu_sselblumen",
+    "lemma": "Gefuͤlte Schluͤsselblumen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lte_steinna_gelein",
+    "lemma": "Gefuͤlte Steinnaͤgelein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lter_wegerich",
+    "lemma": "Gefuͤlter Wegerich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gefu_lter_wiedersto",
+    "lemma": "Gefuͤlter Wiederstoß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gegenstro",
+    "lemma": "Gegenstroß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gegraben_einhorn_oder_elffenbein",
+    "lemma": "Gegraben Einhorn oder Elffenbein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gegraben_schwefel",
+    "lemma": "Gegraben Schwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_geiferwurtz",
+    "lemma": "Geiferwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_geigenhars",
+    "lemma": "Geigenhars /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_oder_gey",
+    "lemma": "Geiß oder Geyß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_bart",
+    "lemma": "Geißbart /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_blad",
+    "lemma": "Geißblad /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_bohnen_oder_gei_knu_ttel",
+    "lemma": "Geißbohnen oder Geißknuͤttel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_butter",
+    "lemma": "Geißbutter /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_fu_oder_gei_fu_ssel",
+    "lemma": "Geißfuß oder Geißfuͤssel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_kiee",
+    "lemma": "Geißkiee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_knu_ttel_oder_gey_bohnen",
+    "lemma": "Geißknuͤttel oder Geyßbohnen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gei_rauthen_fleckenkraut",
+    "lemma": "Geißrauthen /Fleckenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gekerfft_gartenkraut",
+    "lemma": "Gekerfft Gartenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gekerffter_langer_wasserhanenfu",
+    "lemma": "Gekerffter langer Wasserhanenfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_geho_rnt_hu_nerdarm",
+    "lemma": "Gehoͤrnt Huͤnerdarm /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_geho_rnter_magensamen_oder_mohn",
+    "lemma": "Gehoͤrnter Magensamen oder Mohn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_geho_rntes_wassergarbenkraut",
+    "lemma": "Gehoͤrntes Wassergarbenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelappen_oder_galappenwurtzel",
+    "lemma": "Gelappen-oder Galappenwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelb_aspodillwurtzel_gro",
+    "lemma": "Gelb Aspodillwurtzel groß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelb_aspodillwurtzel_klein",
+    "lemma": "Gelb Aspodillwurtzel klein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelb_aspodill_lilgen",
+    "lemma": "Gelb Aspodill Lilgen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelber_arsenicum_oder_gelber_arsenick",
+    "lemma": "Gelber Arsenicum oder gelber Arsenick /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelber_atrament_oder_gelber_bergschwefel",
+    "lemma": "Gelber Atrament oder gelber Bergschwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelbe_bacillen",
+    "lemma": "Gelbe Bacillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelb_bergvolium",
+    "lemma": "Gelb Bergvolium /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelber_bergschwefel",
+    "lemma": "Gelber Bergschwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelbe_bergviolen_oder_veilgen",
+    "lemma": "Gelbe Bergviolen oder Veilgen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gelber_und_blauer_bergsanickel",
+    "lemma": "Gelber und blauer Bergsanickel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "465"
+  },
+  {
+    "id": "sommerhoff_gespreckt_knabenkraut",
+    "lemma": "Gespreckt Knabenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gestirnt_rohr",
+    "lemma": "Gestirnt Rohr /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gestirnt_rohr_von_peru",
+    "lemma": "Gestirnt Rohr von Peru /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gestirnte_wicken",
+    "lemma": "Gestirnte Wicken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gewaschen_saltz_oder_steinsaltz",
+    "lemma": "Gewaschen Saltz oder Steinsaltz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_geyerlein",
+    "lemma": "Geyerlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_geyerschmaltz",
+    "lemma": "Geyerschmaltz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_geyferwurtz_speichelwurtz",
+    "lemma": "Geyferwurtz - Speichelwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gichtblum",
+    "lemma": "Gichtblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gichtko_rner",
+    "lemma": "Gichtkoͤrner /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gichtkraut",
+    "lemma": "Gichtkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gichtrosen",
+    "lemma": "Gichtrosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gichtru_ben",
+    "lemma": "Gichtruͤben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gifftheyl",
+    "lemma": "Gifftheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gifftkraut",
+    "lemma": "Gifftkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gifft_zum_pfeilen",
+    "lemma": "Gifft zum Pfeilen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gifft_rotflauffenkraut",
+    "lemma": "Gifft Rotflauffenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gifftstein",
+    "lemma": "Gifftstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gifftwurtzel",
+    "lemma": "Gifftwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gilbkraut",
+    "lemma": "Gilbkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gilbwurtz",
+    "lemma": "Gilbwurtz",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gilgen",
+    "lemma": "Gilgen",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gilgen",
+    "lemma": "Gilgen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_ginster",
+    "lemma": "Ginster /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gip_oder_gyps",
+    "lemma": "Gipß oder Gyps /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gierlein",
+    "lemma": "Gierlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_girtwurtz",
+    "lemma": "Girtwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gitzlein",
+    "lemma": "Gitzlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glantz",
+    "lemma": "Glantz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glantzgummi",
+    "lemma": "Glantzgummi /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gla_ntzende_heerspitzen",
+    "lemma": "Glaͤntzende Heerspitzen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glarbo_cklein",
+    "lemma": "Glarboͤcklein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gla",
+    "lemma": "Glaß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gla_gall",
+    "lemma": "Glaßgall /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gla_kraut",
+    "lemma": "Glaßkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gla_schmaltz",
+    "lemma": "Glaßschmaltz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glattko_hlkraut",
+    "lemma": "Glattkoͤhlkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glattewinde",
+    "lemma": "Glattewinde /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glei",
+    "lemma": "Gleiß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glei_blum",
+    "lemma": "Gleißblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glett",
+    "lemma": "Glett /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gliedkraut",
+    "lemma": "Gliedkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gliedweich",
+    "lemma": "Gliedweich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glitzenpfa_nnlein",
+    "lemma": "Glitzenpfaͤnnlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glockenblum",
+    "lemma": "Glockenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glo_cklein",
+    "lemma": "Gloͤcklein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_glorinth",
+    "lemma": "Glorinth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gochheyl",
+    "lemma": "Gochheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_gold",
+    "lemma": "Gold /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_golda_pffel",
+    "lemma": "Goldaͤpffel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_goldblum",
+    "lemma": "Goldblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_goldberill",
+    "lemma": "Goldberill /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_goldbrahmen",
+    "lemma": "Goldbrahmen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_goldgelb_und_gefu_llter_bergsanickel",
+    "lemma": "Goldgelb und gefuͤllter Bergsanickel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_goldglett",
+    "lemma": "Goldglett /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "466"
+  },
+  {
+    "id": "sommerhoff_goldha_ndtlein",
+    "lemma": "Goldhaͤndtlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldkie",
+    "lemma": "Goldkieß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldkno_pflein",
+    "lemma": "Goldknoͤpflein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldlilien",
+    "lemma": "Goldlilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldpfersing",
+    "lemma": "Goldpfersing /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldpoley_oder_wurtz",
+    "lemma": "Goldpoley oder Wurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldprassius",
+    "lemma": "Goldprassius /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldschmids_burras",
+    "lemma": "Goldschmids Burras /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldstein",
+    "lemma": "Goldstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gold_wiesenblum",
+    "lemma": "Gold Wiesenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldwurm",
+    "lemma": "Goldwurm /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_goldwurtzel",
+    "lemma": "Goldwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_go_rlin",
+    "lemma": "Goͤrlin /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gottesgnad",
+    "lemma": "Gottesgnad /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gottheyl",
+    "lemma": "Gottheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gottvergi",
+    "lemma": "Gottvergiß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grabwurtz",
+    "lemma": "Grabwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_graffey_oder_groffeywurtzel",
+    "lemma": "Graffey oder Groffeywurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gra_nsig",
+    "lemma": "Graͤnsig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_granata_pffel",
+    "lemma": "Granataͤpffel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_granatbaum",
+    "lemma": "Granatbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_granatenblum_wilde",
+    "lemma": "Granatenblum wilde /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_granatenblum_zahme",
+    "lemma": "Granatenblum zahme /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_granatenschalen",
+    "lemma": "Granatenschalen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_granatenstein",
+    "lemma": "Granatenstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gra_blum",
+    "lemma": "Graßblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gra_muck",
+    "lemma": "Graßmuck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gra",
+    "lemma": "Graß",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_graue_bergmu_ntz",
+    "lemma": "Graue Bergmuͤntz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grauer_bergschwefel",
+    "lemma": "Grauer Bergschwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grauer_hu_ttenrauch",
+    "lemma": "Grauer Huͤttenrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grauer_nicht_oder_hu_ttenrauch",
+    "lemma": "Grauer Nicht oder Huͤttenrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grauer_turbith",
+    "lemma": "Grauer Turbith /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_graulecht_wilder_steinklee",
+    "lemma": "Graulecht wilder Steinklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grensel",
+    "lemma": "Grensel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grensich",
+    "lemma": "Grensich",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechischer_baldrian",
+    "lemma": "Griechischer Baldrian /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechischer_bathengel",
+    "lemma": "Griechischer Bathengel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechisch_condrillen",
+    "lemma": "Griechisch Condrillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechisch_heu",
+    "lemma": "Griechisch Heu",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechisch_klee",
+    "lemma": "Griechisch Klee",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechisch_mohnkraut",
+    "lemma": "Griechisch Mohnkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechische_nu",
+    "lemma": "Griechische Nuͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechisch_pech",
+    "lemma": "Griechisch Pech /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechischer_se_el",
+    "lemma": "Griechischer Seßel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griechische_wiesenzeitlosen",
+    "lemma": "Griechische Wiesenzeitlosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_griffel_oder_gripffelbeer",
+    "lemma": "Griffel oder Gripffelbeer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grinsig",
+    "lemma": "Grinsig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grie_holtz",
+    "lemma": "Grießholtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grie",
+    "lemma": "Grieß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grie_stein",
+    "lemma": "Grießstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grimmenstein",
+    "lemma": "Grimmenstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grindkraut",
+    "lemma": "Grindkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_grindwurtz",
+    "lemma": "Grindwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gritzelmo_hren",
+    "lemma": "Gritzelmoͤhren /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gropp",
+    "lemma": "Gropp /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "467"
+  },
+  {
+    "id": "sommerhoff_gelbe_braunwurtz",
+    "lemma": "Gelbe Braunwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_chamillen_oder_gamillen",
+    "lemma": "Gelbe Chamillen oder Gamillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_condrillen",
+    "lemma": "Gelbe Condrillen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_erdrauch",
+    "lemma": "Gelber Erdrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_fa_rberblum",
+    "lemma": "Gelb Faͤrberblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_feigbohne",
+    "lemma": "Gelb Feigbohne /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_feldro_slein",
+    "lemma": "Gelb Feldroͤslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_feldwegwarten",
+    "lemma": "Gelbe Feldwegwarten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_feldzwiebel",
+    "lemma": "Gelbe Feldzwiebel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_fieberkraut",
+    "lemma": "Gelb Fieberkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_fingerhut",
+    "lemma": "Gelber Fingerhut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_flockenblum",
+    "lemma": "Gelb Flockenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_ga_n_blum",
+    "lemma": "Gelb Gaͤnßblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_garben",
+    "lemma": "Gelb Garben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_gauchheyl",
+    "lemma": "Gelb Gauchheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_gliedkraut",
+    "lemma": "Gelb Gliedkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_griechen",
+    "lemma": "Gelbe Griechen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_haasenkle",
+    "lemma": "Gelb Haasenkle /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_heuhechel",
+    "lemma": "Gelb Heuhechel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_hornungsblum_oder_gelb_mertzenblum",
+    "lemma": "Gelb Hornungsblum oder gelb Mertzenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_hu_ttenrauch",
+    "lemma": "Gelb Huͤttenrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_ingber",
+    "lemma": "Gelber Ingber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_knabenkraut",
+    "lemma": "Gelb Knabenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_knottigte_wallwurtz",
+    "lemma": "Gelb knottigte Wallwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_ku_chenschell",
+    "lemma": "Gelb Kuͤchenschell /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_lilien_oder_gelbe_lilgen",
+    "lemma": "Gelbe Lilien oder gelbe Lilgen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_mau_o_hrlem",
+    "lemma": "Gelbe Maußoͤhrlem /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_mayenblu_mlein",
+    "lemma": "Gelbe Mayenbluͤmlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_meerlilien",
+    "lemma": "Gelbe Meerlilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_mertzenblum",
+    "lemma": "Gelb Mertzenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_meterich",
+    "lemma": "Gelb Meterich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_mo_hren",
+    "lemma": "Gelbe Moͤhren /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_mu_ntz",
+    "lemma": "Gelbe Muͤntz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_na_gelein_oder_violen",
+    "lemma": "Gelbe Naͤgelein oder Violen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_nordensamen",
+    "lemma": "Gelber Nordensamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_ochsenzunge",
+    "lemma": "Gelbe Ochsenzunge /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_oelmagen",
+    "lemma": "Gelb Oelmagen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_pastinacken_oder_gelbe_ru_ben",
+    "lemma": "Gelbe Pastinacken oder gelbe Ruͤben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_pflaumen",
+    "lemma": "Gelbe Pflaumen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_pontischer_hyacinth",
+    "lemma": "Gelb Pontischer Hyacinth /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_ragwurtz",
+    "lemma": "Gelb Ragwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_rhabarber",
+    "lemma": "Gelbe Rhabarber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_rheinblumen",
+    "lemma": "Gelbe Rheinblumen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_ru_ben",
+    "lemma": "Gelbe Ruͤben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_sa_mlein_in_den_lilien",
+    "lemma": "Gelb Saͤmlein in den Lilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_sa_mlein_in_den_rosen",
+    "lemma": "Gelb Saͤmlein in den Rosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_santel",
+    "lemma": "Gelber Santel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_sauerklee",
+    "lemma": "Gelber Sauerklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_schlangen_wundkraut",
+    "lemma": "Gelb Schlangen Wundkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_schwefel",
+    "lemma": "Gelber Schwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_schwertel",
+    "lemma": "Gelbe Schwertel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_seeblumen",
+    "lemma": "Gelbe Seeblumen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_senff",
+    "lemma": "Gelber Senff /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_steinwicken",
+    "lemma": "Gelbe Steinwicken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_stendelwurtz",
+    "lemma": "Gelbe Stendelwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelb_sternkraut",
+    "lemma": "Gelb Sternkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbsuchtwurtzel",
+    "lemma": "Gelbsuchtwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelber_taubenkropff",
+    "lemma": "Gelber Taubenkropff /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "468"
+  },
+  {
+    "id": "sommerhoff_gelbe_taubenessel",
+    "lemma": "Gelbe Taubenessel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelber_veil",
+    "lemma": "Gelber Veil /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelb_wachs",
+    "lemma": "Gelb Wachs /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelb_wasseraspodil",
+    "lemma": "Gelb Wasseraspodil /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelb_wassermarck",
+    "lemma": "Gelb Wassermarck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbe_wegwarthen",
+    "lemma": "Gelbe Wegwarthen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelber_weiderich",
+    "lemma": "Gelber Weiderich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbe_wicken",
+    "lemma": "Gelbe Wicken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbe_wiesenblum",
+    "lemma": "Gelbe Wiesenblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbe_wiesenzeitlosen",
+    "lemma": "Gelbe Wiesenzeitlosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbe_wundro_slein",
+    "lemma": "Gelbe Wundroͤslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbe_wolffslwurtz",
+    "lemma": "Gelbe Wolffslwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelb_wu_llkraut",
+    "lemma": "Gelb Wuͤllkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelb_violen",
+    "lemma": "Gelb Violen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gelbsichtwurtz",
+    "lemma": "Gelbsichtwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemauer_oder_gema_uerwurtzel",
+    "lemma": "Gemauer-oder Gemaͤuerwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemb",
+    "lemma": "Gembß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gembsenkraut",
+    "lemma": "Gembsenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gembsenkugel",
+    "lemma": "Gembsenkugel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gembsenwu_rtzel",
+    "lemma": "Gembsenwuͤrtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeiner_apfft",
+    "lemma": "Gemeiner Apfft /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeiner_baldrian",
+    "lemma": "Gemeiner Baldrian /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeiner_bolus",
+    "lemma": "Gemeiner Bolus /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_brennessel",
+    "lemma": "Gemeine Brennessel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_dosten_oder_wohlgemut",
+    "lemma": "Gemeine Dosten oder Wohlgemut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemein_endivien",
+    "lemma": "Gemein Endivien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_heydnische_cilien",
+    "lemma": "Gemeine Heydnische Cilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_hohliwurtzel",
+    "lemma": "Gemeine Hohliwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_nu",
+    "lemma": "Gemeine Nuͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_osterlucey",
+    "lemma": "Gemeine Osterlucey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeine_pavpeln",
+    "lemma": "Gemeine Pavpeln /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeiner_pfeffer",
+    "lemma": "Gemeiner Pfeffer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gemeiner_steinklee",
+    "lemma": "Gemeiner Steinklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_genethkatz",
+    "lemma": "Genethkatz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_genist",
+    "lemma": "Genist /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gensel",
+    "lemma": "Gensel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_genserich",
+    "lemma": "Genserich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gen_kraut",
+    "lemma": "Genßkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gen_kraut",
+    "lemma": "Genßkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gen_zung",
+    "lemma": "Genßzung /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gentor",
+    "lemma": "Gentor /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerbelier",
+    "lemma": "Gerbelier /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerbel",
+    "lemma": "Gerbel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerbel",
+    "lemma": "Gerbel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerber",
+    "lemma": "Gerber /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerber",
+    "lemma": "Gerber / Sumach /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerfisch",
+    "lemma": "Gerfisch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_germell",
+    "lemma": "Germell /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerinsel",
+    "lemma": "Gerinsel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_ger",
+    "lemma": "Gerß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gersten",
+    "lemma": "Gersten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gerstenwalch",
+    "lemma": "Gerstenwalch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gertwurtz",
+    "lemma": "Gertwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gescheckte_indianische_blum",
+    "lemma": "Gescheckte Indianische Blum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gesegnete_distel",
+    "lemma": "Gesegnete Distel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gesegnete_rose",
+    "lemma": "Gesegnete Rose /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gesiegelte_erden",
+    "lemma": "Gesiegelte Erden /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "469"
+  },
+  {
+    "id": "sommerhoff_gro_ackerschafftenheu",
+    "lemma": "Groß Ackerschafftenheu /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_alyssen",
+    "lemma": "Groß Alyssen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_andorn",
+    "lemma": "Groß Andorn /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_angelica",
+    "lemma": "Groß Angelica /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_apfft",
+    "lemma": "Groß Apfft /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_artischock",
+    "lemma": "Groß Artischock /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_aurin",
+    "lemma": "Groß Aurin /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bachbungen",
+    "lemma": "Groß Bachbungen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bachmu_ntz",
+    "lemma": "Groß Bachmuͤntz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_baldrian_oder_gro_denmarck",
+    "lemma": "Groß Baldrian oder groß Denmarck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_basilien",
+    "lemma": "Groß Basilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bathengel",
+    "lemma": "Groß Bathengel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bergstern",
+    "lemma": "Groß Bergstern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_besemkraut",
+    "lemma": "Groß Besemkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_biberklee",
+    "lemma": "Groß Biberklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bibernell",
+    "lemma": "Groß Bibernell /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_biesemkraut",
+    "lemma": "Groß Biesemkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_binsen",
+    "lemma": "Groß Binsen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_blutskraut",
+    "lemma": "Groß Blutskraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bockspeterlein",
+    "lemma": "Groß Bockspeterlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_brandnessel",
+    "lemma": "Groß Brandnessel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_braunma_nderlein",
+    "lemma": "Groß Braunmaͤnderlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_braun_meerviolen",
+    "lemma": "Groß braun Meerviolen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_braun_scabiosa",
+    "lemma": "Groß braun Scabiosa /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_breiter_erdrauch",
+    "lemma": "Groß breiter Erdrauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_brennnessel",
+    "lemma": "Groß Brennnessel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_bruchkraut",
+    "lemma": "Groß Bruchkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_butterblum",
+    "lemma": "Groß Butterblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_kampherkraut",
+    "lemma": "Groß Kampherkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_cardomemlein",
+    "lemma": "Groß Cardomemlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_centaur",
+    "lemma": "Groß Centaur /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_cerinthe",
+    "lemma": "Groß Cerinthe /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_coriander",
+    "lemma": "Groß Coriander /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_cucummern_oder_gro_gurckum",
+    "lemma": "Groß Cucummern oder groß Gurckum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_denmarck",
+    "lemma": "Groß Denmarck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_dockenkraut",
+    "lemma": "Groß Dockenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_donnerbaum",
+    "lemma": "Groß Donnerbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_dotterblum_gro_wasserschmaltzblum",
+    "lemma": "Groß Dotterblum / Groß Wasserschmaltzblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_drachenwurtz",
+    "lemma": "Groß Drachenwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_eberwurtz",
+    "lemma": "Groß Eberwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_eisenhu_tlein",
+    "lemma": "Groß Eisenhuͤtlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_entzian",
+    "lemma": "Groß Entzian /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_epheu",
+    "lemma": "Groß Epheu /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_eppig_oder_liebsto_ckel",
+    "lemma": "Groß Eppig oder Liebstoͤckel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_erdpin",
+    "lemma": "Groß Erdpin /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_fasselin",
+    "lemma": "Groß Fasselin /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_feigwartzenkraut",
+    "lemma": "Groß Feigwartzenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_fuchsschwantz",
+    "lemma": "Groß Fuchsschwantz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gilgandt",
+    "lemma": "Groß Gilgandt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gama_nderlein",
+    "lemma": "Groß Gamaͤnderlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_garb",
+    "lemma": "Groß Garb /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gartencypre",
+    "lemma": "Groß Gartencypreß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gartenpeterlein",
+    "lemma": "Groß Gartenpeterlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gelb_fu_nffingerkraut",
+    "lemma": "Groß gelb Fuͤnffingerkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gelb_meerviolen",
+    "lemma": "Groß gelb Meerviolen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gelb_narcissenro_slein",
+    "lemma": "Groß gelb Narcissenroͤslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "470"
+  },
+  {
+    "id": "sommerhoff_gro_gemeine_brennnessel",
+    "lemma": "Groß gemeine Brennnessel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_gu_nsel_oder_gro_gu_ntzel",
+    "lemma": "Groß Guͤnsel oder groß Guͤntzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_gurckum_oder_gro_cucumern",
+    "lemma": "Groß Gurckum oder groß Cucumern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_habichtskraut",
+    "lemma": "Groß Habichtskraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_harnkraut",
+    "lemma": "Groß Harnkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_hau_wurtzel",
+    "lemma": "Groß Haußwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_himmelschwertel",
+    "lemma": "Groß Himmelschwertel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_indianische_sonnenblumen",
+    "lemma": "Groß Indianische Sonnenblumen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_ftalia_nischer_frembder_ku_mmel",
+    "lemma": "Groß Ftaliaͤnischer frembder Kuͤmmel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_italia_nische_pimpinell",
+    "lemma": "Groß Italiaͤnische Pimpinell /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosser_klee",
+    "lemma": "Grosser Klee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_klettenwurtz",
+    "lemma": "Groß Klettenwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_ko_lblinkraut",
+    "lemma": "Groß Koͤlblinkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_ko_rffel",
+    "lemma": "Groß Koͤrffel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_krebsblum",
+    "lemma": "Groß Krebsblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_kriechende_linsen",
+    "lemma": "Groß kriechende Linsen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_langer_wasserhanenfu",
+    "lemma": "Groß langer Wasserhanenfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_la_u_kraut",
+    "lemma": "Groß Laͤußkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_lucianskraut_das_erste",
+    "lemma": "Groß Lucianskraut das Erste /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_lucianskraut",
+    "lemma": "Groß Lucianskraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_ma_lieben",
+    "lemma": "Groß Maßlieben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_mau_o_hrlein",
+    "lemma": "Groß Maußoͤhrlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosser_mayer",
+    "lemma": "Grosser Mayer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosser_meerbeyfu",
+    "lemma": "Grosser Meerbeyfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_meergra",
+    "lemma": "Groß Meergraß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosse_melonen",
+    "lemma": "Grosse Melonen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_mittzkraut",
+    "lemma": "Groß Mittzkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_nabelkraut",
+    "lemma": "Groß Nabelkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosser_nachtschatten",
+    "lemma": "Grosser Nachtschatten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosse_na_gelein",
+    "lemma": "Grosse Naͤgelein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_nicotian_oder_gro_taback",
+    "lemma": "Groß Nicotian oder groß Taback /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_no_sselkraut",
+    "lemma": "Groß Noͤsselkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_pfeilkraut",
+    "lemma": "Groß Pfeilkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_pletschen",
+    "lemma": "Groß Pletschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_polium",
+    "lemma": "Groß Polium /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_rettich",
+    "lemma": "Groß Rettich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_rheynfahren",
+    "lemma": "Groß Rheynfahren /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_riedtgra",
+    "lemma": "Groß Riedtgraß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosse_rosinen",
+    "lemma": "Grosse Rosinen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosse_rothe_narcissen_lilien",
+    "lemma": "Grosse rothe Narcissen-Lilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosse_ru_ben",
+    "lemma": "Grosse Ruͤben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosse_salbey",
+    "lemma": "Grosse Salbey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_grosser_sanichel",
+    "lemma": "Grosser Sanichel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schlangenkraut_oder_wurtz",
+    "lemma": "Groß Schlangenkraut oder Wurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schlangenzwang",
+    "lemma": "Groß Schlangenzwang /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schlu_sselblum",
+    "lemma": "Groß Schluͤsselblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schmahlbletterichte_himmelschwertel",
+    "lemma": "Groß schmahlbletterichte Himmelschwertel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schmaltzkraut",
+    "lemma": "Groß Schmaltzkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schvalbenwurtzel",
+    "lemma": "Groß Schvalbenwurtzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_scorpionkraut",
+    "lemma": "Groß Scorpionkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_schwartz_eberwurtz",
+    "lemma": "Großschwartz Eberwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_senetbla_tter",
+    "lemma": "Groß Senetblaͤtter /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_sommergersten",
+    "lemma": "Groß Sommergersten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_sperberkraut",
+    "lemma": "Groß Sperberkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_spehrhanenfu",
+    "lemma": "Groß Spehrhanenfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_stebenkraut",
+    "lemma": "Groß Stebenkraut",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_steinbrech",
+    "lemma": "Groß Steinbrech /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_gro_sternmegerkraut",
+    "lemma": "Groß Sternmegerkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "471"
+  },
+  {
+    "id": "sommerhoff_g_ro_su_sser_und_gefu_lter_hanenfu",
+    "lemma": "G roß suͤsser und gefuͤlter Hanenfuß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_susse_quitten",
+    "lemma": "Groß susse Quitten /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_taback_oder_nicotian",
+    "lemma": "Groß Taback oder Nicotian /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_tausendgu_ldenkraut",
+    "lemma": "Groß Tausendguͤldenkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_taubenkraut",
+    "lemma": "Groß Taubenkraut",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_treibko_rner",
+    "lemma": "Groß Treibkoͤrner",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_waldenser_tora",
+    "lemma": "Groß Waldenser Tora /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wasserbintzengra",
+    "lemma": "Groß Wasserbintzengraß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wasserpastinacken",
+    "lemma": "Groß Wasserpastinacken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wasserschafftenheu",
+    "lemma": "Groß Wasserschafftenheu /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_waserschmaltzblum",
+    "lemma": "Groß Waserschmaltzblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wegbreit_oder_gro_wegerig",
+    "lemma": "Groß Wegbreit oder groß Wegerig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wegkra",
+    "lemma": "Groß Wegkraͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wegtritt",
+    "lemma": "Groß Wegtritt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_welsche_nu",
+    "lemma": "Groß Welsche Nuͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_welsch_pimpinell",
+    "lemma": "Groß Welsch Pimpinell /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_weyherbintzen",
+    "lemma": "Groß Weyherbintzen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wei_fu_nfffingerkraut",
+    "lemma": "Groß weiß Fuͤnfffingerkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wei_narcissenlilien",
+    "lemma": "Groß weiß Narcissenlilien /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wei_scabiosen",
+    "lemma": "Groß weiß Scabiosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wei_windroslein",
+    "lemma": "Groß weiß Windroslein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wei_wurtz",
+    "lemma": "Groß Weißwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wilde_wicken",
+    "lemma": "Groß wilde Wicken /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_winden",
+    "lemma": "Groß Winden /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gro_wolffsmilch_oder_teuffelsmilch",
+    "lemma": "Groß Wolffsmilch oder Teuffelsmilch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_grosselbeer",
+    "lemma": "Grosselbeer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_grotzschellmo_hren",
+    "lemma": "Grotzschellmoͤhren /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_belnu",
+    "lemma": "Gruͤbelnuͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gr_blingsbaum",
+    "lemma": "Grüblingsbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_n_hanensporn_und_gru_n_hollwurtz",
+    "lemma": "Gruͤn Hanensporn und gruͤn Hollwurtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_nling",
+    "lemma": "Gruͤnling /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_n_schlu_sselblum",
+    "lemma": "Gruͤn Schluͤsselblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_n_siegelwachs",
+    "lemma": "Gruͤn Siegelwachs /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_nsing",
+    "lemma": "Gruͤnsing /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_nspan",
+    "lemma": "Gruͤnspan /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_nspecht",
+    "lemma": "Gruͤnspecht /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_grundheyl",
+    "lemma": "Grundheyl /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_grundmagen",
+    "lemma": "Grundmagen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_grundreb",
+    "lemma": "Grundreb /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gru_tz",
+    "lemma": "Gruͤtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_guckuck",
+    "lemma": "Guckuck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_guggauchsklee",
+    "lemma": "Guggauchsklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_ga_nserig",
+    "lemma": "Guͤlden Gaͤnserig /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_gu_nsel",
+    "lemma": "Guͤlden Guͤnsel",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_ldenklee_und_gu_lden_leberkraut",
+    "lemma": "Guͤldenklee und guͤlden Leberkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_leberkraut",
+    "lemma": "Guͤlden Leberkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_leinkraut",
+    "lemma": "Guͤlden Leinkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_miltzkraut",
+    "lemma": "Guͤlden Miltzkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_steinklee",
+    "lemma": "Guͤlden Steinklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_widerthon",
+    "lemma": "Guͤlden Widerthon /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_lden_wundkraut",
+    "lemma": "Guͤlden Wundkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_ntzel",
+    "lemma": "Guͤntzel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gu_rtelkraut",
+    "lemma": "Guͤrtelkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gummi_arabick",
+    "lemma": "Gummi Arabick /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gummi_armoniack",
+    "lemma": "Gummi Armoniack /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gummi_von_ethiopischen_oder_wilden_oelbaum",
+    "lemma": "Gummi von Ethiopischen oder wilden Oelbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "472"
+  },
+  {
+    "id": "sommerhoff_gummi_opopanack",
+    "lemma": "Gummi Opopanack /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "473"
+  },
+  {
+    "id": "sommerhoff_gundelreben_und_gundermann",
+    "lemma": "Gundelreben und Gundermann /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "473"
+  },
+  {
+    "id": "sommerhoff_gurcken_oder_cucummern",
+    "lemma": "Gurcken oder Cucummern /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "473"
+  },
+  {
+    "id": "sommerhoff_guter_henrich",
+    "lemma": "Guter Henrich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "473"
+  },
+  {
+    "id": "sommerhoff_gyps_oder_gips",
+    "lemma": "Gyps oder Gips /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "473"
+  },
+  {
+    "id": "sommerhoff_gyrsing",
+    "lemma": "Gyrsing /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "473"
+  },
+  {
+    "id": "sommerhoff_gemeine_hirschen",
+    "lemma": "Gemeine Hirschen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "477"
+  },
+  {
+    "id": "sommerhoff_gelskolben",
+    "lemma": "gelskolben /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "479"
+  },
+  {
+    "id": "sommerhoff_gartenklee",
+    "lemma": "Gartenklee /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "482"
+  },
+  {
+    "id": "sommerhoff_gartenknoblauch_oder_zahmer_knoblauch",
+    "lemma": "Gartenknoblauch oder zahmer Knoblauch /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "486"
+  },
+  {
+    "id": "sommerhoff_gartenkra",
+    "lemma": "Gartenkraͤß /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "487"
+  },
+  {
+    "id": "sommerhoff_gartenku_mmel",
+    "lemma": "Gartenkuͤmmel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "489"
+  },
+  {
+    "id": "sommerhoff_gartenpeterlein",
+    "lemma": "Gartenpeterlein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "500"
+  },
+  {
+    "id": "sommerhoff_gelbe_pfersing",
+    "lemma": "Gelbe Pfersing /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "501"
+  },
+  {
+    "id": "sommerhoff_goldpfersing",
+    "lemma": "Goldpfersing /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "501"
+  },
+  {
+    "id": "sommerhoff_gartenrauthen",
+    "lemma": "Gartenrauthen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "504"
+  },
+  {
+    "id": "sommerhoff_gei_rauthen",
+    "lemma": "Geißrauthen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "504"
+  },
+  {
+    "id": "sommerhoff_gg_aamkraut",
+    "lemma": "GG Aamkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "507"
+  },
+  {
+    "id": "sommerhoff_gelber_schwefel",
+    "lemma": "Gelber Schwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "512"
+  },
+  {
+    "id": "sommerhoff_grauer_schwefel",
+    "lemma": "Grauer Schwefel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "512"
+  },
+  {
+    "id": "sommerhoff_gelber_schivertel",
+    "lemma": "Gelber Schivertel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "513"
+  },
+  {
+    "id": "sommerhoff_grosses",
+    "lemma": "Grosses /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "520"
+  },
+  {
+    "id": "sommerhoff_gu_lden_wundkraut",
+    "lemma": "Guͤlden Wundkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "534"
+  }
+]

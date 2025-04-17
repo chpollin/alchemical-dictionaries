@@ -1,0 +1,3198 @@
+[
+  {
+    "id": "sommerhoff_o_luthea",
+    "lemma": "o luthea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "101"
+  },
+  {
+    "id": "sommerhoff_oculus_bovis",
+    "lemma": "Oculus Bovis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rinds-Auge /",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_oculus_leporis_awaricia_sanamunda",
+    "lemma": "Oculus Leporis, Awaricia, Sanamunda,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Naͤgelein: Wurtzel.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_oculus_sambuci",
+    "lemma": "Oculus Sambuci,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Holder-Sproͤssel.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_oculus_solis",
+    "lemma": "Oculus Solis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Metern.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_ocymastrum",
+    "lemma": "Ocymastrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Braun-Wurtz.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_ocymum",
+    "lemma": "Ocymum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_oenonthe",
+    "lemma": "Oenonthe,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rother Stein-Brech.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_olus_agninum_lingua_arietula",
+    "lemma": "Olus Agninum, Lingua arietula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spitzivegerich.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_otus_regium",
+    "lemma": "Otus Regium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Beyfuß.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_ophacium",
+    "lemma": "Ophacium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Unzeitiger Trauben Safft.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_omphalocarpon_aspera_lappago_asperugo_plinii_dodonaei",
+    "lemma": "Omphalocarpon, Aspera, Lappago, Asperugo Plinii & Dodonaei.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kleber- Kraut.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_onocardium",
+    "lemma": "Onocardium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Buben-Streel.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_ononis",
+    "lemma": "Ononis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Heu-Hechel.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_ophioglossum_vulgatum_echioglossum_lingua_serpentina_eneovhyllum_henophyl",
+    "lemma": "Ophioglossum vulgatum, Echioglossum, Lingua serpentina, Eneovhyllum, Henophyl- lon, Brassadella vel Brassatella & Brassidella, Lancea Christij, Lingua vipe- rina, & Lingua, Lingula & Ligula vulneraria.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Natter-Zuͤnglein/ Un- sers HErrn Speer- Kraut / oder Schlangenzuͤnglein. Crescit in sylvis, pro- pè Argentoratum satis abundè reperitur.",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_origanum_aquaticum",
+    "lemma": "Origanum aquaticum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hertz-Klee, /",
+    "page": "189"
+  },
+  {
+    "id": "sommerhoff_origanum_creticum_seu_heracleoticum_peregrinum",
+    "lemma": "Origanum Creticum, seu Heracleoticum & Peregrinum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Cretischer Dosten/ Cretischer Wohlgemuth. Nascitur in Insula Creta & Graecia. Ex Gallia & Italia advehitur.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_origanum_officinarum_sylvestre_vulgare_pulegium_rubeum_origanum_seu_oni",
+    "lemma": "Origanum officinarum, sylvestre, vulgare, Pulegium rubeum, Origanum seu Oni- tis major, Origanum Anglicum, Cunila Bubula Plin. B. J.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dosten / Wohlgemuth / Braune Dosten / Fuchsius nennt es auch Berg-Muͤnz. Cre- scit in locis campestribus opacis.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_orminum_sativum",
+    "lemma": "Orminum sativum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Scharlach.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_orvala_sclarea_centrum_galli",
+    "lemma": "Orvala, Sclarea, Centrum Galli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Scharlach Rraut.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_ostritium_ostrutium",
+    "lemma": "Ostritium, & Ostrutium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meister-Wurtz.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_osyris",
+    "lemma": "Osyris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Leim- Krauk.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_oxalis",
+    "lemma": "Oxalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_oxyacantha",
+    "lemma": "Oxyacantha,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauerach.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_oxylapathum",
+    "lemma": "Oxylapathum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Grind-Wurtz.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_oxys",
+    "lemma": "OxyS,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauer-Kles.",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_oxytriphyllon",
+    "lemma": "Oxytriphyllon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "190"
+  },
+  {
+    "id": "sommerhoff_o",
+    "lemma": "O",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_oa_oon",
+    "lemma": "Oa & Oon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyer. Matth. Sylvat.",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_oabelcata",
+    "lemma": "Oabelcata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Koib.",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obac_raal",
+    "lemma": "Obac, Raal,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Salmiac /",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obalsimon",
+    "lemma": "Obalsimon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Epheu-Gummi.",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obelchera_obelkara_onbelcora",
+    "lemma": "Obelchera, Obelkara, Onbelcora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_oblatae_laxativae_purgantes",
+    "lemma": "Oblatae laxativae & purgantes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Purgierende Oblaten / oder Huͤpen.",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obulus",
+    "lemma": "Obulus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obretica_obreptica",
+    "lemma": "Obretica & Obreptica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Den Eckei stillende Mittel. Galen.",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obrizum",
+    "lemma": "Obrizum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obsidianum_nomen_vitri_vel_lapidis_fuforii_qui_smaltum_vel_schmalthum",
+    "lemma": "Obsidianum, nomen Vitri, vel Lapidis fuforii. qui & Smaltum vel Schmalthum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obsona",
+    "lemma": "Obsona,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "283"
+  },
+  {
+    "id": "sommerhoff_obstruens",
+    "lemma": "Obstruens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_obstupefaciens",
+    "lemma": "Obstupefaciens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_obturatio",
+    "lemma": "Obturatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ocab",
+    "lemma": "Ocab,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Armenisch Saltz.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_occasus",
+    "lemma": "Occasus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_occidens",
+    "lemma": "Occidens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essig. Occidens Stella est Sal armoniacus &. Germ. Sal- miar. Occidens, Mercurius 8 Saturnus h. Hermaphroditus. Germ. Raben- Kopff. Aqua viva, viscosa. Mart. Rul. & Johns.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_occisio",
+    "lemma": "Occisio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_occultum_scientiae",
+    "lemma": "Occultum Scientiae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ochema",
+    "lemma": "Ochema,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ochra",
+    "lemma": "Ochra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ocher / Berg-Geel / Silder Geel. Olim ex Atrica, hodieque ex Dacia & Hun- garia advehitur: altera Factitia, Ochra factitia, Ochra plumbaria, Ce- russa Citrina. Germ. Bley geel / quae ex Plumbo adusto fit, vto extincto, Pictoribus magis usitata. Ochrae Histor. & Usus",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ochros",
+    "lemma": "Ochros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ocob_ocab_ocop_obac",
+    "lemma": "Ocob, Ocab, Ocop, Obac,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ocularis",
+    "lemma": "Ocularis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ocularis_seu_ophthalmica_herba",
+    "lemma": "Ocularis, seu Ophthalmica Herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Augen-Trost.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculi_cancrorum",
+    "lemma": "Oculi Cancrorum, Germ. Krebs-Augen/ oder Krebs-Stein.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Krebs-Augen/ oder Krebs-Stein.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculi",
+    "lemma": "Oculi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculi_seu_linguae_serpentum",
+    "lemma": "Oculi, seu Linguae Serpentum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_araneae",
+    "lemma": "Oculus Araneae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spinnenivebe.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_auri_argenti",
+    "lemma": "Oculus Auri & Argenti,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Quecksilber. 8",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_bovis_buphthalmum",
+    "lemma": "Oculus Bovis, Buphthalmum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rinds-Augen.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_leporis_avaricia_sanamunda",
+    "lemma": "Oculus Leporis, Avaricia, Sanamunda.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Benedicten- Wurtzel.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_sambuci",
+    "lemma": "Oculus Sambuci,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Holder-Sproͤßlein.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_solis",
+    "lemma": "Oculus Solis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Metern.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_oculus_solis_fuchsii",
+    "lemma": "Oculus Solis Fuchsii,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Stinckende Chamillen.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ocymastrum",
+    "lemma": "Ocymastrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_ocymum",
+    "lemma": "Ocymum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Basiliens Kraut.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_odme",
+    "lemma": "Odme,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Der Geruch. dicitur Qualitas illa sensibi- lis, quae ab alio corpore emanans Naribus percipitur.",
+    "page": "284"
+  },
+  {
+    "id": "sommerhoff_odontalgica",
+    "lemma": "Odontalgica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_odontica",
+    "lemma": "Odontica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zahn Schmertzen stillende Mittel. Lex. Bl.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_odontotrimma",
+    "lemma": "Odontotrimma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_odor",
+    "lemma": "Odor,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Der Geruch.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_odorabilis",
+    "lemma": "Odorabilis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_odoramentum_idem",
+    "lemma": "Odoramentum, idem",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Guter Geruch. Lex. Br.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_odorifera",
+    "lemma": "Odorifera,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oegi",
+    "lemma": "Oegi.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Calmuß. Sylv.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenantharion",
+    "lemma": "Oenantharion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenanthe_philipendula_filipendula_saxifraga_rubea",
+    "lemma": "Oenanthe, Philipendula, & Filipendula & Saxifraga rubea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rothe Steinbrech Wurtzel.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenarea",
+    "lemma": "Oenarea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weinreben-Asche.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenas",
+    "lemma": "Oenas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oeneleon",
+    "lemma": "Oeneleon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenodes_vinosus",
+    "lemma": "Oenodes, Vinosus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein starcker Wein / der viel Was- ser leidet.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenagala",
+    "lemma": "Oenagala,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenogaron",
+    "lemma": "Oenogaron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenoides",
+    "lemma": "Oenoides,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenolaeum",
+    "lemma": "Oenolaeum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Geoͤlter Wein. Lex. Bl.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenolithus",
+    "lemma": "Oenolithus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weinstein.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenomel",
+    "lemma": "Oenomel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenepola",
+    "lemma": "Oenepola,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Wein- haͤndler.",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenopos",
+    "lemma": "Oenopos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oenos",
+    "lemma": "Oenos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "285"
+  },
+  {
+    "id": "sommerhoff_oestrus",
+    "lemma": "Oestrus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_oesopus",
+    "lemma": "Oesopus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Fette / unflaͤtige / und schmutzige Wolle am Schaff.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_oesypus_oesypum_isopus",
+    "lemma": "Oesypus, & Oesypum & Isopus.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schmutzigte Schaffs-Wolle.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_offa",
+    "lemma": "Offa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Taig.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_offic_it_medicis_praescriptum_seu_ali_s_notatum_legendum",
+    "lemma": "Offic. ità à Medicis praescriptum, seu aliàs notatum, legendum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_officina",
+    "lemma": "Officina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Werckstatt / Werck-Laden. Lex. Brun.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_officium",
+    "lemma": "Officium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_offion",
+    "lemma": "Offion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_offionicos",
+    "lemma": "Offionicos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyder. Matth. Sylvat. p. 158.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_offri",
+    "lemma": "Offri,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Epheu-Gummi.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_oger_ogertinum_ogertum_paracels",
+    "lemma": "Oger, Ogertinum, Ogertum, Paracels.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_ois",
+    "lemma": "Ois,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Schaff.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_oizatum_oizezatum",
+    "lemma": "Oizatum, Oizezatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Aniß. Steph.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_ol",
+    "lemma": "Ol.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_olcaib",
+    "lemma": "Olcaib,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kießel-Stein. Sylvat.",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_olea_mendose_pro_holca_vel_golce",
+    "lemma": "Olea, mendose pro Holca, vel Golce,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_olea",
+    "lemma": "Olea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_olea",
+    "lemma": "Olea,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_olea_destillata",
+    "lemma": "Olea destillata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "286"
+  },
+  {
+    "id": "sommerhoff_olea_destillata",
+    "lemma": "Olea destillata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_olaa_destillata",
+    "lemma": "Olaa destillata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_olea_soluta",
+    "lemma": "Olea soluta,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_olea_tria_stomachica",
+    "lemma": "Olea tria stomachica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleaginosus",
+    "lemma": "Oleaginosus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleamen_oleamentum",
+    "lemma": "Oleamen, Oleamentum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleaster",
+    "lemma": "Oleaster",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wilder Oelbaum.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleitas",
+    "lemma": "Oleitas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleosus",
+    "lemma": "Oleosus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum",
+    "lemma": "Oleum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_abieginum",
+    "lemma": "Oleum abieginum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Tannen-Hart",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_acerbum",
+    "lemma": "Oleum acerbum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Unzeitiges Baum Oel.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_album",
+    "lemma": "Oleum album,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum",
+    "lemma": "Oleum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_al_eticum",
+    "lemma": "Oleum Alöeticum, .",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_antimonii",
+    "lemma": "Oleum Antimonii.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spießglaß-Oehl.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_aranearum",
+    "lemma": "Oleum Aranearum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_ardens",
+    "lemma": "Oleum ardens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Cor- rigirt Weinstein-Oel. Mart. Rul. & Johns.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_arsenici",
+    "lemma": "Oleum Arsenici,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_ex_assatione",
+    "lemma": "Oleum ex assatione,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_been_oleum_balanium_oleum_glandis_unguentariae",
+    "lemma": "Oleum Been, Oleum Balanium, Oleum Glandis unguentariae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Been- Oehl/ ex- primitur ex Nucleis Been.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_cabrinum",
+    "lemma": "Oleum cabrinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_cicinum",
+    "lemma": "Oleum Cicinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_colcotharinum",
+    "lemma": "Oleum Colcotharinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Das rothe Oel aus Vitriol. Mart. Rul. & Jobns.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_commune",
+    "lemma": "Oleum commune,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Baum-Oebl. Exprimitur ex fructi- bus maturis Oleae. Omphacinum ex immaturis Fructibus expressum est. Sign. G0, A. 66, P.",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_cosmeticum",
+    "lemma": "Oleum Cosmeticum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "287"
+  },
+  {
+    "id": "sommerhoff_oleum_crudum_seu_aterbum",
+    "lemma": "Oleum crudum, seu aterbum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_per_elixationem_extractum_excoctum",
+    "lemma": "Oleum per Elixationem extractum & excoctum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_fixum",
+    "lemma": "Oleum fixum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_gremiale",
+    "lemma": "Oleum Gremiale.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Oliven-Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_jasmini",
+    "lemma": "Oleum Jasmini,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum",
+    "lemma": "Oleum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_de_kemest",
+    "lemma": "Oleum de Kemest,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lorbeer-Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_laurinum",
+    "lemma": "Oleum Laurinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lohrbeer:Oel /",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_ligni_heraclii_rulandi_patris_zacharia_brennelio",
+    "lemma": "Oleum Ligni Heraclii Rulandi Patris, à Zacharia Brennelio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_lineleon",
+    "lemma": "Oleum Lineleon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lein-Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_meliuum",
+    "lemma": "Oleum Meliuum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Quitten-Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_metropium",
+    "lemma": "Oleum Metropium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mandel Del. Johnsonus.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_nucistae_nuc_moschatarum_seu_nucum_aromaticarum",
+    "lemma": "Oleum Nucistae, Nuc. Moschatarum, seu Nucum Aromaticarum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Muscat-Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_ovorum",
+    "lemma": "Oleum Ovorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyer-Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_olivarum",
+    "lemma": "Oleum Olivarum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_olivarum_salsedine_liberatur_vel_olei_olivarum_salsedo_extrahitur",
+    "lemma": "Oleum Olivarum, à Salsedine liberatur, vel Olei Olivarum salsedo extrahitur, optimè miscendô Ol. Olivarum, cum Aqua communi dulci, sinatur ut a- quositas cum salsedine resideat,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_omphacinum",
+    "lemma": "Oleum Omphacinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_palestinum",
+    "lemma": "Oleum Palestinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_de_palma",
+    "lemma": "Oleum de Palma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Palmen Oehl. Exprimitur s. a. ex fructibus arboris Neapolitanae Palmae.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_petrae_petraeum_petrolaeon_tetroleum",
+    "lemma": "Oleum Petrae, & petraeum, Petrolaeon & Tetroleum. Germ. Stein- Oel.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Stein- Oel.",
+    "page": "288"
+  },
+  {
+    "id": "sommerhoff_oleum_resinae",
+    "lemma": "Oleum Resinae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hartz-Oei",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_sacchari_simplex",
+    "lemma": "Oleum Sacchari simplex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Zucket -Oel. vid quoque Beguinus.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_sambuceleon",
+    "lemma": "Oleum Sambuceleon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hollunder Oel.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_saturni",
+    "lemma": "Oleum Saturni,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_sulphuris",
+    "lemma": "Oleum Sulphuris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_susinum",
+    "lemma": "Oleum Susinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lilien-Oel.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_talchi_seu_talci",
+    "lemma": "Oleum Talchi, seu Talci,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Talck-Oehl. Pleira apud Authores viden- da. Sign. 9",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_tartari_sennerti",
+    "lemma": "Oleum Tartari Sennerti,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_terrae",
+    "lemma": "Oleum Terrae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_thasium_ol_metropium_oleum_ex_nucibus_graecis",
+    "lemma": "Oleum Thasium, Ol. Metropium, & Oleum ex Nucibus Graecis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mandet-Oebl. Johnson.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oleum_vitrioli",
+    "lemma": "Oleum Vitrioli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olfactorius",
+    "lemma": "Olfactorius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olibanum_seu_thus_adulterinum_pseudo_olibanum",
+    "lemma": "Olibanum, seu Thus Adulterinum, Pseudo Olibanum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bastart-Weyrauch/ oder Hertz Weyrauch.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olibanum_ovolibanum_libanotos_siv_thus_libanus_sive_libanum_incensum",
+    "lemma": "Olibanum, Ovolibanum, Libanotos, sivè Thus Libanus, sive Libanum. Incensum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Incens / oder Weyrauch. Thus arbuscula, cujusdam Arboris in Arabia nascentis, Lachryma seu Resina duriuscula, obscurè pellucida, profluens ex Arbore Arabica, quae, ut ajunt, Lentiscum appolitè refert. Genera Thuris traduntur duo: unum dicitur Olibanum, seu Thus ma- sculum, quod ex albo flavescit limpidumque, pellucidum, pingue ac sic- cum est, in globulos rotundos singulos, aut Testiculorum figura geminos concretum, ideoque masculi cognomen accepit. Alterum dicitur Faemi- ninum magis resinosum ac molle, & citò ardens, quod bonitate Masculo cedit. Ex Alexandria Aegypti copiosum ad nos defertur. Cortex etiam in usu est, debet esse crassus, pinguis odoratus, recens minimè scaber,- L. C. Cortex Thuris.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olibanum_corticosum_seu_thus_corticosum",
+    "lemma": "Olibanum corticosum, seu Thus corticosum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olibanum_electum_thus_masculum_stragonias_olibanum_seu_thus_testiculorum",
+    "lemma": "Olibanum electum, Thus masculum, Stragonias, Olibanum, seu Thus Testiculorum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Außerlesener Weyrauch. Suft illa Grana ex albedine citrina Thuris,",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olibrum",
+    "lemma": "Olibrum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oligophoros",
+    "lemma": "Oligophoros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olinthi",
+    "lemma": "Olinthi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Unzeitige Feygen.",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_oliva",
+    "lemma": "Oliva,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Oliven / vocatur Fructus Oleae, ex quo fit oleum. Gal. lib. 2. de S. F. Cap. 7. & l. 2. de Al. fac. cap. 27. Olivarum differentiam",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olivitas",
+    "lemma": "Olivitas,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olla",
+    "lemma": "Olla,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "289"
+  },
+  {
+    "id": "sommerhoff_olus",
+    "lemma": "Olus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Köͤhl-Kraut / refertur inter Alimenta è Plantis desumta. vid Bruy- er. de Re Cibar. lib. 8. Cap. 3. Olus molle dicitur Pulmentarium olerace- um, cùm substantiâ tum effectu molle ac tenerum, quod Ventrem sub- ducit, Rhod. ad Scribon. n. 99.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olus_agninum",
+    "lemma": "Olus agninum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spitziger Wegerig.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olus_anserinum_leporinum",
+    "lemma": "Olus anserinum & leporinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sonchen Kraut.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olus_aureum_chrysolachanum_atriplex",
+    "lemma": "Olus aureum, Chrysolachanum, Atriplex,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meiten oder Milten.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olus_regium",
+    "lemma": "Olus Regium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Beyfuß.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_oly",
+    "lemma": "Oly,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olympicos",
+    "lemma": "Olympicos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olympicus_spiritus",
+    "lemma": "Olympicus Spiritus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olympos",
+    "lemma": "Olympos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olynthos",
+    "lemma": "Olynthos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_olyra",
+    "lemma": "Olyra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omelysis",
+    "lemma": "Omelysis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omentum",
+    "lemma": "Omentum, Germ. Ein Netz. Reticulum, sive Intestinorum Operimentum, est Membrana duplicata, Intestinis instrata, pinguedine & vasis ad instar Re- tis Piscarii intertexta, Glandulis quoque duabus auttribus dotata, Ventri- culo, Colo & Pancreati annexa, ut Intestina calore suo foveat, utilis: ha- bet Lactea quaedam vasa & Lymphatica, item Ductus & Sacculos adipo- sos perplures, de quibus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Netz. Reticulum, sive Intestinorum Operimentum, est Membrana duplicata, Intestinis instrata, pinguedine & vasis ad instar Re- tis Piscarii intertexta, Glandulis quoque duabus auttribus dotata, Ventri- culo, Colo & Pancreati annexa, ut Intestina calore suo foveat, utilis: ha- bet Lactea quaedam vasa & Lymphatica, item Ductus & Sacculos adipo- sos perplures, de quibus",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omma",
+    "lemma": "Omma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Auge / significat quoque Visum.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omnium_ad_pondus_sive_ad_pondus_omnium",
+    "lemma": "Omnium ad Pondus, sive: ad Pondus omnium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omolinon",
+    "lemma": "Omolinon",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omotarichos",
+    "lemma": "Omotarichos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omotion",
+    "lemma": "Omotion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kesten. Sylvat.",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omotribes",
+    "lemma": "Omotribes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omphacis",
+    "lemma": "Omphacis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omphacites",
+    "lemma": "Omphacites,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omphacitis",
+    "lemma": "Omphacitis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "290"
+  },
+  {
+    "id": "sommerhoff_omphacium",
+    "lemma": "Omphacium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Agrest / oder unzeitiger Trauben-Most.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_omphacomeli_potionis_conditae_genus_ex_succo_uvae_acerbae_melle_re",
+    "lemma": "Omphacomeli, Potionis conditae genus ex Succo Uvae acerbae, & Melle. Re- spondet Syrupo de Agresta. Officin. Gorr.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_omphalocarpon_aspera_lappago_asperugo_plinii_dodon_aparine",
+    "lemma": "Omphalocarpon, Aspera Lappago, Asperugo Plinii & Dodon. Aparine. Germ. Kle. ber Kraut.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kle. ber Kraut.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onager",
+    "lemma": "Onager,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onbetcora_onbelcora",
+    "lemma": "Onbetcora, Onbelcora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onda",
+    "lemma": "Onda,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onis",
+    "lemma": "Onis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_oniscos",
+    "lemma": "Oniscos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onocardium",
+    "lemma": "Onocardium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weber-Carten /",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onocrotalus_latin_pelicanus",
+    "lemma": "Onocrotalus, Latinè Pelicanus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_ononis",
+    "lemma": "Ononis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Heu Hechel.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onopterium_minus",
+    "lemma": "Onopterium minus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Mauer Rauthen.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onolosat_onolosach_onosai_onoles_sunt_nomina_ponderis",
+    "lemma": "Onolosat, Onolosach, Onosai, Onoles, sunt Nomina Ponderis, &",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onos",
+    "lemma": "Onos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Keller-Esell.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_onyx",
+    "lemma": "Onyx,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_oon",
+    "lemma": "Oon",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Ey. quid communiter sit, notum est. Nimi- rum est peculiaris Conceptus in Animalibus, praesertim volatilibus, è Te- sta, quae & Cortex & Vestis Ovi vocatur Keuch. ad Sam. p. 205. membranis, albumine & vitello constans. Inter Ova, Gallinacea esse usitatissima ad victum & Medicinam, patet ex Galen. lib. 3. de Alim. fac. Ovum aureum vernaculè vocatur Antidotus, seu Electuarium de Ovo, cujus Descriptio habetur in Dispensatoriis. Spagyricis, Ovum Philosophorum vocatur Lapis benedictus, seu philosophicus, Ovum Hermetis, quodovi formae Phi- losophicis Operationibus inservit. Mart. Rul. & Johns.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_opalus_opali",
+    "lemma": "Opalus, Opali,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_operatio",
+    "lemma": "Operatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eine Würckung oder Vollbringung eines Wercks. Lexic. Brun.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_operculum",
+    "lemma": "Operculum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_operimethiolim",
+    "lemma": "Operimethiolim,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_opheleo",
+    "lemma": "Opheleo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_ophioglossum",
+    "lemma": "Ophioglossum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Natter-Zuͤnglein.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_ophis",
+    "lemma": "Ophis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_ophites",
+    "lemma": "Ophites,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_ophthalmica_seu_ocularis_herba",
+    "lemma": "Ophthalmica seu Ocularis herba,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Augen-Trost.",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_ophthalmica",
+    "lemma": "Ophthalmica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_opiata_opiatum",
+    "lemma": "Opiata & Opiatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "291"
+  },
+  {
+    "id": "sommerhoff_opiata",
+    "lemma": "Opiata,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opisex_opificium",
+    "lemma": "Opisex, Opificium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Künstler.",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opii_correctionem",
+    "lemma": "Opii Correctionem,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opilare",
+    "lemma": "Opilare,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opinis",
+    "lemma": "Opinis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opiologia",
+    "lemma": "Opiologia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opisthobares",
+    "lemma": "Opisthobares,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opistocheimon",
+    "lemma": "Opistocheimon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opium",
+    "lemma": "Opium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Schwartzer Magsamen-Safft/ oder Opium. De hoc observe- tur, quod sint duo distincti Liquores, Opium & Meconium, quodque ex Papavere ortum. Meconium est Succus ex tota Papaveris Planta expres- sus, philtratus, inspissatus ac coagulatus. Opium, idem est Succus, sed qui spontè exstillat, vel Lachryma est ex Capitibus Papaveris maturis inci sis & sauciatis, qui Solis calore coagulatus, inspissatus, exsiccatus nigricat, & dicitur Opium: Tres enim ejus sunt differentiae: Datur Opium album, flavescens & nigrum, quae utut promiscuè possint usurpari, nihilominus Opium nigrum magis est usitatum. Elegans sane & necessarium simplex in Medicina est Opium. Plura lectu digna inveniuntur apud Baconem de Verulamio, Deodatum, Doringium, Freitagium, Hartmannum, Schillinigium, Schroederum, Wedelium & alios.",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opium",
+    "lemma": "Opium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opium_thebaicum",
+    "lemma": "Opium Thebaicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opis",
+    "lemma": "Opis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Frauen-Haar. Sylvat.",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opobalsamum_seu_balsamum_vel_lachryma_balsami_balsamum_judaicum",
+    "lemma": "Opobalsamum, seu Balsamum, vel Lachryma Balsami, & Balsamum Judaicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Balsam/ oder Juden-Balsam.",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opocalpason_opocarpason",
+    "lemma": "Opocalpason, Opocarpason,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opochrisma",
+    "lemma": "Opochrisma,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opodae_medicinae",
+    "lemma": "Opodae Medicinae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opodeldoch",
+    "lemma": "Opodeldoch,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "292"
+  },
+  {
+    "id": "sommerhoff_opolibanum",
+    "lemma": "Opolibanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Weyrauch.",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_opopanax_seu_opopanacum_seu_lachryma_panacis_kyva_vel_cist",
+    "lemma": "Opopanax, seu Opopanacum, seu Lachryma Panacis, & Kyva, vel Cist .",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_opopyron_laudani",
+    "lemma": "Opopyron Laudani,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_opore",
+    "lemma": "Opore,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_oporice_nomen_medicamenti",
+    "lemma": "Oporice, nomen Medicamenti",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_oos",
+    "lemma": "Oos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_oppilatio",
+    "lemma": "Oppilatio,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_oppletio_idem",
+    "lemma": "Oppletio, idem",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_oprimechiolum",
+    "lemma": "Oprimechiolum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_ops_metallicum",
+    "lemma": "Ops Metallicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_opso_vel_opson",
+    "lemma": "Opso, vel Opson,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Brey-",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_opt",
+    "lemma": "Opt.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_optica",
+    "lemma": "Optica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_opus",
+    "lemma": "Opus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_ora",
+    "lemma": "Ora,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_orale",
+    "lemma": "Orale,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_orbicularis",
+    "lemma": "Orbicularis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bosist.",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_orbiculi",
+    "lemma": "Orbiculi,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_orbis",
+    "lemma": "Orbis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_orca",
+    "lemma": "Orca,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_orchilus",
+    "lemma": "Orchilus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "293"
+  },
+  {
+    "id": "sommerhoff_ortbis",
+    "lemma": "Ortbis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Stendel-Wurtz.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orcus",
+    "lemma": "Orcus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_ordeum",
+    "lemma": "Ordeum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_ordo",
+    "lemma": "Ordo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oreoselinum",
+    "lemma": "Oreoselinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Berg-Peterlein",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oreptica",
+    "lemma": "Oreptica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Den Eckel be- nehmende Mittel.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oreselinum_apium_sativum_seu_verum",
+    "lemma": "Oreselinum, Apium sativum seu verum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Petersilien.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orgia",
+    "lemma": "Orgia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orichalcum",
+    "lemma": "Orichalcum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oricia",
+    "lemma": "Oricia.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oricularis_oricularius",
+    "lemma": "Oricularis, Oricularius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oriens",
+    "lemma": "Oriens,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orificium",
+    "lemma": "Orificium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_origanum",
+    "lemma": "Origanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dosten / oder Wolgemuth.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_origanum_aquaticum",
+    "lemma": "Origanum aquaticum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Herkz-Klee.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_origanum_creticum_seu_heracleoticum",
+    "lemma": "Origanum Creticum, seu Heracleoticum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_origo",
+    "lemma": "Origo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Anfang.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oriolus",
+    "lemma": "Oriolus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orionius",
+    "lemma": "Orionius,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_oriza_seu_oryza_cyzum_rixum_rizum_hordeum_galaticum_sive_risum",
+    "lemma": "Oriza, seu Oryza & Cyzum, Rixum & Rizum, Hordeum galaticum, sive Risum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Renß. De genere Frugum est, mediocriter alit, & vim quandam adstringendi habet, quâ ventrem modicè sistit,",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orizeum",
+    "lemma": "Orizeum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gold. Mart. Rul. & Johns.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orizeum_foliatum",
+    "lemma": "Orizeum foliatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gold Blaͤdlein. Mart. Rul. & Johnsonus.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orizeum_coagulatum",
+    "lemma": "Orizeum coagulatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orizeus_liquor_paracelso",
+    "lemma": "Orizeus Liquor, Paracelso",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orminum_seu_horminum",
+    "lemma": "Orminum, seu Horminum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Scharlach.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orus",
+    "lemma": "Orus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orobion",
+    "lemma": "Orobion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orobo",
+    "lemma": "Orobo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orobus",
+    "lemma": "Orobus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Erven.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orodis",
+    "lemma": "Orodis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orogamo",
+    "lemma": "Orogamo,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Goldt. Mart. Ruland. & Johnsonus.",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orphus",
+    "lemma": "Orphus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orrhopissa",
+    "lemma": "Orrhopissa,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orrbos_latin_serum",
+    "lemma": "Orrbos, Latinè Serum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "294"
+  },
+  {
+    "id": "sommerhoff_orthodoron",
+    "lemma": "Orthodoron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ortus",
+    "lemma": "Ortus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ortygometra",
+    "lemma": "Ortygometra,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_orvala_orminum_horminum_scarlea_sclarea",
+    "lemma": "Orvala, Orminum, Horminum, Scarlea, Sclarea.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Scharlach-Kraut.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_orvietanus_seu_orvietanum",
+    "lemma": "Orvietanus, seu Orvietanum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_oryza_risum",
+    "lemma": "Oryza, Risum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Reyß.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_os_ossis",
+    "lemma": "Os, Ossis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bein / in usu Pharmacevtico aliquando Ossa sunt uti Ossa, seu Crania humana. Germ. Menschen-Bein / oder Menschen Hirn-Schalen. Os- sa seu Cornua Alcis, Cervi. Germ. Elends oder Hirschhorn. Dentes Apri. Germ. Wilde Schweins-Zähn. Ossa de Corde Cervi. Germ. Bein von Hirsch Hertz. Ossa seu Tali Leporini. Germ. Hasen-Sprung. Ossa Se- piae. Germ. Fisch-Bein.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_os_balistae_calcaneum",
+    "lemma": "Os Balistae, Calcaneum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hasensprung.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_oscieum",
+    "lemma": "Oscieum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osme",
+    "lemma": "Osme,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Der Geruch.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osmundi_aphaca_aphace_vitia_syl_vestris",
+    "lemma": "Osmundi Aphaca, & Aphace, Vitia syl vestris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Wilde Wicken / oder St. Chri- stophers-Kraut.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osoac",
+    "lemma": "Osoac,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Quecksilber.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osoror",
+    "lemma": "Osoror,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osphresis",
+    "lemma": "Osphresis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Der Geruch. Lex. Brun.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osprion",
+    "lemma": "Osprion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossa_de_corde_cervi_seu_cartilagines_cordium_cervorum",
+    "lemma": "Ossa de Corde Cervi, seu Cartilagines Cordium Cervorum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Hirsch- Hertz- Bein. Inveniuntur etiam in Cordibus Taurorum talia Ossa. Est arteriarum in Basi Cordis concursus, qui cum Aetate & imprimis turgescentiae tempo- re durior fit, & in Os degenerat.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossa_dactylorum",
+    "lemma": "Ossa Dactylorum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Dattel-Kern.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossa_paralleli",
+    "lemma": "Ossa Paralleli,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossa_seu_os_sepiae_piscis_sepiae_os_candidum_testa_sepiae",
+    "lemma": "Ossa, seu Os sepiae, Piscis Sepiae, Os candidum, Testa Sepiae .",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Fischbein / Black- Capiuntur in Gallia, & a- Fisch / Black-Kuttel / ad Dentifricia usurpatur. liis locis.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossa_seu_ossicula",
+    "lemma": "Ossa seu Ossicula,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kern Schalen.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossifraga",
+    "lemma": "Ossifraga,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ossifragus",
+    "lemma": "Ossifragus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ostiocolla",
+    "lemma": "Ostiocolla, Germ. Beinbruch.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Beinbruch.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osteon_ostum_ostun_fer_idem",
+    "lemma": "Osteon, Ostum, & Ostun, ferè idem",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_osteritium_asteritium_ostritium_ostrutium",
+    "lemma": "Osteritium, Asteritium, Ostritium & Ostrutium.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meister-Wurtz.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ostracitis",
+    "lemma": "Ostracitis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ostracium_indicum_conchula_indica_conchilii_indici_operculum",
+    "lemma": "Ostracium Indicum, Conchula Indica, Conchilii Indici operculum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Indiani- sche Muschel-Schale. vid Blatta Bizantia.",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ostracodermon",
+    "lemma": "Ostracodermon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "295"
+  },
+  {
+    "id": "sommerhoff_ostracon",
+    "lemma": "Ostracon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ostrea_ostreum",
+    "lemma": "Ostrea, Ostreum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Austern. Est species Animalis testacei, estque Conchama- rina, ex genere rotundarum. Quarum usus hodieque adhuc viget in mensis lautioribus.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ostreorum_concha_seu_testae",
+    "lemma": "Ostreorum Concha, seu Testae.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Auster-Muscheln oder Schalen.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ostrites",
+    "lemma": "Ostrites,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Beinbruch.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ostritium",
+    "lemma": "Ostritium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Meister-Wurtz.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ostrutium_transplantatum",
+    "lemma": "Ostrutium transplantatum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ostum_ostun_osteon",
+    "lemma": "Ostum, Ostun, & Osteon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_osyris_linaria_seu_herba_urinalis",
+    "lemma": "Osyris, Linaria, seu Herba Urinalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Lein Rraut.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_otap",
+    "lemma": "Otap,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_othan_othari",
+    "lemma": "Othan, & Othari,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_othode",
+    "lemma": "Othode,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Milch-Niaum. Sylvat.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_otica",
+    "lemma": "Otica,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oticos",
+    "lemma": "Oticos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_otis",
+    "lemma": "Otis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_otus_avis",
+    "lemma": "Otus, Avis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ova",
+    "lemma": "Ova,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ova_ranarum",
+    "lemma": "Ova Ranarum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Froschleich.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovatus",
+    "lemma": "Ovatus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bufist / Weiber- fist / Barbierer Schvamm zum Bluth stillen. vid Fungus Chyrurgorum.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovi_albor_album",
+    "lemma": "Ovi albor & album,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyerweiß. & Mart. Rul.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovis",
+    "lemma": "Ovis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Schaff.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovorum_putamina",
+    "lemma": "Ovorum putamina,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyer-Schalen.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovorum_testae",
+    "lemma": "Ovorum testae,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyer- Schalen / woraus jun- ge Huhnlein im Bruͤten geschloffen sind.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovum",
+    "lemma": "Ovum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Ey. vid Oon.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovum_aureum",
+    "lemma": "Ovum aureum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovum_chymicum",
+    "lemma": "Ovum Chymicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovum_perdicum",
+    "lemma": "Ovum Perdicum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ein Rebhuhn-Ey.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovum_philosophorum_chymicum_seu_hermetis",
+    "lemma": "Ovum Philosophorum, Chymicum, seu Hermetis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_ovum_struthio_cameli",
+    "lemma": "Ovum Struthio Cameli.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Straussen-Ey. Ovum est Avis maximae, exo- ticae & celebris. Ova ista in magna copia in Africa in na calida inveni- (untur.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxalis",
+    "lemma": "Oxalis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauerampffer.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxalis_rotunda_sativa_franca_rotundi_folia",
+    "lemma": "Oxalis rotunda, Sativa franca rotundi folia,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Spannischer Sauerampffer.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxalme",
+    "lemma": "Oxalme,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxelaeon_oxeleum",
+    "lemma": "Oxelaeon & Oxeleum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essig mit Oehl vermischt. vid: Galenus & Forestus.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxinos_vinum",
+    "lemma": "Oxinos, Vinum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxot",
+    "lemma": "Oxot,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essig.",
+    "page": "296"
+  },
+  {
+    "id": "sommerhoff_oxy",
+    "lemma": "Oxy,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyacanthae_seu_crespinus_fructus",
+    "lemma": "Oxyacanthae, seu Crespinus Fructus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauerach.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxybaphon",
+    "lemma": "Oxybaphon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxycraton_oxycratum",
+    "lemma": "Oxycraton, & Oxycratum ,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxycroceum",
+    "lemma": "Oxycroceum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Saff- ran-Pflaster.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyderces_oxydorcious",
+    "lemma": "Oxyderces, Oxydorcious,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxygala",
+    "lemma": "Oxygala,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxygaron_garum_acidum",
+    "lemma": "Oxygaron, Garum acidum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxy_glici",
+    "lemma": "Oxy glici,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxylapathum",
+    "lemma": "Oxylapathum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Krindt-Wurtzel.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxylapathum_galeni_oxalis_anaxyris",
+    "lemma": "Oxylapathum Galeni, Oxalis, Anaxyris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauerampffer.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxilipes",
+    "lemma": "Oxilipes,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxymalium",
+    "lemma": "Oxymalium,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Bleyweiß.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxymel",
+    "lemma": "Oxymel,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Essigae Meth. Acetum mulsum, vel accommodatius Mulsum acidum, Potio ve- tustissima certa ex Aceto, Va & Melle parata, quae etiam antè Hippo- cratis tempora in Sanitatis usum venit. Dividitur in simplex & com- positum, Helleboratum & Scylliticum. . Dispensatoria.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxymyrsine_spina_marina_murina_myrtus_acuta_sylvestris",
+    "lemma": "Oxymyrsine, Spina Marina & Murina, Myrtus acuta & sylvestris,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Maͤußdorn-Wurtzel.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyngion",
+    "lemma": "Oxyngion,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxynitron",
+    "lemma": "Oxynitron,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyporon",
+    "lemma": "Oxyporon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyrrbingus",
+    "lemma": "Oxyrrbingus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyrrhodinon_oxyrrhodinum",
+    "lemma": "Oxyrrhodinon, & Oxyrrhodinum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Rosen-Essig. Signi-ficat etiam Medicamentum ex Aceto & Oleo rosaceo paratum.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxyrocroceum",
+    "lemma": "Oxyrocroceum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxys",
+    "lemma": "Oxys,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Sauer und scharff.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxys_plinii_oxytriphyllon_panis_cuculi_alleluja_acetosella",
+    "lemma": "Oxys Plinii, Oxytriphyllon, Panis Cuculi, Alleluja, Acetosella.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Saurer Klee.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxysaccharum",
+    "lemma": "Oxysaccharum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "1. Essig-Safft/ 2. Brech- Safft. 3. Meer-Zwiebel-Safft.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxysal_diaphoreticum",
+    "lemma": "Oxysal Diaphoreticum,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_oxytriphyllon_alleluja_jujula",
+    "lemma": "Oxytriphyllon, Alleluja, Jujula.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Saurer Klee.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_ozana",
+    "lemma": "Ozana,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_ozeman",
+    "lemma": "Ozeman,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyerweiß. Mart. Rul. & Johns.",
+    "page": "297"
+  },
+  {
+    "id": "sommerhoff_o20",
+    "lemma": "O20,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Arsenick.",
+    "page": "298"
+  },
+  {
+    "id": "sommerhoff_ozonab",
+    "lemma": "Ozonab,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Eyerdottern.",
+    "page": "298"
+  },
+  {
+    "id": "sommerhoff_ozos",
+    "lemma": "Ozos,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "298"
+  },
+  {
+    "id": "sommerhoff_o_qs",
+    "lemma": "o Qs.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "So viel als genug.",
+    "page": "326"
+  },
+  {
+    "id": "sommerhoff_obenholtz",
+    "lemma": "OBenholtz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "457"
+  },
+  {
+    "id": "sommerhoff_ochergelb_oder_ochergeei",
+    "lemma": "OChergelb oder Ochergeei /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsenbrech",
+    "lemma": "Ochsenbrech /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsengall",
+    "lemma": "Ochsengall /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsenmarck",
+    "lemma": "Ochsenmarck /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsensehne",
+    "lemma": "Ochsensehne /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsenstein",
+    "lemma": "Ochsenstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsenzimmer",
+    "lemma": "Ochsenzimmer /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ochsenzunge",
+    "lemma": "Ochsenzunge /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_odermenning",
+    "lemma": "Odermenning /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oesterreichische_scabiosen",
+    "lemma": "Oesterreichische Scabiosen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ofenleim",
+    "lemma": "Ofenleim /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ofenmenning",
+    "lemma": "Ofenmenning /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oelbaum",
+    "lemma": "Oelbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oelbaum_so_wild_oder_wilder_oelbaum",
+    "lemma": "Oelbaum so wild oder wilder Oelbaum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oelmagen_oder_oelsamen",
+    "lemma": "Oelmagen oder Oelsamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oelsamen",
+    "lemma": "Oelsamen /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oelstein",
+    "lemma": "Oelstein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ohmkraut",
+    "lemma": "Ohmkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ohnblat_oder_anblat",
+    "lemma": "Ohnblat oder Anblat /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ohnkraut",
+    "lemma": "Ohnkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ohrlo_ffelktaut",
+    "lemma": "Ohrloͤffelktaut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ohrenmu_ggel",
+    "lemma": "Ohrenmuͤggel /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oleander",
+    "lemma": "Oleander /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_oliven",
+    "lemma": "Oliven /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_olm",
+    "lemma": "Olm /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_olsenich",
+    "lemma": "Olsenich /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_opermendt",
+    "lemma": "Opermendt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_opium",
+    "lemma": "Opium /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_orandt",
+    "lemma": "Orandt /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_orientalischer_bolus",
+    "lemma": "Orientalischer Bolus /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_orjentalische_hyacinthblume",
+    "lemma": "Orjentalische Hyacinthblume /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_origanum_das_rechte",
+    "lemma": "Origanum das rechte /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_osterblum",
+    "lemma": "Osterblum /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_osterka_lblein",
+    "lemma": "Osterkaͤlblein /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_osterluzey",
+    "lemma": "Osterluzey /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ostermuscheln",
+    "lemma": "Ostermuscheln /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ost_indisches_wundkraut",
+    "lemma": "Ost-Indisches Wundkraut /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_ostritz",
+    "lemma": "Ostritz /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  },
+  {
+    "id": "sommerhoff_otter",
+    "lemma": "Otter /",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "499"
+  }
+]

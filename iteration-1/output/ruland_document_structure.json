@@ -1,0 +1,4007 @@
+{
+  "sections": [
+    {
+      "id": "frontmatter_0",
+      "type": "frontmatter",
+      "title": "",
+      "parent": null
+    },
+    {
+      "id": "dictionary_1",
+      "type": "dictionary",
+      "title": "",
+      "parent": null
+    }
+  ],
+  "pages": {
+    "1": {
+      "id": "img_0001",
+      "facs": "#facs_1",
+      "headers_footers": []
+    },
+    "2": {
+      "id": "img_0002",
+      "facs": "#facs_2",
+      "headers_footers": []
+    },
+    "3": {
+      "id": "img_0003",
+      "facs": "#facs_3",
+      "headers_footers": []
+    },
+    "4": {
+      "id": "img_0004",
+      "facs": "#facs_4",
+      "headers_footers": []
+    },
+    "5": {
+      "id": "img_0005",
+      "facs": "#facs_5",
+      "headers_footers": []
+    },
+    "6": {
+      "id": "img_0006",
+      "facs": "#facs_6",
+      "headers_footers": []
+    },
+    "7": {
+      "id": "img_0007",
+      "facs": "#facs_7",
+      "headers_footers": []
+    },
+    "8": {
+      "id": "img_0008",
+      "facs": "#facs_8",
+      "headers_footers": []
+    },
+    "9": {
+      "id": "img_0009",
+      "facs": "#facs_9",
+      "headers_footers": []
+    },
+    "10": {
+      "id": "img_0010",
+      "facs": "#facs_10",
+      "headers_footers": []
+    },
+    "11": {
+      "id": "img_0011",
+      "facs": "#facs_11",
+      "headers_footers": []
+    },
+    "12": {
+      "id": "img_0012",
+      "facs": "#facs_12",
+      "headers_footers": []
+    },
+    "13": {
+      "id": "img_0013",
+      "facs": "#facs_13",
+      "headers_footers": []
+    },
+    "14": {
+      "id": "img_0014",
+      "facs": "#facs_14",
+      "headers_footers": []
+    },
+    "15": {
+      "id": "img_0015",
+      "facs": "#facs_15",
+      "headers_footers": [
+        "2",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "16": {
+      "id": "img_0016",
+      "facs": "#facs_16",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "3",
+        "Adarris"
+      ]
+    },
+    "17": {
+      "id": "img_0017",
+      "facs": "#facs_17",
+      "headers_footers": [
+        "4",
+        "RVLANDI PHILOS. ET MEDICI rius igni fortissimo prolicitum prodit est, acetum radicatum."
+      ]
+    },
+    "18": {
+      "id": "img_0018",
+      "facs": "#facs_18",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "5 4 Sideritis ferrei splendoris, pondere reliquos antecellens: sed"
+      ]
+    },
+    "19": {
+      "id": "img_0019",
+      "facs": "#facs_19",
+      "headers_footers": [
+        "6",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "20": {
+      "id": "img_0020",
+      "facs": "#facs_20",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "7"
+      ]
+    },
+    "21": {
+      "id": "img_0021",
+      "facs": "#facs_21",
+      "headers_footers": []
+    },
+    "22": {
+      "id": "img_0022",
+      "facs": "#facs_22",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "9"
+      ]
+    },
+    "23": {
+      "id": "img_0023",
+      "facs": "#facs_23",
+      "headers_footers": [
+        "10 alumine in vase fictili. Docet & alios modos Dioscorides"
+      ]
+    },
+    "24": {
+      "id": "img_0024",
+      "facs": "#facs_24",
+      "headers_footers": [
+        "11",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "25": {
+      "id": "img_0025",
+      "facs": "#facs_25",
+      "headers_footers": [
+        "12",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "26": {
+      "id": "img_0026",
+      "facs": "#facs_26",
+      "headers_footers": [
+        "RVLANDI PHIL. Ex MEDICI.",
+        "13"
+      ]
+    },
+    "27": {
+      "id": "img_0027",
+      "facs": "#facs_27",
+      "headers_footers": [
+        "14",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "28": {
+      "id": "img_0028",
+      "facs": "#facs_28",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "15"
+      ]
+    },
+    "29": {
+      "id": "img_0029",
+      "facs": "#facs_29",
+      "headers_footers": [
+        "16",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "30": {
+      "id": "img_0030",
+      "facs": "#facs_30",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "17"
+      ]
+    },
+    "31": {
+      "id": "img_0031",
+      "facs": "#facs_31",
+      "headers_footers": [
+        "18",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "33": {
+      "id": "img_0033",
+      "facs": "#facs_33",
+      "headers_footers": [
+        "20",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "34": {
+      "id": "img_0034",
+      "facs": "#facs_34",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "21"
+      ]
+    },
+    "35": {
+      "id": "img_0035",
+      "facs": "#facs_35",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "22"
+      ]
+    },
+    "36": {
+      "id": "img_0036",
+      "facs": "#facs_36",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "23"
+      ]
+    },
+    "37": {
+      "id": "img_0037",
+      "facs": "#facs_37",
+      "headers_footers": [
+        "24",
+        "LEXION ALCHEMIAE MART."
+      ]
+    },
+    "38": {
+      "id": "img_0038",
+      "facs": "#facs_38",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "25",
+        "D"
+      ]
+    },
+    "39": {
+      "id": "img_0039",
+      "facs": "#facs_39",
+      "headers_footers": [
+        "26",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "40": {
+      "id": "img_0040",
+      "facs": "#facs_40",
+      "headers_footers": [
+        "27",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "41": {
+      "id": "img_0041",
+      "facs": "#facs_41",
+      "headers_footers": [
+        "28",
+        "LEXICON ALCHMIAE MART."
+      ]
+    },
+    "42": {
+      "id": "img_0042",
+      "facs": "#facs_42",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "29"
+      ]
+    },
+    "43": {
+      "id": "img_0043",
+      "facs": "#facs_43",
+      "headers_footers": [
+        "30",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "44": {
+      "id": "img_0044",
+      "facs": "#facs_44",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "31"
+      ]
+    },
+    "45": {
+      "id": "img_0045",
+      "facs": "#facs_45",
+      "headers_footers": [
+        "32",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "46": {
+      "id": "img_0046",
+      "facs": "#facs_46",
+      "headers_footers": [
+        "33",
+        "RVLANDI PHILOS. ET MEDICI"
+      ]
+    },
+    "47": {
+      "id": "img_0047",
+      "facs": "#facs_47",
+      "headers_footers": [
+        "34",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "48": {
+      "id": "img_0048",
+      "facs": "#facs_48",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "35"
+      ]
+    },
+    "49": {
+      "id": "img_0049",
+      "facs": "#facs_49",
+      "headers_footers": [
+        "36",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "50": {
+      "id": "img_0050",
+      "facs": "#facs_50",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "37"
+      ]
+    },
+    "51": {
+      "id": "img_0051",
+      "facs": "#facs_51",
+      "headers_footers": [
+        "38",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "52": {
+      "id": "img_0052",
+      "facs": "#facs_52",
+      "headers_footers": [
+        "39",
+        "RVLANDI PHIL. ET MEDICI"
+      ]
+    },
+    "53": {
+      "id": "img_0053",
+      "facs": "#facs_53",
+      "headers_footers": [
+        "40",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "54": {
+      "id": "img_0054",
+      "facs": "#facs_54",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "41"
+      ]
+    },
+    "55": {
+      "id": "img_0055",
+      "facs": "#facs_55",
+      "headers_footers": [
+        "42",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "56": {
+      "id": "img_0056",
+      "facs": "#facs_56",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "43"
+      ]
+    },
+    "57": {
+      "id": "img_0057",
+      "facs": "#facs_57",
+      "headers_footers": [
+        "44",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "58": {
+      "id": "img_0058",
+      "facs": "#facs_58",
+      "headers_footers": [
+        "45",
+        "RVLANDI PHILOS. ET MEDICI"
+      ]
+    },
+    "59": {
+      "id": "img_0059",
+      "facs": "#facs_59",
+      "headers_footers": [
+        "46",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "60": {
+      "id": "img_0060",
+      "facs": "#facs_60",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "47"
+      ]
+    },
+    "61": {
+      "id": "img_0061",
+      "facs": "#facs_61",
+      "headers_footers": [
+        "48",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "62": {
+      "id": "img_0062",
+      "facs": "#facs_62",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "49"
+      ]
+    },
+    "63": {
+      "id": "img_0063",
+      "facs": "#facs_63",
+      "headers_footers": [
+        "50",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "64": {
+      "id": "img_0064",
+      "facs": "#facs_64",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "51"
+      ]
+    },
+    "65": {
+      "id": "img_0065",
+      "facs": "#facs_65",
+      "headers_footers": [
+        "52",
+        "LEXICONALCHEMIAE MART."
+      ]
+    },
+    "66": {
+      "id": "img_0066",
+      "facs": "#facs_66",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "53"
+      ]
+    },
+    "67": {
+      "id": "img_0067",
+      "facs": "#facs_67",
+      "headers_footers": [
+        "54",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "68": {
+      "id": "img_0068",
+      "facs": "#facs_68",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "55"
+      ]
+    },
+    "69": {
+      "id": "img_0069",
+      "facs": "#facs_69",
+      "headers_footers": [
+        "56",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "70": {
+      "id": "img_0070",
+      "facs": "#facs_70",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "57"
+      ]
+    },
+    "71": {
+      "id": "img_0071",
+      "facs": "#facs_71",
+      "headers_footers": [
+        "58",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "72": {
+      "id": "img_0072",
+      "facs": "#facs_72",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "59"
+      ]
+    },
+    "73": {
+      "id": "img_0073",
+      "facs": "#facs_73",
+      "headers_footers": [
+        "60",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "74": {
+      "id": "img_0074",
+      "facs": "#facs_74",
+      "headers_footers": [
+        "61",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "75": {
+      "id": "img_0075",
+      "facs": "#facs_75",
+      "headers_footers": [
+        "62",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "76": {
+      "id": "img_0076",
+      "facs": "#facs_76",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "63"
+      ]
+    },
+    "77": {
+      "id": "img_0077",
+      "facs": "#facs_77",
+      "headers_footers": [
+        "64",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "78": {
+      "id": "img_0078",
+      "facs": "#facs_78",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "65"
+      ]
+    },
+    "79": {
+      "id": "img_0079",
+      "facs": "#facs_79",
+      "headers_footers": [
+        "66",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "80": {
+      "id": "img_0080",
+      "facs": "#facs_80",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "67"
+      ]
+    },
+    "81": {
+      "id": "img_0081",
+      "facs": "#facs_81",
+      "headers_footers": [
+        "68",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "82": {
+      "id": "img_0082",
+      "facs": "#facs_82",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI",
+        "69"
+      ]
+    },
+    "83": {
+      "id": "img_0083",
+      "facs": "#facs_83",
+      "headers_footers": [
+        "70",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "84": {
+      "id": "img_0084",
+      "facs": "#facs_84",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "71"
+      ]
+    },
+    "85": {
+      "id": "img_0085",
+      "facs": "#facs_85",
+      "headers_footers": [
+        "72",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "86": {
+      "id": "img_0086",
+      "facs": "#facs_86",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "73"
+      ]
+    },
+    "87": {
+      "id": "img_0087",
+      "facs": "#facs_87",
+      "headers_footers": [
+        "74",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "88": {
+      "id": "img_0088",
+      "facs": "#facs_88",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "75"
+      ]
+    },
+    "89": {
+      "id": "img_0089",
+      "facs": "#facs_89",
+      "headers_footers": [
+        "76",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "90": {
+      "id": "img_0090",
+      "facs": "#facs_90",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "77"
+      ]
+    },
+    "91": {
+      "id": "img_0091",
+      "facs": "#facs_91",
+      "headers_footers": [
+        "78",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "92": {
+      "id": "img_0092",
+      "facs": "#facs_92",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "79"
+      ]
+    },
+    "93": {
+      "id": "img_0093",
+      "facs": "#facs_93",
+      "headers_footers": [
+        "80",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "94": {
+      "id": "img_0094",
+      "facs": "#facs_94",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "81"
+      ]
+    },
+    "95": {
+      "id": "img_0095",
+      "facs": "#facs_95",
+      "headers_footers": [
+        "82",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "96": {
+      "id": "img_0096",
+      "facs": "#facs_96",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "83"
+      ]
+    },
+    "97": {
+      "id": "img_0097",
+      "facs": "#facs_97",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "84"
+      ]
+    },
+    "98": {
+      "id": "img_0098",
+      "facs": "#facs_98",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI",
+        "85"
+      ]
+    },
+    "99": {
+      "id": "img_0099",
+      "facs": "#facs_99",
+      "headers_footers": [
+        "86",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "100": {
+      "id": "img_0100",
+      "facs": "#facs_100",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI",
+        "87"
+      ]
+    },
+    "101": {
+      "id": "img_0101",
+      "facs": "#facs_101",
+      "headers_footers": [
+        "88",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "102": {
+      "id": "img_0102",
+      "facs": "#facs_102",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "89"
+      ]
+    },
+    "103": {
+      "id": "img_0103",
+      "facs": "#facs_103",
+      "headers_footers": [
+        "90",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "104": {
+      "id": "img_0104",
+      "facs": "#facs_104",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "91"
+      ]
+    },
+    "105": {
+      "id": "img_0105",
+      "facs": "#facs_105",
+      "headers_footers": [
+        "92",
+        "LEXICON. ALCHEMIAE MART."
+      ]
+    },
+    "106": {
+      "id": "img_0106",
+      "facs": "#facs_106",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "93"
+      ]
+    },
+    "107": {
+      "id": "img_0107",
+      "facs": "#facs_107",
+      "headers_footers": [
+        "94",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "108": {
+      "id": "img_0108",
+      "facs": "#facs_108",
+      "headers_footers": [
+        "RVLANDI PHiL. ET MEDICI",
+        "95"
+      ]
+    },
+    "109": {
+      "id": "img_0109",
+      "facs": "#facs_109",
+      "headers_footers": [
+        "96",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "110": {
+      "id": "img_0110",
+      "facs": "#facs_110",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "97"
+      ]
+    },
+    "111": {
+      "id": "img_0111",
+      "facs": "#facs_111",
+      "headers_footers": [
+        "98",
+        "LEXICON ALCHEMIAE MART.",
+        "B"
+      ]
+    },
+    "112": {
+      "id": "img_0112",
+      "facs": "#facs_112",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "99"
+      ]
+    },
+    "113": {
+      "id": "img_0113",
+      "facs": "#facs_113",
+      "headers_footers": [
+        "100",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "114": {
+      "id": "img_0114",
+      "facs": "#facs_114",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "101"
+      ]
+    },
+    "115": {
+      "id": "img_0115",
+      "facs": "#facs_115",
+      "headers_footers": [
+        "102",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "116": {
+      "id": "img_0116",
+      "facs": "#facs_116",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "103"
+      ]
+    },
+    "117": {
+      "id": "img_0117",
+      "facs": "#facs_117",
+      "headers_footers": [
+        "104",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "118": {
+      "id": "img_0118",
+      "facs": "#facs_118",
+      "headers_footers": [
+        "105",
+        "RVLANDI PHILOS. ET MEDICI."
+      ]
+    },
+    "119": {
+      "id": "img_0119",
+      "facs": "#facs_119",
+      "headers_footers": [
+        "106",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "120": {
+      "id": "img_0120",
+      "facs": "#facs_120",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "107"
+      ]
+    },
+    "121": {
+      "id": "img_0121",
+      "facs": "#facs_121",
+      "headers_footers": [
+        "108",
+        "LEXICON ALCHEMIAE MART.",
+        "C"
+      ]
+    },
+    "122": {
+      "id": "img_0122",
+      "facs": "#facs_122",
+      "headers_footers": []
+    },
+    "123": {
+      "id": "img_0123",
+      "facs": "#facs_123",
+      "headers_footers": []
+    },
+    "124": {
+      "id": "img_0124",
+      "facs": "#facs_124",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "111"
+      ]
+    },
+    "125": {
+      "id": "img_0125",
+      "facs": "#facs_125",
+      "headers_footers": [
+        "112",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "126": {
+      "id": "img_0126",
+      "facs": "#facs_126",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "113"
+      ]
+    },
+    "127": {
+      "id": "img_0127",
+      "facs": "#facs_127",
+      "headers_footers": [
+        "114",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "128": {
+      "id": "img_0128",
+      "facs": "#facs_128",
+      "headers_footers": [
+        "RYLANDI PHIL. ET MEDICI.",
+        "115"
+      ]
+    },
+    "129": {
+      "id": "img_0129",
+      "facs": "#facs_129",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "116"
+      ]
+    },
+    "130": {
+      "id": "img_0130",
+      "facs": "#facs_130",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "117"
+      ]
+    },
+    "131": {
+      "id": "img_0131",
+      "facs": "#facs_131",
+      "headers_footers": []
+    },
+    "132": {
+      "id": "img_0132",
+      "facs": "#facs_132",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "119"
+      ]
+    },
+    "133": {
+      "id": "img_0133",
+      "facs": "#facs_133",
+      "headers_footers": []
+    },
+    "134": {
+      "id": "img_0134",
+      "facs": "#facs_134",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "121"
+      ]
+    },
+    "135": {
+      "id": "img_0135",
+      "facs": "#facs_135",
+      "headers_footers": [
+        "122",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "136": {
+      "id": "img_0136",
+      "facs": "#facs_136",
+      "headers_footers": [
+        "RVLANDI PHILOS ET MEDICI"
+      ]
+    },
+    "137": {
+      "id": "img_0137",
+      "facs": "#facs_137",
+      "headers_footers": [
+        "124",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "138": {
+      "id": "img_0138",
+      "facs": "#facs_138",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "125"
+      ]
+    },
+    "139": {
+      "id": "img_0139",
+      "facs": "#facs_139",
+      "headers_footers": [
+        "126",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "140": {
+      "id": "img_0140",
+      "facs": "#facs_140",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "127"
+      ]
+    },
+    "141": {
+      "id": "img_0141",
+      "facs": "#facs_141",
+      "headers_footers": [
+        "127",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "142": {
+      "id": "img_0142",
+      "facs": "#facs_142",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "129"
+      ]
+    },
+    "143": {
+      "id": "img_0143",
+      "facs": "#facs_143",
+      "headers_footers": [
+        "130",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "144": {
+      "id": "img_0144",
+      "facs": "#facs_144",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "131",
+        "R 2"
+      ]
+    },
+    "145": {
+      "id": "img_0145",
+      "facs": "#facs_145",
+      "headers_footers": [
+        "132",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "146": {
+      "id": "img_0146",
+      "facs": "#facs_146",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "133"
+      ]
+    },
+    "147": {
+      "id": "img_0147",
+      "facs": "#facs_147",
+      "headers_footers": [
+        "134",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "148": {
+      "id": "img_0148",
+      "facs": "#facs_148",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "135"
+      ]
+    },
+    "149": {
+      "id": "img_0149",
+      "facs": "#facs_149",
+      "headers_footers": [
+        "LEXICON ALCHEMPAE MART.",
+        "136"
+      ]
+    },
+    "150": {
+      "id": "img_0150",
+      "facs": "#facs_150",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "137"
+      ]
+    },
+    "151": {
+      "id": "img_0151",
+      "facs": "#facs_151",
+      "headers_footers": [
+        "138",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "152": {
+      "id": "img_0152",
+      "facs": "#facs_152",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MERICII.",
+        "139"
+      ]
+    },
+    "153": {
+      "id": "img_0153",
+      "facs": "#facs_153",
+      "headers_footers": [
+        "140",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "154": {
+      "id": "img_0154",
+      "facs": "#facs_154",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "141"
+      ]
+    },
+    "155": {
+      "id": "img_0155",
+      "facs": "#facs_155",
+      "headers_footers": [
+        "142",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "156": {
+      "id": "img_0156",
+      "facs": "#facs_156",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "143"
+      ]
+    },
+    "157": {
+      "id": "img_0157",
+      "facs": "#facs_157",
+      "headers_footers": [
+        "144",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "158": {
+      "id": "img_0158",
+      "facs": "#facs_158",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "145"
+      ]
+    },
+    "159": {
+      "id": "img_0159",
+      "facs": "#facs_159",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "146"
+      ]
+    },
+    "160": {
+      "id": "img_0160",
+      "facs": "#facs_160",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "147"
+      ]
+    },
+    "161": {
+      "id": "img_0161",
+      "facs": "#facs_161",
+      "headers_footers": [
+        "LEXICON. ALCHEMIAE MART.",
+        "148"
+      ]
+    },
+    "162": {
+      "id": "img_0162",
+      "facs": "#facs_162",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "149"
+      ]
+    },
+    "163": {
+      "id": "img_0163",
+      "facs": "#facs_163",
+      "headers_footers": [
+        "LEXTCON ALCHEMIAE MART.",
+        "150"
+      ]
+    },
+    "164": {
+      "id": "img_0164",
+      "facs": "#facs_164",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "151"
+      ]
+    },
+    "165": {
+      "id": "img_0165",
+      "facs": "#facs_165",
+      "headers_footers": [
+        "152",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "166": {
+      "id": "img_0166",
+      "facs": "#facs_166",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "153"
+      ]
+    },
+    "167": {
+      "id": "img_0167",
+      "facs": "#facs_167",
+      "headers_footers": [
+        "154",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "168": {
+      "id": "img_0168",
+      "facs": "#facs_168",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICT.",
+        "155"
+      ]
+    },
+    "169": {
+      "id": "img_0169",
+      "facs": "#facs_169",
+      "headers_footers": [
+        "156",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "170": {
+      "id": "img_0170",
+      "facs": "#facs_170",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "157"
+      ]
+    },
+    "171": {
+      "id": "img_0171",
+      "facs": "#facs_171",
+      "headers_footers": [
+        "LEXICON AICHEMIAE MART.",
+        "158"
+      ]
+    },
+    "172": {
+      "id": "img_0172",
+      "facs": "#facs_172",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI",
+        "159"
+      ]
+    },
+    "173": {
+      "id": "img_0173",
+      "facs": "#facs_173",
+      "headers_footers": [
+        "160",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "174": {
+      "id": "img_0174",
+      "facs": "#facs_174",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "161"
+      ]
+    },
+    "175": {
+      "id": "img_0175",
+      "facs": "#facs_175",
+      "headers_footers": []
+    },
+    "176": {
+      "id": "img_0176",
+      "facs": "#facs_176",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "163"
+      ]
+    },
+    "177": {
+      "id": "img_0177",
+      "facs": "#facs_177",
+      "headers_footers": [
+        "164",
+        "LEXICON ALCHMEIAE MART."
+      ]
+    },
+    "178": {
+      "id": "img_0178",
+      "facs": "#facs_178",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "165"
+      ]
+    },
+    "179": {
+      "id": "img_0179",
+      "facs": "#facs_179",
+      "headers_footers": [
+        "166",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "180": {
+      "id": "img_0180",
+      "facs": "#facs_180",
+      "headers_footers": [
+        "167",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "181": {
+      "id": "img_0181",
+      "facs": "#facs_181",
+      "headers_footers": [
+        "168",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "182": {
+      "id": "img_0182",
+      "facs": "#facs_182",
+      "headers_footers": []
+    },
+    "183": {
+      "id": "img_0183",
+      "facs": "#facs_183",
+      "headers_footers": [
+        "LEXICON ALGHEMIAE MART.",
+        "170"
+      ]
+    },
+    "184": {
+      "id": "img_0184",
+      "facs": "#facs_184",
+      "headers_footers": [
+        "171",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "185": {
+      "id": "img_0185",
+      "facs": "#facs_185",
+      "headers_footers": [
+        "172",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "186": {
+      "id": "img_0186",
+      "facs": "#facs_186",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "173"
+      ]
+    },
+    "187": {
+      "id": "img_0187",
+      "facs": "#facs_187",
+      "headers_footers": []
+    },
+    "188": {
+      "id": "img_0188",
+      "facs": "#facs_188",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "175"
+      ]
+    },
+    "189": {
+      "id": "img_0189",
+      "facs": "#facs_189",
+      "headers_footers": [
+        "176",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "190": {
+      "id": "img_0190",
+      "facs": "#facs_190",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "177"
+      ]
+    },
+    "191": {
+      "id": "img_0191",
+      "facs": "#facs_191",
+      "headers_footers": [
+        "178",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "192": {
+      "id": "img_0192",
+      "facs": "#facs_192",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "179"
+      ]
+    },
+    "193": {
+      "id": "img_0193",
+      "facs": "#facs_193",
+      "headers_footers": [
+        "180",
+        "LEXICON ALCHEMIAE MART.",
+        "D"
+      ]
+    },
+    "194": {
+      "id": "img_0194",
+      "facs": "#facs_194",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "181"
+      ]
+    },
+    "195": {
+      "id": "img_0195",
+      "facs": "#facs_195",
+      "headers_footers": [
+        "182",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "196": {
+      "id": "img_0196",
+      "facs": "#facs_196",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "183"
+      ]
+    },
+    "197": {
+      "id": "img_0197",
+      "facs": "#facs_197",
+      "headers_footers": [
+        "184",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "198": {
+      "id": "img_0198",
+      "facs": "#facs_198",
+      "headers_footers": [
+        "185",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "199": {
+      "id": "img_0199",
+      "facs": "#facs_199",
+      "headers_footers": [
+        "LEXICON AECHEMIAE MART.",
+        "186"
+      ]
+    },
+    "200": {
+      "id": "img_0200",
+      "facs": "#facs_200",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "187"
+      ]
+    },
+    "201": {
+      "id": "img_0201",
+      "facs": "#facs_201",
+      "headers_footers": [
+        "188",
+        "RVLANDI PHILOS. ET MEDICI."
+      ]
+    },
+    "202": {
+      "id": "img_0202",
+      "facs": "#facs_202",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "189"
+      ]
+    },
+    "203": {
+      "id": "img_0203",
+      "facs": "#facs_203",
+      "headers_footers": [
+        "190",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "204": {
+      "id": "img_0204",
+      "facs": "#facs_204",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "191"
+      ]
+    },
+    "205": {
+      "id": "img_0205",
+      "facs": "#facs_205",
+      "headers_footers": [
+        "192",
+        "LEXICON ALCHEMIAE MART.",
+        "E"
+      ]
+    },
+    "206": {
+      "id": "img_0206",
+      "facs": "#facs_206",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "193"
+      ]
+    },
+    "207": {
+      "id": "img_0207",
+      "facs": "#facs_207",
+      "headers_footers": [
+        "194",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "208": {
+      "id": "img_0208",
+      "facs": "#facs_208",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "195"
+      ]
+    },
+    "209": {
+      "id": "img_0209",
+      "facs": "#facs_209",
+      "headers_footers": [
+        "196",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "210": {
+      "id": "img_0210",
+      "facs": "#facs_210",
+      "headers_footers": [
+        "197",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "211": {
+      "id": "img_0211",
+      "facs": "#facs_211",
+      "headers_footers": [
+        "198",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "212": {
+      "id": "img_0212",
+      "facs": "#facs_212",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "199"
+      ]
+    },
+    "213": {
+      "id": "img_0213",
+      "facs": "#facs_213",
+      "headers_footers": [
+        "200",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "214": {
+      "id": "img_0214",
+      "facs": "#facs_214",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "201"
+      ]
+    },
+    "215": {
+      "id": "img_0215",
+      "facs": "#facs_215",
+      "headers_footers": [
+        "202",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "216": {
+      "id": "img_0216",
+      "facs": "#facs_216",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "203"
+      ]
+    },
+    "217": {
+      "id": "img_0217",
+      "facs": "#facs_217",
+      "headers_footers": [
+        "204",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "218": {
+      "id": "img_0218",
+      "facs": "#facs_218",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "205",
+        "F"
+      ]
+    },
+    "219": {
+      "id": "img_0219",
+      "facs": "#facs_219",
+      "headers_footers": [
+        "206",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "220": {
+      "id": "img_0220",
+      "facs": "#facs_220",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "207"
+      ]
+    },
+    "221": {
+      "id": "img_0221",
+      "facs": "#facs_221",
+      "headers_footers": [
+        "208",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "222": {
+      "id": "img_0222",
+      "facs": "#facs_222",
+      "headers_footers": [
+        "RVALDNI PHILOS. ET MEDICI",
+        "209"
+      ]
+    },
+    "223": {
+      "id": "img_0223",
+      "facs": "#facs_223",
+      "headers_footers": [
+        "210",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "224": {
+      "id": "img_0224",
+      "facs": "#facs_224",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "211"
+      ]
+    },
+    "225": {
+      "id": "img_0225",
+      "facs": "#facs_225",
+      "headers_footers": [
+        "212",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "226": {
+      "id": "img_0226",
+      "facs": "#facs_226",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "213"
+      ]
+    },
+    "227": {
+      "id": "img_0227",
+      "facs": "#facs_227",
+      "headers_footers": [
+        "214",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "228": {
+      "id": "img_0228",
+      "facs": "#facs_228",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "215"
+      ]
+    },
+    "229": {
+      "id": "img_0229",
+      "facs": "#facs_229",
+      "headers_footers": [
+        "216",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "230": {
+      "id": "img_0230",
+      "facs": "#facs_230",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "217"
+      ]
+    },
+    "231": {
+      "id": "img_0231",
+      "facs": "#facs_231",
+      "headers_footers": [
+        "218",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "232": {
+      "id": "img_0232",
+      "facs": "#facs_232",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "219"
+      ]
+    },
+    "233": {
+      "id": "img_0233",
+      "facs": "#facs_233",
+      "headers_footers": [
+        "220",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "234": {
+      "id": "img_0234",
+      "facs": "#facs_234",
+      "headers_footers": [
+        "221",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "235": {
+      "id": "img_0235",
+      "facs": "#facs_235",
+      "headers_footers": [
+        "222",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "236": {
+      "id": "img_0236",
+      "facs": "#facs_236",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "223"
+      ]
+    },
+    "237": {
+      "id": "img_0237",
+      "facs": "#facs_237",
+      "headers_footers": [
+        "224",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "238": {
+      "id": "img_0238",
+      "facs": "#facs_238",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "225"
+      ]
+    },
+    "239": {
+      "id": "img_0239",
+      "facs": "#facs_239",
+      "headers_footers": [
+        "226",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "240": {
+      "id": "img_0240",
+      "facs": "#facs_240",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "227"
+      ]
+    },
+    "241": {
+      "id": "img_0241",
+      "facs": "#facs_241",
+      "headers_footers": [
+        "228",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "242": {
+      "id": "img_0242",
+      "facs": "#facs_242",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "229"
+      ]
+    },
+    "243": {
+      "id": "img_0243",
+      "facs": "#facs_243",
+      "headers_footers": [
+        "230",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "244": {
+      "id": "img_0244",
+      "facs": "#facs_244",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "231"
+      ]
+    },
+    "245": {
+      "id": "img_0245",
+      "facs": "#facs_245",
+      "headers_footers": [
+        "232",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "246": {
+      "id": "img_0246",
+      "facs": "#facs_246",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "233",
+        "G"
+      ]
+    },
+    "247": {
+      "id": "img_0247",
+      "facs": "#facs_247",
+      "headers_footers": [
+        "234",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "248": {
+      "id": "img_0248",
+      "facs": "#facs_248",
+      "headers_footers": [
+        "235",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "249": {
+      "id": "img_0249",
+      "facs": "#facs_249",
+      "headers_footers": [
+        "236",
+        "LEXICON. ALCHEMIAE MART."
+      ]
+    },
+    "250": {
+      "id": "img_0250",
+      "facs": "#facs_250",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "237"
+      ]
+    },
+    "251": {
+      "id": "img_0251",
+      "facs": "#facs_251",
+      "headers_footers": [
+        "238",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "252": {
+      "id": "img_0252",
+      "facs": "#facs_252",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "239"
+      ]
+    },
+    "253": {
+      "id": "img_0253",
+      "facs": "#facs_253",
+      "headers_footers": [
+        "240",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "254": {
+      "id": "img_0254",
+      "facs": "#facs_254",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "241"
+      ]
+    },
+    "255": {
+      "id": "img_0255",
+      "facs": "#facs_255",
+      "headers_footers": [
+        "242",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "256": {
+      "id": "img_0256",
+      "facs": "#facs_256",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "243"
+      ]
+    },
+    "257": {
+      "id": "img_0257",
+      "facs": "#facs_257",
+      "headers_footers": [
+        "244",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "258": {
+      "id": "img_0258",
+      "facs": "#facs_258",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "245"
+      ]
+    },
+    "259": {
+      "id": "img_0259",
+      "facs": "#facs_259",
+      "headers_footers": [
+        "246",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "260": {
+      "id": "img_0260",
+      "facs": "#facs_260",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "247"
+      ]
+    },
+    "261": {
+      "id": "img_0261",
+      "facs": "#facs_261",
+      "headers_footers": [
+        "248",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "262": {
+      "id": "img_0262",
+      "facs": "#facs_262",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "249"
+      ]
+    },
+    "263": {
+      "id": "img_0263",
+      "facs": "#facs_263",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "250",
+        "H"
+      ]
+    },
+    "264": {
+      "id": "img_0264",
+      "facs": "#facs_264",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "251"
+      ]
+    },
+    "265": {
+      "id": "img_0265",
+      "facs": "#facs_265",
+      "headers_footers": [
+        "252",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "266": {
+      "id": "img_0266",
+      "facs": "#facs_266",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "253"
+      ]
+    },
+    "267": {
+      "id": "img_0267",
+      "facs": "#facs_267",
+      "headers_footers": [
+        "254",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "268": {
+      "id": "img_0268",
+      "facs": "#facs_268",
+      "headers_footers": []
+    },
+    "269": {
+      "id": "img_0269",
+      "facs": "#facs_269",
+      "headers_footers": [
+        "256",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "270": {
+      "id": "img_0270",
+      "facs": "#facs_270",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "257",
+        "I"
+      ]
+    },
+    "271": {
+      "id": "img_0271",
+      "facs": "#facs_271",
+      "headers_footers": [
+        "258",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "272": {
+      "id": "img_0272",
+      "facs": "#facs_272",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "252"
+      ]
+    },
+    "273": {
+      "id": "img_0273",
+      "facs": "#facs_273",
+      "headers_footers": [
+        "260",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "274": {
+      "id": "img_0274",
+      "facs": "#facs_274",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "261"
+      ]
+    },
+    "275": {
+      "id": "img_0275",
+      "facs": "#facs_275",
+      "headers_footers": [
+        "262",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "276": {
+      "id": "img_0276",
+      "facs": "#facs_276",
+      "headers_footers": []
+    },
+    "277": {
+      "id": "img_0277",
+      "facs": "#facs_277",
+      "headers_footers": [
+        "264",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "278": {
+      "id": "img_0278",
+      "facs": "#facs_278",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "265"
+      ]
+    },
+    "279": {
+      "id": "img_0279",
+      "facs": "#facs_279",
+      "headers_footers": [
+        "266",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "280": {
+      "id": "img_0280",
+      "facs": "#facs_280",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "267"
+      ]
+    },
+    "281": {
+      "id": "img_0281",
+      "facs": "#facs_281",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "268"
+      ]
+    },
+    "282": {
+      "id": "img_0282",
+      "facs": "#facs_282",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "269"
+      ]
+    },
+    "283": {
+      "id": "img_0283",
+      "facs": "#facs_283",
+      "headers_footers": [
+        "270",
+        "LEXICON ALCHEMIAE MART.",
+        "K"
+      ]
+    },
+    "284": {
+      "id": "img_0284",
+      "facs": "#facs_284",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "271"
+      ]
+    },
+    "285": {
+      "id": "img_0285",
+      "facs": "#facs_285",
+      "headers_footers": [
+        "272",
+        "LEXICON ALCHEMIAE MART.",
+        "L"
+      ]
+    },
+    "286": {
+      "id": "img_0286",
+      "facs": "#facs_286",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "273"
+      ]
+    },
+    "287": {
+      "id": "img_0287",
+      "facs": "#facs_287",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "274"
+      ]
+    },
+    "288": {
+      "id": "img_0288",
+      "facs": "#facs_288",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "275"
+      ]
+    },
+    "289": {
+      "id": "img_0289",
+      "facs": "#facs_289",
+      "headers_footers": [
+        "276",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "290": {
+      "id": "img_0290",
+      "facs": "#facs_290",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "277"
+      ]
+    },
+    "291": {
+      "id": "img_0291",
+      "facs": "#facs_291",
+      "headers_footers": [
+        "278",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "292": {
+      "id": "img_0292",
+      "facs": "#facs_292",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "279"
+      ]
+    },
+    "293": {
+      "id": "img_0293",
+      "facs": "#facs_293",
+      "headers_footers": [
+        "280",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "294": {
+      "id": "img_0294",
+      "facs": "#facs_294",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "281"
+      ]
+    },
+    "295": {
+      "id": "img_0295",
+      "facs": "#facs_295",
+      "headers_footers": [
+        "282",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "296": {
+      "id": "img_0296",
+      "facs": "#facs_296",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "283"
+      ]
+    },
+    "297": {
+      "id": "img_0297",
+      "facs": "#facs_297",
+      "headers_footers": [
+        "284",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "298": {
+      "id": "img_0298",
+      "facs": "#facs_298",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "285"
+      ]
+    },
+    "299": {
+      "id": "img_0299",
+      "facs": "#facs_299",
+      "headers_footers": [
+        "286",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "300": {
+      "id": "img_0300",
+      "facs": "#facs_300",
+      "headers_footers": [
+        "287"
+      ]
+    },
+    "301": {
+      "id": "img_0301",
+      "facs": "#facs_301",
+      "headers_footers": [
+        "288",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "302": {
+      "id": "img_0302",
+      "facs": "#facs_302",
+      "headers_footers": [
+        "289",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "303": {
+      "id": "img_0303",
+      "facs": "#facs_303",
+      "headers_footers": [
+        "290",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "304": {
+      "id": "img_0304",
+      "facs": "#facs_304",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "291"
+      ]
+    },
+    "305": {
+      "id": "img_0305",
+      "facs": "#facs_305",
+      "headers_footers": [
+        "292",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "306": {
+      "id": "img_0306",
+      "facs": "#facs_306",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "293"
+      ]
+    },
+    "307": {
+      "id": "img_0307",
+      "facs": "#facs_307",
+      "headers_footers": [
+        "294",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "308": {
+      "id": "img_0308",
+      "facs": "#facs_308",
+      "headers_footers": []
+    },
+    "309": {
+      "id": "img_0309",
+      "facs": "#facs_309",
+      "headers_footers": [
+        "296",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "310": {
+      "id": "img_0310",
+      "facs": "#facs_310",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "297"
+      ]
+    },
+    "311": {
+      "id": "img_0311",
+      "facs": "#facs_311",
+      "headers_footers": [
+        "298",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "312": {
+      "id": "img_0312",
+      "facs": "#facs_312",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "299"
+      ]
+    },
+    "313": {
+      "id": "img_0313",
+      "facs": "#facs_313",
+      "headers_footers": [
+        "300"
+      ]
+    },
+    "314": {
+      "id": "img_0314",
+      "facs": "#facs_314",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "301"
+      ]
+    },
+    "315": {
+      "id": "img_0315",
+      "facs": "#facs_315",
+      "headers_footers": [
+        "302",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "316": {
+      "id": "img_0316",
+      "facs": "#facs_316",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI",
+        "303"
+      ]
+    },
+    "317": {
+      "id": "img_0317",
+      "facs": "#facs_317",
+      "headers_footers": [
+        "304",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "318": {
+      "id": "img_0318",
+      "facs": "#facs_318",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "305",
+        "M"
+      ]
+    },
+    "319": {
+      "id": "img_0319",
+      "facs": "#facs_319",
+      "headers_footers": [
+        "306",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "320": {
+      "id": "img_0320",
+      "facs": "#facs_320",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "307"
+      ]
+    },
+    "321": {
+      "id": "img_0321",
+      "facs": "#facs_321",
+      "headers_footers": [
+        "308",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "322": {
+      "id": "img_0322",
+      "facs": "#facs_322",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "309"
+      ]
+    },
+    "323": {
+      "id": "img_0323",
+      "facs": "#facs_323",
+      "headers_footers": [
+        "310",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "324": {
+      "id": "img_0324",
+      "facs": "#facs_324",
+      "headers_footers": [
+        "RVALNDI PHILOS. ET MEDICI.",
+        "311"
+      ]
+    },
+    "325": {
+      "id": "img_0325",
+      "facs": "#facs_325",
+      "headers_footers": [
+        "312",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "326": {
+      "id": "img_0326",
+      "facs": "#facs_326",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "313"
+      ]
+    },
+    "327": {
+      "id": "img_0327",
+      "facs": "#facs_327",
+      "headers_footers": [
+        "314",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "328": {
+      "id": "img_0328",
+      "facs": "#facs_328",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "315"
+      ]
+    },
+    "329": {
+      "id": "img_0329",
+      "facs": "#facs_329",
+      "headers_footers": []
+    },
+    "330": {
+      "id": "img_0330",
+      "facs": "#facs_330",
+      "headers_footers": []
+    },
+    "331": {
+      "id": "img_0331",
+      "facs": "#facs_331",
+      "headers_footers": [
+        "318",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "332": {
+      "id": "img_0332",
+      "facs": "#facs_332",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "319"
+      ]
+    },
+    "333": {
+      "id": "img_0333",
+      "facs": "#facs_333",
+      "headers_footers": [
+        "320",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "334": {
+      "id": "img_0334",
+      "facs": "#facs_334",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "321"
+      ]
+    },
+    "335": {
+      "id": "img_0335",
+      "facs": "#facs_335",
+      "headers_footers": [
+        "322",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "336": {
+      "id": "img_0336",
+      "facs": "#facs_336",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "323"
+      ]
+    },
+    "337": {
+      "id": "img_0337",
+      "facs": "#facs_337",
+      "headers_footers": [
+        "324",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "338": {
+      "id": "img_0338",
+      "facs": "#facs_338",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "325"
+      ]
+    },
+    "339": {
+      "id": "img_0339",
+      "facs": "#facs_339",
+      "headers_footers": [
+        "326",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "340": {
+      "id": "img_0340",
+      "facs": "#facs_340",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "327"
+      ]
+    },
+    "341": {
+      "id": "img_0341",
+      "facs": "#facs_341",
+      "headers_footers": [
+        "328",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "342": {
+      "id": "img_0342",
+      "facs": "#facs_342",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "329"
+      ]
+    },
+    "343": {
+      "id": "img_0343",
+      "facs": "#facs_343",
+      "headers_footers": [
+        "330",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "344": {
+      "id": "img_0344",
+      "facs": "#facs_344",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "331"
+      ]
+    },
+    "345": {
+      "id": "img_0345",
+      "facs": "#facs_345",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "332"
+      ]
+    },
+    "346": {
+      "id": "img_0346",
+      "facs": "#facs_346",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "333"
+      ]
+    },
+    "347": {
+      "id": "img_0347",
+      "facs": "#facs_347",
+      "headers_footers": [
+        "334",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "348": {
+      "id": "img_0348",
+      "facs": "#facs_348",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "335"
+      ]
+    },
+    "349": {
+      "id": "img_0349",
+      "facs": "#facs_349",
+      "headers_footers": [
+        "336",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "350": {
+      "id": "img_0350",
+      "facs": "#facs_350",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "337"
+      ]
+    },
+    "351": {
+      "id": "img_0351",
+      "facs": "#facs_351",
+      "headers_footers": [
+        "338",
+        "LEXICON ALCHEMIAE MART.",
+        "N"
+      ]
+    },
+    "352": {
+      "id": "img_0352",
+      "facs": "#facs_352",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "339"
+      ]
+    },
+    "353": {
+      "id": "img_0353",
+      "facs": "#facs_353",
+      "headers_footers": [
+        "340",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "354": {
+      "id": "img_0354",
+      "facs": "#facs_354",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "341"
+      ]
+    },
+    "355": {
+      "id": "img_0355",
+      "facs": "#facs_355",
+      "headers_footers": [
+        "342",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "356": {
+      "id": "img_0356",
+      "facs": "#facs_356",
+      "headers_footers": [
+        "343",
+        "RVLANDI PHILOS. ET MEDICI."
+      ]
+    },
+    "357": {
+      "id": "img_0357",
+      "facs": "#facs_357",
+      "headers_footers": [
+        "344",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "358": {
+      "id": "img_0358",
+      "facs": "#facs_358",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "345"
+      ]
+    },
+    "359": {
+      "id": "img_0359",
+      "facs": "#facs_359",
+      "headers_footers": [
+        "346",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "360": {
+      "id": "img_0360",
+      "facs": "#facs_360",
+      "headers_footers": [
+        "347",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "361": {
+      "id": "img_0361",
+      "facs": "#facs_361",
+      "headers_footers": [
+        "348",
+        "LEXICON ALCHEMIAE MART.",
+        "O"
+      ]
+    },
+    "362": {
+      "id": "img_0362",
+      "facs": "#facs_362",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "349"
+      ]
+    },
+    "363": {
+      "id": "img_0363",
+      "facs": "#facs_363",
+      "headers_footers": [
+        "350",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "364": {
+      "id": "img_0364",
+      "facs": "#facs_364",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "351"
+      ]
+    },
+    "365": {
+      "id": "img_0365",
+      "facs": "#facs_365",
+      "headers_footers": [
+        "352",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "366": {
+      "id": "img_0366",
+      "facs": "#facs_366",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "353"
+      ]
+    },
+    "367": {
+      "id": "img_0367",
+      "facs": "#facs_367",
+      "headers_footers": [
+        "354",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "368": {
+      "id": "img_0368",
+      "facs": "#facs_368",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "355"
+      ]
+    },
+    "369": {
+      "id": "img_0369",
+      "facs": "#facs_369",
+      "headers_footers": [
+        "356",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "370": {
+      "id": "img_0370",
+      "facs": "#facs_370",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "357"
+      ]
+    },
+    "371": {
+      "id": "img_0371",
+      "facs": "#facs_371",
+      "headers_footers": [
+        "358",
+        "LEXICON ALCHEMIAE MART.",
+        "P"
+      ]
+    },
+    "372": {
+      "id": "img_0372",
+      "facs": "#facs_372",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "359"
+      ]
+    },
+    "373": {
+      "id": "img_0373",
+      "facs": "#facs_373",
+      "headers_footers": [
+        "360",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "374": {
+      "id": "img_0374",
+      "facs": "#facs_374",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "361"
+      ]
+    },
+    "375": {
+      "id": "img_0375",
+      "facs": "#facs_375",
+      "headers_footers": [
+        "362",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "376": {
+      "id": "img_0376",
+      "facs": "#facs_376",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "363"
+      ]
+    },
+    "377": {
+      "id": "img_0377",
+      "facs": "#facs_377",
+      "headers_footers": [
+        "364",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "378": {
+      "id": "img_0378",
+      "facs": "#facs_378",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "365"
+      ]
+    },
+    "379": {
+      "id": "img_0379",
+      "facs": "#facs_379",
+      "headers_footers": [
+        "366",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "380": {
+      "id": "img_0380",
+      "facs": "#facs_380",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "367"
+      ]
+    },
+    "381": {
+      "id": "img_0381",
+      "facs": "#facs_381",
+      "headers_footers": [
+        "368",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "382": {
+      "id": "img_0382",
+      "facs": "#facs_382",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "369"
+      ]
+    },
+    "383": {
+      "id": "img_0383",
+      "facs": "#facs_383",
+      "headers_footers": [
+        "370",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "384": {
+      "id": "img_0384",
+      "facs": "#facs_384",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "371"
+      ]
+    },
+    "385": {
+      "id": "img_0385",
+      "facs": "#facs_385",
+      "headers_footers": [
+        "372",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "386": {
+      "id": "img_0386",
+      "facs": "#facs_386",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "373"
+      ]
+    },
+    "387": {
+      "id": "img_0387",
+      "facs": "#facs_387",
+      "headers_footers": [
+        "374",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "388": {
+      "id": "img_0388",
+      "facs": "#facs_388",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "375"
+      ]
+    },
+    "389": {
+      "id": "img_0389",
+      "facs": "#facs_389",
+      "headers_footers": [
+        "376",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "390": {
+      "id": "img_0390",
+      "facs": "#facs_390",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "377"
+      ]
+    },
+    "391": {
+      "id": "img_0391",
+      "facs": "#facs_391",
+      "headers_footers": [
+        "378",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "392": {
+      "id": "img_0392",
+      "facs": "#facs_392",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "379"
+      ]
+    },
+    "393": {
+      "id": "img_0393",
+      "facs": "#facs_393",
+      "headers_footers": [
+        "380",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "394": {
+      "id": "img_0394",
+      "facs": "#facs_394",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "381"
+      ]
+    },
+    "395": {
+      "id": "img_0395",
+      "facs": "#facs_395",
+      "headers_footers": [
+        "382",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "396": {
+      "id": "img_0396",
+      "facs": "#facs_396",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "383"
+      ]
+    },
+    "397": {
+      "id": "img_0397",
+      "facs": "#facs_397",
+      "headers_footers": [
+        "384",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "398": {
+      "id": "img_0398",
+      "facs": "#facs_398",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "385"
+      ]
+    },
+    "399": {
+      "id": "img_0399",
+      "facs": "#facs_399",
+      "headers_footers": [
+        "386",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "400": {
+      "id": "img_0400",
+      "facs": "#facs_400",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "387"
+      ]
+    },
+    "401": {
+      "id": "img_0401",
+      "facs": "#facs_401",
+      "headers_footers": [
+        "388",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "402": {
+      "id": "img_0402",
+      "facs": "#facs_402",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "389"
+      ]
+    },
+    "403": {
+      "id": "img_0403",
+      "facs": "#facs_403",
+      "headers_footers": [
+        "390",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "404": {
+      "id": "img_0404",
+      "facs": "#facs_404",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "391"
+      ]
+    },
+    "405": {
+      "id": "img_0405",
+      "facs": "#facs_405",
+      "headers_footers": [
+        "392",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "406": {
+      "id": "img_0406",
+      "facs": "#facs_406",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "393"
+      ]
+    },
+    "407": {
+      "id": "img_0407",
+      "facs": "#facs_407",
+      "headers_footers": [
+        "394",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "408": {
+      "id": "img_0408",
+      "facs": "#facs_408",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "395"
+      ]
+    },
+    "409": {
+      "id": "img_0409",
+      "facs": "#facs_409",
+      "headers_footers": [
+        "396",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "410": {
+      "id": "img_0410",
+      "facs": "#facs_410",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "397"
+      ]
+    },
+    "411": {
+      "id": "img_0411",
+      "facs": "#facs_411",
+      "headers_footers": [
+        "398",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "412": {
+      "id": "img_0412",
+      "facs": "#facs_412",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "399",
+        "Q"
+      ]
+    },
+    "413": {
+      "id": "img_0413",
+      "facs": "#facs_413",
+      "headers_footers": [
+        "400",
+        "LEXICON ALCHEMIAE MART.",
+        "R"
+      ]
+    },
+    "414": {
+      "id": "img_0414",
+      "facs": "#facs_414",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "401"
+      ]
+    },
+    "415": {
+      "id": "img_0415",
+      "facs": "#facs_415",
+      "headers_footers": [
+        "402",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "416": {
+      "id": "img_0416",
+      "facs": "#facs_416",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "403"
+      ]
+    },
+    "417": {
+      "id": "img_0417",
+      "facs": "#facs_417",
+      "headers_footers": [
+        "404",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "418": {
+      "id": "img_0418",
+      "facs": "#facs_418",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "405"
+      ]
+    },
+    "419": {
+      "id": "img_0419",
+      "facs": "#facs_419",
+      "headers_footers": [
+        "406",
+        "LEXICON. ALCHEMIAE MART."
+      ]
+    },
+    "420": {
+      "id": "img_0420",
+      "facs": "#facs_420",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "407"
+      ]
+    },
+    "421": {
+      "id": "img_0421",
+      "facs": "#facs_421",
+      "headers_footers": [
+        "408",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "422": {
+      "id": "img_0422",
+      "facs": "#facs_422",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "409",
+        "S"
+      ]
+    },
+    "423": {
+      "id": "img_0423",
+      "facs": "#facs_423",
+      "headers_footers": [
+        "410",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "424": {
+      "id": "img_0424",
+      "facs": "#facs_424",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "411"
+      ]
+    },
+    "425": {
+      "id": "img_0425",
+      "facs": "#facs_425",
+      "headers_footers": [
+        "412",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "426": {
+      "id": "img_0426",
+      "facs": "#facs_426",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "413"
+      ]
+    },
+    "427": {
+      "id": "img_0427",
+      "facs": "#facs_427",
+      "headers_footers": [
+        "414",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "428": {
+      "id": "img_0428",
+      "facs": "#facs_428",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "415"
+      ]
+    },
+    "429": {
+      "id": "img_0429",
+      "facs": "#facs_429",
+      "headers_footers": [
+        "416",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "430": {
+      "id": "img_0430",
+      "facs": "#facs_430",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "417"
+      ]
+    },
+    "431": {
+      "id": "img_0431",
+      "facs": "#facs_431",
+      "headers_footers": [
+        "418",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "432": {
+      "id": "img_0432",
+      "facs": "#facs_432",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "419"
+      ]
+    },
+    "433": {
+      "id": "img_0433",
+      "facs": "#facs_433",
+      "headers_footers": [
+        "420",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "434": {
+      "id": "img_0434",
+      "facs": "#facs_434",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "421"
+      ]
+    },
+    "435": {
+      "id": "img_0435",
+      "facs": "#facs_435",
+      "headers_footers": [
+        "422",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "436": {
+      "id": "img_0436",
+      "facs": "#facs_436",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "423"
+      ]
+    },
+    "437": {
+      "id": "img_0437",
+      "facs": "#facs_437",
+      "headers_footers": [
+        "424",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "438": {
+      "id": "img_0438",
+      "facs": "#facs_438",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "425"
+      ]
+    },
+    "439": {
+      "id": "img_0439",
+      "facs": "#facs_439",
+      "headers_footers": [
+        "426",
+        "LEXICON. ALCHEMIAE MART."
+      ]
+    },
+    "440": {
+      "id": "img_0440",
+      "facs": "#facs_440",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "427"
+      ]
+    },
+    "441": {
+      "id": "img_0441",
+      "facs": "#facs_441",
+      "headers_footers": [
+        "428",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "443": {
+      "id": "img_0443",
+      "facs": "#facs_443",
+      "headers_footers": [
+        "430",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "444": {
+      "id": "img_0444",
+      "facs": "#facs_444",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "438"
+      ]
+    },
+    "445": {
+      "id": "img_0445",
+      "facs": "#facs_445",
+      "headers_footers": [
+        "324",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "446": {
+      "id": "img_0446",
+      "facs": "#facs_446",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "433"
+      ]
+    },
+    "447": {
+      "id": "img_0447",
+      "facs": "#facs_447",
+      "headers_footers": [
+        "434",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "448": {
+      "id": "img_0448",
+      "facs": "#facs_448",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "435"
+      ]
+    },
+    "449": {
+      "id": "img_0449",
+      "facs": "#facs_449",
+      "headers_footers": [
+        "436",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "450": {
+      "id": "img_0450",
+      "facs": "#facs_450",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "437"
+      ]
+    },
+    "451": {
+      "id": "img_0451",
+      "facs": "#facs_451",
+      "headers_footers": [
+        "438",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "452": {
+      "id": "img_0452",
+      "facs": "#facs_452",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "439"
+      ]
+    },
+    "453": {
+      "id": "img_0453",
+      "facs": "#facs_453",
+      "headers_footers": [
+        "440",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "454": {
+      "id": "img_0454",
+      "facs": "#facs_454",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "441"
+      ]
+    },
+    "455": {
+      "id": "img_0455",
+      "facs": "#facs_455",
+      "headers_footers": [
+        "442",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "456": {
+      "id": "img_0456",
+      "facs": "#facs_456",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "443"
+      ]
+    },
+    "457": {
+      "id": "img_0457",
+      "facs": "#facs_457",
+      "headers_footers": [
+        "444"
+      ]
+    },
+    "458": {
+      "id": "img_0458",
+      "facs": "#facs_458",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "445"
+      ]
+    },
+    "459": {
+      "id": "img_0459",
+      "facs": "#facs_459",
+      "headers_footers": [
+        "446",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "460": {
+      "id": "img_0460",
+      "facs": "#facs_460",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "447"
+      ]
+    },
+    "461": {
+      "id": "img_0461",
+      "facs": "#facs_461",
+      "headers_footers": [
+        "448",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "462": {
+      "id": "img_0462",
+      "facs": "#facs_462",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "449"
+      ]
+    },
+    "463": {
+      "id": "img_0463",
+      "facs": "#facs_463",
+      "headers_footers": [
+        "450",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "464": {
+      "id": "img_0464",
+      "facs": "#facs_464",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "451"
+      ]
+    },
+    "465": {
+      "id": "img_0465",
+      "facs": "#facs_465",
+      "headers_footers": [
+        "452",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "466": {
+      "id": "img_0466",
+      "facs": "#facs_466",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "453"
+      ]
+    },
+    "467": {
+      "id": "img_0467",
+      "facs": "#facs_467",
+      "headers_footers": [
+        "454",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "468": {
+      "id": "img_0468",
+      "facs": "#facs_468",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "455"
+      ]
+    },
+    "469": {
+      "id": "img_0469",
+      "facs": "#facs_469",
+      "headers_footers": [
+        "456",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "470": {
+      "id": "img_0470",
+      "facs": "#facs_470",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "457"
+      ]
+    },
+    "471": {
+      "id": "img_0471",
+      "facs": "#facs_471",
+      "headers_footers": [
+        "458",
+        "RVLANDI PHIL. ET MEDICI."
+      ]
+    },
+    "472": {
+      "id": "img_0472",
+      "facs": "#facs_472",
+      "headers_footers": []
+    },
+    "473": {
+      "id": "img_0473",
+      "facs": "#facs_473",
+      "headers_footers": [
+        "464",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "474": {
+      "id": "img_0474",
+      "facs": "#facs_474",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "461",
+        "T"
+      ]
+    },
+    "475": {
+      "id": "img_0475",
+      "facs": "#facs_475",
+      "headers_footers": [
+        "462",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "476": {
+      "id": "img_0476",
+      "facs": "#facs_476",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "463"
+      ]
+    },
+    "477": {
+      "id": "img_0477",
+      "facs": "#facs_477",
+      "headers_footers": [
+        "464",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "478": {
+      "id": "img_0478",
+      "facs": "#facs_478",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "465"
+      ]
+    },
+    "479": {
+      "id": "img_0479",
+      "facs": "#facs_479",
+      "headers_footers": [
+        "466",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "480": {
+      "id": "img_0480",
+      "facs": "#facs_480",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "467"
+      ]
+    },
+    "481": {
+      "id": "img_0481",
+      "facs": "#facs_481",
+      "headers_footers": [
+        "468",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "482": {
+      "id": "img_0482",
+      "facs": "#facs_482",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "469"
+      ]
+    },
+    "483": {
+      "id": "img_0483",
+      "facs": "#facs_483",
+      "headers_footers": [
+        "470",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "484": {
+      "id": "img_0484",
+      "facs": "#facs_484",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "471"
+      ]
+    },
+    "485": {
+      "id": "img_0485",
+      "facs": "#facs_485",
+      "headers_footers": [
+        "472",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "486": {
+      "id": "img_0486",
+      "facs": "#facs_486",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "473"
+      ]
+    },
+    "487": {
+      "id": "img_0487",
+      "facs": "#facs_487",
+      "headers_footers": [
+        "474",
+        "LEXICON ALCREMIAE MART."
+      ]
+    },
+    "488": {
+      "id": "img_0488",
+      "facs": "#facs_488",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "475"
+      ]
+    },
+    "489": {
+      "id": "img_0489",
+      "facs": "#facs_489",
+      "headers_footers": [
+        "476",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "490": {
+      "id": "img_0490",
+      "facs": "#facs_490",
+      "headers_footers": [
+        "RVLANDI PHILOS. ET MEDICI.",
+        "477"
+      ]
+    },
+    "491": {
+      "id": "img_0491",
+      "facs": "#facs_491",
+      "headers_footers": [
+        "478",
+        "LEXICON ALCHEMIAE MART.",
+        "V"
+      ]
+    },
+    "492": {
+      "id": "img_0492",
+      "facs": "#facs_492",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "479"
+      ]
+    },
+    "493": {
+      "id": "img_0493",
+      "facs": "#facs_493",
+      "headers_footers": [
+        "480",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "494": {
+      "id": "img_0494",
+      "facs": "#facs_494",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "465"
+      ]
+    },
+    "495": {
+      "id": "img_0495",
+      "facs": "#facs_495",
+      "headers_footers": [
+        "466",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "496": {
+      "id": "img_0496",
+      "facs": "#facs_496",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "467"
+      ]
+    },
+    "497": {
+      "id": "img_0497",
+      "facs": "#facs_497",
+      "headers_footers": [
+        "LEXICON ALCHEMIAE MART.",
+        "468",
+        "X"
+      ]
+    },
+    "498": {
+      "id": "img_0498",
+      "facs": "#facs_498",
+      "headers_footers": [
+        "RVLANDI PHIL. ET MEDICI.",
+        "469",
+        "Y",
+        "Z"
+      ]
+    },
+    "499": {
+      "id": "img_0499",
+      "facs": "#facs_499",
+      "headers_footers": [
+        "470",
+        "LEXICON ALCHEMIAE MART."
+      ]
+    },
+    "500": {
+      "id": "img_0500",
+      "facs": "#facs_500",
+      "headers_footers": []
+    },
+    "501": {
+      "id": "img_0501",
+      "facs": "#facs_501",
+      "headers_footers": []
+    },
+    "502": {
+      "id": "img_0502",
+      "facs": "#facs_502",
+      "headers_footers": []
+    },
+    "503": {
+      "id": "img_0503",
+      "facs": "#facs_503",
+      "headers_footers": []
+    },
+    "504": {
+      "id": "img_0504",
+      "facs": "#facs_504",
+      "headers_footers": []
+    },
+    "505": {
+      "id": "img_0505",
+      "facs": "#facs_505",
+      "headers_footers": []
+    },
+    "506": {
+      "id": "img_0506",
+      "facs": "#facs_506",
+      "headers_footers": []
+    },
+    "507": {
+      "id": "img_0507",
+      "facs": "#facs_507",
+      "headers_footers": []
+    }
+  },
+  "letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "V",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "headers_footers": {
+    "unknown": [
+      "LEXICON ALCHEMIAE MARTINI RVLANDI PHIL. ET MEDICI.",
+      "A.",
+      "Alia etiam numerantur aris vel cupri species.",
+      "RVLANDI PHIL. ET MEDICI.",
+      "19",
+      "N 2",
+      "RVLANDI PHIL. ET MEDICI.",
+      "429"
+    ]
+  }
+}

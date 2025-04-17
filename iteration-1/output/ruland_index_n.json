@@ -1,0 +1,430 @@
+[
+  {
+    "id": "Ruland1612-Natiuum-rubeum",
+    "lemma": "Natiuum rubeum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "23"
+  },
+  {
+    "id": "Ruland1612-Nigrum",
+    "lemma": "Nigrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schwartz Kupfferglaß",
+    "page": "24"
+  },
+  {
+    "id": "Ruland1612-NActa",
+    "lemma": "NActa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Brustgeschwar",
+    "page": "355"
+  },
+  {
+    "id": "Ruland1612-Nafda,-sinapta",
+    "lemma": "Nafda, sinapta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "355"
+  },
+  {
+    "id": "Ruland1612-Napellus",
+    "lemma": "Napellus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Wolffswurtz",
+    "page": "355"
+  },
+  {
+    "id": "Ruland1612-Nacda",
+    "lemma": "Nacda",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein Hoger / Gibber",
+    "page": "355"
+  },
+  {
+    "id": "Ruland1612-Napta",
+    "lemma": "Napta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "355"
+  },
+  {
+    "id": "Ruland1612-Napta-alba",
+    "lemma": "Napta alba ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "355"
+  },
+  {
+    "id": "Ruland1612-Naphtha",
+    "lemma": "Naphtha .",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Steinkolen",
+    "page": "355"
+  },
+  {
+    "id": "ruland_nar",
+    "lemma": "Nar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "357"
+  },
+  {
+    "id": "ruland_narbasaphar",
+    "lemma": "Narbasaphar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mosch.",
+    "page": "357"
+  },
+  {
+    "id": "ruland_narcotica_medicamenta_soporifera",
+    "lemma": "Narcotica, medicamenta soporifera ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "was Schmertzen stillet vnd on¬empfindtlich macht",
+    "page": "357"
+  },
+  {
+    "id": "ruland_nardinum_oleum",
+    "lemma": "Nardinum oleum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "also genandt.",
+    "page": "357"
+  },
+  {
+    "id": "ruland_naris",
+    "lemma": "Naris ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Leesse",
+    "page": "357"
+  },
+  {
+    "id": "ruland_nataron",
+    "lemma": "Nataron ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "357"
+  },
+  {
+    "id": "ruland_nebulgea",
+    "lemma": "Nebulgea",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Feuchtigkeit deß Nebelo sich setzent vnd von der Sonnen er¬hartend",
+    "page": "357"
+  },
+  {
+    "id": "ruland_necrocomica",
+    "lemma": "Necrocomica ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sindt anzeigungen¬einer zukuͤnfftigen Sachenffallen auß der Lufftherab ond sind gleich alß ein Vorbluͤhelwie zu Keiser Maximiliani Zeiten, die Kreutzlein waren / so allenthalben hinfielen",
+    "page": "358"
+  },
+  {
+    "id": "ruland_necrolia",
+    "lemma": "Necrolia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "358"
+  },
+  {
+    "id": "ruland_necromantia",
+    "lemma": "Necromantia ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "358"
+  },
+  {
+    "id": "ruland_nenufareni",
+    "lemma": "Nenufareni",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "358"
+  },
+  {
+    "id": "ruland_neutha",
+    "lemma": "Neutha",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Fell ober dem Aug/oder Ohr/oder oder das gantze Angesicht der Kinder ge¬wachsen in der Geburt",
+    "page": "358"
+  },
+  {
+    "id": "ruland_nigella",
+    "lemma": "Nigella ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Retten",
+    "page": "358"
+  },
+  {
+    "id": "ruland_nigromantia",
+    "lemma": "Nigromantia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein natuͤrliche Kunst gewesen / dardurch man die natuͤrliche verborgene Dinge in der Erde hat gesucht¬alß Derckwerck",
+    "page": "358"
+  },
+  {
+    "id": "ruland_nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Salpeter¬Bergsaltz",
+    "page": "358"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "360"
+  },
+  {
+    "id": "Ruland1612-Nitrum-est-lapis-salsus",
+    "lemma": "Nitrum est lapis salsus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "360"
+  },
+  {
+    "id": "Ruland1612-Nitrum-Alexandrinum",
+    "lemma": "Nitrum Alexandrinum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "360"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ist ein Geschlecht Saltzes auch ist es borax, vnd etli her¬ley Geschlecht armeni, etliches schwartz reiliches roth etliches saphirinum.",
+    "page": "360"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Baurach",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Niter",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitrum",
+    "lemma": "Nitrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitron",
+    "lemma": "Nitron ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nitriales",
+    "lemma": "Nitriales",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "alß Schwebel ond Salpeter damit man die Perlein und Edelgesteinen und Corallen calcinirt zu einem Salpeter",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Noas",
+    "lemma": "Noas",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Arabisch Kalcos Geiechischi Aes Lateinisch /Ertz Teutsch.",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Noas",
+    "lemma": "Noas ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nobach",
+    "lemma": "Nobach ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nochat,-nuchat",
+    "lemma": "Nochat, nuchat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nocasit",
+    "lemma": "Nocasit ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nodi-articulorum",
+    "lemma": "Nodi articulorum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Knoren in Gleichen /alß im Podagra",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Noera",
+    "lemma": "Noera ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein Deckel ober ein Distillir Geschir.",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nora",
+    "lemma": "Nora ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nora",
+    "lemma": "Nora ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nora",
+    "lemma": "Nora",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein jedes Saltz.",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nosididach",
+    "lemma": "Nosididach ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nostoch",
+    "lemma": "Nostoch",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sterngeschoß ffaͤllt im Sommer gleich dem Froschlaich gelblecht / etliche wollen es sey das Wachs",
+    "page": "361"
+  },
+  {
+    "id": "Ruland1612-Nuba",
+    "lemma": "Nuba ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nuba",
+    "lemma": "Nuba",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein Geschlecht der manna Rosen¬farbswie es in Irrland faͤllet.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nubar",
+    "lemma": "Nubar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Nuatzlidem.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Numus",
+    "lemma": "Numus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bley /Schwartz.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nuliadat",
+    "lemma": "Nuliadat ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nutrimentum",
+    "lemma": "Nutrimentum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Leibs Nahrung so im Magen durch die Faͤulung gescheiden wirdt.",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nymphae",
+    "lemma": "Nymphae",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Wasser¬fraw im Wasser wohnendt",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nymphidica",
+    "lemma": "Nymphidica ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  },
+  {
+    "id": "Ruland1612-Nysadir,-id-est,-nussiadai,-nestudar",
+    "lemma": "Nysadir, id est, nussiadai, nestudar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "362"
+  }
+]

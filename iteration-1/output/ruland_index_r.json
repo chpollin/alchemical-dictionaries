@@ -1,0 +1,641 @@
+[
+  {
+    "id": "Ruland1612-Rubrum-Mansfeldicun",
+    "lemma": "Rubrum Mansfeldicun",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ge¬diegen Kupffer.",
+    "page": "23"
+  },
+  {
+    "id": "Ruland1612-RAbeboia",
+    "lemma": "RAbeboia",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Wuͤrtvom grossem Hanenfuß.",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Rabira,-Radira",
+    "lemma": "Rabira, Radira ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Rabiel,-Roliel",
+    "lemma": "Rabiel, Roliel ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Drachenblut.",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Rachi-vel-Racho",
+    "lemma": "Rachi vel Racho ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Radix",
+    "lemma": "Radix",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "heist Rettich.",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Racri",
+    "lemma": "Racri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Radius",
+    "lemma": "Radius ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "das Weible / weiß hell.",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Radius-rotae",
+    "lemma": "Radius rotae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Speiche",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Radius",
+    "lemma": "Radius ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Streichholt",
+    "page": "414"
+  },
+  {
+    "id": "Ruland1612-Ragadiae-notae",
+    "lemma": "Ragadiae notae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Geschwuͤr in hin¬dern / in der Muttersond maͤnnlichen Glied¬Rainale, Ein Stein darauß Vzifer gemacht wird.",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Raibx-rus",
+    "lemma": "Raibx rus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Ramigi,-i.-c.-ramigiri",
+    "lemma": "Ramigi, i. c. ramigiri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "rel rotigenig.",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Ramag",
+    "lemma": "Ramag ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Aschen",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Ramenta",
+    "lemma": "Ramenta ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kraͤtze",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rhaponticum",
+    "lemma": "Rhaponticum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "& Der Coͤrper in Wasser vnd schwartz verwande let.",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rama",
+    "lemma": "Rama",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Frosch vnter der Zunge",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Ranac.-10",
+    "lemma": "Ranac. 10",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rasar-vel-rastis",
+    "lemma": "Rasar vel rastis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rastol",
+    "lemma": "Rastol ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rastul",
+    "lemma": "Rastul ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Saltz.",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rasaheti,-rusatagi,-rusangi",
+    "lemma": "Rasaheti, rusatagi, rusangi ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gebrant Ert.",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rastrum",
+    "lemma": "Rastrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Krail",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rastellum-bidens",
+    "lemma": "Rastellum bidens ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bock",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Realgar",
+    "lemma": "Realgar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ruͤstgaͤll",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Realgar",
+    "lemma": "Realgar",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rebis",
+    "lemma": "Rebis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rebis,-id-est,-lapis-rebis",
+    "lemma": "Rebis, id est, lapis rebis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die Haar.",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rebisola",
+    "lemma": "Rebisola",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ist ein arcanum / in der Geelsuchsauß dem Harn/wann man den Harn kocht ond verschaumbt den z. Tag stehen lesti sg finder man das arcanum wie Steinlein",
+    "page": "415"
+  },
+  {
+    "id": "Ruland1612-Rebus",
+    "lemma": "Rebus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "die letzte Matery aller Ding",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Rebolea",
+    "lemma": "Rebolea ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Rebona",
+    "lemma": "Rebona ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "gebranter Menschen oder Kuͤhkoht.",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Recha",
+    "lemma": "Recha ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Marmel",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Rebis",
+    "lemma": "Rebis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Mann vund Weib-Leibond Geist / der erste Theil deß Wercks subtiler reiner Sand / dem Mercurio anhanget zwei¬erley Samen vermenget heisset rebis",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Receptaculum",
+    "lemma": "Receptaculum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Recrementa",
+    "lemma": "Recrementa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schlacken Garschlacken.",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Recrementa-ferri",
+    "lemma": "Recrementa ferri ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sinder",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Rector-machinae",
+    "lemma": "Rector machinae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Hengsiezer",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Redux",
+    "lemma": "Redux ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Reduciren",
+    "lemma": "Reduciren ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "heist trucken machen widerbringen Ferst / als Dui¬ter das fleust wie Wachß. In trincken naͤhren / das heissen sie Wasser auff die duͤrre Erde giessen.",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Rel,-rebus",
+    "lemma": "Rel, rebus ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Sawer Milch",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Relollium",
+    "lemma": "Relollium",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein verborg¬ne zufaͤllige Krafft /als S. Johannes Kraut / ist sein erste Tu¬gend daß es die Wuͤrm vertreibt / das ist relollium, Sein an¬der, daß es warm ist sond heilsam",
+    "page": "416"
+  },
+  {
+    "id": "Ruland1612-Remanere",
+    "lemma": "Remanere",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Seibesbleiben",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Repercussiua",
+    "lemma": "Repercussiua",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "was hinder sich treibet",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Res-effossas",
+    "lemma": "Res effossas",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Bergk zu ruͤck Fürtzen.",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Res-fossilis",
+    "lemma": "Res fossilis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "truͤß Puͤcket im zweyten Grad.",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Resolutio-per-medicinam",
+    "lemma": "Resolutio per medicinam",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Restis",
+    "lemma": "Restis ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Pestener strick.",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Restinctio",
+    "lemma": "Restinctio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Resina",
+    "lemma": "Resina ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "schoͤn gelb Hartz/als Galbanum",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Resina-auri",
+    "lemma": "Resina auri",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Resina-pini",
+    "lemma": "Resina pini ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Danenhartz",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Resina-terrae-sulphur-,-Schwebel-.",
+    "lemma": "Resina terrae sulphur ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Schwebel",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Resina-terrae-potabilis-est-sulphur-sublimatum-in-liquorem,-bal¬samum-vel-oleum-redactum,-Schwefel-in-ein-Safft-oder-Oel-gebracht-.",
+    "lemma": "Resina terrae potabilis",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Schwefel in ein Safft oder Oel gebracht",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Retorta",
+    "lemma": "Retorta",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Reuerberatio",
+    "lemma": "Reuerberatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "417"
+  },
+  {
+    "id": "Ruland1612-Reuerberatio",
+    "lemma": "Reuerberatio",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Reuerberatio-aperta",
+    "lemma": "Reuerberatio aperta",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rex",
+    "lemma": "Rex ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Seel geistlich Wasser / das die Erden befeuchtiget dem Weib / der Fontinen wider gegeben wird, darauß sie gezogen warlist der Spiritus im Wasser / ond ein waͤsseriger Geist.",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Reuerberatorium-furnus",
+    "lemma": "Reuerberatorium furnus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rinar",
+    "lemma": "Rinar ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Feyleten oder Feyl.",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rillus",
+    "lemma": "Rillus",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "ein Inguß",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Robes",
+    "lemma": "Robes ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Als etliche woͤllen so ist robes Saturnus.",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Ron",
+    "lemma": "Ron ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rosa",
+    "lemma": "Rosa ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rosea",
+    "lemma": "Rosea ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rothlauffen die schoͤne.",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rota",
+    "lemma": "Rota",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rotaetheca",
+    "lemma": "Rotaetheca ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Radschube",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rotae",
+    "lemma": "Rotae ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Koͤrbscheiben",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rotumha",
+    "lemma": "Rotumha ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Ein Geschire gleich einer Cucurbit.",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rub",
+    "lemma": "Rub",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Safft der biß auff die Dicke ab geko¬chet wirdt",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rubedo-de-nigro-,-i.-e.-id-est-de-talco-nigro,-die-außgezogene-Roͤthe-auß-dem-schwartzen-Kalck.",
+    "lemma": "Rubedo de nigro",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "die außgezogene Roͤthe auß dem schwartzen Kalck.",
+    "page": "418"
+  },
+  {
+    "id": "Ruland1612-Rubeum-aurum-falsum-,-cuprum-tinctum,-Soldfarb-Kupffer-von-Alchimisten-gemacht-.",
+    "lemma": "Rubeum aurum falsum ,",
+    "lemma_type": "phrase",
+    "source": "ruland",
+    "translation": "Soldfarb Kupffer von Alchimisten gemacht",
+    "page": "419"
+  },
+  {
+    "id": "Ruland1612-Rubigo",
+    "lemma": "Rubigo ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rost heiset im andern Werck hirudo, ein suͤsse Galliond wird auß Gold gemacht.",
+    "page": "419"
+  },
+  {
+    "id": "Ruland1612-Rubrica-sinopica",
+    "lemma": "Rubrica sinopica ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "419"
+  },
+  {
+    "id": "Ruland1612-Rubrica-fabrilis",
+    "lemma": "Rubrica fabrilis",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rottell Roͤttelstein wie die Zimmerkent vnd Steinmetzen brauchensa",
+    "page": "420"
+  },
+  {
+    "id": "Ruland1612-Rubrica",
+    "lemma": "Rubrica",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "page": "421"
+  },
+  {
+    "id": "Ruland1612-Rutabulum",
+    "lemma": "Rutabulum",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Rhuͤrbacke",
+    "page": "421"
+  },
+  {
+    "id": "Ruland1612-Rutabulum",
+    "lemma": "Rutabulum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Schurffstange",
+    "page": "421"
+  },
+  {
+    "id": "Ruland1612-Rutum",
+    "lemma": "Rutum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kraß",
+    "page": "421"
+  },
+  {
+    "id": "Ruland1612-Rutrum",
+    "lemma": "Rutrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Krucke /Kruckeisen",
+    "page": "422"
+  },
+  {
+    "id": "Ruland1612-Rutrum",
+    "lemma": "Rutrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Reit Kratze.",
+    "page": "422"
+  },
+  {
+    "id": "Ruland1612-Rutrum",
+    "lemma": "Rutrum ,",
+    "lemma_type": "lemma",
+    "source": "ruland",
+    "translation": "Kiste",
+    "page": "422"
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "id": "Ægag",
+    "lemma": "Ægagropila",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ægei",
+    "lemma": "Ægeirinon,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ægid",
+    "lemma": "Ægidion",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ægle",
+    "lemma": "Ægleuces,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ægoc",
+    "lemma": "Ægoceros,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "variants": [
+      "Bucerus,",
+      "Ceraitis,",
+      "Telis"
+    ],
+    "german": "Bockshorn oderKüͤhehorn-Saamen .",
+    "page": "30"
+  },
+  {
+    "id": "Ægol",
+    "lemma": "Ægolethron Gesneri",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ægop",
+    "lemma": "Ægoprosopon",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ægyp",
+    "lemma": "Ægyption",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ælur",
+    "lemma": "Æluropus",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Katzenzodten .",
+    "page": "30"
+  },
+  {
+    "id": "Æone",
+    "lemma": "Æonesis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Æque",
+    "lemma": "Æque,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Æreo",
+    "lemma": "Æreolum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Æris_c",
+    "lemma": "Æris Crystalli",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gruͤnspan-Blumen .",
+    "page": "30"
+  },
+  {
+    "id": "Æris_s",
+    "lemma": "Æris squama",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Æris_sq",
+    "lemma": "Æris squamatamus,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Kessel-braun/ oder Kupffer-braun .",
+    "page": "30"
+  },
+  {
+    "id": "Æris_v_c_s",
+    "lemma": "Æris vel Cupri species",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ærom",
+    "lemma": "Æromeli &",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "variants": [
+      "Drosomeli"
+    ],
+    "page": "30"
+  },
+  {
+    "id": "Ærugi",
+    "lemma": "Æruginis species",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "30"
+  },
+  {
+    "id": "Ærugo_a",
+    "lemma": "Ærugo aeris",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "symbols": [
+      "verdigris",
+      "verdigris-2",
+      "verdigris-3",
+      "verdigris-4"
+    ],
+    "page": "30"
+  },
+  {
+    "id": "Ærugo_p",
+    "lemma": "Ærugo",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "symbols": [
+      "white-lead"
+    ],
+    "page": "30"
+  },
+  {
+    "id": "Ærugo_r",
+    "lemma": "Ærugo rasilis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "variants": [
+      "Prasium Viriae"
+    ],
+    "german": "Gruͤnspan .",
+    "page": "30"
+  },
+  {
+    "id": "Æs",
+    "lemma": "Æs,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "variants": [
+      "Cuprum"
+    ],
+    "symbols": [
+      "copper",
+      "gold",
+      "silver",
+      "gold",
+      "silver",
+      "gold",
+      "silver",
+      "gold",
+      "silver",
+      "iron",
+      "copper",
+      "copper-2",
+      "copper-3",
+      "copper-4",
+      "copper-5",
+      "copper-6",
+      "copper-7"
+    ],
+    "page": "30"
+  },
+  {
+    "id": "Æs_d",
+    "lemma": "Æs destillatum",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Gruͤnspan Crystallen",
+    "symbols": [
+      "verdigris-crystals",
+      "rock-salt",
+      "tutty"
+    ],
+    "page": "31"
+  },
+  {
+    "id": "Æs_h",
+    "lemma": "Æs Hermetis,",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "symbols": [
+      "mercury",
+      "powder",
+      "gold",
+      "gold",
+      "vitriol",
+      "auripigment",
+      "arsenic",
+      "water"
+    ],
+    "page": "31"
+  },
+  {
+    "id": "Æs_u",
+    "lemma": "Æs ustum.",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "gebrandt Kupffer / aliquando ex aere ipso cremato, Sulphure & Sole conficitur, laudatur potissimum Cypriacum & Memphiticum vel est Crocus ♀ris, ⚲ Par. L. 5. de natura rerum. pag. 420 . Sign. ☍, ♀stum, ♀, ⋻, 🜠.",
+    "symbols": [
+      "venus",
+      "crocus-veneris",
+      "burnt-copper",
+      "burnt-copper-2",
+      "vinegar-9",
+      "burnt-copper-3",
+      "burnt-copper-4"
+    ],
+    "page": "31"
+  },
+  {
+    "id": "Æsta",
+    "lemma": "Æstas",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "der Sommer",
+    "symbols": [
+      "summer",
+      "summer-2",
+      "summer-3"
+    ],
+    "page": "31"
+  },
+  {
+    "id": "Ætha",
+    "lemma": "Æthale",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Ruß",
+    "symbols": [
+      "soot-2"
+    ],
+    "page": "31"
+  },
+  {
+    "id": "Æthe",
+    "lemma": "Æther",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "page": "31"
+  },
+  {
+    "id": "Æthi",
+    "lemma": "Æthiops mineralis",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "symbols": [
+      "powder"
+    ],
+    "page": "31"
+  },
+  {
+    "id": "Ætit",
+    "lemma": "Ætites",
+    "lemma_type": "lemma",
+    "source": "sommerhoff",
+    "german": "Adlerstein .",
+    "page": "31"
+  }
+]
