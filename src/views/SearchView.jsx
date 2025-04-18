@@ -1,170 +1,181 @@
-/* Alchemical‑Dictionaries – SearchView (rev 3)
-   -------------------------------------------
-   Overview → filter → detail UI:
-     • summary bar with counts
-     • filter chips (source + has‑symbol)
-     • grouped results, badge shows dictionary
+/* Alchemical‑Dictionaries – SearchView
+   ------------------------------------
+   v0.4  · 2025‑04‑18
+     • encodes id in <Link>   → no more 404 on entries with '/' in id
+     • filter chips: by source, “has symbol”, “German gloss present”
+     • minimal console debug logging
 */
-import { useEffect, useState, useMemo } from 'react';
-import { Link } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import DataStore from '../lib/dataStore.js';
 
-export default function SearchView () {
-  const [ready, setReady]       = useState(false);
-  const [q, setQ]               = useState('');
-  const [rawHits, setRawHits]   = useState([]);
-
-  /* filter state */
-  const [showRuland,     setShowRuland]   = useState(true);
-  const [showSommerhoff, setShowSommer]   = useState(true);
-  const [onlySymbol,     setOnlySymbol]   = useState(false);
-
-  /* ---------- load corpus once --------------------------------------- */
-  useEffect(() => { DataStore.ready().then(() => setReady(true)); }, []);
-
-  /* ---------- run search (debounced) --------------------------------- */
-  useEffect(() => {
-    if (!ready) return;
-    const t = setTimeout(() => {
-      setRawHits(q.trim() ? DataStore.search(q, { limit: 200 }) : []);
-    }, 250);
-    return () => clearTimeout(t);
-  }, [q, ready]);
-
-  /* ---------- apply filters & compute summary ------------------------ */
-  const { hits, summary } = useMemo(() => {
-    let list = rawHits.filter(rec => {
-      if (onlySymbol && rec.symbols.length === 0) return false;
-      if (!showRuland     && rec.source === 'ruland')      return false;
-      if (!showSommerhoff && rec.source === 'sommerhoff')  return false;
-      return true;
-    });
-
-    const counts = {
-      total:        list.length,
-      ruland:       list.filter(r => r.source === 'ruland').length,
-      sommerhoff:   list.filter(r => r.source === 'sommerhoff').length,
-      withSymbol:   list.filter(r => r.symbols.length).length
-    };
-    return { hits: list, summary: counts };
-  }, [rawHits, showRuland, showSommerhoff, onlySymbol]);
-
-  if (!ready) return <p>Loading corpus…</p>;
-
-  /* ---------- UI ----------------------------------------------------- */
+/* ––––– helper for small rounded chips ––––– */
+function Chip({ active, children, onClick }) {
   return (
-    <div style={{ maxWidth: 860 }}>
-      {/* query box */}
+    <button
+      onClick={onClick}
+      style={{
+        border: 0,
+        padding: '0 0.6rem',
+        marginRight: '0.4rem',
+        borderRadius: '999px',
+        fontSize: '0.75rem',
+        lineHeight: '1.6rem',
+        cursor: 'pointer',
+        background: active ? '#333' : '#ddd',
+        color: active ? '#fff' : '#000'
+      }}
+    >
+      {children}
+    </button>
+  );
+}
+
+export default function SearchView() {
+  const location   = useLocation();
+  const navigate   = useNavigate();
+  const params     = new URLSearchParams(location.search);
+  const [ready, setReady] = useState(false);
+
+  /* --- local state ---------------------------------------------------- */
+  const [q,   setQ]   = useState(params.get('q') ?? '');
+  const [srcR, setR ] = useState(params.get('ruland')     !== '0'); // default on
+  const [srcS, setS ] = useState(params.get('sommerhoff') !== '0');
+  const [hasSym,setHS] = useState(params.get('sym') === '1');
+  const [hasDE, setDE] = useState(params.get('de')  === '1');
+
+  const [hits, setHits] = useState([]);
+
+  /* --- load DataStore ------------------------------------------------- */
+  useEffect(() => {
+    DataStore.ready().then(() => setReady(true));
+  }, []);
+
+  /* --- perform search whenever q or filters change ------------------- */
+  useEffect(() => {
+    if (!ready || !q.trim()) { setHits([]); return; }
+
+    /* write params to URL */
+    const p = new URLSearchParams();
+    p.set('q', q);
+    if (!srcR) p.set('ruland', '0');
+    if (!srcS) p.set('sommerhoff', '0');
+    if (hasSym) p.set('sym', '1');
+    if (hasDE)  p.set('de',  '1');
+    navigate({ search: p.toString() }, { replace: true });
+
+    /* run Lunr */
+    const raw = DataStore.search(q, { limit: 200 });
+    const filtered = raw.filter(r =>
+      ((srcR && r.source === 'ruland')     || (srcS && r.source === 'sommerhoff')) &&
+      (!hasSym || r.symbols.length > 0) &&
+      (!hasDE  || r.translations_lang === 'de')
+    );
+    console.debug('[Search] ', q, '→', filtered.length, 'hits');
+    setHits(filtered);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ready, q, srcR, srcS, hasSym, hasDE]);
+
+  /* --- group hits by source ------------------------------------------ */
+  const grouped = hits.reduce((acc, h) => {
+    (acc[h.source] = acc[h.source] || []).push(h);
+    return acc;
+  }, {});
+
+  return (
+    <div style={{ maxWidth: 900 }}>
+      {/* search box ------------------------------------------------------ */}
       <input
-        autoFocus
-        placeholder="Search lemma, variant, translation…"
+        type="search"
+        placeholder="Search"
         value={q}
+        autoFocus
         onChange={e => setQ(e.target.value)}
-        style={styles.input}
+        style={{ width: '100%', fontSize: '1rem', padding: '0.4rem 0.6rem', marginBottom: '0.5rem' }}
       />
 
-      {/* filters */}
-      <div style={styles.filters}>
-        <Chip active={showRuland}     onClick={() => setShowRuland(!showRuland)}     label={`Ruland (1612)`} />
-        <Chip active={showSommerhoff} onClick={() => setShowSommer(!showSommerhoff)} label={`Sommerhoff (1701)`} />
-        <Chip active={onlySymbol}     onClick={() => setOnlySymbol(!onlySymbol)}     label="has symbol" />
+      {/* chips / filters ------------------------------------------------- */}
+      <div style={{ marginBottom: '0.75rem' }}>
+        <Chip active={srcR} onClick={() => setR(!srcR)}>Ruland (1612)</Chip>
+        <Chip active={srcS} onClick={() => setS(!srcS)}>Sommerhoff (1701)</Chip>
+        <Chip active={hasSym} onClick={() => setHS(!hasSym)}>has symbol</Chip>
+        <Chip active={hasDE}  onClick={() => setDE(!hasDE)}>German gloss</Chip>
       </div>
 
-      {/* summary */}
-      {q.trim() && (
-        <p style={styles.meta}>
-          {summary.total} hit{summary.total !== 1 && 's'}
-          {' · '}Ruland {summary.ruland}
-          {' · '}Sommerhoff {summary.sommerhoff}
-          {' · '}with symbol {summary.withSymbol}
+      {/* result counts --------------------------------------------------- */}
+      {q && (
+        <p style={{ fontSize: '0.85rem', color: '#666', marginBottom: '1rem' }}>
+          {hits.length} hit{hits.length !== 1 && 's'}
+          &nbsp;· Ruland {grouped.ruland?.length ?? 0}
+          &nbsp;· Sommerhoff {grouped.sommerhoff?.length ?? 0}
+          {hasSym && ' · with symbol'}
         </p>
       )}
 
-      {/* grouped list */}
-      {['ruland', 'sommerhoff'].map(src => {
-        const group = hits.filter(h => h.source === src);
-        if (group.length === 0) return null;
-        return (
-          <section key={src} style={{ marginBottom: '1.5rem' }}>
-            <h3 style={styles.groupHdr}>
-              {src === 'ruland' ? 'Ruland 1612' : 'Sommerhoff 1701'} 
-              <span style={styles.countBadge}>{group.length}</span>
+      {/* results list ---------------------------------------------------- */}
+      {['ruland', 'sommerhoff'].map(src => (
+        grouped[src]?.length ? (
+          <section key={src} style={{ marginBottom: '1.25rem' }}>
+            <h3 style={{ margin: '0.4rem 0' }}>
+              {src === 'ruland' ? 'Ruland 1612' : 'Sommerhoff 1701'}
+              <Badge count={grouped[src].length}/>
             </h3>
-            <ul style={styles.list}>
-              {group.map(rec => (
-                <li key={rec.id} style={styles.item}>
+            <ul style={{ listStyle: 'none', padding: 0 }}>
+              {grouped[src].map(rec => (
+                <li key={rec.id} style={rowStyle}>
+                  <span style={pillStyle(src)}>{src === 'ruland' ? 'R' : 'S'}</span>
                   <Link
-                    to={`/entry/${rec.id}`}
+                    to={`/entry/${encodeURIComponent(rec.id)}`}
                     state={{ from: { pathname: '/search', q } }}
-                    style={{ textDecoration: 'none', color: 'inherit' }}
+                    style={linkStyle}
                   >
-                    <span style={{ ...styles.sourceBadge, background: src === 'ruland' ? '#9c27b0' : '#2196f3' }}>
-                      {src === 'ruland' ? 'R' : 'S'}
+                    {console.debug('[Search] link →', encodeURIComponent(rec.id))}
+                    <strong>{rec.lemma === '⚠︎missing' ? '[no lemma]' : rec.lemma}</strong>
+                    {rec.definition && ' — '}
+                    <span style={{ color: '#00695c' }}>
+                      {(rec.definition || rec.translations?.[0] || '').slice(0, 90)}…
                     </span>
-                    <span style={styles.lemma}>{rec.lemma}</span>
-                    {rec.variants.length > 0 && (
-                      <span style={styles.variants}> · {rec.variants.slice(0, 3).join(', ')}{rec.variants.length > 3 && '…'}</span>
-                    )}
-                    {rec.translations.length > 0 && (
-                      <span style={styles.trans}> — {rec.translations[0]}{rec.translations.length > 1 && '…'}</span>
-                    )}
                   </Link>
                 </li>
               ))}
             </ul>
           </section>
-        );
-      })}
+        ) : null
+      ))}
     </div>
   );
 }
 
-/* ---------- tiny Chip component ------------------------------------- */
-function Chip({ active, onClick, label }) {
+/* --- tiny inline helpers --------------------------------------------- */
+function Badge({ count }) {
   return (
-    <button
-      onClick={onClick}
-      style={{
-        padding: '0 0.6rem',
-        borderRadius: 16,
-        border: '1px solid #888',
-        background: active ? '#444' : '#eee',
-        color: active ? '#fff' : '#222',
-        cursor: 'pointer',
-        fontSize: '0.85rem'
-      }}
-    >
-      {label}
-    </button>
+    <span style={{
+      background: '#222', color: '#fff',
+      borderRadius: '999px', padding: '0 0.35rem',
+      fontSize: '0.7rem', marginLeft: '0.35rem'
+    }}>
+      {count}
+    </span>
   );
 }
 
-/* ---------- styles --------------------------------------------------- */
-const styles = {
-  input: {
-    width: '100%', padding: '0.5rem 0.75rem',
-    fontSize: '1rem', borderRadius: 4,
-    border: '1px solid #bbb', marginBottom: '0.75rem'
-  },
-  filters: { display: 'flex', gap: '0.5rem', marginBottom: '0.5rem' },
-  meta: { color: '#555', margin: 0, marginBottom: '0.75rem' },
-  groupHdr: { margin: '1rem 0 0.25rem 0', fontSize: '1rem' },
-  countBadge: {
-    background: '#666', color: '#fff', borderRadius: 12,
-    padding: '0 0.5rem', fontSize: '0.8rem'
-  },
-  list: { listStyle: 'none', padding: 0, margin: 0 },
-  item: {
-    padding: '0.45rem 0',
-    borderBottom: '1px solid #eee'
-  },
-  sourceBadge: {
-    display: 'inline-block',
-    width: 18, height: 18, lineHeight: '18px',
-    borderRadius: '50%', textAlign: 'center',
-    fontSize: '0.7rem', color: '#fff', marginRight: 6
-  },
-  lemma: { fontWeight: 600 },
-  variants:{ color: '#555' },
-  trans:  { color: '#287' }
+const rowStyle = {
+  display: 'flex',
+  alignItems: 'baseline',
+  gap: '0.5rem',
+  padding: '0.15rem 0'
 };
+
+const pillStyle = src => ({
+  display: 'inline-block',
+  width: 18,
+  height: 18,
+  lineHeight: '18px',
+  textAlign: 'center',
+  borderRadius: '50%',
+  fontSize: '0.7rem',
+  color: '#fff',
+  background: src === 'ruland' ? '#8e24aa' : '#1565c0'
+});
+
+const linkStyle = { textDecoration: 'none', color: '#000' };
